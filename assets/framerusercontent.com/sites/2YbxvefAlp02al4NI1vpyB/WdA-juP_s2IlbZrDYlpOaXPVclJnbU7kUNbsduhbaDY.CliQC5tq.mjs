@@ -1,2 +1,11289 @@
-import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";import{A as t,F as n,L as r,M as i,N as a,O as o,P as s,S as c,T as l,_ as u,c as d,g as f,j as p,k as ee,l as m,o as h,s as g,v as te,w as _,y as v,z as y}from"./react.DwDJOhmk.mjs";import{I as ne,N as re,R as b,S as x,U as S,a as C,h as w,r as ie,t as T}from"./motion.ClIzWdXQ.mjs";import{C as E,D,F as O,H as k,I as A,L as j,O as ae,S as M,Y as oe,a as se,at as ce,b as N,c as le,ct as P,dt as F,et as ue,ft as I,g as L,gt as de,ht as fe,it as pe,k as R,lt as me,mt as z,n as B,o as he,ot as V,p as ge,r as H,rt as _e,s as ve,st as ye,t as U,tt as W,u as G,ut as be,v as xe,vt as K,w as q,x as Se,y as Ce}from"./framer.C_LViZYJ.mjs";import{C as we,D as Te,E as Ee,O as De,S as Oe,T as ke,_ as J,b as Ae,d as je,f as Me,g as Ne,h as Pe,l as Fe,m as Ie,o as Le,p as Re,s as ze,u as Be,v as Ve,w as He,x as Ue,y as We}from"./shared-lib.KSjyA0rH.mjs";var Ge,Ke,qe,Je,Ye,Xe,Ze,Qe=e((()=>{h(),k(),_(),Ge=`var(--framer-icon-mask)`,Ke=f(function(e,t){return d(`svg`,{...e,ref:t,children:e.children})}),qe=x.create(Ke),Je=f((e,t)=>{let{animated:n,layoutId:r,children:i,...a}=e;return n?d(qe,{...a,layoutId:r,ref:t,children:i}):d(`svg`,{...a,ref:t,children:i})}),Ye=`<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 3.219 12.531 C 2.927 12.823 2.452 12.823 2.159 12.531 L 0.219 10.594 C -0.073 10.301 -0.073 9.826 0.219 9.533 L 9.75 0 L 12.75 3 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="12.750121135182852px" id="j7F9eATIt" transform="translate(3.75 7.5)" width="12.750121135182845px"/><path d="M 0 0 L 0 4.5" fill="transparent" height="4.5px" id="EwXSFjRWF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(20.25 12)" width="1px"/><path d="M 0 0 L 4.5 0" fill="transparent" height="1px" id="IxyJCRneD" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(18 14.25)" width="4.5px"/><path d="M 0 0 L 0 4.5" fill="transparent" height="4.5px" id="fb2SSJzMG" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(7.5 3.75)" width="1px"/><path d="M 0 0 L 4.5 0" fill="transparent" height="1px" id="pRt523Exm" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(5.25 6)" width="4.5px"/><path d="M 0 0 L 0 3" fill="transparent" height="3px" id="q3ZLfGMEM" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(15.75 17.25)" width="1px"/><path d="M 0 0 L 3 0" fill="transparent" height="1px" id="a_9ziShXc" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(14.25 18.75)" width="3px"/><path d="M 0 0 L 3 3" fill="transparent" height="3px" id="QAKTKbG2r" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(13.5 7.5)" width="3px"/><path d="M 3.219 16.28 C 2.926 16.573 2.452 16.573 2.159 16.28 L 0.22 14.341 C -0.073 14.048 -0.073 13.573 0.22 13.28 L 13.28 0.22 C 13.573 -0.073 14.048 -0.073 14.341 0.22 L 16.28 2.159 C 16.573 2.452 16.573 2.926 16.28 3.219 Z" fill="transparent" height="16.499723566788763px" id="TeDoblWGg" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.75 3.75)" width="16.49972356678876px"/></svg>`,Xe=({alpha:e,color:t,height:n,id:r,width:i,width1:a,...o})=>({...o,ezTt3ayMo:t??o.ezTt3ayMo??`rgb(0, 0, 0)`,lschgej4H:a??o.lschgej4H??1.5,qxTvv_EBh:e??o.qxTvv_EBh}),Ze=I(f(function(e,t){let{style:n,className:r,layoutId:i,variant:a,ezTt3ayMo:o,lschgej4H:s,qxTvv_EBh:c,...l}=Xe(e),u=be(`3574803054`,Ye);return d(Je,{...l,className:D(`framer-Tdsgv`,r),layoutId:i,ref:t,role:`presentation`,style:{"--1m6trwb":c,"--21h8s6":o,"--pgex8v":s,...n},viewBox:`0 0 24 24`,children:d(`use`,{href:u})})}),[`.framer-Tdsgv { -webkit-mask: ${Ge}; aspect-ratio: 1; display: block; mask: ${Ge}; width: 24px; }`],`framer-Tdsgv`),Ze.displayName=`Magic Wand`,q(Ze,{ezTt3ayMo:{defaultValue:`rgb(0, 0, 0)`,hidden:!1,title:`Color`,type:H.Color},lschgej4H:{defaultValue:1.5,displayStepper:!0,hidden:!1,max:6,min:0,step:.5,title:`Width`,type:H.Number},qxTvv_EBh:{defaultValue:0,displayStepper:!0,hidden:!1,max:1,min:0,step:.1,title:`Alpha`,type:H.Number}})})),$e,et,tt,nt,rt,it,at,ot=e((()=>{h(),k(),_(),$e=`var(--framer-icon-mask)`,et=f(function(e,t){return d(`svg`,{...e,ref:t,children:e.children})}),tt=x.create(et),nt=f((e,t)=>{let{animated:n,layoutId:r,children:i,...a}=e;return n?d(tt,{...a,layoutId:r,ref:t,children:i}):d(`svg`,{...a,ref:t,children:i})}),rt=`<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 14.625 10.5 L 14.625 4.875 C 14.625 2.183 12.442 0 9.75 0 L 0 0 C 2.692 0 4.875 2.183 4.875 4.875 L 4.875 11.25 L 13.875 11.25 C 14.289 11.25 14.625 10.914 14.625 10.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="11.25px" id="D0jzwGI1H" transform="translate(7.125 6)" width="14.625px"/><path d="M 3.75 0 L 0 0" fill="transparent" height="1px" id="NiowuuEcr" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(5.25 14.25)" width="3.75px"/><path d="M 0 11.25 L 0 0 L 3 0" fill="transparent" height="11.25px" id="Z5QRfk5L5" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(15 2.25)" width="3px"/><path d="M 14.625 10.5 L 14.625 4.875 C 14.625 2.183 12.442 0 9.75 0 L 0 0 C 2.692 0 4.875 2.183 4.875 4.875 L 4.875 11.25 L 13.875 11.25 C 14.289 11.25 14.625 10.914 14.625 10.5 Z" fill="transparent" height="11.25px" id="DWd5EYzCL" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(7.125 6)" width="14.625px"/><path d="M 9.75 15 L 9.75 11.25 L 0.75 11.25 C 0.336 11.25 0 10.914 0 10.5 L 0 4.875 C 0 2.183 2.183 0 4.875 0" fill="transparent" height="15px" id="k8D_pjglW" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(2.25 6)" width="9.75px"/></svg>`,it=({alpha:e,color:t,height:n,id:r,width:i,width1:a,...o})=>({...o,ezTt3ayMo:t??o.ezTt3ayMo??`rgb(0, 0, 0)`,lschgej4H:a??o.lschgej4H??1.5,qxTvv_EBh:e??o.qxTvv_EBh}),at=I(f(function(e,t){let{style:n,className:r,layoutId:i,variant:a,ezTt3ayMo:o,lschgej4H:s,qxTvv_EBh:c,...l}=it(e),u=be(`698867343`,rt);return d(nt,{...l,className:D(`framer-6A5g9`,r),layoutId:i,ref:t,role:`presentation`,style:{"--1m6trwb":c,"--21h8s6":o,"--pgex8v":s,...n},viewBox:`0 0 24 24`,children:d(`use`,{href:u})})}),[`.framer-6A5g9 { -webkit-mask: ${$e}; aspect-ratio: 1; display: block; mask: ${$e}; width: 24px; }`],`framer-6A5g9`),at.displayName=`Mailbox`,q(at,{ezTt3ayMo:{defaultValue:`rgb(0, 0, 0)`,hidden:!1,title:`Color`,type:H.Color},lschgej4H:{defaultValue:1.5,displayStepper:!0,hidden:!1,max:6,min:0,step:.5,title:`Width`,type:H.Number},qxTvv_EBh:{defaultValue:0,displayStepper:!0,hidden:!1,max:1,min:0,step:.1,title:`Alpha`,type:H.Number}})})),st,ct,lt,ut,dt,ft,pt,mt=e((()=>{h(),k(),_(),st=`var(--framer-icon-mask)`,ct=f(function(e,t){return d(`svg`,{...e,ref:t,children:e.children})}),lt=x.create(ct),ut=f((e,t)=>{let{animated:n,layoutId:r,children:i,...a}=e;return n?d(lt,{...a,layoutId:r,ref:t,children:i}):d(`svg`,{...a,ref:t,children:i})}),dt=`<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0 5.25 L 0 9 C 0 9.414 0.336 9.75 0.75 9.75 L 9.789 9.75 L 13.5 12.75 L 13.5 0.75 C 13.5 0.336 13.164 0 12.75 0 L 9 0 L 9 4.5 C 9 4.914 8.664 5.25 8.25 5.25 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="12.75px" id="iwto7RSa_" transform="translate(7.5 8.25)" width="13.5px"/><path d="M 3.711 9.75 L 0 12.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 12.75 0 C 13.164 0 13.5 0.336 13.5 0.75 L 13.5 9 C 13.5 9.414 13.164 9.75 12.75 9.75 Z" fill="transparent" height="12.75px" id="EBWh6IZId" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3 3.75)" width="13.5px"/><path d="M 0 5.25 L 0 9 C 0 9.414 0.336 9.75 0.75 9.75 L 9.789 9.75 L 13.5 12.75 L 13.5 0.75 C 13.5 0.336 13.164 0 12.75 0 L 9 0" fill="transparent" height="12.75px" id="yCWG4bwZa" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(7.5 8.25)" width="13.5px"/></svg>`,ft=({alpha:e,color:t,height:n,id:r,width:i,width1:a,...o})=>({...o,ezTt3ayMo:t??o.ezTt3ayMo??`rgb(0, 0, 0)`,lschgej4H:a??o.lschgej4H??1.5,qxTvv_EBh:e??o.qxTvv_EBh}),pt=I(f(function(e,t){let{style:n,className:r,layoutId:i,variant:a,ezTt3ayMo:o,lschgej4H:s,qxTvv_EBh:c,...l}=ft(e),u=be(`1380799810`,dt);return d(ut,{...l,className:D(`framer-I3Kmg`,r),layoutId:i,ref:t,role:`presentation`,style:{"--1m6trwb":c,"--21h8s6":o,"--pgex8v":s,...n},viewBox:`0 0 24 24`,children:d(`use`,{href:u})})}),[`.framer-I3Kmg { -webkit-mask: ${st}; aspect-ratio: 1; display: block; mask: ${st}; width: 24px; }`],`framer-I3Kmg`),pt.displayName=`Chats`,q(pt,{ezTt3ayMo:{defaultValue:`rgb(0, 0, 0)`,hidden:!1,title:`Color`,type:H.Color},lschgej4H:{defaultValue:1.5,displayStepper:!0,hidden:!1,max:6,min:0,step:.5,title:`Width`,type:H.Number},qxTvv_EBh:{defaultValue:0,displayStepper:!0,hidden:!1,max:1,min:0,step:.1,title:`Alpha`,type:H.Number}})})),ht,gt,_t,vt,yt,bt,xt,St=e((()=>{h(),k(),_(),ht=`var(--framer-icon-mask)`,gt=f(function(e,t){return d(`svg`,{...e,ref:t,children:e.children})}),_t=x.create(gt),vt=f((e,t)=>{let{animated:n,layoutId:r,children:i,...a}=e;return n?d(_t,{...a,layoutId:r,ref:t,children:i}):d(`svg`,{...a,ref:t,children:i})}),yt=`<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0 3.75 C 0 1.679 1.679 0 3.75 0 C 5.821 0 7.5 1.679 7.5 3.75 C 7.5 5.821 5.821 7.5 3.75 7.5 C 1.679 7.5 0 5.821 0 3.75 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="7.5px" id="v7J1zbXd9" transform="translate(8.25 9.75)" width="7.5px"/><path d="M 0 3 C 0 1.343 1.343 0 3 0 C 4.657 0 6 1.343 6 3 C 6 4.657 4.657 6 3 6 C 1.343 6 0 4.657 0 3 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="6px" id="OQhSWABIT" transform="translate(3 5.25)" width="6px"/><path d="M 0 3 C 0 1.343 1.343 0 3 0 C 4.657 0 6 1.343 6 3 C 6 4.657 4.657 6 3 6 C 1.343 6 0 4.657 0 3 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="6px" id="wFzBlJVd9" transform="translate(15 5.25)" width="6px"/><path d="M 0 0 C 1.771 -0.001 3.439 0.833 4.5 2.25" fill="transparent" height="2.2500015894396626px" id="E2sSkoOrF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(18 11.25)" width="4.5px"/><path d="M 0 2.25 C 1.061 0.833 2.729 -0.001 4.5 0" fill="transparent" height="2.250001589439634px" id="j9wFqcU3O" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(1.5 11.25)" width="4.5px"/><path d="M 0 3.75 C 0 1.679 1.679 0 3.75 0 C 5.821 0 7.5 1.679 7.5 3.75 C 7.5 5.821 5.821 7.5 3.75 7.5 C 1.679 7.5 0 5.821 0 3.75 Z" fill="transparent" height="7.5px" id="FPPQexDBA" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(8.25 9.75)" width="7.5px"/><path d="M 0 3 C 1.095 1.141 3.092 0 5.25 0 C 7.408 0 9.405 1.141 10.5 3" fill="transparent" height="3px" id="IAUbz8XxS" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(6.75 17.25)" width="10.5px"/><path d="M 0 2.25 C 0.39 0.741 1.87 -0.218 3.407 0.043 C 4.944 0.304 6.025 1.698 5.894 3.252 C 5.764 4.805 4.465 6 2.906 6" fill="transparent" height="6.000369122093474px" id="ZCi3_szKp" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(15.094 5.25)" width="5.904871228321724px"/><path d="M 2.999 6 C 1.44 6 0.141 4.805 0.011 3.252 C -0.12 1.698 0.961 0.304 2.498 0.043 C 4.034 -0.218 5.515 0.741 5.905 2.25" fill="transparent" height="6.000369122093474px" id="R5Ppmpsk_" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.001 5.25)" width="5.904871228321742px"/></svg>`,bt=({alpha:e,color:t,height:n,id:r,width:i,width1:a,...o})=>({...o,ezTt3ayMo:t??o.ezTt3ayMo??`rgb(0, 0, 0)`,lschgej4H:a??o.lschgej4H??1.5,qxTvv_EBh:e??o.qxTvv_EBh}),xt=I(f(function(e,t){let{style:n,className:r,layoutId:i,variant:a,ezTt3ayMo:o,lschgej4H:s,qxTvv_EBh:c,...l}=bt(e),u=be(`535953797`,yt);return d(vt,{...l,className:D(`framer-1qsf5`,r),layoutId:i,ref:t,role:`presentation`,style:{"--1m6trwb":c,"--21h8s6":o,"--pgex8v":s,...n},viewBox:`0 0 24 24`,children:d(`use`,{href:u})})}),[`.framer-1qsf5 { -webkit-mask: ${ht}; aspect-ratio: 1; display: block; mask: ${ht}; width: 24px; }`],`framer-1qsf5`),xt.displayName=`Users Three`,q(xt,{ezTt3ayMo:{defaultValue:`rgb(0, 0, 0)`,hidden:!1,title:`Color`,type:H.Color},lschgej4H:{defaultValue:1.5,displayStepper:!0,hidden:!1,max:6,min:0,step:.5,title:`Width`,type:H.Number},qxTvv_EBh:{defaultValue:0,displayStepper:!0,hidden:!1,max:1,min:0,step:.1,title:`Alpha`,type:H.Number}})})),Ct,wt,Tt,Et,Dt,Ot,kt,At=e((()=>{h(),k(),_(),Ct=`var(--framer-icon-mask)`,wt=f(function(e,t){return d(`svg`,{...e,ref:t,children:e.children})}),Tt=x.create(wt),Et=f((e,t)=>{let{animated:n,layoutId:r,children:i,...a}=e;return n?d(Tt,{...a,layoutId:r,ref:t,children:i}):d(`svg`,{...a,ref:t,children:i})}),Dt=`<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 6.369 9.906 L 9.724 11.924 C 9.899 12.032 10.123 12.025 10.29 11.905 C 10.458 11.785 10.537 11.576 10.492 11.375 L 9.579 7.607 L 12.564 5.087 C 12.721 4.955 12.782 4.74 12.719 4.545 C 12.656 4.35 12.48 4.213 12.276 4.198 L 8.358 3.888 L 6.848 0.312 C 6.767 0.123 6.58 0 6.374 0 C 6.168 0 5.981 0.123 5.9 0.312 L 4.39 3.888 L 0.472 4.198 C 0.267 4.211 0.09 4.348 0.025 4.543 C -0.039 4.739 0.022 4.954 0.179 5.087 L 3.164 7.607 L 2.244 11.375 C 2.199 11.576 2.278 11.785 2.446 11.905 C 2.613 12.025 2.837 12.032 3.012 11.924 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="12.000188038477893px" id="h2RVElj7m" transform="translate(9.006 2.25)" width="12.743701791581444px"/><path d="M 6.369 9.906 L 9.724 11.924 C 9.899 12.032 10.123 12.025 10.29 11.905 C 10.458 11.785 10.537 11.576 10.492 11.375 L 9.579 7.607 L 12.564 5.087 C 12.721 4.955 12.782 4.74 12.719 4.545 C 12.656 4.35 12.48 4.213 12.276 4.198 L 8.358 3.888 L 6.848 0.312 C 6.767 0.123 6.58 0 6.374 0 C 6.168 0 5.981 0.123 5.9 0.312 L 4.39 3.888 L 0.472 4.198 C 0.267 4.211 0.09 4.348 0.025 4.543 C -0.039 4.739 0.022 4.954 0.179 5.087 L 3.164 7.607 L 2.244 11.375 C 2.199 11.576 2.278 11.785 2.446 11.905 C 2.613 12.025 2.837 12.032 3.012 11.924 Z" fill="transparent" height="12.000188038477893px" id="Omd1xueOI" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(9.006 2.25)" width="12.743701791581444px"/><path d="M 5.48 0 L 0 5.48" fill="transparent" height="5.479687499999997px" id="zIKXnFQZL" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(2.25 11.02)" width="5.479687499999997px"/><path d="M 4.993 0 L 0 4.993" fill="transparent" height="4.993124999999992px" id="lv4E4uZ0o" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.75 16.757)" width="4.993124999999999px"/><path d="M 5.089 0 L 0 5.089" fill="transparent" height="5.0887500000000045px" id="pTxkkoSCS" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(10.5 16.661)" width="5.0887500000000045px"/></svg>`,Ot=({alpha:e,color:t,height:n,id:r,width:i,width1:a,...o})=>({...o,ezTt3ayMo:t??o.ezTt3ayMo??`rgb(0, 0, 0)`,lschgej4H:a??o.lschgej4H??1.5,qxTvv_EBh:e??o.qxTvv_EBh}),kt=I(f(function(e,t){let{style:n,className:r,layoutId:i,variant:a,ezTt3ayMo:o,lschgej4H:s,qxTvv_EBh:c,...l}=Ot(e),u=be(`1724523750`,Dt);return d(Et,{...l,className:D(`framer-XN4Gz`,r),layoutId:i,ref:t,role:`presentation`,style:{"--1m6trwb":c,"--21h8s6":o,"--pgex8v":s,...n},viewBox:`0 0 24 24`,children:d(`use`,{href:u})})}),[`.framer-XN4Gz { -webkit-mask: ${Ct}; aspect-ratio: 1; display: block; mask: ${Ct}; width: 24px; }`],`framer-XN4Gz`),kt.displayName=`Shooting Star`,q(kt,{ezTt3ayMo:{defaultValue:`rgb(0, 0, 0)`,hidden:!1,title:`Color`,type:H.Color},lschgej4H:{defaultValue:1.5,displayStepper:!0,hidden:!1,max:6,min:0,step:.5,title:`Width`,type:H.Number},qxTvv_EBh:{defaultValue:0,displayStepper:!0,hidden:!1,max:1,min:0,step:.1,title:`Alpha`,type:H.Number}})})),jt,Mt,Nt,Pt,Ft,It,Lt,Rt=e((()=>{h(),k(),_(),jt=`var(--framer-icon-mask)`,Mt=f(function(e,t){return d(`svg`,{...e,ref:t,children:e.children})}),Nt=x.create(Mt),Pt=f((e,t)=>{let{animated:n,layoutId:r,children:i,...a}=e;return n?d(Nt,{...a,layoutId:r,ref:t,children:i}):d(`svg`,{...a,ref:t,children:i})}),Ft=`<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="4.5px" id="TYyewX54X" transform="translate(9.75 3)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="4.5px" id="tSysXh4tU" transform="translate(3.75 15.75)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="4.5px" id="oxj48obc5" transform="translate(15.75 15.75)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill="transparent" height="4.5px" id="FKyYNuu8A" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(9.75 3)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill="transparent" height="4.5px" id="v8tBiAo3p" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.75 15.75)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill="transparent" height="4.5px" id="UuKHO8YaS" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(15.75 15.75)" width="4.5px"/><path d="M 0 0 L 0 3.75" fill="transparent" height="3.75px" id="hdp8vL8lr" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(12 7.5)" width="1px"/><path d="M 0 0 L 0 4.5" fill="transparent" height="4.5px" id="Y_F3wwsnK" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(18 11.25)" width="1px"/><path d="M 0 4.5 L 0 0" fill="transparent" height="4.5px" id="oN5PzTx6l" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(6 11.25)" width="1px"/><path d="M 0 0 L 19.5 0" fill="transparent" height="1px" id="lfAxdpWNJ" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(2.25 11.25)" width="19.5px"/></svg>`,It=({alpha:e,color:t,height:n,id:r,width:i,width1:a,...o})=>({...o,ezTt3ayMo:t??o.ezTt3ayMo??`rgb(0, 0, 0)`,lschgej4H:a??o.lschgej4H??1.5,qxTvv_EBh:e??o.qxTvv_EBh}),Lt=I(f(function(e,t){let{style:n,className:r,layoutId:i,variant:a,ezTt3ayMo:o,lschgej4H:s,qxTvv_EBh:c,...l}=It(e),u=be(`3581018432`,Ft);return d(Pt,{...l,className:D(`framer-XFxeT`,r),layoutId:i,ref:t,role:`presentation`,style:{"--1m6trwb":c,"--21h8s6":o,"--pgex8v":s,...n},viewBox:`0 0 24 24`,children:d(`use`,{href:u})})}),[`.framer-XFxeT { -webkit-mask: ${jt}; aspect-ratio: 1; display: block; mask: ${jt}; width: 24px; }`],`framer-XFxeT`),Lt.displayName=`Network`,q(Lt,{ezTt3ayMo:{defaultValue:`rgb(0, 0, 0)`,hidden:!1,title:`Color`,type:H.Color},lschgej4H:{defaultValue:1.5,displayStepper:!0,hidden:!1,max:6,min:0,step:.5,title:`Width`,type:H.Number},qxTvv_EBh:{defaultValue:0,displayStepper:!0,hidden:!1,max:1,min:0,step:.1,title:`Alpha`,type:H.Number}})})),zt,Bt,Vt,Ht,Ut,Wt,Gt,Kt,qt,Jt=e((()=>{h(),k(),T(),_(),zt=`framer-oYcwK`,Bt={Dq6Z1DtZe:`framer-v-1q0qmzs`},Vt={bounce:.2,delay:0,duration:.4,type:`spring`},Ht=e=>typeof e==`object`&&e&&typeof e.src==`string`?e:typeof e==`string`?{src:e}:void 0,Ut=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},Wt=x.create(s),Gt=({height:e,id:t,image:n,width:r,...i})=>({...i,WFI793zsA:n??i.WFI793zsA??{alt:``,pixelHeight:673,pixelWidth:1200,src:`https://framerusercontent.com/images/CkU2bj29wkAZ9dAKqcubEFbnwl0.png?width=1200&height=673`,srcSet:`https://framerusercontent.com/images/CkU2bj29wkAZ9dAKqcubEFbnwl0.png?scale-down-to=512&width=1200&height=673 512w,https://framerusercontent.com/images/CkU2bj29wkAZ9dAKqcubEFbnwl0.png?scale-down-to=1024&width=1200&height=673 1024w,https://framerusercontent.com/images/CkU2bj29wkAZ9dAKqcubEFbnwl0.png?width=1200&height=673 1200w`}}),Kt=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),qt=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:s}=V(),c=W(),{style:l,className:u,layoutId:f,variant:p,WFI793zsA:ee,...m}=Gt(e),{baseVariant:h,classNames:g,clearLoadingGesture:_,gestureHandlers:v,gestureVariant:y,isLoading:ne,setGestureState:re,setVariant:b,variants:S}=F({defaultVariant:`Dq6Z1DtZe`,ref:r,variant:p,variantClassNames:Bt}),C=Kt(e,S),w=D(zt);return d(ie,{id:f??i,children:d(Wt,{animate:S,initial:!1,children:d(Ut,{value:Vt,children:d(x.div,{...m,...v,className:D(w,`framer-1q0qmzs`,u,g),"data-framer-name":`Variant 1`,layoutDependency:C,layoutId:`Dq6Z1DtZe`,ref:r,style:{...l},children:d(G,{background:{alt:``,fit:`fill`,intrinsicHeight:673,intrinsicWidth:1200,loading:j((c?.y||0)+0+0),pixelHeight:673,pixelWidth:1200,sizes:c?.width||`100vw`,...Ht(ee)},className:`framer-155s954`,layoutDependency:C,layoutId:`yxcSir6Gf`,style:{borderBottomLeftRadius:20,borderBottomRightRadius:20,borderTopLeftRadius:20,borderTopRightRadius:20}})})})})})}),[`.framer-oYcwK.framer-18wi6xd, .framer-oYcwK .framer-18wi6xd { display: block; }`,`.framer-oYcwK.framer-1q0qmzs { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 365px; }`,`.framer-oYcwK .framer-155s954 { flex: none; height: 406px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }`],`framer-oYcwK`),qt.displayName=`Team Card`,qt.defaultProps={height:406,width:365},q(qt,{WFI793zsA:{__defaultAssetReference:`data:framer/asset-reference,CkU2bj29wkAZ9dAKqcubEFbnwl0.png?originalFilename=Professional+Portrait+%2819%29.png&width=1200&height=673`,__vekterDefault:{alt:``,assetReference:`data:framer/asset-reference,CkU2bj29wkAZ9dAKqcubEFbnwl0.png?originalFilename=Professional+Portrait+%2819%29.png&width=1200&height=673`},title:`Image`,type:H.ResponsiveImage}}),E(qt,[{explicitInter:!0,fonts:[]}],{supportsExplicitInterCodegen:!0})})),Yt,Xt,Zt,Qt,$t,en,tn,nn=e((()=>{h(),k(),_(),Yt=`var(--framer-icon-mask)`,Xt=f(function(e,t){return d(`svg`,{...e,ref:t,children:e.children})}),Zt=x.create(Xt),Qt=f((e,t)=>{let{animated:n,layoutId:r,children:i,...a}=e;return n?d(Zt,{...a,layoutId:r,ref:t,children:i}):d(`svg`,{...a,ref:t,children:i})}),$t=`<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 18 0 L 1.5 0 C 0.672 0 0 0.672 0 1.5 L 0 15 C 0 15.828 0.672 16.5 1.5 16.5 L 18 16.5 C 18.828 16.5 19.5 15.828 19.5 15 L 19.5 1.5 C 19.5 0.672 18.828 0 18 0 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="16.5px" id="CcIDqS4bW" transform="translate(2.25 3.75)" width="19.5px"/><path d="M 0 5.25 L 3.75 9 L 12.75 0" fill="transparent" height="9px" id="txP0X4MiU" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(6 7.5)" width="12.75px"/></svg>`,en=({alpha:e,color:t,height:n,id:r,width:i,width1:a,...o})=>({...o,ezTt3ayMo:t??o.ezTt3ayMo??`rgb(0, 0, 0)`,lschgej4H:a??o.lschgej4H??1.5,qxTvv_EBh:e??o.qxTvv_EBh}),tn=I(f(function(e,t){let{style:n,className:r,layoutId:i,variant:a,ezTt3ayMo:o,lschgej4H:s,qxTvv_EBh:c,...l}=en(e),u=be(`4119102008`,$t);return d(Qt,{...l,className:D(`framer-uMwCf`,r),layoutId:i,ref:t,role:`presentation`,style:{"--1m6trwb":c,"--21h8s6":o,"--pgex8v":s,...n},viewBox:`0 0 24 24`,children:d(`use`,{href:u})})}),[`.framer-uMwCf { -webkit-mask: ${Yt}; aspect-ratio: 1; display: block; mask: ${Yt}; width: 24px; }`],`framer-uMwCf`),tn.displayName=`Check`,q(tn,{ezTt3ayMo:{defaultValue:`rgb(0, 0, 0)`,hidden:!1,title:`Color`,type:H.Color},lschgej4H:{defaultValue:1.5,displayStepper:!0,hidden:!1,max:6,min:0,step:.5,title:`Width`,type:H.Number},qxTvv_EBh:{defaultValue:0,displayStepper:!0,hidden:!1,max:1,min:0,step:.1,title:`Alpha`,type:H.Number}})})),rn,an,on,sn=e((()=>{k(),ae.loadFonts([`FS;Manrope-medium`,`FS;Manrope-bold`]),rn=[{explicitInter:!0,fonts:[{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,weight:`500`},{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,weight:`700`}]}],an=[`.framer-LrBCg .framer-styles-preset-hd4366:not(.rich-text-wrapper), .framer-LrBCg .framer-styles-preset-hd4366.rich-text-wrapper h3 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 30px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,`@media (max-width: 1199px) and (min-width: 810px) { .framer-LrBCg .framer-styles-preset-hd4366:not(.rich-text-wrapper), .framer-LrBCg .framer-styles-preset-hd4366.rich-text-wrapper h3 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 26px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,`@media (max-width: 809px) and (min-width: 0px) { .framer-LrBCg .framer-styles-preset-hd4366:not(.rich-text-wrapper), .framer-LrBCg .framer-styles-preset-hd4366.rich-text-wrapper h3 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 20px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`],on=`framer-LrBCg`})),cn,ln,un,dn,fn,pn,mn,hn,gn,_n=e((()=>{h(),k(),T(),_(),nn(),He(),cn=O(tn),ln=`framer-Ze0f1`,un={rew3LmuLS:`framer-v-8ephw9`},dn={bounce:.2,delay:0,duration:.4,type:`spring`},fn=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},pn=x.create(s),mn=({height:e,id:t,text:n,width:r,...i})=>({...i,iDOo60bu2:n??i.iDOo60bu2??`Brand Strategy`}),hn=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),gn=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:c}=V();W();let{style:l,className:u,layoutId:f,variant:p,iDOo60bu2:ee,...h}=mn(e),{baseVariant:g,classNames:_,clearLoadingGesture:v,gestureHandlers:y,gestureVariant:ne,isLoading:re,setGestureState:b,setVariant:S,variants:C}=F({defaultVariant:`rew3LmuLS`,ref:r,variant:p,variantClassNames:un}),w=hn(e,C),T=D(ln,Ue);return d(ie,{id:f??i,children:d(pn,{animate:C,initial:!1,children:d(fn,{value:dn,children:m(x.div,{...h,...y,className:D(T,`framer-8ephw9`,u,_),"data-framer-name":`Variant 1`,layoutDependency:w,layoutId:`rew3LmuLS`,ref:r,style:{...l},children:[d(x.div,{className:`framer-651w1p`,"data-framer-name":`Icon`,layoutDependency:w,layoutId:`GJpdyRou1`,children:d(tn,{animated:!0,className:`framer-mw345c`,layoutDependency:w,layoutId:`dofd9zHpv`,style:{"--1m6trwb":0,"--21h8s6":`var(--token-fd8a9d2f-2c30-47ff-bef1-7fed157e3858, rgb(0, 0, 0))`,"--pgex8v":1.5}})}),d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.p,{className:`framer-styles-preset-5np2z3`,"data-styles-preset":`rhST_ZvFU`,dir:`auto`,children:`Brand Strategy`})}),className:`framer-2iyi03`,fonts:[`Inter`],layoutDependency:w,layoutId:`waz3tt2iL`,text:ee,verticalAlignment:`top`,withExternalLayout:!0})]})})})})}),[`@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,`.framer-Ze0f1.framer-1hg3c12, .framer-Ze0f1 .framer-1hg3c12 { display: block; }`,`.framer-Ze0f1.framer-8ephw9 { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 4px 0px 4px 0px; position: relative; width: 618px; }`,`.framer-Ze0f1 .framer-651w1p { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 20px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 20px; }`,`.framer-Ze0f1 .framer-mw345c { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 24px); position: relative; width: 24px; }`,`.framer-Ze0f1 .framer-2iyi03 { flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,...Oe],`framer-Ze0f1`),gn.displayName=`Case Studies Item`,gn.defaultProps={height:34,width:618},q(gn,{iDOo60bu2:{defaultValue:`Brand Strategy`,displayTextArea:!1,title:`Text`,type:H.String},oniDOo60bu2Change:{changes:`iDOo60bu2`,type:H.ChangeHandler}}),E(gn,[{explicitInter:!0,fonts:[{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,weight:`400`}]},...cn,...A(we)],{supportsExplicitInterCodegen:!0})}));function vn(e,...t){let n={};return t?.forEach(t=>t&&Object.assign(n,e[t])),n}var yn,bn,xn,Sn,Cn,wn,Tn,En,Dn,On,kn,An,jn,Mn,Nn,Pn,Fn=e((()=>{h(),k(),T(),_(),nn(),sn(),De(),Ve(),_n(),Ie(),yn=O(J),bn=O(gn),xn=O(Re),Sn=[`wj2dm3W7j`,`r5RqauV5e`,`RrXfwTyVq`],Cn=`framer-MY88N`,wn={r5RqauV5e:`framer-v-ryuo6`,RrXfwTyVq:`framer-v-1troao2`,wj2dm3W7j:`framer-v-147dpq`},Tn={bounce:.2,delay:0,duration:.4,type:`spring`},En=e=>typeof e==`object`&&e&&typeof e.src==`string`?e:typeof e==`string`?{src:e}:void 0,Dn=(...e)=>{for(let t of e)if(t&&typeof t==`string`)return t},On=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},kn={Desktop:`wj2dm3W7j`,Mobile:`RrXfwTyVq`,Tablet:`r5RqauV5e`},An=x.create(s),jn=(e,t)=>{let[r,i]=n(e),[a,o]=n(e);return t?[e,t]:(e!==a&&(i(e),o(e)),[r,i])},Mn=({description:e,height:t,id:n,image:r,tagText1:i,tagText2:a,text2:o,text3:s,text4:c,title:l,width:u,...d})=>({...d,AdjLfLWcf:e??d.AdjLfLWcf??`Designed a scalable growth strategy that cut operational costs, accelerated revenue growth and positioned the business for long-term market leadership.`,dxkF5smpr:a??d.dxkF5smpr??`Growth Consulting`,fbpfDv_8V:i??d.fbpfDv_8V??`Business Strategy`,K2mGH1Qc3:o??d.K2mGH1Qc3??`Maior visibilidade das informações`,kVzBBKvN0:r??d.kVzBBKvN0??{pixelHeight:1200,pixelWidth:900,positionX:`63.5%`,positionY:`10.2%`,src:`https://framerusercontent.com/images/tqobcXrysrymorr2FT7tDFbE.png?width=900&height=1200`,srcSet:`https://framerusercontent.com/images/tqobcXrysrymorr2FT7tDFbE.png?scale-down-to=1024&width=900&height=1200 768w,https://framerusercontent.com/images/tqobcXrysrymorr2FT7tDFbE.png?width=900&height=1200 900w`},PFm4ndQ5W:l??d.PFm4ndQ5W??`Scalable Growth Strategy`,SbZp6oq7O:c??d.SbZp6oq7O??`Processos centralizados e integrados`,Uh7dbRDQE:s??d.Uh7dbRDQE??`Gestão orientada por dados`,variant:kn[d.variant]??d.variant??`wj2dm3W7j`}),Nn=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),Pn=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:c}=V(),l=W(),{style:u,className:f,layoutId:p,variant:ee,kVzBBKvN0:h,PFm4ndQ5W:g,AdjLfLWcf:_,fbpfDv_8V:v,onfbpfDv_8VChange:y,dxkF5smpr:ne,ondxkF5smprChange:re,K2mGH1Qc3:b,onK2mGH1Qc3Change:S,Uh7dbRDQE:C,onUh7dbRDQEChange:w,SbZp6oq7O:T,onSbZp6oq7OChange:E,...O}=Mn(e),[k,A]=jn(v,y),[ae,oe]=jn(ne,re),[se,ce]=jn(b,S),[le,P]=jn(C,w),[ue,I]=jn(T,E),{baseVariant:L,classNames:de,clearLoadingGesture:fe,gestureHandlers:pe,gestureVariant:R,isLoading:z,setGestureState:B,setVariant:he,variants:ge}=F({cycleOrder:Sn,defaultVariant:`wj2dm3W7j`,ref:r,variant:ee,variantClassNames:wn}),H=Nn(e,ge),_e=D(Cn,on,ke);return me(),d(ie,{id:p??i,children:d(An,{animate:ge,initial:!1,children:d(On,{value:Tn,children:m(x.div,{...O,...pe,className:D(_e,`framer-147dpq`,f,de),"data-border":!0,"data-framer-name":`Desktop`,layoutDependency:H,layoutId:`wj2dm3W7j`,ref:r,style:{"--border-bottom-width":`3px`,"--border-color":`var(--token-53a2a340-4072-4522-b360-8d845b010dc6, rgba(224, 224, 224, 0.85))`,"--border-left-width":`3px`,"--border-right-width":`3px`,"--border-style":`solid`,"--border-top-width":`3px`,backdropFilter:`blur(60px)`,backgroundColor:`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,borderBottomLeftRadius:20,borderBottomRightRadius:20,borderTopLeftRadius:20,borderTopRightRadius:20,boxShadow:`0px 8px 38px 0px rgba(255, 255, 255, 0.36)`,WebkitBackdropFilter:`blur(60px)`,...u},...vn({r5RqauV5e:{"data-framer-name":`Tablet`},RrXfwTyVq:{"data-framer-name":`Mobile`}},L,R),children:[d(G,{as:`figure`,background:{alt:``,fit:`fill`,intrinsicHeight:800,intrinsicWidth:1200,loading:j((l?.y||0)+(32+((l?.height||612)-64-548)/2)),pixelHeight:1200,pixelWidth:900,sizes:`max((${l?.width||`100vw`} - 112px) / 2, 1px)`,...En(h)},className:`framer-anvz7a`,layoutDependency:H,layoutId:`gZbNeHPdm`,style:{borderBottomLeftRadius:16,borderBottomRightRadius:16,borderTopLeftRadius:16,borderTopRightRadius:16},...vn({r5RqauV5e:{background:{alt:``,fit:`fill`,intrinsicHeight:800,intrinsicWidth:1200,loading:j((l?.y||0)+20+(((l?.height||1253)-80-1229)/2+0+0)),pixelHeight:1200,pixelWidth:900,sizes:`calc(${l?.width||`100vw`} - 40px)`,...En(h)}},RrXfwTyVq:{background:{alt:``,fit:`fill`,intrinsicHeight:800,intrinsicWidth:1200,loading:j((l?.y||0)+12+(((l?.height||1075)-52-986)/2+0+0)),pixelHeight:1200,pixelWidth:900,sizes:`calc(${l?.width||`100vw`} - 24px)`,...En(h)}}},L,R)}),m(x.div,{className:`framer-ovzgza`,"data-framer-name":`Container`,layoutDependency:H,layoutId:`hschZ6oaI`,children:[m(x.div,{className:`framer-7d7shx`,"data-framer-name":`Content`,layoutDependency:H,layoutId:`LWAqpwRL1`,children:[m(x.div,{className:`framer-1j5f91y`,"data-framer-name":`Heading`,layoutDependency:H,layoutId:`EqX24yspQ`,children:[d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.h3,{className:`framer-styles-preset-hd4366`,"data-styles-preset":`ExWszoMVd`,dir:`auto`,children:`Scalable Growth Strategy`})}),className:`framer-1dbfgog`,fonts:[`Inter`],layoutDependency:H,layoutId:`N13quUfn6`,style:{"--framer-link-text-color":`rgb(0, 153, 255)`,"--framer-link-text-decoration":`underline`},text:g,verticalAlignment:`top`,withExternalLayout:!0}),d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.p,{className:`framer-styles-preset-4wrmj6`,"data-styles-preset":`hvYWBRe5U`,dir:`auto`,children:`Designed a scalable growth strategy that cut operational costs, accelerated revenue growth and positioned the business for long-term market leadership.`})}),className:`framer-1lsogyh`,fonts:[`Inter`],layoutDependency:H,layoutId:`kqPFfuQOp`,style:{"--framer-link-text-color":`rgb(0, 153, 255)`,"--framer-link-text-decoration":`underline`},text:_,verticalAlignment:`top`,withExternalLayout:!0})]}),m(x.div,{className:`framer-1sw8f4i`,"data-framer-name":`Tags`,layoutDependency:H,layoutId:`YdNmUpu5R`,children:[d(U,{height:36,y:(l?.y||0)+(32+((l?.height||612)-64-((l?.height||612)-64)*1)/2)+0+(0+(((l?.height||612)-64)*1-0-492)/1*0)+0+230+0,...vn({r5RqauV5e:{y:(l?.y||0)+20+(((l?.height||1253)-80-1229)/2+617+48)+0+0+0+230+0},RrXfwTyVq:{y:(l?.y||0)+12+(((l?.height||1075)-52-986)/2+330+32)+0+0+0+230+0+0}},L,R),children:d(M,{className:`framer-18dm5qs-container`,"data-framer-name":`Case Studies Tags`,layoutDependency:H,layoutId:`cuXvAA_Uq-container`,name:`Case Studies Tags`,nodeId:`cuXvAA_Uq`,rendersWithMotion:!0,scopeId:`HWcB7c7OD`,children:d(J,{BIDMndvd0:0,cQI9DamX9:{borderColor:`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, rgb(25, 25, 28))`,height:`100%`,id:`cuXvAA_Uq`,KeoHf_ARU:`var(--token-5160940c-7a55-4fef-a054-52acec2a328c, rgb(237, 237, 237))`,layoutId:`cuXvAA_Uq`,name:`Case Studies Tags`,onzljOAbP0zChange:A,tjj7UTgn4:`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,vbKoFf7Q0:!1,w5XGjIP2H:tn,width:`100%`,zljOAbP0z:k})})}),d(U,{height:36,y:(l?.y||0)+(32+((l?.height||612)-64-((l?.height||612)-64)*1)/2)+0+(0+(((l?.height||612)-64)*1-0-492)/1*0)+0+230+0,...vn({r5RqauV5e:{y:(l?.y||0)+20+(((l?.height||1253)-80-1229)/2+617+48)+0+0+0+230+0},RrXfwTyVq:{y:(l?.y||0)+12+(((l?.height||1075)-52-986)/2+330+32)+0+0+0+230+0+60}},L,R),children:d(M,{className:`framer-w3yo05-container`,"data-framer-name":`Case Studies Tags`,layoutDependency:H,layoutId:`RmW3noGTG-container`,name:`Case Studies Tags`,nodeId:`RmW3noGTG`,rendersWithMotion:!0,scopeId:`HWcB7c7OD`,children:d(J,{BIDMndvd0:0,cQI9DamX9:{borderColor:`rgba(255, 122, 13, 0)`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`rgb(0, 0, 0)`,height:`100%`,id:`RmW3noGTG`,KeoHf_ARU:`var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, rgb(25, 25, 28))`,layoutId:`RmW3noGTG`,name:`Case Studies Tags`,onzljOAbP0zChange:oe,tjj7UTgn4:`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,vbKoFf7Q0:!1,w5XGjIP2H:tn,width:`100%`,zljOAbP0z:ae})})})]}),m(x.div,{className:`framer-1xqfl55`,"data-framer-name":`Stats`,layoutDependency:H,layoutId:`vvgXqouEi`,children:[d(U,{height:34,width:`max((${l?.width||`100vw`} - 112px) / 2, 1px)`,y:(l?.y||0)+(32+((l?.height||612)-64-((l?.height||612)-64)*1)/2)+0+(0+(((l?.height||612)-64)*1-0-492)/1*0)+0+298+0+0,...vn({r5RqauV5e:{width:`calc(${l?.width||`100vw`} - 40px)`,y:(l?.y||0)+20+(((l?.height||1253)-80-1229)/2+617+48)+0+0+0+298+0+0},RrXfwTyVq:{width:`calc(${l?.width||`100vw`} - 24px)`,y:(l?.y||0)+12+(((l?.height||1075)-52-986)/2+330+32)+0+0+0+358+0+0}},L,R),children:d(M,{className:`framer-qy2shc-container`,layoutDependency:H,layoutId:`fLv9qUKdj-container`,nodeId:`fLv9qUKdj`,rendersWithMotion:!0,scopeId:`HWcB7c7OD`,children:d(gn,{height:`100%`,id:`fLv9qUKdj`,iDOo60bu2:ue,layoutId:`fLv9qUKdj`,oniDOo60bu2Change:I,style:{width:`100%`},width:`100%`})})}),d(U,{height:34,width:`max((${l?.width||`100vw`} - 112px) / 2, 1px)`,y:(l?.y||0)+(32+((l?.height||612)-64-((l?.height||612)-64)*1)/2)+0+(0+(((l?.height||612)-64)*1-0-492)/1*0)+0+298+0+52,...vn({r5RqauV5e:{width:`calc(${l?.width||`100vw`} - 40px)`,y:(l?.y||0)+20+(((l?.height||1253)-80-1229)/2+617+48)+0+0+0+298+0+52},RrXfwTyVq:{width:`calc(${l?.width||`100vw`} - 24px)`,y:(l?.y||0)+12+(((l?.height||1075)-52-986)/2+330+32)+0+0+0+358+0+52}},L,R),children:d(M,{className:`framer-c9cr5j-container`,layoutDependency:H,layoutId:`ZatDr0l5i-container`,nodeId:`ZatDr0l5i`,rendersWithMotion:!0,scopeId:`HWcB7c7OD`,children:d(gn,{height:`100%`,id:`ZatDr0l5i`,iDOo60bu2:se,layoutId:`ZatDr0l5i`,oniDOo60bu2Change:ce,style:{width:`100%`},width:`100%`})})}),d(U,{height:34,width:`max((${l?.width||`100vw`} - 112px) / 2, 1px)`,y:(l?.y||0)+(32+((l?.height||612)-64-((l?.height||612)-64)*1)/2)+0+(0+(((l?.height||612)-64)*1-0-492)/1*0)+0+298+0+104,...vn({r5RqauV5e:{width:`calc(${l?.width||`100vw`} - 40px)`,y:(l?.y||0)+20+(((l?.height||1253)-80-1229)/2+617+48)+0+0+0+298+0+104},RrXfwTyVq:{width:`calc(${l?.width||`100vw`} - 24px)`,y:(l?.y||0)+12+(((l?.height||1075)-52-986)/2+330+32)+0+0+0+358+0+104}},L,R),children:d(M,{className:`framer-1in03c8-container`,layoutDependency:H,layoutId:`O5UuqHX0L-container`,nodeId:`O5UuqHX0L`,rendersWithMotion:!0,scopeId:`HWcB7c7OD`,children:d(gn,{height:`100%`,id:`O5UuqHX0L`,iDOo60bu2:le,layoutId:`O5UuqHX0L`,oniDOo60bu2Change:P,style:{width:`100%`},width:`100%`})})})]})]}),d(Ce,{links:[{href:{hash:`:n0VZEt7a2`,webPageId:`augiA20Il`},implicitPathVariables:void 0},{href:{hash:`:n0VZEt7a2`,webPageId:`augiA20Il`},implicitPathVariables:void 0},{href:{hash:`:n0VZEt7a2`,webPageId:`augiA20Il`},implicitPathVariables:void 0}],children:e=>d(U,{height:56,y:(l?.y||0)+(32+((l?.height||612)-64-((l?.height||612)-64)*1)/2)+0+(436+(((l?.height||612)-64)*1-0-492)/1*1),...vn({r5RqauV5e:{y:(l?.y||0)+20+(((l?.height||1253)-80-1229)/2+617+48)+0+508},RrXfwTyVq:{y:(l?.y||0)+12+(((l?.height||1075)-52-986)/2+330+32)+0+568}},L,R),children:d(M,{className:`framer-14lqldv-container`,layoutDependency:H,layoutId:`o8nsXGo3h-container`,nodeId:`o8nsXGo3h`,rendersWithMotion:!0,scopeId:`HWcB7c7OD`,children:d(Re,{height:`100%`,id:`o8nsXGo3h`,jP8RsU_1U:!0,layoutId:`o8nsXGo3h`,m5Kn0Xy2t:!0,PAOhNXCgW:e[0],variant:Dn(`yY4SeqekG`),width:`100%`,wpG4pFYzq:`8px 8px 8px 22px`,yOvxaJE3O:`Fale com um especialista`,...vn({r5RqauV5e:{PAOhNXCgW:e[1]},RrXfwTyVq:{PAOhNXCgW:e[2]}},L,R)})})})})]})]})})})})}),[`.framer-MY88N.framer-1m57yav, .framer-MY88N .framer-1m57yav { display: block; }`,`.framer-MY88N.framer-147dpq { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 48px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 32px; position: relative; width: 1120px; will-change: var(--framer-will-change-override, transform); }`,`.framer-MY88N .framer-anvz7a { flex: 1 0 0px; height: 548px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }`,`.framer-MY88N .framer-ovzgza { align-content: flex-start; align-items: flex-start; align-self: stretch; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; height: auto; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 1px; }`,`.framer-MY88N .framer-7d7shx { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 32px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-MY88N .framer-1j5f91y { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-MY88N .framer-1dbfgog { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-MY88N .framer-1lsogyh { flex: none; height: auto; max-width: 90%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-MY88N .framer-1sw8f4i { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-MY88N .framer-18dm5qs-container, .framer-MY88N .framer-w3yo05-container, .framer-MY88N .framer-14lqldv-container { flex: none; height: auto; position: relative; width: auto; }`,`.framer-MY88N .framer-1xqfl55 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 18px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-MY88N .framer-qy2shc-container, .framer-MY88N .framer-c9cr5j-container, .framer-MY88N .framer-1in03c8-container { flex: none; height: auto; position: relative; width: 100%; }`,`.framer-MY88N.framer-v-ryuo6.framer-147dpq { flex-direction: column; padding: 20px 20px 60px 20px; width: 730px; }`,`.framer-MY88N.framer-v-ryuo6 .framer-anvz7a { flex: none; height: 617px; width: 100%; }`,`.framer-MY88N.framer-v-ryuo6 .framer-ovzgza, .framer-MY88N.framer-v-1troao2 .framer-ovzgza { align-self: unset; flex: none; gap: 72px; height: min-content; justify-content: center; width: 100%; }`,`.framer-MY88N.framer-v-1troao2.framer-147dpq { flex-direction: column; gap: 32px; padding: 12px 12px 40px 12px; width: 350px; }`,`.framer-MY88N.framer-v-1troao2 .framer-anvz7a { flex: none; height: 330px; width: 100%; }`,`.framer-MY88N.framer-v-1troao2 .framer-1lsogyh { max-width: 95%; }`,`.framer-MY88N.framer-v-1troao2 .framer-1sw8f4i { flex-direction: column; }`,...an,...Ee,`.framer-MY88N[data-border="true"]::after, .framer-MY88N [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; corner-shape: inherit; pointer-events: none; }`],`framer-MY88N`),Pn.displayName=`Case Studies Card`,Pn.defaultProps={height:612,width:1120},q(Pn,{variant:{options:[`wj2dm3W7j`,`r5RqauV5e`,`RrXfwTyVq`],optionTitles:[`Desktop`,`Tablet`,`Mobile`],title:`Variant`,type:H.Enum},kVzBBKvN0:{__defaultAssetReference:`data:framer/asset-reference,tqobcXrysrymorr2FT7tDFbE.png?originalFilename=Office+Collaboration.png&width=900&height=1200`,__vekterDefault:{assetReference:`data:framer/asset-reference,tqobcXrysrymorr2FT7tDFbE.png?originalFilename=Office+Collaboration.png&width=900&height=1200`,positionX:`63.5%`,positionY:`10.2%`},title:`Image`,type:H.ResponsiveImage},PFm4ndQ5W:{defaultValue:`Scalable Growth Strategy`,displayTextArea:!1,title:`Title`,type:H.String},onPFm4ndQ5WChange:{changes:`PFm4ndQ5W`,type:H.ChangeHandler},AdjLfLWcf:{defaultValue:`Designed a scalable growth strategy that cut operational costs, accelerated revenue growth and positioned the business for long-term market leadership.`,displayTextArea:!1,title:`Description`,type:H.String},onAdjLfLWcfChange:{changes:`AdjLfLWcf`,type:H.ChangeHandler},fbpfDv_8V:{defaultValue:`Business Strategy`,displayTextArea:!1,title:`Tag Text 1`,type:H.String},onfbpfDv_8VChange:{changes:`fbpfDv_8V`,type:H.ChangeHandler},dxkF5smpr:{defaultValue:`Growth Consulting`,displayTextArea:!1,title:`Tag Text 2`,type:H.String},ondxkF5smprChange:{changes:`dxkF5smpr`,type:H.ChangeHandler},K2mGH1Qc3:{defaultValue:`Maior visibilidade das informações`,displayTextArea:!1,title:`Text 2`,type:H.String},onK2mGH1Qc3Change:{changes:`K2mGH1Qc3`,type:H.ChangeHandler},Uh7dbRDQE:{defaultValue:`Gestão orientada por dados`,displayTextArea:!1,title:`Text 3`,type:H.String},onUh7dbRDQEChange:{changes:`Uh7dbRDQE`,type:H.ChangeHandler},SbZp6oq7O:{defaultValue:`Processos centralizados e integrados`,displayTextArea:!1,title:`Text 4`,type:H.String},onSbZp6oq7OChange:{changes:`SbZp6oq7O`,type:H.ChangeHandler}}),E(Pn,[{explicitInter:!0,fonts:[{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,weight:`400`}]},...yn,...bn,...xn,...A(rn),...A(Te)],{supportsExplicitInterCodegen:!0}),Pn.loader={load:(e,t)=>oe([()=>R(J,{},t),()=>R(gn,{},t),()=>R(Re,{},t)],t)}}));function In(e,...t){let n={};return t?.forEach(t=>t&&Object.assign(n,e[t])),n}var Ln,Rn,zn,Bn,Vn,Hn,Un,Wn,Gn,Kn,qn=e((()=>{h(),k(),T(),_(),Ln=[`WSBmedMw3`,`kYQKlNLHQ`,`mSGCxerAd`,`YaQ14a9NS`],Rn=`framer-7huA7`,zn={kYQKlNLHQ:`framer-v-58p9f4`,mSGCxerAd:`framer-v-yr9bzy`,WSBmedMw3:`framer-v-1f3u4hj`,YaQ14a9NS:`framer-v-ao5frf`},Bn={delay:0,duration:.5,ease:[.12,.23,.5,1],type:`tween`},Vn=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},Hn={"Step 1":`WSBmedMw3`,"Step 2":`kYQKlNLHQ`,"Step 3":`mSGCxerAd`,"Step 4":`YaQ14a9NS`},Un=x.create(s),Wn=({height:e,id:t,width:n,...r})=>({...r,variant:Hn[r.variant]??r.variant??`WSBmedMw3`}),Gn=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),Kn=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:s}=V(),c=W(),{style:l,className:u,layoutId:f,variant:p,...ee}=Wn(e),{baseVariant:h,classNames:g,clearLoadingGesture:_,gestureHandlers:v,gestureVariant:y,isLoading:ne,setGestureState:re,setVariant:b,variants:S}=F({cycleOrder:Ln,defaultVariant:`WSBmedMw3`,ref:r,variant:p,variantClassNames:zn}),C=Gn(e,S),w=D(Rn);return d(ie,{id:f??i,children:d(Un,{animate:S,initial:!1,children:d(Vn,{value:Bn,children:m(x.div,{...ee,...v,className:D(w,`framer-1f3u4hj`,u,g),"data-framer-name":`Step 1`,layoutDependency:C,layoutId:`WSBmedMw3`,ref:r,style:{borderBottomLeftRadius:20,borderBottomRightRadius:20,borderTopLeftRadius:20,borderTopRightRadius:20,...l},...In({kYQKlNLHQ:{"data-framer-name":`Step 2`},mSGCxerAd:{"data-framer-name":`Step 3`},YaQ14a9NS:{"data-framer-name":`Step 4`}},h,y),children:[d(G,{as:`figure`,background:{alt:`Two professionals in a business meeting with laptops and coffee in a modern office with exposed brick walls.`,fit:`fill`,intrinsicHeight:4862,intrinsicWidth:4862,loading:j((c?.y||0)+0),pixelHeight:4862,pixelWidth:4862,sizes:c?.width||`100vw`,src:`https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?width=4862&height=4862`,srcSet:`https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?scale-down-to=512&width=4862&height=4862 512w,https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?scale-down-to=1024&width=4862&height=4862 1024w,https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?scale-down-to=2048&width=4862&height=4862 2048w,https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?scale-down-to=4096&width=4862&height=4862 4096w,https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?width=4862&height=4862 4862w`},className:`framer-br4mus`,"data-framer-name":`Image 4`,layoutDependency:C,layoutId:`X10jVEOCC`,children:d(x.div,{className:`framer-p9ktbm`,"data-framer-name":`Overlay`,layoutDependency:C,layoutId:`XZhvwBvbM`,style:{background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.51) 56.00000000000001%, rgba(0, 0, 0, 0.62) 100%)`},variants:{YaQ14a9NS:{background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 0.51) 78%, rgba(0, 0, 0, 0.62) 100%)`}}})}),d(G,{as:`figure`,background:{alt:`A man and woman are seated together, intently looking at a laptop, possibly sharing ideas or working on a project.`,fit:`fill`,intrinsicHeight:1254,intrinsicWidth:1254,loading:j((c?.y||0)+0),pixelHeight:1254,pixelWidth:1254,sizes:c?.width||`100vw`,src:`https://framerusercontent.com/images/HVtmXLkxDlmdaHOjXhQ8RA4qNuM.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/HVtmXLkxDlmdaHOjXhQ8RA4qNuM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/HVtmXLkxDlmdaHOjXhQ8RA4qNuM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/HVtmXLkxDlmdaHOjXhQ8RA4qNuM.png?width=1254&height=1254 1254w`},className:`framer-1mirtbs`,"data-framer-name":`Image 3`,layoutDependency:C,layoutId:`IJtRtupAa`,style:{opacity:1},variants:{YaQ14a9NS:{opacity:0}},children:d(x.div,{className:`framer-fy8bqj`,"data-framer-name":`Overlay`,layoutDependency:C,layoutId:`AVIWoLsRk`,style:{background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.51) 56.00000000000001%, rgba(0, 0, 0, 0.62) 100%)`},variants:{mSGCxerAd:{background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0.33) 49%, rgba(0, 0, 0, 0.39) 100%)`}}})}),d(G,{as:`figure`,background:{alt:`A diverse group of people seated around a table, each using laptops, engaged in discussion or collaboration.`,fit:`fill`,intrinsicHeight:8e3,intrinsicWidth:5334,loading:j((c?.y||0)+0),pixelHeight:8e3,pixelWidth:5334,positionX:`center`,positionY:`center`,sizes:c?.width||`100vw`,src:`https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?width=5334&height=8000`,srcSet:`https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?scale-down-to=1024&width=5334&height=8000 682w,https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?scale-down-to=2048&width=5334&height=8000 1365w,https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?scale-down-to=4096&width=5334&height=8000 2731w,https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?width=5334&height=8000 5334w`},className:`framer-9ekj63`,"data-framer-name":`Image 2`,layoutDependency:C,layoutId:`k8POraBXx`,style:{opacity:1},variants:{mSGCxerAd:{opacity:0},YaQ14a9NS:{opacity:0}},...In({kYQKlNLHQ:{background:{alt:`A diverse group of people seated around a table, each using laptops, engaged in discussion or collaboration.`,fit:`fill`,intrinsicHeight:1254,intrinsicWidth:1254,loading:j((c?.y||0)+0),pixelHeight:1254,pixelWidth:1254,positionX:`center`,positionY:`center`,sizes:c?.width||`100vw`,src:`https://framerusercontent.com/images/uznxp9sd9AVrvPi3nwfVjyuW0.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/uznxp9sd9AVrvPi3nwfVjyuW0.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/uznxp9sd9AVrvPi3nwfVjyuW0.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/uznxp9sd9AVrvPi3nwfVjyuW0.png?width=1254&height=1254 1254w`}}},h,y),children:d(x.div,{className:`framer-2448i8`,"data-framer-name":`Overlay`,layoutDependency:C,layoutId:`GiMTM15pe`,style:{background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.62) 100%)`},variants:{kYQKlNLHQ:{background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 47%, rgba(0, 0, 0, 0.62) 100%)`}}})}),d(G,{as:`figure`,background:{alt:`Two women seated at a table, collaborating on a laptop, engaged in discussion and sharing ideas.`,fit:`fill`,intrinsicHeight:1254,intrinsicWidth:1254,loading:j((c?.y||0)+0),pixelHeight:1254,pixelWidth:1254,positionX:`center`,positionY:`top`,sizes:c?.width||`100vw`,src:`https://framerusercontent.com/images/whHlIbaxgPV5VATCU23swzVi8Ww.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/whHlIbaxgPV5VATCU23swzVi8Ww.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/whHlIbaxgPV5VATCU23swzVi8Ww.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/whHlIbaxgPV5VATCU23swzVi8Ww.png?width=1254&height=1254 1254w`},className:`framer-tkkqgm`,"data-framer-name":`Image 1`,layoutDependency:C,layoutId:`PUbi7tAl6`,style:{opacity:1},variants:{kYQKlNLHQ:{opacity:0},mSGCxerAd:{opacity:0},YaQ14a9NS:{opacity:0}},children:d(x.div,{className:`framer-17isj4s`,"data-framer-name":`Overlay`,layoutDependency:C,layoutId:`iS0dKcsHO`,style:{background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.62) 100%)`}})})]})})})})}),[`.framer-7huA7.framer-1xoxa1g, .framer-7huA7 .framer-1xoxa1g { display: block; }`,`.framer-7huA7.framer-1f3u4hj { height: 480px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 480px; will-change: var(--framer-will-change-override, transform); }`,`.framer-7huA7 .framer-br4mus, .framer-7huA7 .framer-p9ktbm, .framer-7huA7 .framer-1mirtbs, .framer-7huA7 .framer-fy8bqj, .framer-7huA7 .framer-9ekj63, .framer-7huA7 .framer-2448i8, .framer-7huA7 .framer-tkkqgm, .framer-7huA7 .framer-17isj4s { bottom: 0px; flex: none; left: 0px; overflow: visible; position: absolute; right: 0px; top: 0px; }`],`framer-7huA7`),Kn.displayName=`Process Images`,Kn.defaultProps={height:480,width:480},q(Kn,{variant:{options:[`WSBmedMw3`,`kYQKlNLHQ`,`mSGCxerAd`,`YaQ14a9NS`],optionTitles:[`Step 1`,`Step 2`,`Step 3`,`Step 4`],title:`Variant`,type:H.Enum}}),E(Kn,[{explicitInter:!0,fonts:[]}],{supportsExplicitInterCodegen:!0})}));function Jn({direction:e,style:t}){let n=xe.current()===xe.canvas,r=o(null),i=o(),s=e===`vertical`||e===`both`,c=e===`horizontal`||e===`both`;return a(()=>{if(n)return;let e=r.current?.parentElement?.parentElement;if(!e)return;let t=e.parentElement;if(!t)return;let a=()=>{let n=e.getBoundingClientRect();c&&(t.style.width=`${n.width}px`),s&&(t.style.height=`${n.height}px`),i.current=requestAnimationFrame(a)};return i.current=requestAnimationFrame(a),()=>{i.current&&cancelAnimationFrame(i.current),t&&(c&&(t.style.width=``),s&&(t.style.height=``))}},[e]),d(`div`,{ref:r,style:{...t}})}var Yn=e((()=>{h(),k(),_(),Jn.displayName=`Layout Jump Preventer`,q(Jn,{direction:{type:H.Enum,defaultValue:`vertical`,options:[`vertical`,`horizontal`,`both`],optionTitles:[`Vertical`,`Horizontal`,`Both`],displaySegmentedControl:!0,segmentedControlDirection:`vertical`,optionIcons:[`direction-vertical`,`direction-horizontal`,`direction-all`],description:`More components at [Framer University](https://frameruni.link/cc).`}})})),Xn,Zn,Qn,$n,er,tr,nr,rr=e((()=>{h(),k(),_(),Xn=`var(--framer-icon-mask)`,Zn=f(function(e,t){return d(`svg`,{...e,ref:t,children:e.children})}),Qn=x.create(Zn),$n=f((e,t)=>{let{animated:n,layoutId:r,children:i,...a}=e;return n?d(Qn,{...a,layoutId:r,ref:t,children:i}):d(`svg`,{...a,ref:t,children:i})}),er=`<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 1.5 16.5 C 0.672 16.5 0 15.828 0 15 L 0 1.5 C 0 0.672 0.672 0 1.5 0 L 15 0 C 15.828 0 16.5 0.672 16.5 1.5 L 16.5 15 C 16.5 15.828 15.828 16.5 15 16.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="16.5px" id="qUr6K2nJv" transform="translate(3.75 3.75)" width="16.5px"/><path d="M 0 0 L 16.5 0" fill="transparent" height="1px" id="MbfmAbWGf" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.75 12)" width="16.5px"/><path d="M 0 0 L 0 16.5" fill="transparent" height="16.5px" id="mcA57vhod" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(12 3.75)" width="1px"/></svg>`,tr=({alpha:e,color:t,height:n,id:r,width:i,width1:a,...o})=>({...o,ezTt3ayMo:t??o.ezTt3ayMo??`rgb(0, 0, 0)`,lschgej4H:a??o.lschgej4H??1.5,qxTvv_EBh:e??o.qxTvv_EBh}),nr=I(f(function(e,t){let{style:n,className:r,layoutId:i,variant:a,ezTt3ayMo:o,lschgej4H:s,qxTvv_EBh:c,...l}=tr(e),u=be(`465907804`,er);return d($n,{...l,className:D(`framer-ohg0r`,r),layoutId:i,ref:t,role:`presentation`,style:{"--1m6trwb":c,"--21h8s6":o,"--pgex8v":s,...n},viewBox:`0 0 24 24`,children:d(`use`,{href:u})})}),[`.framer-ohg0r { -webkit-mask: ${Xn}; aspect-ratio: 1; display: block; mask: ${Xn}; width: 24px; }`],`framer-ohg0r`),nr.displayName=`Plus`,q(nr,{ezTt3ayMo:{defaultValue:`rgb(0, 0, 0)`,hidden:!1,title:`Color`,type:H.Color},lschgej4H:{defaultValue:1.5,displayStepper:!0,hidden:!1,max:6,min:0,step:.5,title:`Width`,type:H.Number},qxTvv_EBh:{defaultValue:0,displayStepper:!0,hidden:!1,max:1,min:0,step:.1,title:`Alpha`,type:H.Number}})}));function ir(e,...t){let n={};return t?.forEach(t=>t&&Object.assign(n,e[t])),n}var ar,or,sr,cr,lr,ur,dr,fr,pr,mr,hr,gr=e((()=>{h(),k(),T(),_(),rr(),De(),Me(),ar=O(nr),or=[`Rg7FH4A_5`,`IbbXqxmXE`],sr=`framer-sti42`,cr={IbbXqxmXE:`framer-v-107wvs6`,Rg7FH4A_5:`framer-v-1a3cn5c`},lr={bounce:0,delay:0,duration:.6,type:`spring`},ur=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},dr={Closed:`IbbXqxmXE`,Open:`Rg7FH4A_5`},fr=x.create(s),pr=({answer:e,height:t,id:n,question:r,width:i,...a})=>({...a,ntqSQDV9m:e??a.ntqSQDV9m??`Answer`,OMNRUQGmM:r??a.OMNRUQGmM??`Your question`,variant:dr[a.variant]??a.variant??`Rg7FH4A_5`}),mr=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),hr=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:c}=V();W();let{style:l,className:u,layoutId:f,variant:p,OMNRUQGmM:ee,ntqSQDV9m:h,...g}=pr(e),{baseVariant:_,classNames:v,clearLoadingGesture:y,gestureHandlers:ne,gestureVariant:re,isLoading:b,setGestureState:S,setVariant:C,variants:w}=F({cycleOrder:or,defaultVariant:`Rg7FH4A_5`,ref:r,variant:p,variantClassNames:cr}),T=mr(e,w),{activeVariantCallback:E,delay:O}=ue(_),k=E(async(...e)=>{S({isPressed:!1}),C(`IbbXqxmXE`)}),A=E(async(...e)=>{S({isPressed:!1}),C(`Rg7FH4A_5`)}),j=D(sr,Fe,ke);return d(ie,{id:f??i,children:d(fr,{animate:w,initial:!1,children:d(ur,{value:lr,children:m(x.div,{...g,...ne,className:D(j,`framer-1a3cn5c`,u,v),"data-border":!0,"data-framer-name":`Open`,"data-highlight":!0,layoutDependency:T,layoutId:`Rg7FH4A_5`,onTap:k,ref:r,style:{"--border-bottom-width":`1px`,"--border-color":`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,"--border-left-width":`1px`,"--border-right-width":`1px`,"--border-style":`solid`,"--border-top-width":`1px`,borderBottomLeftRadius:20,borderBottomRightRadius:20,borderTopLeftRadius:20,borderTopRightRadius:20,...l},...ir({IbbXqxmXE:{"data-framer-name":`Closed`,onTap:A}},_,re),children:[m(x.div,{className:`framer-1n21nml`,"data-framer-name":`Question & Icon`,layoutDependency:T,layoutId:`a8UWFrwSx`,children:[d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.p,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,children:`Your question`})}),className:`framer-bo92a2`,fonts:[`Inter`],layoutDependency:T,layoutId:`GE8G5tbW6`,text:ee,verticalAlignment:`top`,withExternalLayout:!0}),d(x.div,{className:`framer-1q1t12`,"data-framer-name":`Icon`,layoutDependency:T,layoutId:`Qnl4w9Mli`,style:{rotate:45},variants:{IbbXqxmXE:{rotate:0}},children:d(nr,{animated:!0,className:`framer-1na9p84`,layoutDependency:T,layoutId:`yVIuP6iHf`,style:{"--1m6trwb":0,"--21h8s6":`var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, rgb(25, 25, 28))`,"--pgex8v":1.5}})})]}),d(x.div,{className:`framer-6fkzhe`,"data-framer-name":`Answer`,layoutDependency:T,layoutId:`VuCgd7MmK`,style:{opacity:1},variants:{IbbXqxmXE:{opacity:0}},children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.p,{className:`framer-styles-preset-4wrmj6`,"data-styles-preset":`hvYWBRe5U`,dir:`auto`,children:`Answer`})}),className:`framer-rjksas`,fonts:[`Inter`],layoutDependency:T,layoutId:`Y_NBhKeSw`,text:h,verticalAlignment:`top`,withExternalLayout:!0})})]})})})})}),[`@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,`.framer-sti42.framer-1pheydc, .framer-sti42 .framer-1pheydc { display: block; }`,`.framer-sti42.framer-1a3cn5c { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px 20px 0px 20px; position: relative; width: 694px; will-change: var(--framer-will-change-override, transform); }`,`.framer-sti42 .framer-1n21nml { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 32px; height: min-content; justify-content: flex-start; overflow: visible; padding: 32px 0px 36px 0px; position: relative; width: 100%; }`,`.framer-sti42 .framer-bo92a2 { flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,`.framer-sti42 .framer-1q1t12 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: min-content; }`,`.framer-sti42 .framer-1na9p84 { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 24px); position: relative; width: 24px; }`,`.framer-sti42 .framer-6fkzhe { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px 24px 32px 0px; position: relative; width: 100%; }`,`.framer-sti42 .framer-rjksas { flex: 1 0 0px; height: auto; max-width: 97%; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,`.framer-sti42.framer-v-107wvs6 .framer-6fkzhe { left: 20px; position: absolute; right: 20px; top: 100px; width: unset; z-index: 1; }`,...Be,...Ee,`.framer-sti42[data-border="true"]::after, .framer-sti42 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; corner-shape: inherit; pointer-events: none; }`],`framer-sti42`),hr.displayName=`FAQs Card`,hr.defaultProps={height:160,width:694},q(hr,{variant:{options:[`Rg7FH4A_5`,`IbbXqxmXE`],optionTitles:[`Open`,`Closed`],title:`Variant`,type:H.Enum},OMNRUQGmM:{defaultValue:`Your question`,displayTextArea:!1,title:`Question`,type:H.String},onOMNRUQGmMChange:{changes:`OMNRUQGmM`,type:H.ChangeHandler},ntqSQDV9m:{defaultValue:`Answer`,displayTextArea:!1,title:`Answer`,type:H.String},onntqSQDV9mChange:{changes:`ntqSQDV9m`,type:H.ChangeHandler}}),E(hr,[{explicitInter:!0,fonts:[{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,weight:`400`}]},...ar,...A(je),...A(Te)],{supportsExplicitInterCodegen:!0})})),_r,vr,yr,br,xr,Sr,Cr,wr,Tr,Er,Dr,Or=e((()=>{h(),k(),T(),_(),Yn(),gr(),_r=O(Jn),vr=O(hr),yr=`framer-Y9r8D`,br={OkKlG5WjZ:`framer-v-buyp38`},xr={bounce:.2,delay:0,duration:.4,type:`spring`},Sr=(...e)=>{for(let t of e)if(t&&typeof t==`string`)return t},Cr=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},wr=x.create(s),Tr=({height:e,id:t,width:n,...r})=>({...r}),Er=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),Dr=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:s}=V(),c=W(),{style:l,className:u,layoutId:f,variant:p,...ee}=Tr(e),{baseVariant:h,classNames:g,clearLoadingGesture:_,gestureHandlers:v,gestureVariant:y,isLoading:ne,setGestureState:re,setVariant:b,variants:S}=F({defaultVariant:`OkKlG5WjZ`,ref:r,variant:p,variantClassNames:br}),C=Er(e,S),w=D(yr);return d(ie,{id:f??i,children:d(wr,{animate:S,initial:!1,children:d(Cr,{value:xr,children:m(x.div,{...ee,...v,className:D(w,`framer-buyp38`,u,g),"data-framer-name":`Variant 1`,layoutDependency:C,layoutId:`OkKlG5WjZ`,ref:r,style:{borderBottomLeftRadius:20,borderBottomRightRadius:20,borderTopLeftRadius:20,borderTopRightRadius:20,...l},children:[d(U,{children:d(M,{className:`framer-1li7jwe-container`,isAuthoredByUser:!0,isModuleExternal:!0,layoutDependency:C,layoutId:`x82BdufiP-container`,nodeId:`x82BdufiP`,rendersWithMotion:!0,scopeId:`nPv7zAAld`,children:d(Jn,{direction:`vertical`,height:`100%`,id:`x82BdufiP`,layoutId:`x82BdufiP`,width:`100%`})})}),d(U,{height:160,width:c?.width||`100vw`,y:(c?.y||0)+0+((c?.height||752)-0-1020+0+0),children:d(M,{className:`framer-t28vf6-container`,"data-framer-name":`FAQs Card`,layoutDependency:C,layoutId:`f1JK1VsD2-container`,name:`FAQs Card`,nodeId:`f1JK1VsD2`,rendersWithMotion:!0,scopeId:`nPv7zAAld`,children:d(hr,{height:`100%`,id:`f1JK1VsD2`,layoutId:`f1JK1VsD2`,name:`FAQs Card`,ntqSQDV9m:`Começamos entendendo o negócio, seus desafios e objetivos. A partir desse diagnóstico, desenhamos a solução, definimos prioridades e avançamos para implementação e evolução.`,OMNRUQGmM:`Como funciona um projeto com a UPGOAL?`,style:{width:`100%`},variant:Sr(`Rg7FH4A_5`),width:`100%`})})}),d(U,{height:160,width:c?.width||`100vw`,y:(c?.y||0)+0+((c?.height||752)-0-1020+160+12),children:d(M,{className:`framer-1k3lrla-container`,"data-framer-name":`FAQs Card`,layoutDependency:C,layoutId:`V6zWYzUGd-container`,name:`FAQs Card`,nodeId:`V6zWYzUGd`,rendersWithMotion:!0,scopeId:`nPv7zAAld`,children:d(hr,{height:`100%`,id:`V6zWYzUGd`,layoutId:`V6zWYzUGd`,name:`FAQs Card`,ntqSQDV9m:`Atuamos em projetos de tecnologia, plataformas digitais, automação, inteligência artificial, dados, integrações, estratégia e governança de tecnologia.`,OMNRUQGmM:`Que tipos de projetos a UPGOAL desenvolve?`,style:{width:`100%`},variant:Sr(`IbbXqxmXE`),width:`100%`})})}),d(U,{height:160,width:c?.width||`100vw`,y:(c?.y||0)+0+((c?.height||752)-0-1020+320+24),children:d(M,{className:`framer-9dbg6t-container`,"data-framer-name":`FAQs Card`,layoutDependency:C,layoutId:`BaguQUqIP-container`,name:`FAQs Card`,nodeId:`BaguQUqIP`,rendersWithMotion:!0,scopeId:`nPv7zAAld`,children:d(hr,{height:`100%`,id:`BaguQUqIP`,layoutId:`BaguQUqIP`,name:`FAQs Card`,ntqSQDV9m:`Sim. Cada solução é estruturada de acordo com o contexto e as necessidades do negócio, combinando tecnologia, processos e dados.`,OMNRUQGmM:`A UPGOAL desenvolve soluções sob medida?`,style:{width:`100%`},variant:Sr(`IbbXqxmXE`),width:`100%`})})}),d(U,{height:160,width:c?.width||`100vw`,y:(c?.y||0)+0+((c?.height||752)-0-1020+480+36),children:d(M,{className:`framer-15xzpzb-container`,"data-framer-name":`FAQs Card`,layoutDependency:C,layoutId:`QxfK930wk-container`,name:`FAQs Card`,nodeId:`QxfK930wk`,rendersWithMotion:!0,scopeId:`nPv7zAAld`,children:d(hr,{height:`100%`,id:`QxfK930wk`,layoutId:`QxfK930wk`,name:`FAQs Card`,ntqSQDV9m:`Sim. Podemos atuar de ponta a ponta, do diagnóstico e desenho da solução à implementação, integração, adoção e evolução.`,OMNRUQGmM:`A UPGOAL também implementa as soluções?`,style:{width:`100%`},variant:Sr(`IbbXqxmXE`),width:`100%`})})}),d(U,{height:160,width:c?.width||`100vw`,y:(c?.y||0)+0+((c?.height||752)-0-1020+640+48),children:d(M,{className:`framer-ud3tdo-container`,"data-framer-name":`FAQs Card`,layoutDependency:C,layoutId:`tI7ecWuqr-container`,name:`FAQs Card`,nodeId:`tI7ecWuqr`,rendersWithMotion:!0,scopeId:`nPv7zAAld`,children:d(hr,{height:`100%`,id:`tI7ecWuqr`,layoutId:`tI7ecWuqr`,name:`FAQs Card`,ntqSQDV9m:`Sim. Podemos trabalhar de forma integrada com as equipes internas, complementando competências e apoiando a execução das iniciativas.`,OMNRUQGmM:`A UPGOAL pode atuar junto à equipe de TI da empresa?`,style:{width:`100%`},variant:Sr(`IbbXqxmXE`),width:`100%`})})}),d(U,{height:160,width:c?.width||`100vw`,y:(c?.y||0)+0+((c?.height||752)-0-1020+800+60),children:d(M,{className:`framer-1hzbwwh-container`,"data-framer-name":`FAQs Card`,layoutDependency:C,layoutId:`RyUIu4npz-container`,name:`FAQs Card`,nodeId:`RyUIu4npz`,rendersWithMotion:!0,scopeId:`nPv7zAAld`,children:d(hr,{height:`100%`,id:`RyUIu4npz`,layoutId:`RyUIu4npz`,name:`FAQs Card`,ntqSQDV9m:`Começamos com uma conversa para entender o desafio, o contexto e os objetivos da empresa. A partir disso, definimos juntos a melhor forma de avançar.`,OMNRUQGmM:`Como começar um projeto com a UPGOAL?`,style:{width:`100%`},variant:Sr(`IbbXqxmXE`),width:`100%`})})})]})})})})}),[`.framer-Y9r8D.framer-1cs55r9, .framer-Y9r8D .framer-1cs55r9 { display: block; }`,`.framer-Y9r8D.framer-buyp38 { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-end; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1120px; will-change: var(--framer-will-change-override, transform); }`,`.framer-Y9r8D .framer-1li7jwe-container { flex: none; height: auto; left: 0px; position: absolute; top: 0px; width: auto; z-index: 1; }`,`.framer-Y9r8D .framer-t28vf6-container, .framer-Y9r8D .framer-1k3lrla-container, .framer-Y9r8D .framer-9dbg6t-container, .framer-Y9r8D .framer-15xzpzb-container, .framer-Y9r8D .framer-ud3tdo-container, .framer-Y9r8D .framer-1hzbwwh-container { flex: none; height: auto; position: relative; width: 100%; }`],`framer-Y9r8D`),Dr.displayName=`FAQs Section`,Dr.defaultProps={height:752,width:1120},E(Dr,[{explicitInter:!0,fonts:[]},..._r,...vr],{supportsExplicitInterCodegen:!0}),Dr.loader={load:(e,t)=>oe([()=>R(hr,{},t)],t)}})),kr,Ar,jr,Mr=e((()=>{k(),ae.loadFonts([`FS;Manrope-medium`,`Inter-Bold`,`Inter-BoldItalic`,`Inter-Italic`]),kr=[{explicitInter:!0,fonts:[{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,weight:`500`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2`,weight:`400`}]}],Ar=[`.framer-EQjli .framer-styles-preset-n0dfic:not(.rich-text-wrapper), .framer-EQjli .framer-styles-preset-n0dfic.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 20px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #2734c4); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,`@media (max-width: 1199px) and (min-width: 810px) { .framer-EQjli .framer-styles-preset-n0dfic:not(.rich-text-wrapper), .framer-EQjli .framer-styles-preset-n0dfic.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 20px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #2734c4); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,`@media (max-width: 809px) and (min-width: 0px) { .framer-EQjli .framer-styles-preset-n0dfic:not(.rich-text-wrapper), .framer-EQjli .framer-styles-preset-n0dfic.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 18px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #2734c4); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`],jr=`framer-EQjli`})),Nr,Pr,Fr,Ir=e((()=>{k(),ae.loadFonts([`FS;Manrope-medium`,`FS;Manrope-bold`]),Nr=[{explicitInter:!0,fonts:[{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,weight:`500`},{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,weight:`700`}]}],Pr=[`.framer-Mpl8Z .framer-styles-preset-sbpw7n:not(.rich-text-wrapper), .framer-Mpl8Z .framer-styles-preset-sbpw7n.rich-text-wrapper h4 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 22px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: 0em; --framer-line-height: 1.4em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,`@media (max-width: 1199px) and (min-width: 810px) { .framer-Mpl8Z .framer-styles-preset-sbpw7n:not(.rich-text-wrapper), .framer-Mpl8Z .framer-styles-preset-sbpw7n.rich-text-wrapper h4 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 22px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: 0em; --framer-line-height: 1.4em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,`@media (max-width: 809px) and (min-width: 0px) { .framer-Mpl8Z .framer-styles-preset-sbpw7n:not(.rich-text-wrapper), .framer-Mpl8Z .framer-styles-preset-sbpw7n.rich-text-wrapper h4 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 20px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: 0em; --framer-line-height: 1.4em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`],Fr=`framer-Mpl8Z`}));function Lr(e,...t){let n={};return t?.forEach(t=>t&&Object.assign(n,e[t])),n}var Rr,zr,Br,Vr,Hr,Ur,Wr,Gr,Kr,qr,Jr,Yr,Xr,Zr=e((()=>{h(),k(),T(),_(),Ne(),sn(),Mr(),Ir(),He(),Rr=O(Pe),zr={Yga9L_wnA:{hover:!0}},Br=[`Yga9L_wnA`,`OLfRqv1Z6`],Vr=`framer-UcUlH`,Hr={OLfRqv1Z6:`framer-v-amgh89`,Yga9L_wnA:`framer-v-nwgou8`},Ur={delay:0,duration:.3,ease:[.44,0,.56,1],type:`tween`},Wr=e=>typeof e==`object`&&e&&typeof e.src==`string`?e:typeof e==`string`?{src:e}:void 0,Gr=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},Kr={"Tablet / Mobile":`OLfRqv1Z6`,Desktop:`Yga9L_wnA`},qr=x.create(s),Jr=({height:e,id:t,image:n,text:r,title:i,width:a,...o})=>({...o,gWbRAzBdJ:r??o.gWbRAzBdJ??`Turn business vision into a clear, profitable strategy delivering measurable growth.`,qfuWuwI7V:i??o.qfuWuwI7V??`Business Strategy`,variant:Kr[o.variant]??o.variant??`Yga9L_wnA`,Z_vnJarqY:n??o.Z_vnJarqY??{pixelHeight:840,pixelWidth:1200,src:`https://framerusercontent.com/images/PdkYnOYobtDqHALl6pZVjUJqCos.png?width=1200&height=840`,srcSet:`https://framerusercontent.com/images/PdkYnOYobtDqHALl6pZVjUJqCos.png?scale-down-to=512&width=1200&height=840 512w,https://framerusercontent.com/images/PdkYnOYobtDqHALl6pZVjUJqCos.png?scale-down-to=1024&width=1200&height=840 1024w,https://framerusercontent.com/images/PdkYnOYobtDqHALl6pZVjUJqCos.png?width=1200&height=840 1200w`}}),Yr=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),Xr=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:c}=V(),l=W(),{style:u,className:f,layoutId:p,variant:ee,Z_vnJarqY:h,qfuWuwI7V:g,gWbRAzBdJ:_,...v}=Jr(e),{baseVariant:y,classNames:ne,clearLoadingGesture:re,gestureHandlers:b,gestureVariant:S,isLoading:C,setGestureState:w,setVariant:T,variants:E}=F({cycleOrder:Br,defaultVariant:`Yga9L_wnA`,enabledGestures:zr,ref:r,variant:ee,variantClassNames:Hr}),O=Yr(e,E),k=D(Vr,jr,Ue,on,Fr),A=()=>S!==`Yga9L_wnA-hover`,ae=()=>y!==`OLfRqv1Z6`;return d(ie,{id:p??i,children:d(qr,{animate:E,initial:!1,children:d(Gr,{value:Ur,children:d(ge,{href:{hash:`:n0VZEt7a2`,webPageId:`augiA20Il`},motionChild:!0,nodeId:`Yga9L_wnA`,openInNewTab:!1,scopeId:`qHzbhOGhD`,smoothScroll:!0,children:m(x.a,{...v,...b,className:`${D(k,`framer-nwgou8`,f,ne)} framer-152kljo`,"data-framer-name":`Desktop`,layoutDependency:O,layoutId:`Yga9L_wnA`,ref:r,style:{backgroundColor:`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,borderBottomLeftRadius:20,borderBottomRightRadius:20,borderTopLeftRadius:20,borderTopRightRadius:20,...u},...Lr({"Yga9L_wnA-hover":{"data-framer-name":void 0},OLfRqv1Z6:{"data-framer-name":`Tablet / Mobile`}},y,S),children:[d(G,{as:`figure`,background:{alt:``,fit:`fill`,intrinsicHeight:1200,intrinsicWidth:1200,loading:j((l?.y||0)+((l?.height||500)*.5000000000000002-(l?.height||500)*1/2)),pixelHeight:840,pixelWidth:1200,sizes:l?.width||`100vw`,...Wr(h)},className:`framer-1wzgp8e`,"data-framer-name":`BG`,layoutDependency:O,layoutId:`XFVq0RwR7`,style:{filter:`none`,scale:1.05,WebkitFilter:`none`},variants:{"Yga9L_wnA-hover":{filter:`brightness(0.49)`,scale:1,WebkitFilter:`brightness(0.49)`}},...Lr({OLfRqv1Z6:{background:{alt:``,fit:`fill`,intrinsicHeight:1200,intrinsicWidth:1200,loading:j((l?.y||0)+((l?.height||379)*.5000000000000002-(l?.height||379)*1/2)),pixelHeight:840,pixelWidth:1200,sizes:l?.width||`100vw`,...Wr(h)}}},y,S)}),d(x.div,{className:`framer-1mli35r`,"data-framer-name":`Overlay`,layoutDependency:O,layoutId:`kpzfpG7ZY`,style:{backdropFilter:`none`,background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, rgb(0, 0, 0) 100%)`,WebkitBackdropFilter:`none`},variants:{"Yga9L_wnA-hover":{backdropFilter:`blur(5px)`,background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.52) 70%, rgba(0, 0, 0, 0.76) 78%, rgba(0, 0, 0, 0.93) 86%, rgb(0, 0, 0) 94%, rgb(0, 0, 0) 100%)`,WebkitBackdropFilter:`blur(5px)`},OLfRqv1Z6:{background:`linear-gradient(180deg, rgba(0, 0, 0, 0) 38%, rgba(0, 0, 0, 0.44) 49%, rgba(0, 0, 0, 0.6) 57.00000000000001%, rgba(0, 0, 0, 0.69) 63%, rgb(0, 0, 0) 100%)`}}}),m(x.div,{className:`framer-eh8p94`,"data-framer-name":`Text`,layoutDependency:O,layoutId:`Oh7nC2TIz`,children:[d(x.div,{className:`framer-1dvz56f`,"data-framer-name":`Description`,layoutDependency:O,layoutId:`kBfmTSCOo`,style:{opacity:0},variants:{"Yga9L_wnA-hover":{opacity:1},OLfRqv1Z6:{opacity:1}},children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.p,{className:`framer-styles-preset-n0dfic`,"data-styles-preset":`NM_uX2bcR`,dir:`auto`,style:{"--framer-text-color":`var(--extracted-r6o4lv, var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255)))`},children:`Develop clear strategic roadmaps that align business goals, market opportunities, and operational execution.`})}),className:`framer-12iucnx`,fonts:[`Inter`],layoutDependency:O,layoutId:`sbCR0dfsI`,style:{"--extracted-r6o4lv":`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,"--framer-link-text-color":`rgb(0, 153, 255)`,"--framer-link-text-decoration":`underline`},text:_,verticalAlignment:`top`,withExternalLayout:!0,...Lr({OLfRqv1Z6:{children:d(s,{children:d(x.p,{className:`framer-styles-preset-5np2z3`,"data-styles-preset":`rhST_ZvFU`,dir:`auto`,style:{"--framer-text-color":`var(--extracted-r6o4lv, var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255)))`},children:`Develop clear strategic roadmaps that align business goals, market opportunities, and operational execution.`})})}},y,S)})}),A()&&m(x.div,{className:`framer-97k3u2`,"data-framer-name":`Title & Arrow`,layoutDependency:O,layoutId:`YyeplOLNw`,children:[d(x.div,{className:`framer-1k0n60d`,"data-framer-name":`Title`,layoutDependency:O,layoutId:`GHGLjMdtu`,children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.h3,{className:`framer-styles-preset-hd4366`,"data-styles-preset":`ExWszoMVd`,dir:`auto`,style:{"--framer-text-color":`var(--extracted-a0htzi, var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247)))`},children:`Business Strategy`})}),className:`framer-1esgegj`,fonts:[`Inter`],layoutDependency:O,layoutId:`T4DSq3UGc`,style:{"--extracted-a0htzi":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,"--framer-link-text-color":`rgb(0, 153, 255)`,"--framer-link-text-decoration":`underline`},text:g,variants:{OLfRqv1Z6:{"--extracted-1eung3n":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`}},verticalAlignment:`top`,withExternalLayout:!0,...Lr({OLfRqv1Z6:{children:d(s,{children:d(x.h4,{className:`framer-styles-preset-sbpw7n`,"data-styles-preset":`r7vc1B_AR`,dir:`auto`,style:{"--framer-text-color":`var(--extracted-1eung3n, var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247)))`},children:`Business Strategy`})})}},y,S)})}),ae()&&d(x.div,{className:`framer-1q67s7t`,"data-framer-name":`Arrow Right`,layoutDependency:O,layoutId:`NAB_eC4ff`,children:d(Pe,{animated:!0,className:`framer-1xixo1i`,layoutDependency:O,layoutId:`SHceD8VW8`,style:{"--1m973uw":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,"--js9iwy":2,rotate:-45}})})]})]})]})})})})})}),[`@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,`.framer-UcUlH.framer-152kljo, .framer-UcUlH .framer-152kljo { display: block; }`,`.framer-UcUlH.framer-nwgou8 { align-content: flex-start; align-items: flex-start; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: 500px; justify-content: flex-end; overflow: var(--overflow-clip-fallback, clip); padding: 32px; position: relative; text-decoration: none; width: 550px; will-change: var(--framer-will-change-override, transform); }`,`.framer-UcUlH .framer-1wzgp8e, .framer-UcUlH .framer-1mli35r { flex: none; height: 100%; left: calc(50.00000000000002% - 100% / 2); overflow: visible; position: absolute; top: calc(50.00000000000002% - 100% / 2); width: 100%; z-index: 0; }`,`.framer-UcUlH .framer-eh8p94 { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 1px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-UcUlH .framer-1dvz56f { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px 30px 0px 0px; position: relative; width: 100%; z-index: 1; }`,`.framer-UcUlH .framer-12iucnx { flex: 1 0 0px; height: auto; max-width: 430px; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,`.framer-UcUlH .framer-97k3u2 { align-content: center; align-items: center; bottom: 0px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; left: 0px; overflow: visible; padding: 0px; position: absolute; right: 0px; z-index: 1; }`,`.framer-UcUlH .framer-1k0n60d { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 1px; }`,`.framer-UcUlH .framer-1esgegj { flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,`.framer-UcUlH .framer-1q67s7t { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 40px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 40px; }`,`.framer-UcUlH .framer-1xixo1i { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 28px); position: relative; width: 28px; }`,`.framer-UcUlH.framer-v-amgh89.framer-nwgou8 { cursor: unset; height: 379px; padding: 12px; width: 380px; }`,`.framer-UcUlH.framer-v-amgh89 .framer-eh8p94 { justify-content: flex-end; }`,`.framer-UcUlH.framer-v-amgh89 .framer-1dvz56f { order: 1; padding: 0px; }`,`.framer-UcUlH.framer-v-amgh89 .framer-12iucnx { max-width: 350px; }`,`.framer-UcUlH.framer-v-amgh89 .framer-97k3u2 { bottom: unset; left: unset; order: 0; position: relative; right: unset; width: 100%; }`,...Ar,...Oe,...an,...Pr],`framer-UcUlH`),Xr.displayName=`Service Card`,Xr.defaultProps={height:500,width:550},q(Xr,{variant:{options:[`Yga9L_wnA`,`OLfRqv1Z6`],optionTitles:[`Desktop`,`Tablet / Mobile`],title:`Variant`,type:H.Enum},Z_vnJarqY:{__defaultAssetReference:`data:framer/asset-reference,PdkYnOYobtDqHALl6pZVjUJqCos.png?originalFilename=Team+Discussion+Scene.png&width=1200&height=840`,title:`Image`,type:H.ResponsiveImage},qfuWuwI7V:{defaultValue:`Business Strategy`,displayTextArea:!1,title:`Title`,type:H.String},onqfuWuwI7VChange:{changes:`qfuWuwI7V`,type:H.ChangeHandler},gWbRAzBdJ:{defaultValue:`Turn business vision into a clear, profitable strategy delivering measurable growth.`,displayTextArea:!1,title:`Text`,type:H.String},ongWbRAzBdJChange:{changes:`gWbRAzBdJ`,type:H.ChangeHandler}}),E(Xr,[{explicitInter:!0,fonts:[{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,weight:`400`}]},...Rr,...A(kr),...A(we),...A(rn),...A(Nr)],{supportsExplicitInterCodegen:!0})})),Qr,$r,ei,ti,ni,ri,ii,ai,oi,si=e((()=>{h(),k(),T(),_(),De(),Ir(),Qr=`framer-7asyK`,$r={XAwN60Jsw:`framer-v-5jzfwr`},ei={bounce:.2,delay:0,duration:.4,type:`spring`},ti=e=>typeof e==`object`&&e&&typeof e.src==`string`?e:typeof e==`string`?{src:e}:void 0,ni=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},ri=x.create(s),ii=({description:e,height:t,id:n,image:r,title:i,width:a,...o})=>({...o,I6MQSDfBs:i??o.I6MQSDfBs??`Strategic Thinking`,OwqBo9WNr:e??o.OwqBo9WNr??`Go beyond insights with data-driven strategic guidance.`,wJ2DGSH5x:r??o.wJ2DGSH5x??{pixelHeight:810,pixelWidth:810,src:`https://framerusercontent.com/images/VXFBoPBWeT3otQIJt8CRk5Y9Ne8.svg?width=810&height=810`,srcSet:`https://framerusercontent.com/images/VXFBoPBWeT3otQIJt8CRk5Y9Ne8.svg?scale-down-to=512&width=810&height=810 512w,https://framerusercontent.com/images/VXFBoPBWeT3otQIJt8CRk5Y9Ne8.svg?width=810&height=810 810w`}}),ai=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),oi=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:c}=V(),l=W(),{style:u,className:f,layoutId:p,variant:ee,wJ2DGSH5x:h,I6MQSDfBs:g,OwqBo9WNr:_,...v}=ii(e),{baseVariant:y,classNames:ne,clearLoadingGesture:re,gestureHandlers:b,gestureVariant:S,isLoading:C,setGestureState:w,setVariant:T,variants:E}=F({defaultVariant:`XAwN60Jsw`,ref:r,variant:ee,variantClassNames:$r}),O=ai(e,E),k=D(Qr,Fr,ke);return d(ie,{id:p??i,children:d(ri,{animate:E,initial:!1,children:d(ni,{value:ei,children:m(x.div,{...v,...b,className:D(k,`framer-5jzfwr`,f,ne),"data-border":!0,"data-framer-name":`Variant 1`,layoutDependency:O,layoutId:`XAwN60Jsw`,ref:r,style:{"--border-bottom-width":`1px`,"--border-color":`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,"--border-left-width":`1px`,"--border-right-width":`1px`,"--border-style":`solid`,"--border-top-width":`1px`,backgroundColor:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,borderBottomLeftRadius:20,borderBottomRightRadius:20,borderTopLeftRadius:20,borderTopRightRadius:20,...u},children:[d(x.div,{className:`framer-e9m0hd`,"data-framer-name":`Icon & Title`,layoutDependency:O,layoutId:`TZRFKk7YU`,style:{borderBottomLeftRadius:999,borderBottomRightRadius:999,borderTopLeftRadius:999,borderTopRightRadius:999},children:d(G,{as:`figure`,background:{alt:``,fit:`fill`,intrinsicHeight:941,intrinsicWidth:812,loading:j((l?.y||0)+24+(((l?.height||235)-48-267.8)/2+0+0)+0),pixelHeight:810,pixelWidth:810,sizes:`58px`,...ti(h)},className:`framer-xzzvcl`,"data-framer-name":`Icon`,layoutDependency:O,layoutId:`l9wM0hLGw`})}),m(x.div,{className:`framer-1fkl7g8`,"data-framer-name":`Text`,layoutDependency:O,layoutId:`qjl7p1wJ_`,children:[d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.h4,{className:`framer-styles-preset-sbpw7n`,"data-styles-preset":`r7vc1B_AR`,dir:`auto`,children:`Strategic Thinking`})}),className:`framer-l5nszt`,"data-framer-name":`Title`,fonts:[`Inter`],layoutDependency:O,layoutId:`N9UtF1Mlm`,style:{"--framer-link-text-color":`rgb(0, 153, 255)`,"--framer-link-text-decoration":`underline`},text:g,verticalAlignment:`top`,withExternalLayout:!0}),d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.p,{className:`framer-styles-preset-4wrmj6`,"data-styles-preset":`hvYWBRe5U`,dir:`auto`,style:{"--framer-text-alignment":`left`},children:`Go beyond insights with data-driven strategic guidance.`})}),className:`framer-rhsp7y`,fonts:[`Inter`],layoutDependency:O,layoutId:`QK80UqOxj`,style:{"--framer-link-text-color":`rgb(0, 153, 255)`,"--framer-link-text-decoration":`underline`},text:_,verticalAlignment:`top`,withExternalLayout:!0})]})]})})})})}),[`@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,`.framer-7asyK.framer-13uwi4z, .framer-7asyK .framer-13uwi4z { display: block; }`,`.framer-7asyK.framer-5jzfwr { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 32px; height: min-content; justify-content: center; overflow: visible; padding: 24px; position: relative; width: min-content; }`,`.framer-7asyK .framer-e9m0hd { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: min-content; }`,`.framer-7asyK .framer-xzzvcl { flex: none; height: 58px; overflow: visible; position: relative; width: 58px; }`,`.framer-7asyK .framer-1fkl7g8 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 317px; }`,`.framer-7asyK .framer-l5nszt { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-7asyK .framer-rhsp7y { flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,...Pr,...Ee,`.framer-7asyK[data-border="true"]::after, .framer-7asyK [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; corner-shape: inherit; pointer-events: none; }`],`framer-7asyK`),oi.displayName=`WhyChooseConsultra Card`,oi.defaultProps={height:235,width:365},q(oi,{wJ2DGSH5x:{__defaultAssetReference:`data:framer/asset-reference,VXFBoPBWeT3otQIJt8CRk5Y9Ne8.svg?originalFilename=StrategicThinking.svg&width=810&height=810`,title:`Image`,type:H.ResponsiveImage},I6MQSDfBs:{defaultValue:`Strategic Thinking`,displayTextArea:!1,title:`Title`,type:H.String},onI6MQSDfBsChange:{changes:`I6MQSDfBs`,type:H.ChangeHandler},OwqBo9WNr:{defaultValue:`Go beyond insights with data-driven strategic guidance.`,displayTextArea:!1,title:`Description`,type:H.String},onOwqBo9WNrChange:{changes:`OwqBo9WNr`,type:H.ChangeHandler}}),E(oi,[{explicitInter:!0,fonts:[{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,weight:`400`}]},...A(Nr),...A(Te)],{supportsExplicitInterCodegen:!0})}));function ci(e,...t){let n={};return t?.forEach(t=>t&&Object.assign(n,e[t])),n}var li,ui,di,fi,pi,mi,hi,gi,_i,vi,yi,bi,xi,Si,Ci,wi=e((()=>{h(),k(),T(),_(),li=z(x.div),ui={IzWsCW0CG:{hover:!0,pressed:!0}},di=[`IzWsCW0CG`,`iRCCC6zg4`,`juq4WSa8_`,`w4rUkkv9p`,`Mi13FqsiN`],fi=`framer-0aKIg`,pi={iRCCC6zg4:`framer-v-1dwrzaj`,IzWsCW0CG:`framer-v-am9gq6`,juq4WSa8_:`framer-v-1k7e2g7`,Mi13FqsiN:`framer-v-bbfupx`,w4rUkkv9p:`framer-v-1gfvml`},mi={delay:0,duration:.2,ease:[.44,0,.56,1],type:`tween`},hi={delay:0,duration:1,ease:[0,0,1,1],type:`tween`},gi={opacity:1,rotate:360,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0},_i=(e,t)=>`translateX(-50%) ${t}`,vi=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},yi={Default:`IzWsCW0CG`,Disabled:`juq4WSa8_`,Error:`Mi13FqsiN`,Loading:`iRCCC6zg4`,Success:`w4rUkkv9p`},bi=x.create(s),xi=({height:e,id:t,title:n,width:r,...i})=>({...i,variant:yi[i.variant]??i.variant??`IzWsCW0CG`,XIHQAvpk2:n??i.XIHQAvpk2??`Submit`}),Si=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),Ci=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:c}=V();W();let{style:l,className:u,layoutId:f,variant:p,XIHQAvpk2:ee,...h}=xi(e),{baseVariant:g,classNames:_,clearLoadingGesture:v,gestureHandlers:y,gestureVariant:ne,isLoading:re,setGestureState:b,setVariant:S,variants:C}=F({cycleOrder:di,defaultVariant:`IzWsCW0CG`,enabledGestures:ui,ref:r,variant:p,variantClassNames:pi}),w=Si(e,C),T=D(fi),E=()=>g!==`iRCCC6zg4`,O=()=>g===`iRCCC6zg4`;return d(ie,{id:f??i,children:d(bi,{animate:C,initial:!1,children:d(vi,{value:mi,children:m(x.button,{...h,...y,className:D(T,`framer-am9gq6`,u,_),"data-framer-name":`Default`,"data-reset":`button`,layoutDependency:w,layoutId:`IzWsCW0CG`,ref:r,style:{backgroundColor:`var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`,borderBottomLeftRadius:10,borderBottomRightRadius:10,borderTopLeftRadius:10,borderTopRightRadius:10,opacity:1,...l},variants:{"IzWsCW0CG-hover":{backgroundColor:`var(--token-fd8a9d2f-2c30-47ff-bef1-7fed157e3858, rgb(0, 0, 0))`,opacity:1},"IzWsCW0CG-pressed":{backgroundColor:`var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, rgb(25, 25, 28))`,opacity:1},juq4WSa8_:{opacity:.5},Mi13FqsiN:{backgroundColor:`var(--token-cd015a06-3876-49d9-8bf0-46c1cab2f745, rgba(255, 34, 68, 0.15))`,opacity:1},w4rUkkv9p:{opacity:1}},...ci({"IzWsCW0CG-hover":{"data-framer-name":void 0},"IzWsCW0CG-pressed":{"data-framer-name":void 0},iRCCC6zg4:{"data-framer-name":`Loading`},juq4WSa8_:{"data-framer-name":`Disabled`},Mi13FqsiN:{"data-framer-name":`Error`},w4rUkkv9p:{"data-framer-name":`Success`}},g,ne),children:[E()&&d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(x.p,{dir:`auto`,style:{"--font-selector":`SW50ZXItU2VtaUJvbGQ=`,"--framer-font-size":`14px`,"--framer-font-weight":`600`,"--framer-text-color":`var(--extracted-r6o4lv, rgb(255, 255, 255))`},children:`Submit`})}),className:`framer-4z28ww`,fonts:[`Inter-SemiBold`],layoutDependency:w,layoutId:`jbiCwHHSe`,style:{"--extracted-r6o4lv":`rgb(255, 255, 255)`,"--framer-link-text-color":`rgb(0, 153, 255)`,"--framer-link-text-decoration":`underline`},text:ee,variants:{Mi13FqsiN:{"--extracted-r6o4lv":`var(--token-af1ccc81-f404-48a6-8dca-38365f22d35e, rgb(255, 34, 68))`}},verticalAlignment:`top`,withExternalLayout:!0,...ci({Mi13FqsiN:{children:d(s,{children:d(x.p,{dir:`auto`,style:{"--font-selector":`SW50ZXItU2VtaUJvbGQ=`,"--framer-font-size":`14px`,"--framer-font-weight":`600`,"--framer-text-color":`var(--extracted-r6o4lv, var(--token-af1ccc81-f404-48a6-8dca-38365f22d35e, rgb(255, 34, 68)))`},children:`Something went wrong`})}),text:void 0},w4rUkkv9p:{children:d(s,{children:d(x.p,{dir:`auto`,style:{"--font-selector":`SW50ZXItU2VtaUJvbGQ=`,"--framer-font-size":`14px`,"--framer-font-weight":`600`,"--framer-text-color":`var(--extracted-r6o4lv, rgb(255, 255, 255))`},children:`Thank you`})}),text:void 0}},g,ne)}),O()&&d(x.div,{className:`framer-wt9cuw`,"data-framer-name":`Spinner`,layoutDependency:w,layoutId:`EjXINNxbr`,style:{mask:`url('../../../../assets/framerusercontent.com/images/pGiXYozQ3mE4cilNOItfe2L2fUA.1t1g5k1.svg') alpha no-repeat center / cover add`,WebkitMask:`url('../../../../assets/framerusercontent.com/images/pGiXYozQ3mE4cilNOItfe2L2fUA.1t1g5k1.svg') alpha no-repeat center / cover add`},children:d(li,{__framer__loop:gi,__framer__loopEffectEnabled:!0,__framer__loopRepeatDelay:0,__framer__loopRepeatType:`loop`,__framer__loopTransition:hi,__perspectiveFX:!1,__smartComponentFX:!0,__targetOpacity:1,className:`framer-19oq4ox`,"data-framer-name":`Conic`,layoutDependency:w,layoutId:`UXmykllSJ`,style:{background:`conic-gradient(from 0deg at 50% 50%, var(--token-60ed5544-4811-4cea-bb0f-bce7e7a00950, rgb(0, 0, 0)) 7.208614864864882deg, rgb(255, 255, 255) 342deg)`},children:d(x.div,{className:`framer-qsetkk`,"data-framer-name":`Rounding`,layoutDependency:w,layoutId:`YepuQ8eJV`,style:{backgroundColor:`rgb(255, 255, 255)`,borderBottomLeftRadius:1,borderBottomRightRadius:1,borderTopLeftRadius:1,borderTopRightRadius:1},transformTemplate:_i})})})]})})})})}),[`@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,`.framer-0aKIg.framer-1lyvr1l, .framer-0aKIg .framer-1lyvr1l { display: block; }`,`.framer-0aKIg.framer-am9gq6 { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: 40px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 240px; }`,`.framer-0aKIg .framer-4z28ww { -webkit-user-select: none; flex: none; height: auto; position: relative; user-select: none; white-space: pre; width: auto; }`,`.framer-0aKIg .framer-wt9cuw { aspect-ratio: 1 / 1; flex: none; gap: 10px; height: var(--framer-aspect-ratio-supported, 20px); overflow: hidden; position: relative; width: 20px; }`,`.framer-0aKIg .framer-19oq4ox { bottom: 0px; flex: none; left: 0px; overflow: visible; position: absolute; right: 0px; top: 0px; }`,`.framer-0aKIg .framer-qsetkk { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 2px); left: 50%; overflow: visible; position: absolute; top: 0px; width: 2px; }`,`.framer-0aKIg.framer-v-1dwrzaj.framer-am9gq6, .framer-0aKIg.framer-v-1k7e2g7.framer-am9gq6, .framer-0aKIg.framer-v-1gfvml.framer-am9gq6, .framer-0aKIg.framer-v-bbfupx.framer-am9gq6 { cursor: unset; }`],`framer-0aKIg`),Ci.displayName=`Form Button`,Ci.defaultProps={height:40,width:240},q(Ci,{variant:{options:[`IzWsCW0CG`,`iRCCC6zg4`,`juq4WSa8_`,`w4rUkkv9p`,`Mi13FqsiN`],optionTitles:[`Default`,`Loading`,`Disabled`,`Success`,`Error`],title:`Variant`,type:H.Enum},XIHQAvpk2:{defaultValue:`Submit`,displayTextArea:!1,title:`Title`,type:H.String},onXIHQAvpk2Change:{changes:`XIHQAvpk2`,type:H.ChangeHandler}}),E(Ci,[{explicitInter:!0,fonts:[{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2`,weight:`600`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2`,weight:`600`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2`,weight:`600`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2`,weight:`600`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2`,weight:`600`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2`,weight:`600`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2`,weight:`600`}]}],{supportsExplicitInterCodegen:!0})})),Ti,Ei=e((()=>{Ti=e=>e})),Di=e((()=>{Ei()})),Oi=e((()=>{Di()}));function ki(e,t){var n={};for(var r in e)Object.prototype.hasOwnProperty.call(e,r)&&t.indexOf(r)<0&&(n[r]=e[r]);if(e!=null&&typeof Object.getOwnPropertySymbols==`function`){var i=0;for(r=Object.getOwnPropertySymbols(e);i<r.length;i++)t.indexOf(r[i])<0&&Object.prototype.propertyIsEnumerable.call(e,r[i])&&(n[r[i]]=e[r[i]])}return n}var Ai=e((()=>{})),ji,Mi=e((()=>{ji={},Object.defineProperty(ji,"__esModule",{value:!0}),ji.warning=function(){},ji.invariant=function(){},ji.__esModule,ji.warning,ji.invariant})),Ni=e((()=>{Ei()}));function Pi(e,t){return typeof e==`string`?t?(t[e]??(t[e]=document.querySelectorAll(e)),e=t[e]):e=document.querySelectorAll(e):e instanceof Element&&(e=[e]),Array.from(e||[])}function Fi(e,t,{root:n,margin:r,amount:i=`any`}={}){if(typeof IntersectionObserver>`u`)return()=>{};let a=Pi(e),o=new WeakMap,s=new IntersectionObserver(e=>{e.forEach((e=>{let n=o.get(e.target);if(e.isIntersecting!==!!n)if(e.isIntersecting){let n=t(e);typeof n==`function`?o.set(e.target,n):s.unobserve(e.target)}else n&&(n(e),o.delete(e.target))}))},{root:n,rootMargin:r,threshold:typeof i==`number`?i:ra[i]});return a.forEach((e=>s.observe(e))),()=>s.disconnect()}function Ii(e,t){if(t){let{inlineSize:e,blockSize:n}=t[0];return{width:e,height:n}}return e instanceof SVGElement&&`getBBox`in e?e.getBBox():{width:e.offsetWidth,height:e.offsetHeight}}function Li({target:e,contentRect:t,borderBoxSize:n}){var r;(r=ia.get(e))==null||r.forEach((r=>{r({target:e,contentSize:t,get size(){return Ii(e,n)}})}))}function Ri(e){e.forEach(Li)}function zi(){typeof ResizeObserver<`u`&&(aa=new ResizeObserver(Ri))}function Bi(e,t){aa||zi();let n=Pi(e);return n.forEach((e=>{let n=ia.get(e);n||(n=new Set,ia.set(e,n)),n.add(t),aa?.observe(e)})),()=>{n.forEach((e=>{let n=ia.get(e);n?.delete(t),n!=null&&n.size||aa==null||aa.unobserve(e)}))}}function Vi(){sa=()=>{let e={width:y.innerWidth,height:y.innerHeight},t={target:y,size:e,contentSize:e};oa.forEach((e=>e(t)))},y.addEventListener(`resize`,sa)}function Hi(e){return oa.add(e),sa||Vi(),()=>{oa.delete(e),!oa.size&&sa&&(sa=void 0)}}function Ui(e,t){return typeof e==`function`?Hi(e):Bi(e,t)}function Wi(e,t,n){e.dispatchEvent(new CustomEvent(t,{detail:{originalEvent:n}}))}function Gi(e,t,n){e.dispatchEvent(new CustomEvent(t,{detail:{originalEntry:n}}))}var Ki,qi,Ji,Yi,Xi,Zi,Qi,$i,ea,ta,na,ra,ia,aa,oa,sa,ca,la,ua,da=e((()=>{r(),Ei(),Oi(),Ai(),Mi(),Ni(),Ki=[``,`X`,`Y`,`Z`],qi=[`translate`,`scale`,`rotate`,`skew`],Ji={syntax:`<angle>`,initialValue:`0deg`,toDefaultUnit:e=>e+`deg`},Yi={translate:{syntax:`<length-percentage>`,initialValue:`0px`,toDefaultUnit:e=>e+`px`},rotate:Ji,scale:{syntax:`<number>`,initialValue:1,toDefaultUnit:Ti},skew:Ji},Xi=new Map,Zi=e=>`--motion-${e}`,Qi=[`x`,`y`,`z`],qi.forEach((e=>{Ki.forEach((t=>{Qi.push(e+t),Xi.set(Zi(e+t),Yi[e])}))})),new Set(Qi),$i=e=>document.createElement(`div`).animate(e,{duration:.001}),ea={cssRegisterProperty:()=>typeof CSS<`u`&&Object.hasOwnProperty.call(CSS,`registerProperty`),waapi:()=>Object.hasOwnProperty.call(Element.prototype,`animate`),partialKeyframes:()=>{try{$i({opacity:[1]})}catch{return!1}return!0},finished:()=>!!$i({opacity:[0,1]}).finished},ta={},na={};for(let e in ea)na[e]=()=>(ta[e]===void 0&&(ta[e]=ea[e]()),ta[e]);ra={any:0,all:1},ia=new WeakMap,oa=new Set,ca={isActive:e=>!!e.inView,subscribe:(e,{enable:t,disable:n},{inViewOptions:r={}})=>{let{once:i}=r;return Fi(e,(r=>{if(t(),Gi(e,`viewenter`,r),!i)return t=>{n(),Gi(e,`viewleave`,t)}}),ki(r,[`once`]))}},la=(e,t,n)=>r=>{(!r.pointerType||r.pointerType===`mouse`)&&(n(),Wi(e,t,r))},ua={inView:ca,hover:{isActive:e=>!!e.hover,subscribe:(e,{enable:t,disable:n})=>{let r=la(e,`hoverstart`,t),i=la(e,`hoverend`,n);return e.addEventListener(`pointerenter`,r),e.addEventListener(`pointerleave`,i),()=>{e.removeEventListener(`pointerenter`,r),e.removeEventListener(`pointerleave`,i)}}},press:{isActive:e=>!!e.press,subscribe:(e,{enable:t,disable:n})=>{let r=t=>{n(),Wi(e,`pressend`,t),y.removeEventListener(`pointerup`,r)},i=n=>{t(),Wi(e,`pressstart`,n),y.addEventListener(`pointerup`,r)};return e.addEventListener(`pointerdown`,i),()=>{e.removeEventListener(`pointerdown`,i),y.removeEventListener(`pointerup`,r)}}}},[...Object.keys(ua)]}));function fa(e){let{slots:t=[],gap:r,padding:s,paddingPerSide:f,paddingTop:h,paddingRight:g,paddingBottom:te,paddingLeft:_,speed:v,hoverFactor:y,direction:C,alignment:T,sizingOptions:E,fadeOptions:D,style:O}=e,{fadeContent:k,overflow:A,fadeWidth:j,fadeInset:ae,fadeAlpha:M}=D,{widthType:oe,heightType:se}=E,ce=f?`${h}px ${g}px ${te}px ${_}px`:`${s}px`,N=xe.current(),le=N===xe.canvas||N===xe.export,P=pa(),F=t.filter(Boolean),ue=l.count(F),I=ue>0,L=ne(0),de=ma(C===!0?`left`:C,P),fe=de===`left`||de===`right`,pe=ga[de];S(L,pe);let R=o(null),me=p(()=>[{current:null},{current:null}],[]),[z,B]=n({parent:null,children:null}),he=null,V=[],ge=0,H=0;le&&(ge=ue?Math.floor(10/ue):0,H=1),!le&&I&&z.parent&&(ge=Math.round(z.parent/z.children*2)+1,ge=Math.min(ge,ha),H=1);let _e=i(()=>{if(I&&R.current){let e=fe?R.current.offsetWidth:R.current.offsetHeight,t=me[0].current?fe?me[0].current.offsetLeft:me[0].current.offsetTop:0,n=(me[1].current?fe?me[1].current.offsetLeft+me[1].current.offsetWidth:me[1].current.offsetTop+me[1].current.offsetHeight:0)-t+r;u(()=>{B({parent:e,children:n})})}},[]),ve=le?{contentVisibility:`auto`}:{};if(I){if(!le){let e=o(!0);c(()=>(w.read(_e,!1,!0),Ui(R.current,({contentSize:t})=>{!e.current&&(t.width||t.height)&&w.read(_e,!1,!0),e.current=!1})),[])}he=l.map(F,(e,t)=>{let n;t===0&&(n=me[P===`rtl`&&fe?1:0]),t===F.length-1&&(n=me[P===`rtl`&&fe?0:1]);let r={width:oe?e.props?.width:`100%`,height:se?e.props?.height:`100%`};return d(ie,{inherit:`id`,children:d(_a,{ref:n,style:r,children:ee(e,{style:{...e.props?.style,...r,flexShrink:0,...ve},layoutId:e.props.layoutId?e.props.layoutId+`-original-`+t:void 0},e.props?.children)})})})}let ye=le?!0:re(R);if(!le)for(let e=0;e<ge;e++)V=V.concat(l.map(F,(t,n)=>{let r={width:oe?t.props?.width:`100%`,height:se?t.props?.height:`100%`,willChange:ye?`transform`:void 0};return d(ie,{inherit:`id`,children:d(_a,{style:r,children:ee(t,{key:e+` `+n,style:{...t.props?.style,width:oe?t.props?.width:`100%`,height:se?t.props?.height:`100%`,flexShrink:0,...ve},layoutId:t.props.layoutId?t.props.layoutId+`-dupe-`+e:void 0},t.props?.children)},e+`li`+n)},e+`lg`+n)}));let U=z.children+z.children*Math.round(z.parent/z.children);o(null),o(null),o(0);let W=o(!1),G=b(),be=o(null),K=o(null);if(!le){a(()=>{if(!(G||!U||!v))return K.current=be.current.animate({transform:[pe(0),pe(U)]},{duration:Math.abs(U)/v*1e3,iterations:1/0,iterationStart:+(P===`rtl`),easing:`linear`}),()=>K.current.cancel()},[y,U,v,P]);let e=i(()=>{if(!K.current)return;let e=document.hidden;ye&&!e&&K.current.playState===`paused`?K.current.play():(!ye||e)&&K.current.playState===`running`&&K.current.pause()},[ye]);a(()=>{e()},[ye,y,U,v]),a(()=>(document.addEventListener(`visibilitychange`,e),()=>{document.removeEventListener(`visibilitychange`,e)}),[e])}let q=fe?`to right`:`to bottom`,Se=j/2,Ce=100-j/2,we=`linear-gradient(${q}, rgba(0, 0, 0, ${M}) ${Ca(ae,0,Se)}%, rgba(0, 0, 0, 1) ${Se}%, rgba(0, 0, 0, 1) ${Ce}%, rgba(0, 0, 0, ${M}) ${100-ae}%)`;return I?d(`section`,{style:{...va,opacity:H,WebkitMaskImage:k?we:void 0,maskImage:k?we:void 0,overflow:A?`visible`:`hidden`,padding:ce},ref:R,children:m(x.ul,{ref:be,style:{...va,gap:r,top:C===`bottom`&&wa(U)?-U:void 0,left:C===`right`&&wa(U)?U*(P===`rtl`?1:-1):void 0,placeItems:T,position:`relative`,flexDirection:fe?`row`:`column`,...O,willChange:le||!ye?`auto`:`transform`,transform:pe(0)},onMouseEnter:()=>{W.current=!0,K.current&&(K.current.playbackRate=y)},onMouseLeave:()=>{W.current=!1,K.current&&(K.current.playbackRate=1)},children:[he,V]})}):m(`section`,{style:ya,children:[d(`div`,{style:ba,children:`✨`}),d(`p`,{style:xa,children:`Connect to Content`}),d(`p`,{style:Sa,children:`Add layers or components to infinitely loop on your page.`})]})}function pa(){return!y||!y.document||!y.document.documentElement?`ltr`:y.document.documentElement.dir===`rtl`?`rtl`:`ltr`}function ma(e,t){return t===`rtl`?e===`left`?`right`:e===`right`?`left`:e:e}var ha,ga,_a,va,ya,ba,xa,Sa,Ca,wa,Ta=e((()=>{r(),h(),_(),k(),T(),da(),ha=100,ga={left:e=>`translateX(-${e}px)`,right:e=>`translateX(${e}px)`,top:e=>`translateY(-${e}px)`,bottom:e=>`translateY(${e}px)`},_a=f(({children:e,...t},n)=>{let r=o(),i=re(r);return v(n,()=>r.current),a(()=>{let e=r.current;e&&(i?e.querySelectorAll(`button,a`).forEach(e=>{let t=e.dataset.origTabIndex;t?e.tabIndex=t:e.removeAttribute(`tabIndex`)}):e.querySelectorAll(`button,a`).forEach(e=>{let t=e.getAttribute(`tabIndex`);t&&(e.dataset.origTabIndex=t),e.tabIndex=-1}))},[i]),d(`li`,{...t,"aria-hidden":!i,ref:r,children:e})}),fa.defaultProps={gap:10,padding:10,sizingOptions:{widthType:!0,heightType:!0},fadeOptions:{fadeContent:!0,overflow:!1,fadeWidth:25,fadeAlpha:0,fadeInset:0},direction:!0},q(fa,{slots:{type:H.Array,title:`Children`,control:{type:H.ComponentInstance}},speed:{type:H.Number,title:`Speed`,min:0,max:1e3,defaultValue:100,unit:`%`,displayStepper:!0,step:5},direction:{type:H.Enum,title:`Direction`,options:[`left`,`right`,`top`,`bottom`],optionIcons:[`direction-left`,`direction-right`,`direction-up`,`direction-down`],optionTitles:[`Left`,`Right`,`Top`,`Bottom`],defaultValue:`left`,displaySegmentedControl:!0},alignment:{type:H.Enum,title:`Align`,options:[`flex-start`,`center`,`flex-end`],optionIcons:{direction:{right:[`align-top`,`align-middle`,`align-bottom`],left:[`align-top`,`align-middle`,`align-bottom`],top:[`align-left`,`align-center`,`align-right`],bottom:[`align-left`,`align-center`,`align-right`]}},defaultValue:`center`,displaySegmentedControl:!0},gap:{type:H.Number,title:`Gap`},padding:{title:`Padding`,type:H.FusedNumber,toggleKey:`paddingPerSide`,toggleTitles:[`Padding`,`Padding per side`],valueKeys:[`paddingTop`,`paddingRight`,`paddingBottom`,`paddingLeft`],valueLabels:[`T`,`R`,`B`,`L`],min:0},sizingOptions:{type:H.Object,title:`Sizing`,controls:{widthType:{type:H.Boolean,title:`Width`,enabledTitle:`Auto`,disabledTitle:`Stretch`,defaultValue:!0},heightType:{type:H.Boolean,title:`Height`,enabledTitle:`Auto`,disabledTitle:`Stretch`,defaultValue:!0}}},fadeOptions:{type:H.Object,title:`Clipping`,controls:{fadeContent:{type:H.Boolean,title:`Fade`,defaultValue:!0},overflow:{type:H.Boolean,title:`Overflow`,enabledTitle:`Show`,disabledTitle:`Hide`,defaultValue:!1,hidden(e){return e.fadeContent===!0}},fadeWidth:{type:H.Number,title:`Width`,defaultValue:25,min:0,max:100,unit:`%`,hidden(e){return e.fadeContent===!1}},fadeInset:{type:H.Number,title:`Inset`,defaultValue:0,min:0,max:100,unit:`%`,hidden(e){return e.fadeContent===!1}},fadeAlpha:{type:H.Number,title:`Opacity`,defaultValue:0,min:0,max:1,step:.05,hidden(e){return e.fadeContent===!1}}}},hoverFactor:{type:H.Number,title:`Hover`,min:0,max:1,unit:`x`,defaultValue:1,step:.1,displayStepper:!0,description:`Slows down the speed while you are hovering.`}}),va={display:`flex`,width:`100%`,height:`100%`,maxWidth:`100%`,maxHeight:`100%`,placeItems:`center`,margin:0,padding:0,listStyleType:`none`,textIndent:`none`},ya={display:`flex`,width:`100%`,height:`100%`,placeContent:`center`,placeItems:`center`,flexDirection:`column`,color:`#96F`,background:`rgba(136, 85, 255, 0.1)`,fontSize:11,overflow:`hidden`,padding:`20px 20px 30px 20px`},ba={fontSize:32,marginBottom:10},xa={margin:0,marginBottom:10,fontWeight:600,textAlign:`center`},Sa={margin:0,opacity:.7,maxWidth:150,lineHeight:1.5,textAlign:`center`},Ca=(e,t,n)=>Math.min(Math.max(e,t),n),wa=e=>typeof e==`number`&&!isNaN(e)})),Ea,Da,Oa,ka,Aa,ja,Ma,Na,Pa,Fa=e((()=>{h(),k(),T(),_(),Ta(),Ea=O(fa),Da=`framer-QR9Od`,Oa={Dow87Hzlj:`framer-v-pnh4a7`},ka={bounce:.2,delay:0,duration:.4,type:`spring`},Aa=({value:e,children:n})=>{let r=t(C),i=e??r.transition,a=p(()=>({...r,transition:i}),[JSON.stringify(i)]);return d(C.Provider,{value:a,children:n})},ja=x.create(s),Ma=({height:e,id:t,width:n,...r})=>({...r}),Na=(e,t)=>e.layoutDependency?t.join(`-`)+e.layoutDependency:t.join(`-`),Pa=I(f(function(e,t){let n=o(null),r=t??n,i=te(),{activeLocale:a,setLocale:s}=V();W();let{style:c,className:l,layoutId:u,variant:f,...p}=Ma(e),{baseVariant:ee,classNames:m,clearLoadingGesture:h,gestureHandlers:g,gestureVariant:_,isLoading:v,setGestureState:y,setVariant:ne,variants:re}=F({defaultVariant:`Dow87Hzlj`,ref:r,variant:f,variantClassNames:Oa}),b=Na(e,re),S=D(Da);return d(ie,{id:u??i,children:d(ja,{animate:re,initial:!1,children:d(Aa,{value:ka,children:d(x.div,{...p,...g,className:D(S,`framer-pnh4a7`,l,m),"data-framer-name":`Variant 1`,layoutDependency:b,layoutId:`Dow87Hzlj`,ref:r,style:{...c},children:d(U,{children:d(M,{className:`framer-6xfn2m-container`,"data-framer-name":`Partners`,isAuthoredByUser:!0,isModuleExternal:!0,layoutDependency:b,layoutId:`BCM9k9Rwt-container`,name:`Partners`,nodeId:`BCM9k9Rwt`,rendersWithMotion:!0,scopeId:`VkdIeYYn0`,children:d(fa,{alignment:`center`,direction:`left`,fadeOptions:{fadeAlpha:0,fadeContent:!0,fadeInset:0,fadeWidth:30,overflow:!1},gap:80,height:`100%`,hoverFactor:.6,id:`BCM9k9Rwt`,layoutId:`BCM9k9Rwt`,name:`Partners`,padding:0,paddingBottom:0,paddingLeft:0,paddingPerSide:!1,paddingRight:0,paddingTop:0,sizingOptions:{heightType:!0,widthType:!0},slots:[d(x.div,{className:`framer-1pl7b1r`,"data-framer-name":`LogoIpsum Asset 1`,layoutDependency:b,layoutId:`l5M8KxXC6`,children:d(G,{background:{alt:``,fit:`fill`,intrinsicHeight:311.11111935274124,intrinsicWidth:1453.3333718335198,pixelHeight:280,pixelWidth:1308,sizes:`116.7857px`,src:`https://framerusercontent.com/images/l3DX8whcFvXVY2ilxPY9SrDU6g.png?width=1308&height=280`,srcSet:`https://framerusercontent.com/images/l3DX8whcFvXVY2ilxPY9SrDU6g.png?scale-down-to=512&width=1308&height=280 512w,https://framerusercontent.com/images/l3DX8whcFvXVY2ilxPY9SrDU6g.png?scale-down-to=1024&width=1308&height=280 1024w,https://framerusercontent.com/images/l3DX8whcFvXVY2ilxPY9SrDU6g.png?width=1308&height=280 1308w`},className:`framer-1toh2zk`,"data-framer-name":`Imagem do ChatGPT 25 de set. de 2026, 19 26_50`,layoutDependency:b,layoutId:`Bt9_PAWfY`})}),d(x.div,{className:`framer-1bqo4ot`,"data-framer-name":`LogoIpsum Asset 2`,layoutDependency:b,layoutId:`Cv2n2up6l`,children:d(G,{background:{alt:``,fit:`fill`,intrinsicHeight:214.44445012528234,intrinsicWidth:1332.2222575140597,pixelHeight:193,pixelWidth:1199,sizes:`108px`,src:`https://framerusercontent.com/images/Ne7JSHgK985PcBHHI83PQywpZw.png?width=1199&height=193`,srcSet:`https://framerusercontent.com/images/Ne7JSHgK985PcBHHI83PQywpZw.png?scale-down-to=512&width=1199&height=193 512w,https://framerusercontent.com/images/Ne7JSHgK985PcBHHI83PQywpZw.png?scale-down-to=1024&width=1199&height=193 1024w,https://framerusercontent.com/images/Ne7JSHgK985PcBHHI83PQywpZw.png?width=1199&height=193 1199w`},className:`framer-coycyp`,"data-framer-name":`Imagem do ChatGPT 25 de set. de 2026, 19 35_56`,layoutDependency:b,layoutId:`zGKHE8BDW`})}),d(x.div,{className:`framer-17zm9cz`,"data-framer-name":`LogoIpsum Asset 3`,layoutDependency:b,layoutId:`okyi37gkh`,children:d(G,{background:{alt:``,fit:`fill`,intrinsicHeight:381.111121207108,intrinsicWidth:1083.3333620318667,pixelHeight:343,pixelWidth:975,sizes:`71.0641px`,src:`https://framerusercontent.com/images/BPTUmANj2JTqWHeYn3ZLWtdg.png?width=975&height=343`,srcSet:`https://framerusercontent.com/images/BPTUmANj2JTqWHeYn3ZLWtdg.png?scale-down-to=512&width=975&height=343 512w,https://framerusercontent.com/images/BPTUmANj2JTqWHeYn3ZLWtdg.png?width=975&height=343 975w`},className:`framer-1n5kaze`,"data-framer-name":`Imagem do ChatGPT 25 de set. de 2026, 19 41_32`,layoutDependency:b,layoutId:`LHT8_FPTb`})}),d(x.div,{className:`framer-1d5i8pz`,"data-framer-name":`LogoIpsum Asset 4`,layoutDependency:b,layoutId:`ZP6zeybHm`,children:d(G,{background:{alt:``,fit:`fill`,intrinsicHeight:411.11112200183663,intrinsicWidth:945.5555806042242,pixelHeight:370,pixelWidth:851,sizes:`46px`,src:`https://framerusercontent.com/images/pZTyseNyAspUWEyz5XhZwJcQ.png?width=851&height=370`,srcSet:`https://framerusercontent.com/images/pZTyseNyAspUWEyz5XhZwJcQ.png?scale-down-to=512&width=851&height=370 512w,https://framerusercontent.com/images/pZTyseNyAspUWEyz5XhZwJcQ.png?width=851&height=370 851w`},className:`framer-1axnxo0`,"data-framer-name":`Imagem do ChatGPT 25 de set. de 2026, 19 44_21`,layoutDependency:b,layoutId:`hhDmoOGFz`})}),d(x.div,{className:`framer-1b3pkc4`,"data-framer-name":`LogoIpsum Asset 5`,layoutDependency:b,layoutId:`z9ryuIsl4`,children:d(G,{background:{alt:``,fit:`fill`,intrinsicHeight:414.44445542347313,intrinsicWidth:1117.7778073887773,pixelHeight:373,pixelWidth:1006,sizes:`76px`,src:`https://framerusercontent.com/images/cEl1Tss5TN0PEZR1RqTcJsk0qf4.png?width=1006&height=373`,srcSet:`https://framerusercontent.com/images/cEl1Tss5TN0PEZR1RqTcJsk0qf4.png?scale-down-to=512&width=1006&height=373 512w,https://framerusercontent.com/images/cEl1Tss5TN0PEZR1RqTcJsk0qf4.png?width=1006&height=373 1006w`},className:`framer-1m3xthe`,"data-framer-name":`Imagem do ChatGPT 25 de set. de 2026, 19 47_27`,layoutDependency:b,layoutId:`ZE3jTvmTG`})})],speed:30,style:{height:`100%`,width:`100%`},width:`100%`})})})})})})})}),[`.framer-QR9Od.framer-1kxrq2d, .framer-QR9Od .framer-1kxrq2d { display: block; }`,`.framer-QR9Od.framer-pnh4a7 { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 800px; }`,`.framer-QR9Od .framer-6xfn2m-container { flex: 1 0 0px; height: 50px; position: relative; width: 1px; }`,`.framer-QR9Od .framer-1pl7b1r { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 25px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 117px; }`,`.framer-QR9Od .framer-1toh2zk { aspect-ratio: 4.671428571428572 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 117px; }`,`.framer-QR9Od .framer-1bqo4ot { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 25px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 108px; }`,`.framer-QR9Od .framer-coycyp { aspect-ratio: 6.212435233160622 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 108px; }`,`.framer-QR9Od .framer-17zm9cz { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 25px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 106px; }`,`.framer-QR9Od .framer-1n5kaze { aspect-ratio: 2.8425655976676385 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 71px; }`,`.framer-QR9Od .framer-1d5i8pz { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 25px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 48px; }`,`.framer-QR9Od .framer-1axnxo0 { aspect-ratio: 2.3 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 46px; }`,`.framer-QR9Od .framer-1b3pkc4 { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 29px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 138px; }`,`.framer-QR9Od .framer-1m3xthe { aspect-ratio: 2.6970509383378016 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 76px; }`],`framer-QR9Od`),Pa.displayName=`Partners`,Pa.defaultProps={height:50,width:800},E(Pa,[{explicitInter:!0,fonts:[]},...Ea],{supportsExplicitInterCodegen:!0})})),Ia,La,Ra,za=e((()=>{k(),ae.loadFonts([`FS;Manrope-medium`,`Inter-Bold`,`Inter-BoldItalic`,`Inter-Italic`]),Ia=[{explicitInter:!0,fonts:[{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,weight:`500`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2`,weight:`400`}]}],La=[`.framer-qlNpR .framer-styles-preset-1st835d:not(.rich-text-wrapper), .framer-qlNpR .framer-styles-preset-1st835d.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 14px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.6em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,`@media (max-width: 1199px) and (min-width: 810px) { .framer-qlNpR .framer-styles-preset-1st835d:not(.rich-text-wrapper), .framer-qlNpR .framer-styles-preset-1st835d.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 14px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.6em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,`@media (max-width: 809px) and (min-width: 0px) { .framer-qlNpR .framer-styles-preset-1st835d:not(.rich-text-wrapper), .framer-qlNpR .framer-styles-preset-1st835d.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 14px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.6em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`],Ra=`framer-qlNpR`})),Ba,Va,Ha,Ua=e((()=>{k(),ae.loadFonts([`FS;Manrope-medium`,`Inter-Bold`,`Inter-BoldItalic`,`Inter-Italic`]),Ba=[{explicitInter:!0,fonts:[{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,weight:`500`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2`,weight:`700`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`italic`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2`,weight:`400`}]}],Va=[`.framer-s5wlg .framer-styles-preset-1gwglaq:not(.rich-text-wrapper), .framer-s5wlg .framer-styles-preset-1gwglaq.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 24px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, #3b3930); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,`@media (max-width: 1199px) and (min-width: 810px) { .framer-s5wlg .framer-styles-preset-1gwglaq:not(.rich-text-wrapper), .framer-s5wlg .framer-styles-preset-1gwglaq.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 22px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, #3b3930); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,`@media (max-width: 809px) and (min-width: 0px) { .framer-s5wlg .framer-styles-preset-1gwglaq:not(.rich-text-wrapper), .framer-s5wlg .framer-styles-preset-1gwglaq.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 18px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, #3b3930); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`],Ha=`framer-s5wlg`})),Wa,Ga,Ka,qa=e((()=>{k(),ae.loadFonts([`FS;Manrope-medium`,`FS;Manrope-bold`]),Wa=[{explicitInter:!0,fonts:[{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,weight:`500`},{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,weight:`700`}]}],Ga=[`.framer-Ox79O .framer-styles-preset-7kh1l3:not(.rich-text-wrapper), .framer-Ox79O .framer-styles-preset-7kh1l3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 50px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,`@media (max-width: 1199px) and (min-width: 810px) { .framer-Ox79O .framer-styles-preset-7kh1l3:not(.rich-text-wrapper), .framer-Ox79O .framer-styles-preset-7kh1l3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 41px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,`@media (max-width: 809px) and (min-width: 0px) { .framer-Ox79O .framer-styles-preset-7kh1l3:not(.rich-text-wrapper), .framer-Ox79O .framer-styles-preset-7kh1l3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 30px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`],Ka=`framer-Ox79O`})),Ja,Ya,Xa,Za=e((()=>{k(),ae.loadFonts([`FS;Manrope-medium`,`FS;Manrope-bold`]),Ja=[{explicitInter:!0,fonts:[{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,weight:`500`},{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,weight:`700`}]}],Ya=[`.framer-Aqwfb .framer-styles-preset-1xwvxh3:not(.rich-text-wrapper), .framer-Aqwfb .framer-styles-preset-1xwvxh3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 116px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.03em; --framer-line-height: 1.2em; --framer-paragraph-spacing: 40px; --framer-text-alignment: left; --framer-text-color: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, #f7f7f7); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,`@media (max-width: 1199px) and (min-width: 810px) { .framer-Aqwfb .framer-styles-preset-1xwvxh3:not(.rich-text-wrapper), .framer-Aqwfb .framer-styles-preset-1xwvxh3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 116px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.03em; --framer-line-height: 1.2em; --framer-paragraph-spacing: 40px; --framer-text-alignment: left; --framer-text-color: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, #f7f7f7); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,`@media (max-width: 809px) and (min-width: 0px) { .framer-Aqwfb .framer-styles-preset-1xwvxh3:not(.rich-text-wrapper), .framer-Aqwfb .framer-styles-preset-1xwvxh3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 116px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.03em; --framer-line-height: 1.2em; --framer-paragraph-spacing: 40px; --framer-text-alignment: left; --framer-text-color: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, #f7f7f7); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`],Xa=`framer-Aqwfb`})),Qa,$a,eo,to,no,Y,ro,X,io,ao,oo,so,co,lo,uo,fo,po,mo,ho,go,_o,vo,yo,bo,xo,So,Co,wo,To,Eo,Do,Oo,ko,Ao,Z,jo,Q,$,Mo,No,Po,Fo,Io,Lo,Ro,zo,Bo,Vo;e((()=>{h(),k(),T(),_(),Qe(),ot(),mt(),St(),At(),Ae(),Rt(),Jt(),Fn(),Ve(),qn(),Or(),Zr(),si(),wi(),Fa(),Ie(),za(),sn(),Ua(),qa(),Za(),Me(),Mr(),He(),Le(),Qa=de(z(x.div)),$a=de(x.div),eo=de(N),to=O(Re),no=de(B),Y=z(N),ro=O(Pa),X=z(B),io=O(J),ao=O(Xr),oo=fe(x.div),so=z(G),co=O(oi),lo=z(x.div),uo=O(Kn),fo=K(Kn),po=O(Pn),mo=O(qt),ho=O(Dr),go=O(Ci),_o=z(se),vo={EIXefzEOt:`(max-width: 809.98px)`,JvUVvulcJ:`(min-width: 810px) and (max-width: 1217.98px)`,WQLkyLRf1:`(min-width: 1218px)`},yo=()=>typeof document<`u`,bo=[`upgoal`],xo=`framer-a8flv`,So={EIXefzEOt:`framer-v-c8amib`,JvUVvulcJ:`framer-v-vlbm8s`,WQLkyLRf1:`framer-v-72rtr7`},Co=(e,t,n)=>e&&t?`position`:n,wo={opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,transition:{delay:0,duration:2,ease:[.12,.23,.5,1],type:`tween`},x:0,y:0},To={opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1.05,skewX:0,skewY:0,x:0,y:0},Eo={opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,transition:{delay:.6,duration:.5,ease:[.44,0,.56,1],type:`tween`},x:0,y:0},Do={opacity:.001,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:20},Oo={effect:{filter:`blur(8px)`,opacity:.001,rotate:0,scale:1,skewX:0,skewY:0,x:0,y:20},startDelay:0,tokenization:`character`,transition:{delay:.02,duration:.8,ease:[.12,.23,.12,.98],type:`tween`},trigger:`onMount`,type:`appear`},ko={opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,transition:{delay:.8,duration:.5,ease:[.44,0,.56,1],type:`tween`},x:0,y:0},Ao={opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,transition:{delay:1,duration:.5,ease:[.44,0,.56,1],type:`tween`},x:0,y:0},Z=(...e)=>{for(let t of e)if(t&&typeof t==`string`)return t},jo={opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,transition:{delay:1.2,duration:.5,ease:[.44,0,.56,1],type:`tween`},x:0,y:0},Q={opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40},$={delay:0,duration:.8,ease:[.12,.23,.12,.98],type:`tween`},Mo={delay:.2,duration:.8,ease:[.12,.23,.12,.98],type:`tween`},No={bounce:.2,delay:0,duration:.4,type:`spring`},Po={delay:.4,duration:.8,ease:[.12,.23,.12,.98],type:`tween`},Fo=(e,t)=>{if(!(!e||typeof e!=`object`))return{...e,alt:t}},Io=(e,t,n)=>{switch(e.state){case`success`:return t.success??n;case`pending`:return t.pending??n;case`error`:return t.error??n;case`incomplete`:return t.incomplete??n;default:return n}},Lo={Desktop:`WQLkyLRf1`,Phone:`EIXefzEOt`,Tablet:`JvUVvulcJ`},Ro=({value:e})=>ce()?null:d(`style`,{dangerouslySetInnerHTML:{__html:e},"data-framer-html-style":``}),zo=({height:e,id:t,width:n,...r})=>({...r,variant:Lo[r.variant]??r.variant??`WQLkyLRf1`}),Bo=I(f(function(e,n){let r=o(null),i=n??r,a=te(),{activeLocale:c,setLocale:l}=V(),u=W(),{style:f,className:ee,layoutId:h,variant:_,...v}=zo(e);ye(p(()=>ze({},c),[c]));let[y,ne]=pe(_,vo,!1),re=D(xo,Ra,Ha,Ka,Fe,Xa,on,jr,Ue),b=t(le)?.isLayoutTemplate,S=!!t(C)?.transition?.layout,w=Co(b,S);me();let T=()=>!yo()||y!==`EIXefzEOt`,E=P(`K7zYKy1_5`),O=o(null),k=P(`KbuQeHpgr`),A=o(null),j=P(`lspSUYKWB`),ae=o(null),M=()=>!yo()||y===`EIXefzEOt`,oe=P(`OtzuAkHsV`),se=o(null),ce=P(`ygzLrb7il`),F=o(null),ue=P(`raMTciCtJ`),I=o(null),de=P(`FfZ0uW57s`),fe=o(null),R=o(null),z=o(null),H=P(`n3TnSvnr_`),be=o(null),xe=P(`LjsN_fNYq`),K=P(`IwMNOecm6`),q=P(`KqSLPYmyU`),we=o(null),Te=P(`erhEQKnnF`),Ee=o(null),De=P(`n0VZEt7a2`),Oe=o(null);return _e({}),d(le.Provider,{value:{activeVariantId:y,humanReadableVariantMap:Lo,primaryVariantId:`WQLkyLRf1`,variantClassNames:So},children:m(ie,{id:h??a,children:[d(Ro,{value:`html body { background: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(245, 240, 232)); }`}),m(x.div,{...v,className:D(re,`framer-72rtr7`,ee),ref:i,style:{...f},children:[m(x.section,{className:`framer-p98m37`,"data-framer-name":`Hero`,layout:w,children:[d(Qa,{__framer__adjustPosition:!1,__framer__offset:0,__framer__parallaxTransformEnabled:!0,__framer__speed:50,__perspectiveFX:!1,__targetOpacity:1,animate:wo,className:`framer-1letey9`,"data-framer-appear-id":`1letey9`,"data-framer-name":`Background`,initial:To,optimized:!0,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{background:{alt:`Professional business consultant working on a laptop in a modern office with city skyline view.`,fit:`fill`,intrinsicHeight:941,intrinsicWidth:1672,pixelHeight:941,pixelWidth:1672,positionX:`61%`,positionY:`44.7%`,sizes:u?.width||`100vw`,src:`https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941`,srcSet:`https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=512&width=1672&height=941 512w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=1024&width=1672&height=941 1024w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941 1672w`}},JvUVvulcJ:{background:{alt:`Professional business consultant working on a laptop in a modern office with city skyline view.`,fit:`fill`,intrinsicHeight:941,intrinsicWidth:1672,pixelHeight:941,pixelWidth:1672,positionX:`54.4%`,positionY:`49.3%`,sizes:u?.width||`100vw`,src:`https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941`,srcSet:`https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=512&width=1672&height=941 512w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=1024&width=1672&height=941 1024w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941 1672w`}}},children:d(G,{as:`figure`,background:{alt:`Professional business consultant working on a laptop in a modern office with city skyline view.`,fit:`fill`,intrinsicHeight:941,intrinsicWidth:1672,pixelHeight:941,pixelWidth:1672,sizes:u?.width||`100vw`,src:`https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941`,srcSet:`https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=512&width=1672&height=941 512w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=1024&width=1672&height=941 1024w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941 1672w`},className:`framer-1q5gv3k`})})}),m(`div`,{className:`framer-18g7lct`,"data-framer-name":`Container`,children:[d($a,{animate:Eo,className:`framer-1vcsdp3`,"data-framer-appear-id":`1vcsdp3`,"data-framer-name":`Stars & Text`,initial:Do,optimized:!0,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:m(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`9px`,"--framer-font-weight":`500`,"--framer-line-height":`1.6em`,"--framer-text-color":`rgb(51, 68, 119)`},children:[`STRATEGY `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`• `}),`TECHNOLOGY `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`•`}),` TRANSFORMATION`]})}),fonts:[`FS;Manrope-medium`]}},children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:m(`p`,{className:`framer-styles-preset-1st835d`,"data-styles-preset":`dzHmrYhu8`,dir:`auto`,style:{"--framer-text-color":`rgb(51, 68, 119)`},children:[`STRATEGY `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`• `}),`TECHNOLOGY `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`•`}),` TRANSFORMATION`]})}),className:`framer-143bdf6`,"data-framer-name":`Text`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})})}),m(`div`,{className:`framer-1cmui4l`,"data-framer-name":`Content`,children:[m(`div`,{className:`framer-17owkka`,"data-framer-name":`Text & Button`,children:[m(`div`,{className:`framer-1tboang`,"data-framer-name":`Text Container`,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`24px`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`TRANSFORMAMOS `})})},JvUVvulcJ:{children:d(s,{children:d(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`44px`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`TRANSFORMAMOS `})})}},children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`46px`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`TRANSFORMAMOS `})}),className:`framer-z06wl8`,effect:Oo,fonts:[`FS;Manrope-regular`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`24px`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`DESAFIOS DE NEGÓCIO EM`})})},JvUVvulcJ:{children:d(s,{children:d(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`44px`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`DESAFIOS DE NEGÓCIO EM`})})}},children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`50px`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`DESAFIOS DE NEGÓCIO EM`})}),className:`framer-1r4e5vv`,effect:Oo,fonts:[`FS;Manrope-regular`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:m(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1ib2xk`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`32px`,"--framer-font-weight":`700`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:[`SOLUÇÕES DIGITAIS`,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`.`})]})})},JvUVvulcJ:{children:d(s,{children:m(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1ib2xk`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`44px`,"--framer-font-weight":`700`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:[`SOLUÇÕES DIGITAIS`,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`.`})]})})}},children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:m(`h1`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1ib2xk`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`46px`,"--framer-font-weight":`700`,"--framer-letter-spacing":`0.01em`,"--framer-line-height":`1.1em`,"--framer-text-color":`rgb(7, 20, 92)`},children:[`SOLUÇÕES DIGITAIS`,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`.`})]})}),className:`framer-tt3kek`,effect:Oo,fonts:[`FS;Manrope-bold`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-line-height":`1.45em`,"--framer-text-color":`rgb(51, 68, 119)`},children:`Conectamos estratégia, tecnologia e execução para transformar processos, dados e operações em soluções que geram resultados.`})}),verticalAlignment:`center`}},children:d(eo,{__fromCanvasComponent:!0,animate:ko,children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`18px`,"--framer-line-height":`1.45em`,"--framer-text-color":`rgb(51, 68, 119)`},children:`Conectamos estratégia, tecnologia e execução para transformar processos, dados e operações em soluções que geram resultados.`})}),className:`framer-1uibgej`,"data-framer-appear-id":`1uibgej`,fonts:[`FS;Manrope-regular`],initial:Do,optimized:!0,verticalAlignment:`bottom`,withExternalLayout:!0})})]}),d(`div`,{className:`framer-1c3rxic`,"data-framer-name":`Button Container`,children:d(Ce,{links:[{href:{hash:`:K7zYKy1_5`,webPageId:`augiA20Il`},implicitPathVariables:void 0},{href:{hash:`:K7zYKy1_5`,webPageId:`augiA20Il`},implicitPathVariables:void 0},{href:{hash:`:K7zYKy1_5`,webPageId:`augiA20Il`},implicitPathVariables:void 0}],children:e=>d(U,{height:56,children:d(no,{animate:Ao,className:`framer-13bb81r-container`,"data-framer-appear-id":`13bb81r`,initial:Do,nodeId:`R9jkiywyf`,optimized:!0,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{PAOhNXCgW:e[2]},JvUVvulcJ:{PAOhNXCgW:e[1]}},children:d(Re,{height:`100%`,id:`R9jkiywyf`,jP8RsU_1U:!0,layoutId:`R9jkiywyf`,m5Kn0Xy2t:!1,PAOhNXCgW:e[0],variant:Z(`BiWdEaOJt`),width:`100%`,wpG4pFYzq:`4px 4px 4px 20px`,yOvxaJE3O:`Conheça nossas soluções`})})})})})})]}),m($a,{animate:jo,className:`framer-17usac1`,"data-framer-appear-id":`17usac1`,"data-framer-name":`Service Tags`,initial:Do,optimized:!0,children:[T()&&d(`div`,{className:`framer-19lguon hidden-c8amib`,"data-framer-name":`Divider`}),T()&&d(`div`,{className:`framer-102089p hidden-c8amib`,"data-framer-name":`Divider`})]})]})]})]}),d(x.section,{className:`framer-xzrekb`,"data-framer-name":`Partners`,layout:w,children:m(`div`,{className:`framer-coeewu`,"data-framer-name":`Container`,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1zZW1pYm9sZA==`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`17px`,"--framer-font-weight":`600`,"--framer-letter-spacing":`-0.01em`,"--framer-line-height":`1.3em`,"--framer-text-alignment":`center`,"--framer-text-color":`rgb(7, 20, 92)`},children:`Experiência que constrói nossa visão`})})}},children:d(Y,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1zZW1pYm9sZA==`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`17px`,"--framer-font-weight":`600`,"--framer-letter-spacing":`-0.01em`,"--framer-line-height":`1.3em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`Experiência que constrói nossa visão`})}),className:`framer-1m09fpc`,fonts:[`FS;Manrope-semibold`],verticalAlignment:`top`,withExternalLayout:!0})}),d(U,{height:50,width:`846px`,children:d(X,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-sxp70c-container`,nodeId:`V42RlqXcf`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(Pa,{height:`100%`,id:`V42RlqXcf`,layoutId:`V42RlqXcf`,style:{width:`100%`},width:`100%`})})})]})}),d(x.section,{className:`framer-vg7zeq`,"data-framer-name":`Services`,id:E,layout:w,ref:O,children:m(oo,{className:`framer-x8hayp`,"data-framer-name":`Container`,flowEffectEnabled:!0,flowEffectTransition:No,isNestedFlowEffect:!1,children:[m(x.div,{className:`framer-lvrw37`,"data-framer-name":`Heading`,layout:`position`,children:[d(U,{height:36,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-106ouzb-container`,nodeId:`ID5shgJpP`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(J,{BIDMndvd0:.8,cQI9DamX9:{borderColor:`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,height:`100%`,id:`ID5shgJpP`,KeoHf_ARU:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,layoutId:`ID5shgJpP`,tjj7UTgn4:`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,vbKoFf7Q0:!0,w5XGjIP2H:We,width:`100%`,zljOAbP0z:`Soluções`})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:m(`h2`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`30px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-text-color":`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`},children:[`Tecnologia para transformar desafios `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`em resultados`}),`.`]})})},JvUVvulcJ:{children:d(s,{children:m(`h2`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`41px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-color":`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`},children:[`Tecnologia para transformar desafios `,d(`span`,{style:{"--framer-text-color":`rgb(255, 122, 13)`},children:`em resultados`}),`.`]})})}},children:d(Y,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:m(`h2`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`43px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-color":`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`},children:[`Tecnologia para transformar desafios `,d(`span`,{style:{"--framer-text-color":`rgb(255, 122, 13)`},children:`em resultados`}),`.`]})}),className:`framer-10h3coi`,fonts:[`FS;Manrope-medium`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-weight":`500`,"--framer-line-height":`1.5em`,"--framer-text-color":`rgb(99, 99, 99)`},children:`Da estratégia à execução, desenvolvemos soluções digitais que conectam tecnologia, processos e dados aos objetivos do negócio.`})}),fonts:[`FS;Manrope-medium`]}},children:d(Y,{__framer__animate:{transition:Po},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1gwglaq`,"data-styles-preset":`FVF651k1v`,dir:`auto`,style:{"--framer-text-alignment":`center`,"--framer-text-color":`rgb(99, 99, 99)`},children:`Da estratégia à execução, desenvolvemos soluções digitais que conectam tecnologia, processos e dados aos objetivos do negócio.`})}),className:`framer-olac9t`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})})]}),m(x.div,{className:`framer-1x0des1`,"data-framer-name":`Cards`,layout:`position`,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`max(min(${u?.width||`100vw`} - 32px, 1120px), 50px)`},JvUVvulcJ:{width:`max((min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`}},children:d(U,{height:500,width:`max((min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) - 16px) / 2, 50px)`,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-15l089w-container`,nodeId:`DZ_0S3NMp`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{variant:Z(`OLfRqv1Z6`)},JvUVvulcJ:{variant:Z(`OLfRqv1Z6`),Z_vnJarqY:Fo({pixelHeight:1254,pixelWidth:1254,src:`https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?width=1254&height=1254 1254w`},`Three people engaged in discussion at a table, with a laptop placed between them.`)}},children:d(Xr,{gWbRAzBdJ:`Transformamos necessidades do negócio em soluções digitais que simplificam processos e geram resultados.`,height:`100%`,id:`DZ_0S3NMp`,layoutId:`DZ_0S3NMp`,qfuWuwI7V:`Soluções de Tecnologia`,style:{width:`100%`},variant:Z(`Yga9L_wnA`),width:`100%`,Z_vnJarqY:Fo({pixelHeight:1254,pixelWidth:1254,src:`https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?width=1254&height=1254 1254w`},`Business team meeting with presenter using a tablet in a modern conference room.`)})})})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`max(min(${u?.width||`100vw`} - 32px, 1120px), 50px)`},JvUVvulcJ:{width:`max((min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`}},children:d(U,{height:500,width:`max((min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) - 16px) / 2, 50px)`,children:d(X,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-1g7ovmb-container`,nodeId:`AS6kKWpVv`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{variant:Z(`OLfRqv1Z6`)},JvUVvulcJ:{variant:Z(`OLfRqv1Z6`)}},children:d(Xr,{gWbRAzBdJ:`Estruturamos a tecnologia para que ela seja segura, escalável e alinhada à estratégia do negócio.`,height:`100%`,id:`AS6kKWpVv`,layoutId:`AS6kKWpVv`,qfuWuwI7V:`Estratégia & Governança de Tecnologia`,style:{width:`100%`},variant:Z(`Yga9L_wnA`),width:`100%`,Z_vnJarqY:Fo({pixelHeight:1254,pixelWidth:1254,src:`https://framerusercontent.com/images/vw3YKJFezhMdYPRsY3UhDNlbM.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/vw3YKJFezhMdYPRsY3UhDNlbM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/vw3YKJFezhMdYPRsY3UhDNlbM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/vw3YKJFezhMdYPRsY3UhDNlbM.png?width=1254&height=1254 1254w`},`Business professionals collaborating on a laptop during a client meeting in a modern office.`)})})})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`max(min(${u?.width||`100vw`} - 32px, 1120px), 50px)`},JvUVvulcJ:{width:`calc(max((min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px) * 2 + 16px)`}},children:d(U,{height:500,width:`calc(max((min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) - 16px) / 2, 50px) * 2 + 16px)`,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-60ezn7-container`,nodeId:`sh2bjzzj0`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{variant:Z(`OLfRqv1Z6`)},JvUVvulcJ:{variant:Z(`OLfRqv1Z6`)}},children:d(Xr,{gWbRAzBdJ:`Conectamos processos, áreas e tecnologia para tornar a operação mais integrada, eficiente e orientada por dados.`,height:`100%`,id:`sh2bjzzj0`,layoutId:`sh2bjzzj0`,qfuWuwI7V:`Otimização Operacional`,style:{width:`100%`},variant:Z(`Yga9L_wnA`),width:`100%`,Z_vnJarqY:Fo({pixelHeight:809,pixelWidth:1944,src:`https://framerusercontent.com/images/clEmDHTYWfs1yXZhU9RxAHBrYE.png?width=1944&height=809`,srcSet:`https://framerusercontent.com/images/clEmDHTYWfs1yXZhU9RxAHBrYE.png?scale-down-to=512&width=1944&height=809 512w,https://framerusercontent.com/images/clEmDHTYWfs1yXZhU9RxAHBrYE.png?scale-down-to=1024&width=1944&height=809 1024w,https://framerusercontent.com/images/clEmDHTYWfs1yXZhU9RxAHBrYE.png?width=1944&height=809 1944w`},`Modern conference room with large meeting table, laptops, presentation screen, and contemporary office design.`)})})})})})]})]})}),d(x.section,{className:`framer-1mz48pi`,"data-framer-name":`WhyChooseConsultra`,id:k,layout:w,ref:A,children:m(`div`,{className:`framer-mf8cvp`,"data-framer-name":`Container`,children:[m(`div`,{className:`framer-11lnlkx`,"data-framer-name":`Heading`,children:[d(U,{height:36,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-1tsgjyg-container`,nodeId:`ys6OKazhM`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(J,{BIDMndvd0:1,cQI9DamX9:{borderColor:`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,height:`100%`,id:`ys6OKazhM`,KeoHf_ARU:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,layoutId:`ys6OKazhM`,tjj7UTgn4:`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,vbKoFf7Q0:!0,w5XGjIP2H:kt,width:`100%`,zljOAbP0z:`POR QUE A UPGOAL`})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:m(`h2`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`23px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-alignment":`center`,"--framer-text-color":`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`},children:[`Tecnologia com visão de negócio.`,d(`br`,{}),d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`Execução com propósito.`})]})}),fonts:[`FS;Manrope-medium`]}},children:d(Y,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:m(`h2`,{className:`framer-styles-preset-7kh1l3`,"data-styles-preset":`h6g2V_KLn`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:[`Tecnologia com visão de negócio.`,d(`br`,{}),d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`Execução com propósito.`})]})}),className:`framer-lghkx8`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})}),d(Y,{__framer__animate:{transition:Po},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:`Unimos experiência executiva, visão estratégica e capacidade tecnológica para transformar desafios em resultados.`})}),className:`framer-kqv9fb`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),m(`div`,{className:`framer-mflmhd`,"data-framer-name":`WhyChooseConsultra Section`,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{background:{alt:`Experienced business consultant helping a client with business growth and strategic planning.`,fit:`fill`,intrinsicHeight:1438,intrinsicWidth:1094,pixelHeight:1438,pixelWidth:1094,sizes:`min(${u?.width||`100vw`} - 32px, 1120px)`,src:`https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438`,srcSet:`https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?scale-down-to=1024&width=1094&height=1438 779w,https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438 1094w`}},JvUVvulcJ:{background:{alt:`Experienced business consultant helping a client with business growth and strategic planning.`,fit:`fill`,intrinsicHeight:1438,intrinsicWidth:1094,pixelHeight:1438,pixelWidth:1094,positionX:`43.5%`,positionY:`17%`,sizes:`min(max(${u?.width||`100vw`} - 64px, 1px), 1120px)`,src:`https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438`,srcSet:`https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?scale-down-to=1024&width=1094&height=1438 779w,https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438 1094w`}}},children:d(so,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,background:{alt:`Experienced business consultant helping a client with business growth and strategic planning.`,fit:`fill`,intrinsicHeight:1438,intrinsicWidth:1094,pixelHeight:1438,pixelWidth:1094,sizes:`calc(min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) * 0.3196)`,src:`https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438`,srcSet:`https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?scale-down-to=1024&width=1094&height=1438 779w,https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438 1094w`},className:`framer-1ov44s7`,"data-framer-name":`Image`,children:d(`div`,{className:`framer-4b5efu`,"data-framer-name":`Right Overlay`,children:m(`div`,{className:`framer-15mu0ff`,"data-border":!0,"data-framer-name":`Text & Button`,children:[m(`div`,{className:`framer-g3rf79`,"data-framer-name":`Text Container`,children:[d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`h2`,{className:`framer-styles-preset-7kh1l3`,"data-styles-preset":`h6g2V_KLn`,dir:`auto`,style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`20+ anos`})}),className:`framer-bsr3mu`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-color":`var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, rgb(59, 57, 48))`},children:`Experiência em Tecnologia`})}),className:`framer-pd11bf`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),d(Ce,{links:[{href:{hash:`:KqSLPYmyU`,webPageId:`augiA20Il`},implicitPathVariables:void 0},{href:{hash:`:KqSLPYmyU`,webPageId:`augiA20Il`},implicitPathVariables:void 0},{href:{hash:`:KqSLPYmyU`,webPageId:`augiA20Il`},implicitPathVariables:void 0}],children:e=>d(U,{height:56,children:d(B,{className:`framer-1c7mr98-container`,nodeId:`U2Fdzoizl`,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{PAOhNXCgW:e[2]},JvUVvulcJ:{PAOhNXCgW:e[1]}},children:d(Re,{height:`100%`,id:`U2Fdzoizl`,jP8RsU_1U:!0,layoutId:`U2Fdzoizl`,m5Kn0Xy2t:!1,PAOhNXCgW:e[0],variant:Z(`BiWdEaOJt`),width:`100%`,wpG4pFYzq:`4px 4px 4px 22px`,yOvxaJE3O:`Conheça a UPGOAL`})})})})})]})})})}),m(lo,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-1c7dps3`,"data-framer-name":`Cards`,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`max(min(${u?.width||`100vw`} - 32px, 1120px), 50px)`},JvUVvulcJ:{width:`max((min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`}},children:d(U,{height:235,width:`max((max(min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) * 0.6804 - 16px, 1px) - 16px) / 2, 50px)`,children:d(B,{className:`framer-b43god-container`,nodeId:`OUX_xi4Vp`,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{style:{width:`100%`}},JvUVvulcJ:{style:{width:`100%`}}},children:d(oi,{height:`100%`,I6MQSDfBs:`Visão de Negócio`,id:`OUX_xi4Vp`,layoutId:`OUX_xi4Vp`,OwqBo9WNr:`Conectamos tecnologia aos objetivos e desafios reais do negócio.`,style:{height:`100%`,width:`100%`},width:`100%`})})})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`max(min(${u?.width||`100vw`} - 32px, 1120px), 50px)`},JvUVvulcJ:{width:`max((min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`}},children:d(U,{height:235,width:`max((max(min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) * 0.6804 - 16px, 1px) - 16px) / 2, 50px)`,children:d(B,{className:`framer-1s0n5o1-container`,nodeId:`ai_sJnKeP`,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{style:{width:`100%`}},JvUVvulcJ:{style:{width:`100%`}}},children:d(oi,{height:`100%`,I6MQSDfBs:`Experiência Executiva`,id:`ai_sJnKeP`,layoutId:`ai_sJnKeP`,OwqBo9WNr:`Experiência prática em tecnologia e transformação em ambientes corporativos complexos.`,style:{height:`100%`,width:`100%`},width:`100%`,wJ2DGSH5x:Fo({pixelHeight:823,pixelWidth:823,src:`https://framerusercontent.com/images/QvylMDqychAISOdB20bLSezUo.svg?width=823&height=823`,srcSet:`https://framerusercontent.com/images/QvylMDqychAISOdB20bLSezUo.svg?scale-down-to=512&width=823&height=823 512w,https://framerusercontent.com/images/QvylMDqychAISOdB20bLSezUo.svg?width=823&height=823 823w`},``)})})})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`max(min(${u?.width||`100vw`} - 32px, 1120px), 50px)`},JvUVvulcJ:{width:`max((min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`}},children:d(U,{height:235,width:`max((max(min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) * 0.6804 - 16px, 1px) - 16px) / 2, 50px)`,children:d(B,{className:`framer-1jlaz66-container`,nodeId:`GE1GcWVVH`,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{style:{width:`100%`}},JvUVvulcJ:{style:{width:`100%`}}},children:d(oi,{height:`100%`,I6MQSDfBs:`Tecnologia Aplicada`,id:`GE1GcWVVH`,layoutId:`GE1GcWVVH`,OwqBo9WNr:`Aplicamos tecnologia para simplificar processos, integrar operações e gerar valor.`,style:{height:`100%`,width:`100%`},width:`100%`,wJ2DGSH5x:Fo({pixelHeight:810,pixelWidth:810,src:`https://framerusercontent.com/images/GBqmferIAQ3wjGLOI6cTlxX4Y.svg?width=810&height=810`,srcSet:`https://framerusercontent.com/images/GBqmferIAQ3wjGLOI6cTlxX4Y.svg?scale-down-to=512&width=810&height=810 512w,https://framerusercontent.com/images/GBqmferIAQ3wjGLOI6cTlxX4Y.svg?width=810&height=810 810w`},``)})})})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`max(min(${u?.width||`100vw`} - 32px, 1120px), 50px)`},JvUVvulcJ:{width:`max((min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`}},children:d(U,{height:235,width:`max((max(min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) * 0.6804 - 16px, 1px) - 16px) / 2, 50px)`,children:d(B,{className:`framer-dsa4lb-container`,nodeId:`ycFm6EGEB`,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{style:{width:`100%`}},JvUVvulcJ:{style:{width:`100%`}}},children:d(oi,{height:`100%`,I6MQSDfBs:`Execução Ponta a Ponta`,id:`ycFm6EGEB`,layoutId:`ycFm6EGEB`,OwqBo9WNr:`Da estratégia e arquitetura à implementação e evolução das soluções.`,style:{height:`100%`,width:`100%`},width:`100%`,wJ2DGSH5x:Fo({pixelHeight:822,pixelWidth:822,src:`https://framerusercontent.com/images/Cphq5NtWr7djubKax7UnvokU4do.svg?width=822&height=822`,srcSet:`https://framerusercontent.com/images/Cphq5NtWr7djubKax7UnvokU4do.svg?scale-down-to=512&width=822&height=822 512w,https://framerusercontent.com/images/Cphq5NtWr7djubKax7UnvokU4do.svg?width=822&height=822 822w`},``)})})})})})]})]})]})}),d(x.section,{className:`framer-1mgo3s1`,"data-framer-name":`HowItWorks`,id:`1mgo3s1`,layout:w,children:m(`div`,{className:`framer-z5k9rj`,"data-framer-name":`Container`,children:[m(`div`,{className:`framer-1uyoytb`,"data-framer-name":`Heading`,children:[d(U,{height:36,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-vlecsf-container`,nodeId:`A3VdBdW9h`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(J,{BIDMndvd0:.7,cQI9DamX9:{borderColor:`var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, rgb(59, 57, 48))`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,height:`100%`,id:`A3VdBdW9h`,KeoHf_ARU:`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,layoutId:`A3VdBdW9h`,tjj7UTgn4:`var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, rgb(59, 57, 48))`,vbKoFf7Q0:!0,w5XGjIP2H:Lt,width:`100%`,zljOAbP0z:`NOSSA ABORDAGEM`})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:m(`h2`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`30px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-alignment":`center`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:[d(`strong`,{children:`Da estratégia à`}),` `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:d(`strong`,{children:`execução`})}),d(`strong`,{children:`.`})]})})},JvUVvulcJ:{children:d(s,{children:m(`h2`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`41px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-alignment":`center`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:[d(`strong`,{children:`Da estratégia à`}),` `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:d(`strong`,{children:`execução`})}),d(`strong`,{children:`.`})]})})}},children:d(Y,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:m(`h2`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`50px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-alignment":`center`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:[d(`strong`,{children:`Da estratégia à`}),` `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:d(`strong`,{children:`execução`})}),d(`strong`,{children:`.`})]})}),className:`framer-1qyzrhx`,fonts:[`FS;Manrope-medium`,`FS;Manrope-bold`],verticalAlignment:`top`,withExternalLayout:!0})}),d(Y,{__framer__animate:{transition:Po},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-alignment":`center`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Uma abordagem estruturada para transformar desafios de negócio em soluções tecnológicas e resultados.`})}),className:`framer-118rr9f`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),m(`div`,{className:`framer-1gvieij`,"data-framer-name":`Content`,children:[m(`div`,{className:`framer-lko323`,"data-framer-name":`Steps`,children:[m(`div`,{className:`framer-yobnau`,"data-framer-name":`Step 1`,id:j,ref:ae,children:[d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:.5,children:d(s,{children:d(`h2`,{className:`framer-styles-preset-1xwvxh3`,"data-styles-preset":`K6ZZaEiZa`,dir:`auto`,children:d(`span`,{"data-text-fill":`true`,style:{backgroundImage:`linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(166, 166, 166) 79.3103%)`},children:`01`})})}),className:`framer-1bwm7ar`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),m(`div`,{className:`framer-40xit8`,"data-framer-name":`Text`,children:[d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`h3`,{className:`framer-styles-preset-hd4366`,"data-styles-preset":`ExWszoMVd`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Discovery`})}),className:`framer-qao20k`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-n0dfic`,"data-styles-preset":`NM_uX2bcR`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Entendemos o negócio, os desafios, necessidades, contexto tecnológico e oportunidades.`})}),className:`framer-9d6h5k`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),M()&&d(L,{breakpoint:y,overrides:{EIXefzEOt:{height:353,width:`min(${u?.width||`100vw`} - 32px, 1120px)`}},children:d(U,{children:d(B,{className:`framer-175ojva-container hidden-72rtr7 hidden-vlbm8s`,nodeId:`uwh3WHGt2`,scopeId:`augiA20Il`,children:d(Kn,{height:`100%`,id:`uwh3WHGt2`,layoutId:`uwh3WHGt2`,style:{height:`100%`,maxHeight:`100%`,width:`100%`},variant:Z(`WSBmedMw3`),width:`100%`})})})})]}),m(`div`,{className:`framer-sake9c`,"data-framer-name":`Step 2`,id:oe,ref:se,children:[d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:.5,children:d(s,{children:d(`h2`,{className:`framer-styles-preset-1xwvxh3`,"data-styles-preset":`K6ZZaEiZa`,dir:`auto`,children:d(`span`,{"data-text-fill":`true`,style:{backgroundImage:`linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(166, 166, 166) 79.3103%)`},children:`02`})})}),className:`framer-8dymt3`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),m(`div`,{className:`framer-s8rgu9`,"data-framer-name":`Text`,children:[d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`h3`,{className:`framer-styles-preset-hd4366`,"data-styles-preset":`ExWszoMVd`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Design`})}),className:`framer-1kmhyre`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Desenhamos a solução, arquitetura, processos, experiência e roadmap.`})}),className:`framer-72do80`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),M()&&d(L,{breakpoint:y,overrides:{EIXefzEOt:{height:353,width:`min(${u?.width||`100vw`} - 32px, 1120px)`}},children:d(U,{children:d(B,{className:`framer-1mmtta3-container hidden-72rtr7 hidden-vlbm8s`,nodeId:`Z8Uf5SVm1`,scopeId:`augiA20Il`,children:d(Kn,{height:`100%`,id:`Z8Uf5SVm1`,layoutId:`Z8Uf5SVm1`,style:{height:`100%`,maxHeight:`100%`,width:`100%`},variant:Z(`kYQKlNLHQ`),width:`100%`})})})})]}),m(`div`,{className:`framer-ndtfxm`,"data-framer-name":`Step 3`,id:ce,ref:F,children:[d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:.5,children:d(s,{children:d(`h2`,{className:`framer-styles-preset-1xwvxh3`,"data-styles-preset":`K6ZZaEiZa`,dir:`auto`,children:d(`span`,{"data-text-fill":`true`,style:{backgroundImage:`linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(166, 166, 166) 79.3103%)`},children:`03`})})}),className:`framer-1oespgg`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),m(`div`,{className:`framer-1ytp22k`,"data-framer-name":`Text`,children:[d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`h3`,{className:`framer-styles-preset-hd4366`,"data-styles-preset":`ExWszoMVd`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Implementação`})}),className:`framer-119legz`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Transformamos o desenho em solução, integrando tecnologia, processos e execução.`})}),className:`framer-1prxvq0`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),M()&&d(L,{breakpoint:y,overrides:{EIXefzEOt:{height:353,width:`min(${u?.width||`100vw`} - 32px, 1120px)`}},children:d(U,{children:d(B,{className:`framer-1xvjsou-container hidden-72rtr7 hidden-vlbm8s`,nodeId:`iW1y4Ap95`,scopeId:`augiA20Il`,children:d(Kn,{height:`100%`,id:`iW1y4Ap95`,layoutId:`iW1y4Ap95`,style:{height:`100%`,maxHeight:`100%`,width:`100%`},variant:Z(`mSGCxerAd`),width:`100%`})})})})]}),m(`div`,{className:`framer-1pvenrj`,"data-framer-name":`Step 4`,id:ue,ref:I,children:[d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:.5,children:d(s,{children:d(`h2`,{className:`framer-styles-preset-1xwvxh3`,"data-styles-preset":`K6ZZaEiZa`,dir:`auto`,children:d(`span`,{"data-text-fill":`true`,style:{backgroundImage:`linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(166, 166, 166) 79.3103%)`},children:`04`})})}),className:`framer-1nrg4o4`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),m(`div`,{className:`framer-11ak85`,"data-framer-name":`Text`,children:[d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`h3`,{className:`framer-styles-preset-hd4366`,"data-styles-preset":`ExWszoMVd`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Evolução`})}),className:`framer-10s713u`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Medimos resultados, otimizamos, escalamos e evoluímos continuamente.`})}),className:`framer-1p52a6h`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),M()&&d(L,{breakpoint:y,overrides:{EIXefzEOt:{height:353,width:`min(${u?.width||`100vw`} - 32px, 1120px)`}},children:d(U,{children:d(B,{className:`framer-ri3h9g-container hidden-72rtr7 hidden-vlbm8s`,nodeId:`o2_KcgMMY`,scopeId:`augiA20Il`,children:d(Kn,{height:`100%`,id:`o2_KcgMMY`,layoutId:`o2_KcgMMY`,style:{height:`100%`,maxHeight:`100%`,width:`100%`},variant:Z(`YaQ14a9NS`),width:`100%`})})})})]})]}),T()&&d(`div`,{className:`framer-1o6p6og hidden-c8amib`,"data-framer-name":`Images`,children:d(L,{breakpoint:y,overrides:{JvUVvulcJ:{height:433,width:`calc(max(min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) / 2, 50px) - 30px)`}},children:d(U,{height:350,width:`calc(max(min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) / 2, 50px) - 30px)`,children:d(B,{className:`framer-1pxqv0y-container`,nodeId:`bzifMaqjw`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(fo,{__framer__animateOnce:!1,__framer__targets:[{ref:se,target:`kYQKlNLHQ`},{ref:F,target:`mSGCxerAd`},{ref:I,target:`YaQ14a9NS`}],__framer__threshold:.5,__framer__variantAppearEffectEnabled:!0,height:`100%`,id:`bzifMaqjw`,layoutId:`bzifMaqjw`,style:{height:`100%`,maxHeight:`100%`,width:`100%`},variant:Z(`WSBmedMw3`),width:`100%`})})})})})]})]})}),d(x.section,{className:`framer-ex69bk`,"data-framer-name":`CaseStudies`,id:de,layout:w,ref:fe,children:m(`div`,{className:`framer-1mxtp5v`,"data-framer-name":`Container`,children:[m(`div`,{className:`framer-1gfuvmz`,"data-framer-name":`Heading`,children:[d(U,{height:36,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-1qrdvop-container`,nodeId:`MdxGKx5Pk`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(J,{BIDMndvd0:1,cQI9DamX9:{borderColor:`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,height:`100%`,id:`MdxGKx5Pk`,KeoHf_ARU:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,layoutId:`MdxGKx5Pk`,tjj7UTgn4:`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,vbKoFf7Q0:!0,w5XGjIP2H:Ze,width:`100%`,zljOAbP0z:`CASES`})})}),d(Y,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:m(`h2`,{className:`framer-styles-preset-7kh1l3`,"data-styles-preset":`h6g2V_KLn`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:[`Tecnologia que gera `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`resultados`}),d(`span`,{style:{"--framer-text-color":`var(--token-aacda8de-9ae9-4d6f-b435-1cc2b883ad3c, rgb(255, 122, 13))`},children:`.`})]})}),className:`framer-o1egoa`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(Y,{__framer__animate:{transition:Po},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:`Desafios reais transformados em soluções digitais que geram valor para o negócio.`})}),className:`framer-a3y21b`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),m(`div`,{className:`framer-sihzi7`,"data-framer-name":`Cards`,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`min(${u?.width||`100vw`} - 32px, 1120px)`},JvUVvulcJ:{width:`min(max(${u?.width||`100vw`} - 64px, 1px), 1120px)`}},children:d(U,{height:612,width:`min(max(${u?.width||`100vw`} - 80px, 1px), 1120px)`,children:d(X,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}},{ref:R,target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:.95,skewX:0,skewY:0,x:0,y:0}},{ref:z,target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:.95,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onScrollTarget`,__framer__transformViewportThreshold:1,__perspectiveFX:!1,__targetOpacity:1,className:`framer-x86bsi-container`,id:H,nodeId:`n3TnSvnr_`,ref:be,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{variant:Z(`RrXfwTyVq`)},JvUVvulcJ:{variant:Z(`r5RqauV5e`)}},children:d(Pn,{AdjLfLWcf:`Centralização de processos, informações e indicadores em uma solução integrada, proporcionando maior controle e visibilidade para a gestão.`,dxkF5smpr:`Dados & Analytics`,fbpfDv_8V:`Plataforma Digital`,height:`100%`,id:`n3TnSvnr_`,K2mGH1Qc3:`Maior visibilidade das informações`,kVzBBKvN0:Fo({pixelHeight:1254,pixelWidth:1254,src:`https://framerusercontent.com/images/FOEFuQmyEscU9ZPDXmk3bnjqvM.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/FOEFuQmyEscU9ZPDXmk3bnjqvM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/FOEFuQmyEscU9ZPDXmk3bnjqvM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/FOEFuQmyEscU9ZPDXmk3bnjqvM.png?width=1254&height=1254 1254w`},`Two business professionals collaborating on a laptop in a modern office workspace.`),layoutId:`n3TnSvnr_`,PFm4ndQ5W:`Plataforma digital para gestão de operações`,SbZp6oq7O:`Processos centralizados e integrados`,style:{width:`100%`},Uh7dbRDQE:`Gestão orientada por dados`,variant:Z(`wj2dm3W7j`),width:`100%`})})})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`min(${u?.width||`100vw`} - 32px, 1120px)`},JvUVvulcJ:{width:`min(max(${u?.width||`100vw`} - 64px, 1px), 1120px)`}},children:d(U,{height:612,width:`min(max(${u?.width||`100vw`} - 80px, 1px), 1120px)`,children:d(X,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}},{ref:z,target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:.95,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onScrollTarget`,__framer__transformViewportThreshold:1,__perspectiveFX:!1,__targetOpacity:1,className:`framer-s4z9xr-container`,id:xe,nodeId:`LjsN_fNYq`,ref:R,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{variant:Z(`RrXfwTyVq`)},JvUVvulcJ:{variant:Z(`r5RqauV5e`)}},children:d(Pn,{AdjLfLWcf:`Redesenho de processos e aplicação de tecnologia para simplificar fluxos, integrar áreas e aumentar a eficiência operacional.`,dxkF5smpr:`Transformação Digital`,fbpfDv_8V:`Otimização de Processos`,height:`100%`,id:`LjsN_fNYq`,K2mGH1Qc3:`Maior integração entre áreas`,kVzBBKvN0:Fo({pixelHeight:1254,pixelWidth:1254,src:`https://framerusercontent.com/images/hfAHc1SsDoFlm9vKVlnWbaPnyM.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/hfAHc1SsDoFlm9vKVlnWbaPnyM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/hfAHc1SsDoFlm9vKVlnWbaPnyM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/hfAHc1SsDoFlm9vKVlnWbaPnyM.png?width=1254&height=1254 1254w`},`Business team meeting with manager presenting ideas in a modern office conference room.`),layoutId:`LjsN_fNYq`,PFm4ndQ5W:`Otimização e digitalização de processos`,SbZp6oq7O:`Processos simplificados e padronizados`,style:{width:`100%`},Uh7dbRDQE:`Mais eficiência operacional`,variant:Z(`wj2dm3W7j`),width:`100%`})})})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`min(${u?.width||`100vw`} - 32px, 1120px)`},JvUVvulcJ:{width:`min(max(${u?.width||`100vw`} - 64px, 1px), 1120px)`}},children:d(U,{height:612,width:`min(max(${u?.width||`100vw`} - 80px, 1px), 1120px)`,children:d(B,{className:`framer-1uvsc1t-container`,id:K,nodeId:`IwMNOecm6`,ref:z,scopeId:`augiA20Il`,children:d(L,{breakpoint:y,overrides:{EIXefzEOt:{variant:Z(`RrXfwTyVq`)},JvUVvulcJ:{variant:Z(`r5RqauV5e`)}},children:d(Pn,{AdjLfLWcf:`Aplicação de inteligência artificial e automação para simplificar atividades, ampliar o acesso à informação e apoiar a tomada de decisão.`,dxkF5smpr:`Automação`,fbpfDv_8V:`Inteligência Artificial`,height:`100%`,id:`IwMNOecm6`,K2mGH1Qc3:`Informação acessível de forma inteligente`,kVzBBKvN0:Fo({pixelHeight:1254,pixelWidth:1254,src:`https://framerusercontent.com/images/a4IA2B9QFeM9Z2T1ADWBAtLX60.png?width=1254&height=1254`,srcSet:`https://framerusercontent.com/images/a4IA2B9QFeM9Z2T1ADWBAtLX60.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/a4IA2B9QFeM9Z2T1ADWBAtLX60.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/a4IA2B9QFeM9Z2T1ADWBAtLX60.png?width=1254&height=1254 1254w`},`Two professionals working on laptops and drinking coffee in a modern coworking café.`),layoutId:`IwMNOecm6`,PFm4ndQ5W:`IA e automação para otimizar operações`,SbZp6oq7O:`Automação de atividades operacionais`,style:{width:`100%`},Uh7dbRDQE:`Mais agilidade na tomada de decisão`,variant:Z(`wj2dm3W7j`),width:`100%`})})})})})]})]})}),d(x.section,{className:`framer-v1omwe`,"data-framer-name":`OurTeam`,id:q,layout:w,ref:we,children:m(`div`,{className:`framer-1i8uip1`,"data-framer-name":`Container`,children:[m(`div`,{className:`framer-1ljacsi`,"data-framer-name":`Heading`,children:[d(U,{height:36,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-10p1u4k-container`,nodeId:`LiHRR7He_`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(J,{BIDMndvd0:.7,cQI9DamX9:{borderColor:`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,height:`100%`,id:`LiHRR7He_`,KeoHf_ARU:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,layoutId:`LiHRR7He_`,tjj7UTgn4:`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,vbKoFf7Q0:!0,w5XGjIP2H:xt,width:`100%`,zljOAbP0z:`QUEM SOMOS`})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:m(`h3`,{className:`framer-styles-preset-hd4366`,"data-styles-preset":`ExWszoMVd`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:[`Tecnologia com experiência `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`de quem conhece o negócio.`})]})})}},children:d(Y,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:m(`h2`,{className:`framer-styles-preset-7kh1l3`,"data-styles-preset":`h6g2V_KLn`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:[`Tecnologia com experiência `,d(`span`,{style:{"--framer-text-color":`rgb(255, 184, 0)`},children:`de quem conhece o negócio.`})]})}),className:`framer-tivpjm`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`15px`,"--framer-font-weight":`500`,"--framer-line-height":`1.5em`,"--framer-text-alignment":`center`,"--framer-text-color":`rgb(51, 68, 119)`},children:`A UPGOAL nasce da experiência em tecnologia, liderança e transformação em grandes ambientes corporativos, conectando visão estratégica e capacidade de execução.`})}),fonts:[`FS;Manrope-medium`]}},children:d(Y,{__framer__animate:{transition:Po},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:`A UPGOAL nasce da experiência em tecnologia, liderança e transformação em grandes ambientes corporativos, conectando visão estratégica e capacidade de execução.`})}),className:`framer-j1e1od`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})})]}),m(`div`,{className:`framer-22dn1n`,"data-framer-name":`Team Card Container`,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`max(min(${u?.width||`100vw`} - 32px, 1120px), 50px)`},JvUVvulcJ:{width:`max((min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`}},children:d(U,{height:406,width:`max((min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) - 32px) / 3, 50px)`,children:d(X,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-1098403-container`,nodeId:`wSXcPFl3J`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(qt,{height:`100%`,id:`wSXcPFl3J`,layoutId:`wSXcPFl3J`,style:{width:`100%`},WFI793zsA:Fo({pixelHeight:986,pixelWidth:791,src:`https://framerusercontent.com/images/TJSNf7tEAVXERORhE8vh5PoEXlY.png?width=791&height=986`,srcSet:`https://framerusercontent.com/images/TJSNf7tEAVXERORhE8vh5PoEXlY.png?width=791&height=986 791w`},`Smiling young man wearing a maroon turtleneck in a professional studio portrait.`),width:`100%`})})})}),m(`div`,{className:`framer-c2jfr4`,"data-framer-name":`Text`,children:[m(`div`,{className:`framer-n7phum`,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`h3`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1zZW1pYm9sZA==`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`22px`,"--framer-font-weight":`600`,"--framer-letter-spacing":`-0.02em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`Robson Nunes`})})},JvUVvulcJ:{children:d(s,{children:d(`h3`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1zZW1pYm9sZA==`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`26px`,"--framer-font-weight":`600`,"--framer-letter-spacing":`-0.02em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`Robson Nunes`})})}},children:d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`h3`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1zZW1pYm9sZA==`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`28px`,"--framer-font-weight":`600`,"--framer-letter-spacing":`-0.02em`,"--framer-text-color":`rgb(7, 20, 92)`},children:`Robson Nunes`})}),className:`framer-1madq09`,fonts:[`FS;Manrope-semibold`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`h3`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`14px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-color":`rgb(51, 68, 119)`},children:`Founder, UPGOAL`})})}},children:d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`h3`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`18px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-color":`rgb(51, 68, 119)`},children:`Founder, UPGOAL`})}),className:`framer-146z416`,fonts:[`FS;Manrope-medium`],verticalAlignment:`top`,withExternalLayout:!0})})]}),d(`div`,{className:`framer-epgigs`,children:m(`div`,{className:`framer-6wyb0h`,children:[d(L,{breakpoint:y,overrides:{JvUVvulcJ:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`15px`,"--framer-letter-spacing":`-0.01em`,"--framer-line-height":`1.5em`,"--framer-text-color":`rgb(51, 68, 119)`},children:`Robson Nunes fundou a UPGOAL em 2007, com atuação inicialmente focada em análise de sistemas e desenvolvimento de software para grandes instituições financeiras.`})})}},children:d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-letter-spacing":`-0.01em`,"--framer-line-height":`1.5em`,"--framer-text-color":`rgb(51, 68, 119)`},children:`Robson Nunes fundou a UPGOAL em 2007, com atuação inicialmente focada em análise de sistemas e desenvolvimento de software para grandes instituições financeiras.`})}),className:`framer-1ea3rhd`,fonts:[`FS;Manrope-regular`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{JvUVvulcJ:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`15px`,"--framer-letter-spacing":`-0.01em`,"--framer-line-height":`1.5em`,"--framer-text-color":`rgb(51, 68, 119)`},children:`Sua trajetória em grandes ambientes corporativos de diferentes setores ampliou sua perspectiva sobre os desafios das organizações e o papel da tecnologia na evolução dos negócios.`})})}},children:d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-letter-spacing":`-0.01em`,"--framer-line-height":`1.5em`,"--framer-text-color":`rgb(51, 68, 119)`},children:`Sua trajetória em grandes ambientes corporativos de diferentes setores ampliou sua perspectiva sobre os desafios das organizações e o papel da tecnologia na evolução dos negócios.`})}),className:`framer-1w97azx`,fonts:[`FS;Manrope-regular`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{JvUVvulcJ:{children:d(s,{children:m(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`15px`,"--framer-letter-spacing":`-0.01em`,"--framer-line-height":`1.5em`,"--framer-text-color":`rgb(51, 68, 119)`},children:[d(`span`,{style:{"--font-selector":`RlM7TWFucm9wZS1zZW1pYm9sZA==`,"--framer-font-weight":`600`},children:`Essa visão também transformou a UPGOAL`}),`. Hoje, a empresa conecta estratégia, tecnologia e execução para transformar desafios de negócio em soluções digitais que geram resultados e impulsionam novas oportunidades.`]})})}},children:d(Y,{__framer__styleTransformEffectEnabled:!0,__framer__transformTargets:[{target:{opacity:0,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:40}},{target:{opacity:1,rotate:0,rotateX:0,rotateY:0,scale:1,skewX:0,skewY:0,x:0,y:0}}],__framer__transformTrigger:`onInView`,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:m(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-letter-spacing":`-0.01em`,"--framer-line-height":`1.5em`,"--framer-text-color":`rgb(51, 68, 119)`},children:[d(`span`,{style:{"--font-selector":`RlM7TWFucm9wZS1zZW1pYm9sZA==`,"--framer-font-weight":`600`},children:`Essa visão também transformou a UPGOAL`}),`. Hoje, a empresa conecta estratégia, tecnologia e execução para transformar desafios de negócio em soluções digitais que geram resultados e impulsionam novas oportunidades.`]})}),className:`framer-1j447vm`,fonts:[`FS;Manrope-regular`,`FS;Manrope-semibold`],verticalAlignment:`top`,withExternalLayout:!0})})]})})]})]})]})}),d(x.section,{className:`framer-qt3uut`,"data-framer-name":`FAQs`,id:Te,layout:w,ref:Ee,children:m(`div`,{className:`framer-13fuz6h`,"data-framer-name":`Container`,children:[m(`div`,{className:`framer-1yharqn`,"data-framer-name":`Heading`,children:[d(U,{height:36,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-pql414-container`,nodeId:`dydLqpv_I`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(J,{BIDMndvd0:.7,cQI9DamX9:{borderColor:`var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,height:`100%`,id:`dydLqpv_I`,KeoHf_ARU:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,layoutId:`dydLqpv_I`,tjj7UTgn4:`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,vbKoFf7Q0:!0,w5XGjIP2H:pt,width:`100%`,zljOAbP0z:`FAQ`})})}),d(Y,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`h2`,{className:`framer-styles-preset-7kh1l3`,"data-styles-preset":`h6g2V_KLn`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:`Dúvidas frequentes`})}),className:`framer-d5nlvz`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(Y,{__framer__animate:{transition:Po},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1pelfvi`,"data-styles-preset":`kjzXGiNic`,dir:`auto`,style:{"--framer-text-alignment":`center`},children:`Tudo o que você precisa saber para começar.`})}),className:`framer-1irxwzg`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})]}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`min(min(${u?.width||`100vw`} - 32px, 1120px), 800px)`},JvUVvulcJ:{width:`min(min(max(${u?.width||`100vw`} - 64px, 1px), 1120px), 800px)`}},children:d(U,{height:752,width:`min(min(max(${u?.width||`100vw`} - 80px, 1px), 1120px), 800px)`,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-cpg40s-container`,nodeId:`qRYgMbd7i`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(Dr,{height:`100%`,id:`qRYgMbd7i`,layoutId:`qRYgMbd7i`,style:{maxWidth:`100%`,width:`100%`},width:`100%`})})})})]})}),m(x.section,{className:`framer-18he95t`,"data-framer-name":`Contact`,id:De,layout:w,ref:Oe,children:[d(L,{breakpoint:y,overrides:{EIXefzEOt:{background:{alt:`Three women gathered around a table with a laptop, actively collaborating and sharing insights during their meeting.`,fit:`fill`,intrinsicHeight:861,intrinsicWidth:1180,pixelHeight:861,pixelWidth:1180,positionX:`40.7%`,positionY:`0%`,sizes:u?.width||`100vw`,src:`https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861`,srcSet:`https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=512&width=1180&height=861 512w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=1024&width=1180&height=861 1024w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861 1180w`}},JvUVvulcJ:{background:{alt:`Three women gathered around a table with a laptop, actively collaborating and sharing insights during their meeting.`,fit:`fill`,intrinsicHeight:861,intrinsicWidth:1180,pixelHeight:861,pixelWidth:1180,positionX:`17%`,positionY:`30.2%`,sizes:u?.width||`100vw`,src:`https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861`,srcSet:`https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=512&width=1180&height=861 512w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=1024&width=1180&height=861 1024w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861 1180w`}}},children:d(G,{as:`figure`,background:{alt:`Three women gathered around a table with a laptop, actively collaborating and sharing insights during their meeting.`,fit:`fill`,intrinsicHeight:861,intrinsicWidth:1180,pixelHeight:861,pixelWidth:1180,positionX:`left`,positionY:`top`,sizes:`calc(${u?.width||`100vw`} - 502px)`,src:`https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861`,srcSet:`https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=512&width=1180&height=861 512w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=1024&width=1180&height=861 1024w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861 1180w`},className:`framer-1ggw8h6`,"data-framer-name":`Image`,children:d(`div`,{className:`framer-1i3wlzw`,"data-framer-name":`Overlay`,children:d(`div`,{className:`framer-niaqf0`,"data-framer-name":`Bottom Overlay`})})})}),m(`div`,{className:`framer-1dz6oct`,"data-framer-name":`Container`,children:[m(`div`,{className:`framer-1iqa4dw`,"data-framer-name":`Text & Information`,children:[m(`div`,{className:`framer-edbqf0`,"data-framer-name":`Text Container`,children:[d(U,{height:36,children:d(X,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,className:`framer-7gjgzb-container`,nodeId:`rYJHIl0D3`,rendersWithMotion:!0,scopeId:`augiA20Il`,children:d(J,{BIDMndvd0:.7,cQI9DamX9:{borderColor:`var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, rgb(59, 57, 48))`,borderStyle:`solid`,borderWidth:1},G_faciQgo:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,height:`100%`,id:`rYJHIl0D3`,KeoHf_ARU:`var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,layoutId:`rYJHIl0D3`,tjj7UTgn4:`var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,vbKoFf7Q0:!0,w5XGjIP2H:at,width:`100%`,zljOAbP0z:`Contato`})})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`h3`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1zZW1pYm9sZA==`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`25px`,"--framer-font-weight":`600`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.15em`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Vamos transformar seu desafio em solução.`})}),fonts:[`FS;Manrope-semibold`]},JvUVvulcJ:{children:d(s,{children:d(`h3`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`26px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Vamos transformar seu desafio em solução.`})})}},children:d(Y,{__framer__animate:{transition:Mo},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`h3`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1tZWRpdW0=`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`35px`,"--framer-font-weight":`500`,"--framer-letter-spacing":`-0.02em`,"--framer-line-height":`1.3em`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Vamos transformar seu desafio em solução.`})}),className:`framer-1g0am36`,fonts:[`FS;Manrope-medium`],verticalAlignment:`top`,withExternalLayout:!0})}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-line-height":`1.45em`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Conte-nos sobre seu desafio. Vamos conversar sobre como a tecnologia pode apoiar seu negócio.`})}),fonts:[`FS;Manrope-regular`]}},children:d(Y,{__framer__animate:{transition:Po},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__fromCanvasComponent:!0,__perspectiveFX:!1,__targetOpacity:1,children:d(s,{children:d(`p`,{className:`framer-styles-preset-n0dfic`,"data-styles-preset":`NM_uX2bcR`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`Conte-nos sobre seu desafio. Vamos conversar sobre como a tecnologia pode apoiar seu negócio.`})}),className:`framer-1pjze87`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})})]}),m(`div`,{className:`framer-16e4z99`,"data-framer-name":`Information`,children:[d(ge,{href:`mailto:support@cunsultra.com`,motionChild:!0,nodeId:`jEyrz8iz7`,openInNewTab:!0,scopeId:`augiA20Il`,children:m(x.a,{className:`framer-7vxu2o framer-lux5qc`,"data-border":!0,"data-framer-name":`Email`,children:[m(Se,{className:`framer-896486`,"data-framer-name":`Icon`,requiresOverflowVisible:!1,svg:`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 14.142" overflow="visible"><path d="M 0.003 2.767 C 0.07 1.22 1.344 0 2.893 0 L 15.107 0 C 16.656 0 17.93 1.22 17.997 2.767 L 17.049 3.294 L 9 7.626 L 0.951 3.293 L 0.003 2.766 Z M 0 4.234 L 0 11.249 C 0 12.846 1.295 14.142 2.893 14.142 L 15.107 14.142 C 16.704 14.142 17.999 12.847 18 11.25 L 18 4.235 L 17.662 4.424 L 9.305 8.924 C 9.114 9.027 8.886 9.027 8.695 8.924 L 0.33 4.419 L 0 4.235 Z" fill="var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))"></path></svg>`,withExternalLayout:!0,children:[d(Se,{className:`framer-1qiwkju`,requiresOverflowVisible:!1,svg:`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17.995 7.626" overflow="visible"><path d="M 0 2.767 C 0.067 1.22 1.342 0 2.89 0 L 15.105 0 C 16.653 0 17.927 1.22 17.995 2.767 L 17.046 3.294 L 8.997 7.626 L 0.949 3.293 L 0 2.766 Z" fill="transparent"></path></svg>`,withExternalLayout:!0}),d(Se,{className:`framer-z0awoe`,requiresOverflowVisible:!1,svg:`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 9.908" overflow="visible"><path d="M 0 0 L 0 7.015 C 0 8.613 1.295 9.908 2.893 9.908 L 15.107 9.908 C 16.704 9.908 17.999 8.613 18 7.016 L 18 0.001 L 17.662 0.19 L 9.305 4.69 C 9.114 4.793 8.886 4.793 8.695 4.69 L 0.33 0.185 L 0 0.001 Z" fill="transparent"></path></svg>`,withExternalLayout:!0})]}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`14px`,"--framer-line-height":`1.4em`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`contato@upgoal.com.br`})}),fonts:[`FS;Manrope-regular`]}},children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`p`,{className:`framer-styles-preset-5np2z3`,"data-styles-preset":`rhST_ZvFU`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`contato@upgoal.com.br`})}),className:`framer-9el6s3`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})})]})}),d(ge,{href:`tel:0012121231223`,motionChild:!0,nodeId:`f3r1noret`,openInNewTab:!0,scopeId:`augiA20Il`,children:m(x.a,{className:`framer-fn1eby framer-lux5qc`,"data-border":!0,"data-framer-name":`Phone`,children:[d(Se,{className:`framer-51x4gw`,requiresOverflowVisible:!1,svg:`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17.388 17.266" overflow="visible"><path d="M 2.137 0 L 5.198 0 C 5.453 0 5.681 0.158 5.771 0.397 L 6.959 3.555 C 6.998 3.66 7.008 3.773 6.988 3.882 L 6.392 7.075 C 7.124 8.796 8.333 9.952 10.336 10.989 L 13.491 10.377 C 13.603 10.356 13.719 10.366 13.825 10.407 L 16.993 11.614 C 17.231 11.705 17.387 11.932 17.388 12.186 L 17.388 15.111 C 17.388 16.438 16.219 17.514 14.851 17.216 C 12.359 16.674 7.743 15.296 4.509 12.062 C 1.411 8.965 0.373 4.687 0.024 2.375 C -0.176 1.054 0.883 0 2.137 0 Z" fill="var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))"></path></svg>`,withExternalLayout:!0}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{children:d(s,{children:d(`p`,{dir:`auto`,style:{"--font-selector":`RlM7TWFucm9wZS1yZWd1bGFy`,"--framer-font-family":`"Manrope", "Manrope Placeholder", sans-serif`,"--framer-font-size":`14px`,"--framer-line-height":`1.4em`,"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`+55 (11) 94584-8172`})}),fonts:[`FS;Manrope-regular`]}},children:d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`p`,{className:`framer-styles-preset-5np2z3`,"data-styles-preset":`rhST_ZvFU`,dir:`auto`,style:{"--framer-text-color":`var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`},children:`+55 (11) 94584-8172`})}),className:`framer-n1z2tu`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0})})]})})]})]}),d(_o,{__framer__animate:{transition:$},__framer__animateOnce:!0,__framer__enter:Q,__framer__styleAppearEffectEnabled:!0,__framer__threshold:.5,__perspectiveFX:!1,__targetOpacity:1,action:`https://api.framer.com/forms/v1/forms/f4432696-3517-4125-bc67-6de60d182fad/submit`,className:`framer-1erp5fm`,nodeId:`nFQQvAwqS`,children:e=>m(g,{children:[m(`label`,{className:`framer-1f5eml7`,children:[d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1st835d`,"data-styles-preset":`dzHmrYhu8`,dir:`auto`,style:{"--framer-text-color":`var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`},children:`Nome`})}),className:`framer-bvvtyi`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(he,{className:`framer-6lnbhj`,inputName:`Full Name`,placeholder:`Nome de contato`,required:!0,tabIndex:1,type:`text`})]}),m(`label`,{className:`framer-jwlgc`,children:[d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1st835d`,"data-styles-preset":`dzHmrYhu8`,dir:`auto`,style:{"--framer-text-color":`var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`},children:`E-mail corporativo`})}),className:`framer-1loel26`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(he,{className:`framer-1sh4r2v`,inputName:`Email Address`,placeholder:`nome@empresa.com.br`,required:!0,tabIndex:1,type:`email`})]}),m(`label`,{className:`framer-1uskh03`,children:[d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1st835d`,"data-styles-preset":`dzHmrYhu8`,dir:`auto`,style:{"--framer-text-color":`var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`},children:`Como podemos ajudar?`})}),className:`framer-1tp442z`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(ve,{className:`framer-1vl7pxt`,defaultValue:``,inputName:`Subject of Interest`,required:!1,selectOptions:[{title:`Selecione uma opção`,type:`option`,value:``},{title:`Soluções Digitais`,type:`option`,value:`Soluções Digitais`},{title:`IA & Automação`,type:`option`,value:`IA & Automação`},{title:`Dados & Analytics`,type:`option`,value:`Dados & Analytics`},{title:`Estratégia & Governança de Tecnologia`,type:`option`,value:`Estratégia & Governança de Tecnologia`},{title:`Outro`,type:`option`,value:`Outro`}],tabIndex:1})]}),m(`label`,{className:`framer-1fh062x`,children:[d(N,{__fromCanvasComponent:!0,children:d(s,{children:d(`p`,{className:`framer-styles-preset-1st835d`,"data-styles-preset":`dzHmrYhu8`,dir:`auto`,style:{"--framer-text-color":`var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`},children:`Conte-nos sobre seu desafio`})}),className:`framer-1r0bpot`,fonts:[`Inter`],verticalAlignment:`top`,withExternalLayout:!0}),d(he,{className:`framer-elcokq`,inputName:`Message`,placeholder:`Conte brevemente o que sua empresa precisa...`,required:!0,tabIndex:1,type:`textarea`})]}),d(L,{breakpoint:y,overrides:{EIXefzEOt:{width:`calc(min(${u?.width||`100vw`} - 32px, 1120px) - 48px)`},JvUVvulcJ:{width:`calc(min(max(${u?.width||`100vw`} - 64px, 1px), 1120px) - 48px)`}},children:d(U,{height:48,width:`calc(max((min(max(${u?.width||`100vw`} - 80px, 1px), 1120px) - 80px) / 2, 1px) - 48px)`,children:d(B,{className:`framer-blxr3i-container`,nodeId:`mGHROhWKr`,scopeId:`augiA20Il`,children:d(Ci,{height:`100%`,id:`mGHROhWKr`,layoutId:`mGHROhWKr`,style:{height:`100%`,width:`100%`},type:`submit`,variant:Io(e,{error:`Mi13FqsiN`,incomplete:`juq4WSa8_`,pending:`iRCCC6zg4`,success:`w4rUkkv9p`},Z(`IzWsCW0CG`)),width:`100%`,XIHQAvpk2:`Fale com a UPGOAL`})})})})]})})]})]})]}),d(`div`,{id:`overlay`})]})})}),[`.framer-a8flv.framer-lux5qc, .framer-a8flv .framer-lux5qc { display: block; }`,`.framer-a8flv.framer-72rtr7 { align-content: center; align-items: center; background-color: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, #f5f0e8); display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1218px; }`,`.framer-a8flv .framer-p98m37 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; min-height: 100vh; overflow: var(--overflow-clip-fallback, clip); padding: 100px 40px 100px 40px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1letey9 { flex: none; height: 100vh; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; top: 0px; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`,`.framer-a8flv .framer-1q5gv3k { flex: none; height: 100vh; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; top: calc(50.00000000000002% - 100vh / 2); width: 100%; will-change: var(--framer-will-change-filter-override, filter); }`,`.framer-a8flv .framer-18g7lct { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; max-width: 1120px; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; z-index: 1; }`,`.framer-a8flv .framer-1vcsdp3 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 11px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`,`.framer-a8flv .framer-143bdf6, .framer-a8flv .framer-bsr3mu, .framer-a8flv .framer-o1egoa, .framer-a8flv .framer-a3y21b, .framer-a8flv .framer-9el6s3, .framer-a8flv .framer-n1z2tu { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre; width: auto; }`,`.framer-a8flv .framer-1cmui4l { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 64px; height: min-content; justify-content: center; max-width: 820px; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-17owkka { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 32px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1tboang { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; max-width: 660px; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-z06wl8, .framer-a8flv .framer-1r4e5vv, .framer-a8flv .framer-tt3kek, .framer-a8flv .framer-10h3coi, .framer-a8flv .framer-pd11bf, .framer-a8flv .framer-1qyzrhx, .framer-a8flv .framer-118rr9f, .framer-a8flv .framer-qao20k, .framer-a8flv .framer-1kmhyre, .framer-a8flv .framer-119legz, .framer-a8flv .framer-10s713u, .framer-a8flv .framer-d5nlvz, .framer-a8flv .framer-1irxwzg, .framer-a8flv .framer-1g0am36 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-1uibgej { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: 72px; position: relative; white-space: pre-wrap; width: 660px; will-change: var(--framer-will-change-effect-override, transform); word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-1c3rxic { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-13bb81r-container { flex: none; height: auto; position: relative; width: auto; will-change: var(--framer-will-change-effect-override, transform); }`,`.framer-a8flv .framer-17usac1 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`,`.framer-a8flv .framer-19lguon, .framer-a8flv .framer-102089p { background-color: var(--token-24c53615-8b7e-45eb-8641-dad0d83e7e4f, rgba(255, 255, 255, 0.5)); flex: none; height: 18px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 1px; }`,`.framer-a8flv .framer-xzrekb { align-content: center; align-items: center; background-color: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 50px 40px 50px 40px; position: relative; width: 100%; }`,`.framer-a8flv .framer-coeewu { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 87px; height: min-content; justify-content: center; max-width: 1120px; overflow: visible; padding: 0px; position: relative; width: 1px; }`,`.framer-a8flv .framer-1m09fpc { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 16%; position: relative; white-space: pre-wrap; width: 180px; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-sxp70c-container { flex: none; height: auto; position: relative; width: 846px; }`,`.framer-a8flv .framer-vg7zeq, .framer-a8flv .framer-ex69bk, .framer-a8flv .framer-v1omwe { align-content: center; align-items: center; background-color: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 100px 40px 100px 40px; position: relative; width: 100%; }`,`.framer-a8flv .framer-x8hayp, .framer-a8flv .framer-mf8cvp, .framer-a8flv .framer-z5k9rj, .framer-a8flv .framer-1mxtp5v, .framer-a8flv .framer-1i8uip1, .framer-a8flv .framer-13fuz6h { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: min-content; justify-content: center; max-width: 1120px; overflow: visible; padding: 0px; position: relative; width: 1px; }`,`.framer-a8flv .framer-lvrw37 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 560px; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-106ouzb-container, .framer-a8flv .framer-1tsgjyg-container, .framer-a8flv .framer-1c7mr98-container, .framer-a8flv .framer-vlecsf-container, .framer-a8flv .framer-1qrdvop-container, .framer-a8flv .framer-10p1u4k-container, .framer-a8flv .framer-pql414-container, .framer-a8flv .framer-7gjgzb-container { flex: none; height: auto; position: relative; width: auto; }`,`.framer-a8flv .framer-olac9t { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 480px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-1x0des1 { display: grid; flex: none; gap: 16px 16px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(2, minmax(50px, 1fr)); grid-template-rows: repeat(2, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-15l089w-container, .framer-a8flv .framer-1g7ovmb-container { align-self: start; flex: none; height: 100%; justify-self: start; position: relative; width: 100%; }`,`.framer-a8flv .framer-60ezn7-container { align-self: start; flex: none; grid-column: span 2; height: 100%; justify-self: start; position: relative; width: 100%; }`,`.framer-a8flv .framer-1mz48pi, .framer-a8flv .framer-qt3uut { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 100px 40px 100px 40px; position: relative; width: 100%; }`,`.framer-a8flv .framer-11lnlkx { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 471px; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-lghkx8, .framer-a8flv .framer-kqv9fb { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 200%; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-mflmhd { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1ov44s7 { align-content: flex-start; align-items: flex-start; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; height: 486px; justify-content: space-between; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 32%; will-change: var(--framer-will-change-override, transform); }`,`.framer-a8flv .framer-4b5efu { background: linear-gradient(270deg, rgba(23, 22, 18, 0.68) 0%, rgba(255, 255, 255, 0) 61%); bottom: 0px; flex: none; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; right: 0px; top: 0px; z-index: 1; }`,`.framer-a8flv .framer-15mu0ff { --border-bottom-width: 1px; --border-color: var(--token-5160940c-7a55-4fef-a054-52acec2a328c, #ededed); --border-left-width: 1px; --border-right-width: 1px; --border-style: solid; --border-top-width: 1px; -webkit-backdrop-filter: blur(12px); align-content: flex-start; align-items: flex-start; backdrop-filter: blur(12px); background-color: var(--token-596a95c6-0af8-4459-a8dd-6fc8a7d783aa, rgba(255, 255, 255, 0.73)); border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; border-top-left-radius: 12px; border-top-right-radius: 12px; bottom: 16px; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 11px; height: min-content; justify-content: center; left: 16px; overflow: var(--overflow-clip-fallback, clip); padding: 16px; position: absolute; right: 17px; will-change: var(--framer-will-change-override, transform); }`,`.framer-a8flv .framer-g3rf79, .framer-a8flv .framer-6wyb0h { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1c7dps3 { display: grid; flex: 1 0 0px; gap: 16px 16px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(2, minmax(50px, 1fr)); grid-template-rows: repeat(2, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1px; }`,`.framer-a8flv .framer-b43god-container, .framer-a8flv .framer-1s0n5o1-container, .framer-a8flv .framer-1jlaz66-container, .framer-a8flv .framer-dsa4lb-container { align-self: start; flex: none; height: 100%; justify-self: start; position: relative; width: 100%; z-index: 1; }`,`.framer-a8flv .framer-1mgo3s1 { align-content: center; align-items: center; background-color: var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, #121212); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 100px 40px 100px 40px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1uyoytb, .framer-a8flv .framer-1yharqn { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 63%; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1gvieij { display: grid; flex: none; gap: 0px 0px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(2, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-lko323 { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-yobnau { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 80px; height: min-content; justify-content: center; min-height: 100vh; overflow: var(--overflow-clip-fallback, clip); padding: 0px 60px 0px 60px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1bwm7ar, .framer-a8flv .framer-8dymt3, .framer-a8flv .framer-1oespgg, .framer-a8flv .framer-1nrg4o4 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; opacity: 0.5; position: relative; white-space: pre; width: auto; }`,`.framer-a8flv .framer-40xit8, .framer-a8flv .framer-s8rgu9, .framer-a8flv .framer-1ytp22k, .framer-a8flv .framer-11ak85 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-9d6h5k, .framer-a8flv .framer-1p52a6h { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 71%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-175ojva-container, .framer-a8flv .framer-1mmtta3-container, .framer-a8flv .framer-1xvjsou-container, .framer-a8flv .framer-ri3h9g-container { flex: none; height: 353px; max-height: 580px; position: relative; width: 100%; }`,`.framer-a8flv .framer-sake9c, .framer-a8flv .framer-ndtfxm, .framer-a8flv .framer-1pvenrj { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 80px; height: min-content; justify-content: center; min-height: 100vh; overflow: var(--overflow-clip-fallback, clip); padding: 40px 60px 40px 60px; position: relative; width: 100%; }`,`.framer-a8flv .framer-72do80 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 75%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-1prxvq0 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 63%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-1o6p6og { align-content: flex-end; align-items: flex-end; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: 100vh; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 30px 0px 40px 30px; position: sticky; top: 0px; width: 100%; z-index: 1; }`,`.framer-a8flv .framer-1pxqv0y-container { flex: 1 0 0px; height: 1px; max-height: 580px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1gfuvmz { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 710px; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-sihzi7 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 100px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-x86bsi-container, .framer-a8flv .framer-s4z9xr-container { flex: none; height: auto; position: sticky; top: 50px; width: 100%; z-index: 1; }`,`.framer-a8flv .framer-1uvsc1t-container { flex: none; height: auto; position: relative; width: 100%; z-index: 1; }`,`.framer-a8flv .framer-1ljacsi { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 545px; overflow: visible; padding: 0px; position: relative; width: 533px; }`,`.framer-a8flv .framer-tivpjm { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 644px; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-j1e1od { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 598px; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-22dn1n { display: grid; flex: none; gap: 16px 16px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(3, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: 561px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1098403-container { align-self: center; flex: none; height: auto; justify-self: center; position: relative; width: 100%; }`,`.framer-a8flv .framer-c2jfr4 { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: 553px; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px 0px 0px 43px; position: relative; width: 710px; }`,`.framer-a8flv .framer-n7phum { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 6px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1madq09, .framer-a8flv .framer-146z416 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 665px; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-epgigs { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1ea3rhd, .framer-a8flv .framer-1w97azx { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: 85px; max-width: 71%; position: relative; white-space: pre-wrap; width: 474px; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-1j447vm { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: 105px; max-width: 71%; position: relative; white-space: pre-wrap; width: 473px; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-cpg40s-container { flex: none; height: auto; max-width: 800px; position: relative; width: 100%; }`,`.framer-a8flv .framer-18he95t { align-content: center; align-items: center; background-color: var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, #121212); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 80px 40px 80px 40px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1ggw8h6 { bottom: -78px; flex: none; left: 0px; opacity: 0.58; overflow: var(--overflow-clip-fallback, clip); position: absolute; right: 502px; top: 0px; will-change: var(--framer-will-change-filter-override, filter); z-index: 0; }`,`.framer-a8flv .framer-1i3wlzw { background: radial-gradient(100% 43% at 36.3% 48.199999999999996%, rgba(0, 0, 0, 0.21) 0%, rgba(0, 0, 0, 0.31) 28.000000000000004%, rgba(0, 0, 0, 0.44) 65%, rgba(0, 0, 0, 0.85) 100%); flex: none; height: 734px; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; right: 0px; top: 0px; z-index: 0; }`,`.framer-a8flv .framer-niaqf0 { background: linear-gradient(180deg, rgba(0, 0, 0, 0) 6%, rgba(14, 14, 14, 0.6) 30%, rgba(14, 14, 14, 0.61) 53%, rgba(14, 14, 14, 0.62) 72%, rgb(18, 18, 18) 100%); bottom: 0px; flex: none; height: 326px; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; right: 0px; }`,`.framer-a8flv .framer-1dz6oct { align-content: flex-start; align-items: flex-start; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 80px; height: min-content; justify-content: flex-start; max-width: 1120px; overflow: visible; padding: 0px; position: relative; width: 1px; }`,`.framer-a8flv .framer-1iqa4dw { align-content: center; align-items: center; align-self: stretch; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; height: auto; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 1px; }`,`.framer-a8flv .framer-edbqf0 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1pjze87 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 80%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,`.framer-a8flv .framer-16e4z99 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 7px 20px; height: min-content; justify-content: center; overflow: visible; padding: 20px 0px 0px 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-7vxu2o, .framer-a8flv .framer-fn1eby { --border-bottom-width: 1px; --border-color: var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, #3b3930); --border-left-width: 0px; --border-right-width: 0px; --border-style: solid; --border-top-width: 0px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 10px 0px 10px 0px; position: relative; text-decoration: none; width: 100%; }`,`.framer-a8flv .framer-896486 { height: 14px; position: relative; width: 18px; }`,`.framer-a8flv .framer-1qiwkju { height: 8px; left: 0px; position: absolute; top: 0px; width: 18px; }`,`.framer-a8flv .framer-z0awoe { height: 10px; left: 0px; position: absolute; top: 4px; width: 18px; }`,`.framer-a8flv .framer-51x4gw { height: 18px; position: relative; width: 18px; }`,`.framer-a8flv .framer-1erp5fm { -webkit-backdrop-filter: blur(10px); align-content: flex-start; align-items: flex-start; backdrop-filter: blur(10px); background-color: var(--token-24c53615-8b7e-45eb-8641-dad0d83e7e4f, rgba(255, 255, 255, 0.5)); border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 24px 24px 48px 24px; position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }`,`.framer-a8flv .framer-1f5eml7, .framer-a8flv .framer-jwlgc, .framer-a8flv .framer-1uskh03, .framer-a8flv .framer-1fh062x { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; padding: 0px; position: relative; width: 100%; }`,`.framer-a8flv .framer-bvvtyi, .framer-a8flv .framer-1loel26, .framer-a8flv .framer-1tp442z, .framer-a8flv .framer-1r0bpot { flex: none; height: auto; opacity: 0.9; position: relative; white-space: pre; width: auto; }`,`.framer-a8flv .framer-6lnbhj, .framer-a8flv .framer-1sh4r2v { --framer-input-background: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); --framer-input-border-bottom-width: 1px; --framer-input-border-color: var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, #dbdbdb); --framer-input-border-left-width: 1px; --framer-input-border-radius-bottom-left: 10px; --framer-input-border-radius-bottom-right: 10px; --framer-input-border-radius-top-left: 10px; --framer-input-border-radius-top-right: 10px; --framer-input-border-right-width: 1px; --framer-input-border-style: solid; --framer-input-border-top-width: 1px; --framer-input-focused-border-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-input-focused-border-style: solid; --framer-input-focused-border-width: 1px; --framer-input-font-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-input-font-family: "Manrope"; --framer-input-font-letter-spacing: 0em; --framer-input-font-line-height: 1.6em; --framer-input-font-size: 16px; --framer-input-font-weight: 400; --framer-input-icon-mask-image: none; --framer-input-padding: 12px; --framer-input-placeholder-color: var(--token-67bae720-d539-4f4b-986f-d6f95401ffb5, rgba(25, 25, 28, 0.6)); flex: none; height: 48px; position: relative; width: 100%; }`,`.framer-a8flv .framer-1vl7pxt { --framer-input-background: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); --framer-input-border-bottom-width: 1px; --framer-input-border-color: var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, #dbdbdb); --framer-input-border-left-width: 1px; --framer-input-border-radius-bottom-left: 10px; --framer-input-border-radius-bottom-right: 10px; --framer-input-border-radius-top-left: 10px; --framer-input-border-radius-top-right: 10px; --framer-input-border-right-width: 1px; --framer-input-border-style: solid; --framer-input-border-top-width: 1px; --framer-input-focused-border-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-input-focused-border-style: solid; --framer-input-focused-border-width: 1px; --framer-input-font-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-input-font-family: "Manrope"; --framer-input-font-letter-spacing: 0em; --framer-input-font-line-height: 1.6em; --framer-input-font-size: 16px; --framer-input-font-weight: 400; --framer-input-icon-color: #999999; --framer-input-invalid-text-color: var(--token-67bae720-d539-4f4b-986f-d6f95401ffb5, rgba(25, 25, 28, 0.6)); --framer-input-padding: 12px; flex: none; height: 48px; position: relative; width: 100%; }`,`.framer-a8flv .framer-elcokq { --framer-input-background: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); --framer-input-border-bottom-width: 1px; --framer-input-border-color: var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, #dbdbdb); --framer-input-border-left-width: 1px; --framer-input-border-radius-bottom-left: 10px; --framer-input-border-radius-bottom-right: 10px; --framer-input-border-radius-top-left: 10px; --framer-input-border-radius-top-right: 10px; --framer-input-border-right-width: 1px; --framer-input-border-style: solid; --framer-input-border-top-width: 1px; --framer-input-focused-border-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-input-focused-border-style: solid; --framer-input-focused-border-width: 1px; --framer-input-font-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-input-font-family: "Manrope"; --framer-input-font-letter-spacing: 0em; --framer-input-font-line-height: 1.6em; --framer-input-font-size: 16px; --framer-input-font-weight: 400; --framer-input-icon-mask-image: none; --framer-input-padding: 12px; --framer-input-placeholder-color: var(--token-67bae720-d539-4f4b-986f-d6f95401ffb5, rgba(25, 25, 28, 0.6)); --framer-input-wrapper-height: auto; --framer-textarea-resize: vertical; flex: none; height: auto; min-height: 100px; position: relative; width: 100%; }`,`.framer-a8flv .framer-blxr3i-container { flex: none; height: 48px; position: relative; width: 100%; }`,...La,...Va,...Ga,...Be,...Ya,...an,...Ar,...Oe,`.framer-a8flv[data-border="true"]::after, .framer-a8flv [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; corner-shape: inherit; pointer-events: none; }`,`@media (min-width: 810px) and (max-width: 1217.98px) { .framer-a8flv.framer-72rtr7 { width: 810px; } .framer-a8flv .framer-p98m37, .framer-a8flv .framer-vg7zeq, .framer-a8flv .framer-1mz48pi, .framer-a8flv .framer-1mgo3s1, .framer-a8flv .framer-ex69bk, .framer-a8flv .framer-v1omwe, .framer-a8flv .framer-qt3uut, .framer-a8flv .framer-18he95t { padding: 80px 32px 80px 32px; } .framer-a8flv .framer-1tboang, .framer-a8flv .framer-1gfuvmz { max-width: 550px; } .framer-a8flv .framer-1uibgej { max-width: 100%; } .framer-a8flv .framer-17usac1 { flex-wrap: wrap; gap: 14px 18px; } .framer-a8flv .framer-xzrekb { padding: 40px 32px 40px 32px; } .framer-a8flv .framer-1m09fpc { max-width: 25%; } .framer-a8flv .framer-lvrw37 { max-width: 600px; } .framer-a8flv .framer-olac9t { max-width: 408px; } .framer-a8flv .framer-11lnlkx { max-width: 410px; } .framer-a8flv .framer-mflmhd { flex-direction: column; } .framer-a8flv .framer-1ov44s7 { gap: 0px; height: 665px; justify-content: center; order: 0; width: 100%; } .framer-a8flv .framer-15mu0ff { right: 16px; } .framer-a8flv .framer-1c7dps3 { flex: none; order: 1; width: 100%; } .framer-a8flv .framer-b43god-container, .framer-a8flv .framer-1s0n5o1-container, .framer-a8flv .framer-1jlaz66-container, .framer-a8flv .framer-dsa4lb-container { height: auto; } .framer-a8flv .framer-1uyoytb, .framer-a8flv .framer-118rr9f, .framer-a8flv .framer-1yharqn { max-width: 80%; } .framer-a8flv .framer-yobnau { padding: 0px 30px 0px 30px; } .framer-a8flv .framer-9d6h5k, .framer-a8flv .framer-72do80, .framer-a8flv .framer-1p52a6h { max-width: unset; } .framer-a8flv .framer-sake9c, .framer-a8flv .framer-ndtfxm, .framer-a8flv .framer-1pvenrj { padding: 40px 30px 40px 30px; } .framer-a8flv .framer-1prxvq0 { max-width: 90%; } .framer-a8flv .framer-1pxqv0y-container { max-height: 433px; } .framer-a8flv .framer-a3y21b { max-width: 68%; white-space: pre-wrap; word-break: break-word; word-wrap: break-word; } .framer-a8flv .framer-sihzi7 { gap: 80px; } .framer-a8flv .framer-x86bsi-container, .framer-a8flv .framer-s4z9xr-container { position: relative; top: unset; } .framer-a8flv .framer-1ljacsi { max-width: 436px; } .framer-a8flv .framer-22dn1n { grid-template-columns: repeat(2, minmax(50px, 1fr)); height: 581px; } .framer-a8flv .framer-c2jfr4 { height: 600px; padding: 0px; width: 364px; } .framer-a8flv .framer-n7phum { align-content: flex-start; align-items: flex-start; } .framer-a8flv .framer-1ea3rhd { height: 103px; max-width: unset; width: 350px; } .framer-a8flv .framer-1w97azx { height: 97px; max-width: unset; width: 350px; } .framer-a8flv .framer-1j447vm { height: 133px; max-width: unset; width: 350px; } .framer-a8flv .framer-1ggw8h6 { bottom: 683px; right: 0px; } .framer-a8flv .framer-1i3wlzw { background: radial-gradient(55.00000000000001% 43% at 32% 45%, rgba(0, 0, 0, 0.21) 0%, rgba(0, 0, 0, 0.31) 38%, rgba(0, 0, 0, 0.44) 65%, rgba(0, 0, 0, 0.85) 100%); height: 635px; } .framer-a8flv .framer-niaqf0 { bottom: -20px; height: 321px; } .framer-a8flv .framer-1dz6oct { flex-direction: column; gap: 60px; } .framer-a8flv .framer-1iqa4dw { align-self: unset; flex: none; gap: 219px; height: min-content; justify-content: flex-start; width: 100%; } .framer-a8flv .framer-1pjze87 { max-width: 55%; } .framer-a8flv .framer-1erp5fm { flex: none; width: 100%; }}`,`@media (max-width: 809.98px) { .framer-a8flv.framer-72rtr7 { width: 390px; } .framer-a8flv .framer-p98m37 { padding: 0px 16px 0px 16px; } .framer-a8flv .framer-1q5gv3k { height: 100%; top: 0px; } .framer-a8flv .framer-18g7lct { gap: 8px; } .framer-a8flv .framer-1cmui4l { gap: 25px; max-width: 798px; } .framer-a8flv .framer-1tboang { gap: 2px; max-width: 100%; } .framer-a8flv .framer-1uibgej { height: 130px; width: 314px; } .framer-a8flv .framer-17usac1 { align-content: flex-start; align-items: flex-start; flex-direction: column; gap: 16px; min-height: 100px; } .framer-a8flv .framer-xzrekb { flex-direction: column; padding: 30px 16px 30px 16px; } .framer-a8flv .framer-coeewu { flex: none; flex-direction: column; width: 100%; } .framer-a8flv .framer-1m09fpc, .framer-a8flv .framer-lvrw37, .framer-a8flv .framer-1uyoytb, .framer-a8flv .framer-9d6h5k, .framer-a8flv .framer-72do80, .framer-a8flv .framer-1prxvq0, .framer-a8flv .framer-1yharqn { max-width: unset; } .framer-a8flv .framer-vg7zeq, .framer-a8flv .framer-1mz48pi, .framer-a8flv .framer-1mgo3s1, .framer-a8flv .framer-ex69bk { flex-direction: column; padding: 60px 16px 60px 16px; } .framer-a8flv .framer-x8hayp, .framer-a8flv .framer-mf8cvp, .framer-a8flv .framer-z5k9rj, .framer-a8flv .framer-1mxtp5v, .framer-a8flv .framer-1i8uip1, .framer-a8flv .framer-13fuz6h, .framer-a8flv .framer-1erp5fm { flex: none; width: 100%; } .framer-a8flv .framer-olac9t, .framer-a8flv .framer-11lnlkx, .framer-a8flv .framer-1pjze87 { max-width: 100%; } .framer-a8flv .framer-1x0des1 { grid-template-columns: repeat(1, minmax(50px, 1fr)); } .framer-a8flv .framer-60ezn7-container { grid-column: span 1; } .framer-a8flv .framer-lghkx8 { max-width: 71%; } .framer-a8flv .framer-kqv9fb, .framer-a8flv .framer-tivpjm, .framer-a8flv .framer-j1e1od { width: 100%; } .framer-a8flv .framer-mflmhd { flex-direction: column; } .framer-a8flv .framer-1ov44s7 { height: 512px; order: 0; width: 100%; } .framer-a8flv .framer-1c7dps3 { flex: none; grid-template-columns: repeat(1, minmax(50px, 1fr)); order: 1; width: 100%; } .framer-a8flv .framer-b43god-container, .framer-a8flv .framer-1s0n5o1-container, .framer-a8flv .framer-1jlaz66-container, .framer-a8flv .framer-dsa4lb-container { height: auto; } .framer-a8flv .framer-1gvieij { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; } .framer-a8flv .framer-lko323 { align-self: unset; gap: 60px; } .framer-a8flv .framer-yobnau, .framer-a8flv .framer-sake9c, .framer-a8flv .framer-ndtfxm { gap: 60px; min-height: unset; padding: 0px; } .framer-a8flv .framer-1pvenrj { min-height: unset; padding: 0px; } .framer-a8flv .framer-1p52a6h { max-width: 90%; } .framer-a8flv .framer-1gfuvmz { max-width: 330px; } .framer-a8flv .framer-o1egoa { max-width: 207px; white-space: pre-wrap; word-break: break-word; word-wrap: break-word; } .framer-a8flv .framer-a3y21b { white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; } .framer-a8flv .framer-sihzi7 { gap: 60px; } .framer-a8flv .framer-x86bsi-container, .framer-a8flv .framer-s4z9xr-container { position: relative; top: unset; } .framer-a8flv .framer-v1omwe { flex-direction: column; padding: 0px 16px 0px 16px; } .framer-a8flv .framer-1ljacsi { max-width: 271px; } .framer-a8flv .framer-22dn1n { gap: 0px 0px; grid-template-columns: repeat(1, minmax(50px, 1fr)); height: 933px; } .framer-a8flv .framer-1098403-container { align-self: start; } .framer-a8flv .framer-c2jfr4 { gap: 0px; height: 473px; justify-self: end; width: 365px; } .framer-a8flv .framer-n7phum { gap: 3px; padding: 16px 0px 16px 0px; } .framer-a8flv .framer-1madq09, .framer-a8flv .framer-146z416 { width: 321px; } .framer-a8flv .framer-6wyb0h { gap: 4px; } .framer-a8flv .framer-1ea3rhd { height: 99px; max-width: unset; width: 321px; } .framer-a8flv .framer-1w97azx { height: 125px; max-width: unset; width: 321px; } .framer-a8flv .framer-1j447vm { height: 165px; max-width: unset; width: 321px; } .framer-a8flv .framer-qt3uut { flex-direction: column; padding: 101px 16px 101px 16px; } .framer-a8flv .framer-18he95t { flex-direction: column; padding: 15px 16px 15px 16px; } .framer-a8flv .framer-1ggw8h6 { bottom: 632px; right: 0px; } .framer-a8flv .framer-1i3wlzw { height: 647px; } .framer-a8flv .framer-1dz6oct { flex: none; flex-direction: column; gap: 40px; width: 100%; } .framer-a8flv .framer-1iqa4dw { align-self: unset; flex: none; height: 562px; width: 100%; } .framer-a8flv .framer-edbqf0 { padding: 0px 0px 0px 24px; } .framer-a8flv .framer-16e4z99 { padding: 20px 0px 0px 24px; }}`],`framer-a8flv`),Bo.displayName=`Home`,Bo.defaultProps={height:13169,width:1218},E(Bo,[{explicitInter:!0,fonts:[{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,url:`https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,url:`https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+1F00-1FFF`,url:`https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0370-03FF`,url:`https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,url:`https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,url:`https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,weight:`400`},{cssFamilyName:`Inter`,source:`framer`,style:`normal`,uiFamilyName:`Inter`,unicodeRange:`U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,url:`https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,weight:`400`},{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,weight:`500`},{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/2TYFCBHUANEXS6QGR5EQDUNAFH6LSWM3/AYNOU3VEA4LRTDNKJQUFNVNUTYSGOUOP/UXO4O7K2G3HI3D2VKD7UXVJVJD26P4BQ.woff2`,weight:`400`},{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,weight:`700`},{cssFamilyName:`Manrope`,source:`fontshare`,style:`normal`,uiFamilyName:`Manrope`,url:`https://framerusercontent.com/third-party-assets/fontshare/wf/6U2SGH566NSNERG6RGEV3DSNEK7DL2RF/JRDYRKMSAW2H35IWEQIPL67HAJQ35MG5/JNU3GNMUBPWW6V6JTED3S27XL5HN7NM5.woff2`,weight:`600`}]},...to,...ro,...io,...ao,...co,...uo,...po,...mo,...ho,...go,...A(Ia),...A(Ba),...A(Wa),...A(je),...A(Ja),...A(rn),...A(kr),...A(we)],{supportsExplicitInterCodegen:!0}),Bo.loader={load:(e,t)=>oe([()=>R(Re,{},t),()=>R(Pa,{},t),()=>R(J,{},t),()=>R(Xr,{},t),()=>R(oi,{},t),()=>R(Kn,{},t),()=>R(Pn,{},t),()=>R(qt,{},t),()=>R(Dr,{},t),()=>R(Ci,{},t)],t)},Vo={exports:{Props:{type:`tsType`,annotations:{framerContractVersion:`1`}},queryParamNames:{type:`variable`,annotations:{framerContractVersion:`1`}},default:{type:`reactComponent`,name:`FrameraugiA20Il`,slots:[],annotations:{framerImmutableVariables:`true`,framerCanvasComponentVariantDetails:`{"propertyName":"variant","data":{"default":{"layout":["fixed","auto"]},"JvUVvulcJ":{"layout":["fixed","auto"]},"EIXefzEOt":{"layout":["fixed","auto"]}}}`,framerColorSyntax:`true`,framerAcceptsLayoutTemplate:`true`,framerAutoSizeImages:`true`,framerContractVersion:`1`,framerIntrinsicHeight:`13169`,framerScrollSections:`{"K7zYKy1_5":{"pattern":":K7zYKy1_5","name":"solucoes"},"KbuQeHpgr":{"pattern":":KbuQeHpgr","name":"expertise"},"lspSUYKWB":{"pattern":":lspSUYKWB","name":"step-1"},"OtzuAkHsV":{"pattern":":OtzuAkHsV","name":"step-2"},"ygzLrb7il":{"pattern":":ygzLrb7il","name":"step-3"},"raMTciCtJ":{"pattern":":raMTciCtJ","name":"step-4"},"FfZ0uW57s":{"pattern":":FfZ0uW57s","name":"cases"},"n3TnSvnr_":{"pattern":":n3TnSvnr_","name":"client-result-1"},"LjsN_fNYq":{"pattern":":LjsN_fNYq","name":"client-result-2"},"IwMNOecm6":{"pattern":":IwMNOecm6","name":"client-result-3"},"KqSLPYmyU":{"pattern":":KqSLPYmyU","name":"upgoal"},"erhEQKnnF":{"pattern":":erhEQKnnF","name":"faq"},"n0VZEt7a2":{"pattern":":n0VZEt7a2","name":"contato"}}`,framerLayoutTemplateFlowEffect:`true`,framerResponsiveScreen:`true`,framerDisplayContentsDiv:`false`,framerIntrinsicWidth:`1218`,framerComponentViewportWidth:`true`}},__FramerMetadata__:{type:`variable`}}}}))();export{Vo as __FramerMetadata__,Bo as default,bo as queryParamNames};
+import { t as e } from "./rolldown-runtime.Dh6celcD.mjs";
+import {
+  A as t,
+  F as n,
+  L as r,
+  M as i,
+  N as a,
+  O as o,
+  P as s,
+  S as c,
+  T as l,
+  _ as u,
+  c as d,
+  g as f,
+  j as p,
+  k as ee,
+  l as m,
+  o as h,
+  s as g,
+  v as te,
+  w as _,
+  y as v,
+  z as y,
+} from "./react.DwDJOhmk.mjs";
+import {
+  I as ne,
+  N as re,
+  R as b,
+  S as x,
+  U as S,
+  a as C,
+  h as w,
+  r as ie,
+  t as T,
+} from "./motion.ClIzWdXQ.mjs";
+import {
+  C as E,
+  D,
+  F as O,
+  H as k,
+  I as A,
+  L as j,
+  O as ae,
+  S as M,
+  Y as oe,
+  a as se,
+  at as ce,
+  b as N,
+  c as le,
+  ct as P,
+  dt as F,
+  et as ue,
+  ft as I,
+  g as L,
+  gt as de,
+  ht as fe,
+  it as pe,
+  k as R,
+  lt as me,
+  mt as z,
+  n as B,
+  o as he,
+  ot as V,
+  p as ge,
+  r as H,
+  rt as _e,
+  s as ve,
+  st as ye,
+  t as U,
+  tt as W,
+  u as G,
+  ut as be,
+  v as xe,
+  vt as K,
+  w as q,
+  x as Se,
+  y as Ce,
+} from "./framer.C_LViZYJ.mjs";
+import {
+  C as we,
+  D as Te,
+  E as Ee,
+  O as De,
+  S as Oe,
+  T as ke,
+  _ as J,
+  b as Ae,
+  d as je,
+  f as Me,
+  g as Ne,
+  h as Pe,
+  l as Fe,
+  m as Ie,
+  o as Le,
+  p as Re,
+  s as ze,
+  u as Be,
+  v as Ve,
+  w as He,
+  x as Ue,
+  y as We,
+} from "./shared-lib.KSjyA0rH.mjs";
+var Ge,
+  Ke,
+  qe,
+  Je,
+  Ye,
+  Xe,
+  Ze,
+  Qe = e(() => {
+    (h(),
+      k(),
+      _(),
+      (Ge = `var(--framer-icon-mask)`),
+      (Ke = f(function (e, t) {
+        return d(`svg`, { ...e, ref: t, children: e.children });
+      })),
+      (qe = x.create(Ke)),
+      (Je = f((e, t) => {
+        let { animated: n, layoutId: r, children: i, ...a } = e;
+        return n
+          ? d(qe, { ...a, layoutId: r, ref: t, children: i })
+          : d(`svg`, { ...a, ref: t, children: i });
+      })),
+      (Ye = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 3.219 12.531 C 2.927 12.823 2.452 12.823 2.159 12.531 L 0.219 10.594 C -0.073 10.301 -0.073 9.826 0.219 9.533 L 9.75 0 L 12.75 3 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="12.750121135182852px" id="j7F9eATIt" transform="translate(3.75 7.5)" width="12.750121135182845px"/><path d="M 0 0 L 0 4.5" fill="transparent" height="4.5px" id="EwXSFjRWF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(20.25 12)" width="1px"/><path d="M 0 0 L 4.5 0" fill="transparent" height="1px" id="IxyJCRneD" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(18 14.25)" width="4.5px"/><path d="M 0 0 L 0 4.5" fill="transparent" height="4.5px" id="fb2SSJzMG" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(7.5 3.75)" width="1px"/><path d="M 0 0 L 4.5 0" fill="transparent" height="1px" id="pRt523Exm" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(5.25 6)" width="4.5px"/><path d="M 0 0 L 0 3" fill="transparent" height="3px" id="q3ZLfGMEM" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(15.75 17.25)" width="1px"/><path d="M 0 0 L 3 0" fill="transparent" height="1px" id="a_9ziShXc" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(14.25 18.75)" width="3px"/><path d="M 0 0 L 3 3" fill="transparent" height="3px" id="QAKTKbG2r" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(13.5 7.5)" width="3px"/><path d="M 3.219 16.28 C 2.926 16.573 2.452 16.573 2.159 16.28 L 0.22 14.341 C -0.073 14.048 -0.073 13.573 0.22 13.28 L 13.28 0.22 C 13.573 -0.073 14.048 -0.073 14.341 0.22 L 16.28 2.159 C 16.573 2.452 16.573 2.926 16.28 3.219 Z" fill="transparent" height="16.499723566788763px" id="TeDoblWGg" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.75 3.75)" width="16.49972356678876px"/></svg>`),
+      (Xe = ({
+        alpha: e,
+        color: t,
+        height: n,
+        id: r,
+        width: i,
+        width1: a,
+        ...o
+      }) => ({
+        ...o,
+        ezTt3ayMo: t ?? o.ezTt3ayMo ?? `rgb(0, 0, 0)`,
+        lschgej4H: a ?? o.lschgej4H ?? 1.5,
+        qxTvv_EBh: e ?? o.qxTvv_EBh,
+      })),
+      (Ze = I(
+        f(function (e, t) {
+          let {
+              style: n,
+              className: r,
+              layoutId: i,
+              variant: a,
+              ezTt3ayMo: o,
+              lschgej4H: s,
+              qxTvv_EBh: c,
+              ...l
+            } = Xe(e),
+            u = be(`3574803054`, Ye);
+          return d(Je, {
+            ...l,
+            className: D(`framer-Tdsgv`, r),
+            layoutId: i,
+            ref: t,
+            role: `presentation`,
+            style: { "--1m6trwb": c, "--21h8s6": o, "--pgex8v": s, ...n },
+            viewBox: `0 0 24 24`,
+            children: d(`use`, { href: u }),
+          });
+        }),
+        [
+          `.framer-Tdsgv { -webkit-mask: ${Ge}; aspect-ratio: 1; display: block; mask: ${Ge}; width: 24px; }`,
+        ],
+        `framer-Tdsgv`,
+      )),
+      (Ze.displayName = `Magic Wand`),
+      q(Ze, {
+        ezTt3ayMo: {
+          defaultValue: `rgb(0, 0, 0)`,
+          hidden: !1,
+          title: `Color`,
+          type: H.Color,
+        },
+        lschgej4H: {
+          defaultValue: 1.5,
+          displayStepper: !0,
+          hidden: !1,
+          max: 6,
+          min: 0,
+          step: 0.5,
+          title: `Width`,
+          type: H.Number,
+        },
+        qxTvv_EBh: {
+          defaultValue: 0,
+          displayStepper: !0,
+          hidden: !1,
+          max: 1,
+          min: 0,
+          step: 0.1,
+          title: `Alpha`,
+          type: H.Number,
+        },
+      }));
+  }),
+  $e,
+  et,
+  tt,
+  nt,
+  rt,
+  it,
+  at,
+  ot = e(() => {
+    (h(),
+      k(),
+      _(),
+      ($e = `var(--framer-icon-mask)`),
+      (et = f(function (e, t) {
+        return d(`svg`, { ...e, ref: t, children: e.children });
+      })),
+      (tt = x.create(et)),
+      (nt = f((e, t) => {
+        let { animated: n, layoutId: r, children: i, ...a } = e;
+        return n
+          ? d(tt, { ...a, layoutId: r, ref: t, children: i })
+          : d(`svg`, { ...a, ref: t, children: i });
+      })),
+      (rt = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 14.625 10.5 L 14.625 4.875 C 14.625 2.183 12.442 0 9.75 0 L 0 0 C 2.692 0 4.875 2.183 4.875 4.875 L 4.875 11.25 L 13.875 11.25 C 14.289 11.25 14.625 10.914 14.625 10.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="11.25px" id="D0jzwGI1H" transform="translate(7.125 6)" width="14.625px"/><path d="M 3.75 0 L 0 0" fill="transparent" height="1px" id="NiowuuEcr" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(5.25 14.25)" width="3.75px"/><path d="M 0 11.25 L 0 0 L 3 0" fill="transparent" height="11.25px" id="Z5QRfk5L5" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(15 2.25)" width="3px"/><path d="M 14.625 10.5 L 14.625 4.875 C 14.625 2.183 12.442 0 9.75 0 L 0 0 C 2.692 0 4.875 2.183 4.875 4.875 L 4.875 11.25 L 13.875 11.25 C 14.289 11.25 14.625 10.914 14.625 10.5 Z" fill="transparent" height="11.25px" id="DWd5EYzCL" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(7.125 6)" width="14.625px"/><path d="M 9.75 15 L 9.75 11.25 L 0.75 11.25 C 0.336 11.25 0 10.914 0 10.5 L 0 4.875 C 0 2.183 2.183 0 4.875 0" fill="transparent" height="15px" id="k8D_pjglW" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(2.25 6)" width="9.75px"/></svg>`),
+      (it = ({
+        alpha: e,
+        color: t,
+        height: n,
+        id: r,
+        width: i,
+        width1: a,
+        ...o
+      }) => ({
+        ...o,
+        ezTt3ayMo: t ?? o.ezTt3ayMo ?? `rgb(0, 0, 0)`,
+        lschgej4H: a ?? o.lschgej4H ?? 1.5,
+        qxTvv_EBh: e ?? o.qxTvv_EBh,
+      })),
+      (at = I(
+        f(function (e, t) {
+          let {
+              style: n,
+              className: r,
+              layoutId: i,
+              variant: a,
+              ezTt3ayMo: o,
+              lschgej4H: s,
+              qxTvv_EBh: c,
+              ...l
+            } = it(e),
+            u = be(`698867343`, rt);
+          return d(nt, {
+            ...l,
+            className: D(`framer-6A5g9`, r),
+            layoutId: i,
+            ref: t,
+            role: `presentation`,
+            style: { "--1m6trwb": c, "--21h8s6": o, "--pgex8v": s, ...n },
+            viewBox: `0 0 24 24`,
+            children: d(`use`, { href: u }),
+          });
+        }),
+        [
+          `.framer-6A5g9 { -webkit-mask: ${$e}; aspect-ratio: 1; display: block; mask: ${$e}; width: 24px; }`,
+        ],
+        `framer-6A5g9`,
+      )),
+      (at.displayName = `Mailbox`),
+      q(at, {
+        ezTt3ayMo: {
+          defaultValue: `rgb(0, 0, 0)`,
+          hidden: !1,
+          title: `Color`,
+          type: H.Color,
+        },
+        lschgej4H: {
+          defaultValue: 1.5,
+          displayStepper: !0,
+          hidden: !1,
+          max: 6,
+          min: 0,
+          step: 0.5,
+          title: `Width`,
+          type: H.Number,
+        },
+        qxTvv_EBh: {
+          defaultValue: 0,
+          displayStepper: !0,
+          hidden: !1,
+          max: 1,
+          min: 0,
+          step: 0.1,
+          title: `Alpha`,
+          type: H.Number,
+        },
+      }));
+  }),
+  st,
+  ct,
+  lt,
+  ut,
+  dt,
+  ft,
+  pt,
+  mt = e(() => {
+    (h(),
+      k(),
+      _(),
+      (st = `var(--framer-icon-mask)`),
+      (ct = f(function (e, t) {
+        return d(`svg`, { ...e, ref: t, children: e.children });
+      })),
+      (lt = x.create(ct)),
+      (ut = f((e, t) => {
+        let { animated: n, layoutId: r, children: i, ...a } = e;
+        return n
+          ? d(lt, { ...a, layoutId: r, ref: t, children: i })
+          : d(`svg`, { ...a, ref: t, children: i });
+      })),
+      (dt = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0 5.25 L 0 9 C 0 9.414 0.336 9.75 0.75 9.75 L 9.789 9.75 L 13.5 12.75 L 13.5 0.75 C 13.5 0.336 13.164 0 12.75 0 L 9 0 L 9 4.5 C 9 4.914 8.664 5.25 8.25 5.25 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="12.75px" id="iwto7RSa_" transform="translate(7.5 8.25)" width="13.5px"/><path d="M 3.711 9.75 L 0 12.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 12.75 0 C 13.164 0 13.5 0.336 13.5 0.75 L 13.5 9 C 13.5 9.414 13.164 9.75 12.75 9.75 Z" fill="transparent" height="12.75px" id="EBWh6IZId" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3 3.75)" width="13.5px"/><path d="M 0 5.25 L 0 9 C 0 9.414 0.336 9.75 0.75 9.75 L 9.789 9.75 L 13.5 12.75 L 13.5 0.75 C 13.5 0.336 13.164 0 12.75 0 L 9 0" fill="transparent" height="12.75px" id="yCWG4bwZa" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(7.5 8.25)" width="13.5px"/></svg>`),
+      (ft = ({
+        alpha: e,
+        color: t,
+        height: n,
+        id: r,
+        width: i,
+        width1: a,
+        ...o
+      }) => ({
+        ...o,
+        ezTt3ayMo: t ?? o.ezTt3ayMo ?? `rgb(0, 0, 0)`,
+        lschgej4H: a ?? o.lschgej4H ?? 1.5,
+        qxTvv_EBh: e ?? o.qxTvv_EBh,
+      })),
+      (pt = I(
+        f(function (e, t) {
+          let {
+              style: n,
+              className: r,
+              layoutId: i,
+              variant: a,
+              ezTt3ayMo: o,
+              lschgej4H: s,
+              qxTvv_EBh: c,
+              ...l
+            } = ft(e),
+            u = be(`1380799810`, dt);
+          return d(ut, {
+            ...l,
+            className: D(`framer-I3Kmg`, r),
+            layoutId: i,
+            ref: t,
+            role: `presentation`,
+            style: { "--1m6trwb": c, "--21h8s6": o, "--pgex8v": s, ...n },
+            viewBox: `0 0 24 24`,
+            children: d(`use`, { href: u }),
+          });
+        }),
+        [
+          `.framer-I3Kmg { -webkit-mask: ${st}; aspect-ratio: 1; display: block; mask: ${st}; width: 24px; }`,
+        ],
+        `framer-I3Kmg`,
+      )),
+      (pt.displayName = `Chats`),
+      q(pt, {
+        ezTt3ayMo: {
+          defaultValue: `rgb(0, 0, 0)`,
+          hidden: !1,
+          title: `Color`,
+          type: H.Color,
+        },
+        lschgej4H: {
+          defaultValue: 1.5,
+          displayStepper: !0,
+          hidden: !1,
+          max: 6,
+          min: 0,
+          step: 0.5,
+          title: `Width`,
+          type: H.Number,
+        },
+        qxTvv_EBh: {
+          defaultValue: 0,
+          displayStepper: !0,
+          hidden: !1,
+          max: 1,
+          min: 0,
+          step: 0.1,
+          title: `Alpha`,
+          type: H.Number,
+        },
+      }));
+  }),
+  ht,
+  gt,
+  _t,
+  vt,
+  yt,
+  bt,
+  xt,
+  St = e(() => {
+    (h(),
+      k(),
+      _(),
+      (ht = `var(--framer-icon-mask)`),
+      (gt = f(function (e, t) {
+        return d(`svg`, { ...e, ref: t, children: e.children });
+      })),
+      (_t = x.create(gt)),
+      (vt = f((e, t) => {
+        let { animated: n, layoutId: r, children: i, ...a } = e;
+        return n
+          ? d(_t, { ...a, layoutId: r, ref: t, children: i })
+          : d(`svg`, { ...a, ref: t, children: i });
+      })),
+      (yt = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0 3.75 C 0 1.679 1.679 0 3.75 0 C 5.821 0 7.5 1.679 7.5 3.75 C 7.5 5.821 5.821 7.5 3.75 7.5 C 1.679 7.5 0 5.821 0 3.75 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="7.5px" id="v7J1zbXd9" transform="translate(8.25 9.75)" width="7.5px"/><path d="M 0 3 C 0 1.343 1.343 0 3 0 C 4.657 0 6 1.343 6 3 C 6 4.657 4.657 6 3 6 C 1.343 6 0 4.657 0 3 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="6px" id="OQhSWABIT" transform="translate(3 5.25)" width="6px"/><path d="M 0 3 C 0 1.343 1.343 0 3 0 C 4.657 0 6 1.343 6 3 C 6 4.657 4.657 6 3 6 C 1.343 6 0 4.657 0 3 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="6px" id="wFzBlJVd9" transform="translate(15 5.25)" width="6px"/><path d="M 0 0 C 1.771 -0.001 3.439 0.833 4.5 2.25" fill="transparent" height="2.2500015894396626px" id="E2sSkoOrF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(18 11.25)" width="4.5px"/><path d="M 0 2.25 C 1.061 0.833 2.729 -0.001 4.5 0" fill="transparent" height="2.250001589439634px" id="j9wFqcU3O" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(1.5 11.25)" width="4.5px"/><path d="M 0 3.75 C 0 1.679 1.679 0 3.75 0 C 5.821 0 7.5 1.679 7.5 3.75 C 7.5 5.821 5.821 7.5 3.75 7.5 C 1.679 7.5 0 5.821 0 3.75 Z" fill="transparent" height="7.5px" id="FPPQexDBA" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(8.25 9.75)" width="7.5px"/><path d="M 0 3 C 1.095 1.141 3.092 0 5.25 0 C 7.408 0 9.405 1.141 10.5 3" fill="transparent" height="3px" id="IAUbz8XxS" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(6.75 17.25)" width="10.5px"/><path d="M 0 2.25 C 0.39 0.741 1.87 -0.218 3.407 0.043 C 4.944 0.304 6.025 1.698 5.894 3.252 C 5.764 4.805 4.465 6 2.906 6" fill="transparent" height="6.000369122093474px" id="ZCi3_szKp" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(15.094 5.25)" width="5.904871228321724px"/><path d="M 2.999 6 C 1.44 6 0.141 4.805 0.011 3.252 C -0.12 1.698 0.961 0.304 2.498 0.043 C 4.034 -0.218 5.515 0.741 5.905 2.25" fill="transparent" height="6.000369122093474px" id="R5Ppmpsk_" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.001 5.25)" width="5.904871228321742px"/></svg>`),
+      (bt = ({
+        alpha: e,
+        color: t,
+        height: n,
+        id: r,
+        width: i,
+        width1: a,
+        ...o
+      }) => ({
+        ...o,
+        ezTt3ayMo: t ?? o.ezTt3ayMo ?? `rgb(0, 0, 0)`,
+        lschgej4H: a ?? o.lschgej4H ?? 1.5,
+        qxTvv_EBh: e ?? o.qxTvv_EBh,
+      })),
+      (xt = I(
+        f(function (e, t) {
+          let {
+              style: n,
+              className: r,
+              layoutId: i,
+              variant: a,
+              ezTt3ayMo: o,
+              lschgej4H: s,
+              qxTvv_EBh: c,
+              ...l
+            } = bt(e),
+            u = be(`535953797`, yt);
+          return d(vt, {
+            ...l,
+            className: D(`framer-1qsf5`, r),
+            layoutId: i,
+            ref: t,
+            role: `presentation`,
+            style: { "--1m6trwb": c, "--21h8s6": o, "--pgex8v": s, ...n },
+            viewBox: `0 0 24 24`,
+            children: d(`use`, { href: u }),
+          });
+        }),
+        [
+          `.framer-1qsf5 { -webkit-mask: ${ht}; aspect-ratio: 1; display: block; mask: ${ht}; width: 24px; }`,
+        ],
+        `framer-1qsf5`,
+      )),
+      (xt.displayName = `Users Three`),
+      q(xt, {
+        ezTt3ayMo: {
+          defaultValue: `rgb(0, 0, 0)`,
+          hidden: !1,
+          title: `Color`,
+          type: H.Color,
+        },
+        lschgej4H: {
+          defaultValue: 1.5,
+          displayStepper: !0,
+          hidden: !1,
+          max: 6,
+          min: 0,
+          step: 0.5,
+          title: `Width`,
+          type: H.Number,
+        },
+        qxTvv_EBh: {
+          defaultValue: 0,
+          displayStepper: !0,
+          hidden: !1,
+          max: 1,
+          min: 0,
+          step: 0.1,
+          title: `Alpha`,
+          type: H.Number,
+        },
+      }));
+  }),
+  Ct,
+  wt,
+  Tt,
+  Et,
+  Dt,
+  Ot,
+  kt,
+  At = e(() => {
+    (h(),
+      k(),
+      _(),
+      (Ct = `var(--framer-icon-mask)`),
+      (wt = f(function (e, t) {
+        return d(`svg`, { ...e, ref: t, children: e.children });
+      })),
+      (Tt = x.create(wt)),
+      (Et = f((e, t) => {
+        let { animated: n, layoutId: r, children: i, ...a } = e;
+        return n
+          ? d(Tt, { ...a, layoutId: r, ref: t, children: i })
+          : d(`svg`, { ...a, ref: t, children: i });
+      })),
+      (Dt = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 6.369 9.906 L 9.724 11.924 C 9.899 12.032 10.123 12.025 10.29 11.905 C 10.458 11.785 10.537 11.576 10.492 11.375 L 9.579 7.607 L 12.564 5.087 C 12.721 4.955 12.782 4.74 12.719 4.545 C 12.656 4.35 12.48 4.213 12.276 4.198 L 8.358 3.888 L 6.848 0.312 C 6.767 0.123 6.58 0 6.374 0 C 6.168 0 5.981 0.123 5.9 0.312 L 4.39 3.888 L 0.472 4.198 C 0.267 4.211 0.09 4.348 0.025 4.543 C -0.039 4.739 0.022 4.954 0.179 5.087 L 3.164 7.607 L 2.244 11.375 C 2.199 11.576 2.278 11.785 2.446 11.905 C 2.613 12.025 2.837 12.032 3.012 11.924 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="12.000188038477893px" id="h2RVElj7m" transform="translate(9.006 2.25)" width="12.743701791581444px"/><path d="M 6.369 9.906 L 9.724 11.924 C 9.899 12.032 10.123 12.025 10.29 11.905 C 10.458 11.785 10.537 11.576 10.492 11.375 L 9.579 7.607 L 12.564 5.087 C 12.721 4.955 12.782 4.74 12.719 4.545 C 12.656 4.35 12.48 4.213 12.276 4.198 L 8.358 3.888 L 6.848 0.312 C 6.767 0.123 6.58 0 6.374 0 C 6.168 0 5.981 0.123 5.9 0.312 L 4.39 3.888 L 0.472 4.198 C 0.267 4.211 0.09 4.348 0.025 4.543 C -0.039 4.739 0.022 4.954 0.179 5.087 L 3.164 7.607 L 2.244 11.375 C 2.199 11.576 2.278 11.785 2.446 11.905 C 2.613 12.025 2.837 12.032 3.012 11.924 Z" fill="transparent" height="12.000188038477893px" id="Omd1xueOI" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(9.006 2.25)" width="12.743701791581444px"/><path d="M 5.48 0 L 0 5.48" fill="transparent" height="5.479687499999997px" id="zIKXnFQZL" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(2.25 11.02)" width="5.479687499999997px"/><path d="M 4.993 0 L 0 4.993" fill="transparent" height="4.993124999999992px" id="lv4E4uZ0o" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.75 16.757)" width="4.993124999999999px"/><path d="M 5.089 0 L 0 5.089" fill="transparent" height="5.0887500000000045px" id="pTxkkoSCS" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(10.5 16.661)" width="5.0887500000000045px"/></svg>`),
+      (Ot = ({
+        alpha: e,
+        color: t,
+        height: n,
+        id: r,
+        width: i,
+        width1: a,
+        ...o
+      }) => ({
+        ...o,
+        ezTt3ayMo: t ?? o.ezTt3ayMo ?? `rgb(0, 0, 0)`,
+        lschgej4H: a ?? o.lschgej4H ?? 1.5,
+        qxTvv_EBh: e ?? o.qxTvv_EBh,
+      })),
+      (kt = I(
+        f(function (e, t) {
+          let {
+              style: n,
+              className: r,
+              layoutId: i,
+              variant: a,
+              ezTt3ayMo: o,
+              lschgej4H: s,
+              qxTvv_EBh: c,
+              ...l
+            } = Ot(e),
+            u = be(`1724523750`, Dt);
+          return d(Et, {
+            ...l,
+            className: D(`framer-XN4Gz`, r),
+            layoutId: i,
+            ref: t,
+            role: `presentation`,
+            style: { "--1m6trwb": c, "--21h8s6": o, "--pgex8v": s, ...n },
+            viewBox: `0 0 24 24`,
+            children: d(`use`, { href: u }),
+          });
+        }),
+        [
+          `.framer-XN4Gz { -webkit-mask: ${Ct}; aspect-ratio: 1; display: block; mask: ${Ct}; width: 24px; }`,
+        ],
+        `framer-XN4Gz`,
+      )),
+      (kt.displayName = `Shooting Star`),
+      q(kt, {
+        ezTt3ayMo: {
+          defaultValue: `rgb(0, 0, 0)`,
+          hidden: !1,
+          title: `Color`,
+          type: H.Color,
+        },
+        lschgej4H: {
+          defaultValue: 1.5,
+          displayStepper: !0,
+          hidden: !1,
+          max: 6,
+          min: 0,
+          step: 0.5,
+          title: `Width`,
+          type: H.Number,
+        },
+        qxTvv_EBh: {
+          defaultValue: 0,
+          displayStepper: !0,
+          hidden: !1,
+          max: 1,
+          min: 0,
+          step: 0.1,
+          title: `Alpha`,
+          type: H.Number,
+        },
+      }));
+  }),
+  jt,
+  Mt,
+  Nt,
+  Pt,
+  Ft,
+  It,
+  Lt,
+  Rt = e(() => {
+    (h(),
+      k(),
+      _(),
+      (jt = `var(--framer-icon-mask)`),
+      (Mt = f(function (e, t) {
+        return d(`svg`, { ...e, ref: t, children: e.children });
+      })),
+      (Nt = x.create(Mt)),
+      (Pt = f((e, t) => {
+        let { animated: n, layoutId: r, children: i, ...a } = e;
+        return n
+          ? d(Nt, { ...a, layoutId: r, ref: t, children: i })
+          : d(`svg`, { ...a, ref: t, children: i });
+      })),
+      (Ft = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="4.5px" id="TYyewX54X" transform="translate(9.75 3)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="4.5px" id="tSysXh4tU" transform="translate(3.75 15.75)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="4.5px" id="oxj48obc5" transform="translate(15.75 15.75)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill="transparent" height="4.5px" id="FKyYNuu8A" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(9.75 3)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill="transparent" height="4.5px" id="v8tBiAo3p" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.75 15.75)" width="4.5px"/><path d="M 0.75 4.5 C 0.336 4.5 0 4.164 0 3.75 L 0 0.75 C 0 0.336 0.336 0 0.75 0 L 3.75 0 C 4.164 0 4.5 0.336 4.5 0.75 L 4.5 3.75 C 4.5 4.164 4.164 4.5 3.75 4.5 Z" fill="transparent" height="4.5px" id="UuKHO8YaS" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(15.75 15.75)" width="4.5px"/><path d="M 0 0 L 0 3.75" fill="transparent" height="3.75px" id="hdp8vL8lr" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(12 7.5)" width="1px"/><path d="M 0 0 L 0 4.5" fill="transparent" height="4.5px" id="Y_F3wwsnK" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(18 11.25)" width="1px"/><path d="M 0 4.5 L 0 0" fill="transparent" height="4.5px" id="oN5PzTx6l" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(6 11.25)" width="1px"/><path d="M 0 0 L 19.5 0" fill="transparent" height="1px" id="lfAxdpWNJ" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(2.25 11.25)" width="19.5px"/></svg>`),
+      (It = ({
+        alpha: e,
+        color: t,
+        height: n,
+        id: r,
+        width: i,
+        width1: a,
+        ...o
+      }) => ({
+        ...o,
+        ezTt3ayMo: t ?? o.ezTt3ayMo ?? `rgb(0, 0, 0)`,
+        lschgej4H: a ?? o.lschgej4H ?? 1.5,
+        qxTvv_EBh: e ?? o.qxTvv_EBh,
+      })),
+      (Lt = I(
+        f(function (e, t) {
+          let {
+              style: n,
+              className: r,
+              layoutId: i,
+              variant: a,
+              ezTt3ayMo: o,
+              lschgej4H: s,
+              qxTvv_EBh: c,
+              ...l
+            } = It(e),
+            u = be(`3581018432`, Ft);
+          return d(Pt, {
+            ...l,
+            className: D(`framer-XFxeT`, r),
+            layoutId: i,
+            ref: t,
+            role: `presentation`,
+            style: { "--1m6trwb": c, "--21h8s6": o, "--pgex8v": s, ...n },
+            viewBox: `0 0 24 24`,
+            children: d(`use`, { href: u }),
+          });
+        }),
+        [
+          `.framer-XFxeT { -webkit-mask: ${jt}; aspect-ratio: 1; display: block; mask: ${jt}; width: 24px; }`,
+        ],
+        `framer-XFxeT`,
+      )),
+      (Lt.displayName = `Network`),
+      q(Lt, {
+        ezTt3ayMo: {
+          defaultValue: `rgb(0, 0, 0)`,
+          hidden: !1,
+          title: `Color`,
+          type: H.Color,
+        },
+        lschgej4H: {
+          defaultValue: 1.5,
+          displayStepper: !0,
+          hidden: !1,
+          max: 6,
+          min: 0,
+          step: 0.5,
+          title: `Width`,
+          type: H.Number,
+        },
+        qxTvv_EBh: {
+          defaultValue: 0,
+          displayStepper: !0,
+          hidden: !1,
+          max: 1,
+          min: 0,
+          step: 0.1,
+          title: `Alpha`,
+          type: H.Number,
+        },
+      }));
+  }),
+  zt,
+  Bt,
+  Vt,
+  Ht,
+  Ut,
+  Wt,
+  Gt,
+  Kt,
+  qt,
+  Jt = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      (zt = `framer-oYcwK`),
+      (Bt = { Dq6Z1DtZe: `framer-v-1q0qmzs` }),
+      (Vt = { bounce: 0.2, delay: 0, duration: 0.4, type: `spring` }),
+      (Ht = (e) =>
+        typeof e == `object` && e && typeof e.src == `string`
+          ? e
+          : typeof e == `string`
+            ? { src: e }
+            : void 0),
+      (Ut = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (Wt = x.create(s)),
+      (Gt = ({ height: e, id: t, image: n, width: r, ...i }) => ({
+        ...i,
+        WFI793zsA: n ??
+          i.WFI793zsA ?? {
+            alt: ``,
+            pixelHeight: 673,
+            pixelWidth: 1200,
+            src: `https://framerusercontent.com/images/CkU2bj29wkAZ9dAKqcubEFbnwl0.png?width=1200&height=673`,
+            srcSet: `https://framerusercontent.com/images/CkU2bj29wkAZ9dAKqcubEFbnwl0.png?scale-down-to=512&width=1200&height=673 512w,https://framerusercontent.com/images/CkU2bj29wkAZ9dAKqcubEFbnwl0.png?scale-down-to=1024&width=1200&height=673 1024w,https://framerusercontent.com/images/CkU2bj29wkAZ9dAKqcubEFbnwl0.png?width=1200&height=673 1200w`,
+          },
+      })),
+      (Kt = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (qt = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: s } = V(),
+            c = W(),
+            {
+              style: l,
+              className: u,
+              layoutId: f,
+              variant: p,
+              WFI793zsA: ee,
+              ...m
+            } = Gt(e),
+            {
+              baseVariant: h,
+              classNames: g,
+              clearLoadingGesture: _,
+              gestureHandlers: v,
+              gestureVariant: y,
+              isLoading: ne,
+              setGestureState: re,
+              setVariant: b,
+              variants: S,
+            } = F({
+              defaultVariant: `Dq6Z1DtZe`,
+              ref: r,
+              variant: p,
+              variantClassNames: Bt,
+            }),
+            C = Kt(e, S),
+            w = D(zt);
+          return d(ie, {
+            id: f ?? i,
+            children: d(Wt, {
+              animate: S,
+              initial: !1,
+              children: d(Ut, {
+                value: Vt,
+                children: d(x.div, {
+                  ...m,
+                  ...v,
+                  className: D(w, `framer-1q0qmzs`, u, g),
+                  "data-framer-name": `Variant 1`,
+                  layoutDependency: C,
+                  layoutId: `Dq6Z1DtZe`,
+                  ref: r,
+                  style: { ...l },
+                  children: d(G, {
+                    background: {
+                      alt: ``,
+                      fit: `fill`,
+                      intrinsicHeight: 673,
+                      intrinsicWidth: 1200,
+                      loading: j((c?.y || 0) + 0 + 0),
+                      pixelHeight: 673,
+                      pixelWidth: 1200,
+                      sizes: c?.width || `100vw`,
+                      ...Ht(ee),
+                    },
+                    className: `framer-155s954`,
+                    layoutDependency: C,
+                    layoutId: `yxcSir6Gf`,
+                    style: {
+                      borderBottomLeftRadius: 20,
+                      borderBottomRightRadius: 20,
+                      borderTopLeftRadius: 20,
+                      borderTopRightRadius: 20,
+                    },
+                  }),
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `.framer-oYcwK.framer-18wi6xd, .framer-oYcwK .framer-18wi6xd { display: block; }`,
+          `.framer-oYcwK.framer-1q0qmzs { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 365px; }`,
+          `.framer-oYcwK .framer-155s954 { flex: none; height: 406px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }`,
+        ],
+        `framer-oYcwK`,
+      )),
+      (qt.displayName = `Team Card`),
+      (qt.defaultProps = { height: 406, width: 365 }),
+      q(qt, {
+        WFI793zsA: {
+          __defaultAssetReference: `data:framer/asset-reference,CkU2bj29wkAZ9dAKqcubEFbnwl0.png?originalFilename=Professional+Portrait+%2819%29.png&width=1200&height=673`,
+          __vekterDefault: {
+            alt: ``,
+            assetReference: `data:framer/asset-reference,CkU2bj29wkAZ9dAKqcubEFbnwl0.png?originalFilename=Professional+Portrait+%2819%29.png&width=1200&height=673`,
+          },
+          title: `Image`,
+          type: H.ResponsiveImage,
+        },
+      }),
+      E(qt, [{ explicitInter: !0, fonts: [] }], {
+        supportsExplicitInterCodegen: !0,
+      }));
+  }),
+  Yt,
+  Xt,
+  Zt,
+  Qt,
+  $t,
+  en,
+  tn,
+  nn = e(() => {
+    (h(),
+      k(),
+      _(),
+      (Yt = `var(--framer-icon-mask)`),
+      (Xt = f(function (e, t) {
+        return d(`svg`, { ...e, ref: t, children: e.children });
+      })),
+      (Zt = x.create(Xt)),
+      (Qt = f((e, t) => {
+        let { animated: n, layoutId: r, children: i, ...a } = e;
+        return n
+          ? d(Zt, { ...a, layoutId: r, ref: t, children: i })
+          : d(`svg`, { ...a, ref: t, children: i });
+      })),
+      ($t = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 18 0 L 1.5 0 C 0.672 0 0 0.672 0 1.5 L 0 15 C 0 15.828 0.672 16.5 1.5 16.5 L 18 16.5 C 18.828 16.5 19.5 15.828 19.5 15 L 19.5 1.5 C 19.5 0.672 18.828 0 18 0 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="16.5px" id="CcIDqS4bW" transform="translate(2.25 3.75)" width="19.5px"/><path d="M 0 5.25 L 3.75 9 L 12.75 0" fill="transparent" height="9px" id="txP0X4MiU" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(6 7.5)" width="12.75px"/></svg>`),
+      (en = ({
+        alpha: e,
+        color: t,
+        height: n,
+        id: r,
+        width: i,
+        width1: a,
+        ...o
+      }) => ({
+        ...o,
+        ezTt3ayMo: t ?? o.ezTt3ayMo ?? `rgb(0, 0, 0)`,
+        lschgej4H: a ?? o.lschgej4H ?? 1.5,
+        qxTvv_EBh: e ?? o.qxTvv_EBh,
+      })),
+      (tn = I(
+        f(function (e, t) {
+          let {
+              style: n,
+              className: r,
+              layoutId: i,
+              variant: a,
+              ezTt3ayMo: o,
+              lschgej4H: s,
+              qxTvv_EBh: c,
+              ...l
+            } = en(e),
+            u = be(`4119102008`, $t);
+          return d(Qt, {
+            ...l,
+            className: D(`framer-uMwCf`, r),
+            layoutId: i,
+            ref: t,
+            role: `presentation`,
+            style: { "--1m6trwb": c, "--21h8s6": o, "--pgex8v": s, ...n },
+            viewBox: `0 0 24 24`,
+            children: d(`use`, { href: u }),
+          });
+        }),
+        [
+          `.framer-uMwCf { -webkit-mask: ${Yt}; aspect-ratio: 1; display: block; mask: ${Yt}; width: 24px; }`,
+        ],
+        `framer-uMwCf`,
+      )),
+      (tn.displayName = `Check`),
+      q(tn, {
+        ezTt3ayMo: {
+          defaultValue: `rgb(0, 0, 0)`,
+          hidden: !1,
+          title: `Color`,
+          type: H.Color,
+        },
+        lschgej4H: {
+          defaultValue: 1.5,
+          displayStepper: !0,
+          hidden: !1,
+          max: 6,
+          min: 0,
+          step: 0.5,
+          title: `Width`,
+          type: H.Number,
+        },
+        qxTvv_EBh: {
+          defaultValue: 0,
+          displayStepper: !0,
+          hidden: !1,
+          max: 1,
+          min: 0,
+          step: 0.1,
+          title: `Alpha`,
+          type: H.Number,
+        },
+      }));
+  }),
+  rn,
+  an,
+  on,
+  sn = e(() => {
+    (k(),
+      ae.loadFonts([`FS;Manrope-medium`, `FS;Manrope-bold`]),
+      (rn = [
+        {
+          explicitInter: !0,
+          fonts: [
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,
+              weight: `500`,
+            },
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,
+              weight: `700`,
+            },
+          ],
+        },
+      ]),
+      (an = [
+        `.framer-LrBCg .framer-styles-preset-hd4366:not(.rich-text-wrapper), .framer-LrBCg .framer-styles-preset-hd4366.rich-text-wrapper h3 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 30px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,
+        `@media (max-width: 1199px) and (min-width: 810px) { .framer-LrBCg .framer-styles-preset-hd4366:not(.rich-text-wrapper), .framer-LrBCg .framer-styles-preset-hd4366.rich-text-wrapper h3 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 26px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+        `@media (max-width: 809px) and (min-width: 0px) { .framer-LrBCg .framer-styles-preset-hd4366:not(.rich-text-wrapper), .framer-LrBCg .framer-styles-preset-hd4366.rich-text-wrapper h3 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 20px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+      ]),
+      (on = `framer-LrBCg`));
+  }),
+  cn,
+  ln,
+  un,
+  dn,
+  fn,
+  pn,
+  mn,
+  hn,
+  gn,
+  _n = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      nn(),
+      He(),
+      (cn = O(tn)),
+      (ln = `framer-Ze0f1`),
+      (un = { rew3LmuLS: `framer-v-8ephw9` }),
+      (dn = { bounce: 0.2, delay: 0, duration: 0.4, type: `spring` }),
+      (fn = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (pn = x.create(s)),
+      (mn = ({ height: e, id: t, text: n, width: r, ...i }) => ({
+        ...i,
+        iDOo60bu2: n ?? i.iDOo60bu2 ?? `Brand Strategy`,
+      })),
+      (hn = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (gn = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: c } = V();
+          W();
+          let {
+              style: l,
+              className: u,
+              layoutId: f,
+              variant: p,
+              iDOo60bu2: ee,
+              ...h
+            } = mn(e),
+            {
+              baseVariant: g,
+              classNames: _,
+              clearLoadingGesture: v,
+              gestureHandlers: y,
+              gestureVariant: ne,
+              isLoading: re,
+              setGestureState: b,
+              setVariant: S,
+              variants: C,
+            } = F({
+              defaultVariant: `rew3LmuLS`,
+              ref: r,
+              variant: p,
+              variantClassNames: un,
+            }),
+            w = hn(e, C),
+            T = D(ln, Ue);
+          return d(ie, {
+            id: f ?? i,
+            children: d(pn, {
+              animate: C,
+              initial: !1,
+              children: d(fn, {
+                value: dn,
+                children: m(x.div, {
+                  ...h,
+                  ...y,
+                  className: D(T, `framer-8ephw9`, u, _),
+                  "data-framer-name": `Variant 1`,
+                  layoutDependency: w,
+                  layoutId: `rew3LmuLS`,
+                  ref: r,
+                  style: { ...l },
+                  children: [
+                    d(x.div, {
+                      className: `framer-651w1p`,
+                      "data-framer-name": `Icon`,
+                      layoutDependency: w,
+                      layoutId: `GJpdyRou1`,
+                      children: d(tn, {
+                        animated: !0,
+                        className: `framer-mw345c`,
+                        layoutDependency: w,
+                        layoutId: `dofd9zHpv`,
+                        style: {
+                          "--1m6trwb": 0,
+                          "--21h8s6": `var(--token-fd8a9d2f-2c30-47ff-bef1-7fed157e3858, rgb(0, 0, 0))`,
+                          "--pgex8v": 1.5,
+                        },
+                      }),
+                    }),
+                    d(N, {
+                      __fromCanvasComponent: !0,
+                      children: d(s, {
+                        children: d(x.p, {
+                          className: `framer-styles-preset-5np2z3`,
+                          "data-styles-preset": `rhST_ZvFU`,
+                          dir: `auto`,
+                          children: `Brand Strategy`,
+                        }),
+                      }),
+                      className: `framer-2iyi03`,
+                      fonts: [`Inter`],
+                      layoutDependency: w,
+                      layoutId: `waz3tt2iL`,
+                      text: ee,
+                      verticalAlignment: `top`,
+                      withExternalLayout: !0,
+                    }),
+                  ],
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,
+          `.framer-Ze0f1.framer-1hg3c12, .framer-Ze0f1 .framer-1hg3c12 { display: block; }`,
+          `.framer-Ze0f1.framer-8ephw9 { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 4px 0px 4px 0px; position: relative; width: 618px; }`,
+          `.framer-Ze0f1 .framer-651w1p { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 20px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 20px; }`,
+          `.framer-Ze0f1 .framer-mw345c { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 24px); position: relative; width: 24px; }`,
+          `.framer-Ze0f1 .framer-2iyi03 { flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,
+          ...Oe,
+        ],
+        `framer-Ze0f1`,
+      )),
+      (gn.displayName = `Case Studies Item`),
+      (gn.defaultProps = { height: 34, width: 618 }),
+      q(gn, {
+        iDOo60bu2: {
+          defaultValue: `Brand Strategy`,
+          displayTextArea: !1,
+          title: `Text`,
+          type: H.String,
+        },
+        oniDOo60bu2Change: { changes: `iDOo60bu2`, type: H.ChangeHandler },
+      }),
+      E(
+        gn,
+        [
+          {
+            explicitInter: !0,
+            fonts: [
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+                url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+                url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+1F00-1FFF`,
+                url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0370-03FF`,
+                url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+                url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+                url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+                url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+                weight: `400`,
+              },
+            ],
+          },
+          ...cn,
+          ...A(we),
+        ],
+        { supportsExplicitInterCodegen: !0 },
+      ));
+  });
+function vn(e, ...t) {
+  let n = {};
+  return (t?.forEach((t) => t && Object.assign(n, e[t])), n);
+}
+var yn,
+  bn,
+  xn,
+  Sn,
+  Cn,
+  wn,
+  Tn,
+  En,
+  Dn,
+  On,
+  kn,
+  An,
+  jn,
+  Mn,
+  Nn,
+  Pn,
+  Fn = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      nn(),
+      sn(),
+      De(),
+      Ve(),
+      _n(),
+      Ie(),
+      (yn = O(J)),
+      (bn = O(gn)),
+      (xn = O(Re)),
+      (Sn = [`wj2dm3W7j`, `r5RqauV5e`, `RrXfwTyVq`]),
+      (Cn = `framer-MY88N`),
+      (wn = {
+        r5RqauV5e: `framer-v-ryuo6`,
+        RrXfwTyVq: `framer-v-1troao2`,
+        wj2dm3W7j: `framer-v-147dpq`,
+      }),
+      (Tn = { bounce: 0.2, delay: 0, duration: 0.4, type: `spring` }),
+      (En = (e) =>
+        typeof e == `object` && e && typeof e.src == `string`
+          ? e
+          : typeof e == `string`
+            ? { src: e }
+            : void 0),
+      (Dn = (...e) => {
+        for (let t of e) if (t && typeof t == `string`) return t;
+      }),
+      (On = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (kn = { Desktop: `wj2dm3W7j`, Mobile: `RrXfwTyVq`, Tablet: `r5RqauV5e` }),
+      (An = x.create(s)),
+      (jn = (e, t) => {
+        let [r, i] = n(e),
+          [a, o] = n(e);
+        return t ? [e, t] : (e !== a && (i(e), o(e)), [r, i]);
+      }),
+      (Mn = ({
+        description: e,
+        height: t,
+        id: n,
+        image: r,
+        tagText1: i,
+        tagText2: a,
+        text2: o,
+        text3: s,
+        text4: c,
+        title: l,
+        width: u,
+        ...d
+      }) => ({
+        ...d,
+        AdjLfLWcf:
+          e ??
+          d.AdjLfLWcf ??
+          `Designed a scalable growth strategy that cut operational costs, accelerated revenue growth and positioned the business for long-term market leadership.`,
+        dxkF5smpr: a ?? d.dxkF5smpr ?? `Growth Consulting`,
+        fbpfDv_8V: i ?? d.fbpfDv_8V ?? `Business Strategy`,
+        K2mGH1Qc3: o ?? d.K2mGH1Qc3 ?? `Maior visibilidade das informações`,
+        kVzBBKvN0: r ??
+          d.kVzBBKvN0 ?? {
+            pixelHeight: 1200,
+            pixelWidth: 900,
+            positionX: `63.5%`,
+            positionY: `10.2%`,
+            src: `https://framerusercontent.com/images/tqobcXrysrymorr2FT7tDFbE.png?width=900&height=1200`,
+            srcSet: `https://framerusercontent.com/images/tqobcXrysrymorr2FT7tDFbE.png?scale-down-to=1024&width=900&height=1200 768w,https://framerusercontent.com/images/tqobcXrysrymorr2FT7tDFbE.png?width=900&height=1200 900w`,
+          },
+        PFm4ndQ5W: l ?? d.PFm4ndQ5W ?? `Scalable Growth Strategy`,
+        SbZp6oq7O: c ?? d.SbZp6oq7O ?? `Processos centralizados e integrados`,
+        Uh7dbRDQE: s ?? d.Uh7dbRDQE ?? `Gestão orientada por dados`,
+        variant: kn[d.variant] ?? d.variant ?? `wj2dm3W7j`,
+      })),
+      (Nn = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (Pn = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: c } = V(),
+            l = W(),
+            {
+              style: u,
+              className: f,
+              layoutId: p,
+              variant: ee,
+              kVzBBKvN0: h,
+              PFm4ndQ5W: g,
+              AdjLfLWcf: _,
+              fbpfDv_8V: v,
+              onfbpfDv_8VChange: y,
+              dxkF5smpr: ne,
+              ondxkF5smprChange: re,
+              K2mGH1Qc3: b,
+              onK2mGH1Qc3Change: S,
+              Uh7dbRDQE: C,
+              onUh7dbRDQEChange: w,
+              SbZp6oq7O: T,
+              onSbZp6oq7OChange: E,
+              ...O
+            } = Mn(e),
+            [k, A] = jn(v, y),
+            [ae, oe] = jn(ne, re),
+            [se, ce] = jn(b, S),
+            [le, P] = jn(C, w),
+            [ue, I] = jn(T, E),
+            {
+              baseVariant: L,
+              classNames: de,
+              clearLoadingGesture: fe,
+              gestureHandlers: pe,
+              gestureVariant: R,
+              isLoading: z,
+              setGestureState: B,
+              setVariant: he,
+              variants: ge,
+            } = F({
+              cycleOrder: Sn,
+              defaultVariant: `wj2dm3W7j`,
+              ref: r,
+              variant: ee,
+              variantClassNames: wn,
+            }),
+            H = Nn(e, ge),
+            _e = D(Cn, on, ke);
+          return (
+            me(),
+            d(ie, {
+              id: p ?? i,
+              children: d(An, {
+                animate: ge,
+                initial: !1,
+                children: d(On, {
+                  value: Tn,
+                  children: m(x.div, {
+                    ...O,
+                    ...pe,
+                    className: D(_e, `framer-147dpq`, f, de),
+                    "data-border": !0,
+                    "data-framer-name": `Desktop`,
+                    layoutDependency: H,
+                    layoutId: `wj2dm3W7j`,
+                    ref: r,
+                    style: {
+                      "--border-bottom-width": `3px`,
+                      "--border-color": `var(--token-53a2a340-4072-4522-b360-8d845b010dc6, rgba(224, 224, 224, 0.85))`,
+                      "--border-left-width": `3px`,
+                      "--border-right-width": `3px`,
+                      "--border-style": `solid`,
+                      "--border-top-width": `3px`,
+                      backdropFilter: `blur(60px)`,
+                      backgroundColor: `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                      borderBottomLeftRadius: 20,
+                      borderBottomRightRadius: 20,
+                      borderTopLeftRadius: 20,
+                      borderTopRightRadius: 20,
+                      boxShadow: `0px 8px 38px 0px rgba(255, 255, 255, 0.36)`,
+                      WebkitBackdropFilter: `blur(60px)`,
+                      ...u,
+                    },
+                    ...vn(
+                      {
+                        r5RqauV5e: { "data-framer-name": `Tablet` },
+                        RrXfwTyVq: { "data-framer-name": `Mobile` },
+                      },
+                      L,
+                      R,
+                    ),
+                    children: [
+                      d(G, {
+                        as: `figure`,
+                        background: {
+                          alt: ``,
+                          fit: `fill`,
+                          intrinsicHeight: 800,
+                          intrinsicWidth: 1200,
+                          loading: j(
+                            (l?.y || 0) +
+                              (32 + ((l?.height || 612) - 64 - 548) / 2),
+                          ),
+                          pixelHeight: 1200,
+                          pixelWidth: 900,
+                          sizes: `max((${l?.width || `100vw`} - 112px) / 2, 1px)`,
+                          ...En(h),
+                        },
+                        className: `framer-anvz7a`,
+                        layoutDependency: H,
+                        layoutId: `gZbNeHPdm`,
+                        style: {
+                          borderBottomLeftRadius: 16,
+                          borderBottomRightRadius: 16,
+                          borderTopLeftRadius: 16,
+                          borderTopRightRadius: 16,
+                        },
+                        ...vn(
+                          {
+                            r5RqauV5e: {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 800,
+                                intrinsicWidth: 1200,
+                                loading: j(
+                                  (l?.y || 0) +
+                                    20 +
+                                    (((l?.height || 1253) - 80 - 1229) / 2 +
+                                      0 +
+                                      0),
+                                ),
+                                pixelHeight: 1200,
+                                pixelWidth: 900,
+                                sizes: `calc(${l?.width || `100vw`} - 40px)`,
+                                ...En(h),
+                              },
+                            },
+                            RrXfwTyVq: {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 800,
+                                intrinsicWidth: 1200,
+                                loading: j(
+                                  (l?.y || 0) +
+                                    12 +
+                                    (((l?.height || 1075) - 52 - 986) / 2 +
+                                      0 +
+                                      0),
+                                ),
+                                pixelHeight: 1200,
+                                pixelWidth: 900,
+                                sizes: `calc(${l?.width || `100vw`} - 24px)`,
+                                ...En(h),
+                              },
+                            },
+                          },
+                          L,
+                          R,
+                        ),
+                      }),
+                      m(x.div, {
+                        className: `framer-ovzgza`,
+                        "data-framer-name": `Container`,
+                        layoutDependency: H,
+                        layoutId: `hschZ6oaI`,
+                        children: [
+                          m(x.div, {
+                            className: `framer-7d7shx`,
+                            "data-framer-name": `Content`,
+                            layoutDependency: H,
+                            layoutId: `LWAqpwRL1`,
+                            children: [
+                              m(x.div, {
+                                className: `framer-1j5f91y`,
+                                "data-framer-name": `Heading`,
+                                layoutDependency: H,
+                                layoutId: `EqX24yspQ`,
+                                children: [
+                                  d(N, {
+                                    __fromCanvasComponent: !0,
+                                    children: d(s, {
+                                      children: d(x.h3, {
+                                        className: `framer-styles-preset-hd4366`,
+                                        "data-styles-preset": `ExWszoMVd`,
+                                        dir: `auto`,
+                                        children: `Scalable Growth Strategy`,
+                                      }),
+                                    }),
+                                    className: `framer-1dbfgog`,
+                                    fonts: [`Inter`],
+                                    layoutDependency: H,
+                                    layoutId: `N13quUfn6`,
+                                    style: {
+                                      "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                      "--framer-link-text-decoration": `underline`,
+                                    },
+                                    text: g,
+                                    verticalAlignment: `top`,
+                                    withExternalLayout: !0,
+                                  }),
+                                  d(N, {
+                                    __fromCanvasComponent: !0,
+                                    children: d(s, {
+                                      children: d(x.p, {
+                                        className: `framer-styles-preset-4wrmj6`,
+                                        "data-styles-preset": `hvYWBRe5U`,
+                                        dir: `auto`,
+                                        children: `Designed a scalable growth strategy that cut operational costs, accelerated revenue growth and positioned the business for long-term market leadership.`,
+                                      }),
+                                    }),
+                                    className: `framer-1lsogyh`,
+                                    fonts: [`Inter`],
+                                    layoutDependency: H,
+                                    layoutId: `kqPFfuQOp`,
+                                    style: {
+                                      "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                      "--framer-link-text-decoration": `underline`,
+                                    },
+                                    text: _,
+                                    verticalAlignment: `top`,
+                                    withExternalLayout: !0,
+                                  }),
+                                ],
+                              }),
+                              m(x.div, {
+                                className: `framer-1sw8f4i`,
+                                "data-framer-name": `Tags`,
+                                layoutDependency: H,
+                                layoutId: `YdNmUpu5R`,
+                                children: [
+                                  d(U, {
+                                    height: 36,
+                                    y:
+                                      (l?.y || 0) +
+                                      (32 +
+                                        ((l?.height || 612) -
+                                          64 -
+                                          ((l?.height || 612) - 64) * 1) /
+                                          2) +
+                                      0 +
+                                      (0 +
+                                        ((((l?.height || 612) - 64) * 1 -
+                                          0 -
+                                          492) /
+                                          1) *
+                                          0) +
+                                      0 +
+                                      230 +
+                                      0,
+                                    ...vn(
+                                      {
+                                        r5RqauV5e: {
+                                          y:
+                                            (l?.y || 0) +
+                                            20 +
+                                            (((l?.height || 1253) - 80 - 1229) /
+                                              2 +
+                                              617 +
+                                              48) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            230 +
+                                            0,
+                                        },
+                                        RrXfwTyVq: {
+                                          y:
+                                            (l?.y || 0) +
+                                            12 +
+                                            (((l?.height || 1075) - 52 - 986) /
+                                              2 +
+                                              330 +
+                                              32) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            230 +
+                                            0 +
+                                            0,
+                                        },
+                                      },
+                                      L,
+                                      R,
+                                    ),
+                                    children: d(M, {
+                                      className: `framer-18dm5qs-container`,
+                                      "data-framer-name": `Case Studies Tags`,
+                                      layoutDependency: H,
+                                      layoutId: `cuXvAA_Uq-container`,
+                                      name: `Case Studies Tags`,
+                                      nodeId: `cuXvAA_Uq`,
+                                      rendersWithMotion: !0,
+                                      scopeId: `HWcB7c7OD`,
+                                      children: d(J, {
+                                        BIDMndvd0: 0,
+                                        cQI9DamX9: {
+                                          borderColor: `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                                          borderStyle: `solid`,
+                                          borderWidth: 1,
+                                        },
+                                        G_faciQgo: `var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, rgb(25, 25, 28))`,
+                                        height: `100%`,
+                                        id: `cuXvAA_Uq`,
+                                        KeoHf_ARU: `var(--token-5160940c-7a55-4fef-a054-52acec2a328c, rgb(237, 237, 237))`,
+                                        layoutId: `cuXvAA_Uq`,
+                                        name: `Case Studies Tags`,
+                                        onzljOAbP0zChange: A,
+                                        tjj7UTgn4: `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                                        vbKoFf7Q0: !1,
+                                        w5XGjIP2H: tn,
+                                        width: `100%`,
+                                        zljOAbP0z: k,
+                                      }),
+                                    }),
+                                  }),
+                                  d(U, {
+                                    height: 36,
+                                    y:
+                                      (l?.y || 0) +
+                                      (32 +
+                                        ((l?.height || 612) -
+                                          64 -
+                                          ((l?.height || 612) - 64) * 1) /
+                                          2) +
+                                      0 +
+                                      (0 +
+                                        ((((l?.height || 612) - 64) * 1 -
+                                          0 -
+                                          492) /
+                                          1) *
+                                          0) +
+                                      0 +
+                                      230 +
+                                      0,
+                                    ...vn(
+                                      {
+                                        r5RqauV5e: {
+                                          y:
+                                            (l?.y || 0) +
+                                            20 +
+                                            (((l?.height || 1253) - 80 - 1229) /
+                                              2 +
+                                              617 +
+                                              48) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            230 +
+                                            0,
+                                        },
+                                        RrXfwTyVq: {
+                                          y:
+                                            (l?.y || 0) +
+                                            12 +
+                                            (((l?.height || 1075) - 52 - 986) /
+                                              2 +
+                                              330 +
+                                              32) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            230 +
+                                            0 +
+                                            60,
+                                        },
+                                      },
+                                      L,
+                                      R,
+                                    ),
+                                    children: d(M, {
+                                      className: `framer-w3yo05-container`,
+                                      "data-framer-name": `Case Studies Tags`,
+                                      layoutDependency: H,
+                                      layoutId: `RmW3noGTG-container`,
+                                      name: `Case Studies Tags`,
+                                      nodeId: `RmW3noGTG`,
+                                      rendersWithMotion: !0,
+                                      scopeId: `HWcB7c7OD`,
+                                      children: d(J, {
+                                        BIDMndvd0: 0,
+                                        cQI9DamX9: {
+                                          borderColor: `rgba(255, 122, 13, 0)`,
+                                          borderStyle: `solid`,
+                                          borderWidth: 1,
+                                        },
+                                        G_faciQgo: `rgb(0, 0, 0)`,
+                                        height: `100%`,
+                                        id: `RmW3noGTG`,
+                                        KeoHf_ARU: `var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, rgb(25, 25, 28))`,
+                                        layoutId: `RmW3noGTG`,
+                                        name: `Case Studies Tags`,
+                                        onzljOAbP0zChange: oe,
+                                        tjj7UTgn4: `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                                        vbKoFf7Q0: !1,
+                                        w5XGjIP2H: tn,
+                                        width: `100%`,
+                                        zljOAbP0z: ae,
+                                      }),
+                                    }),
+                                  }),
+                                ],
+                              }),
+                              m(x.div, {
+                                className: `framer-1xqfl55`,
+                                "data-framer-name": `Stats`,
+                                layoutDependency: H,
+                                layoutId: `vvgXqouEi`,
+                                children: [
+                                  d(U, {
+                                    height: 34,
+                                    width: `max((${l?.width || `100vw`} - 112px) / 2, 1px)`,
+                                    y:
+                                      (l?.y || 0) +
+                                      (32 +
+                                        ((l?.height || 612) -
+                                          64 -
+                                          ((l?.height || 612) - 64) * 1) /
+                                          2) +
+                                      0 +
+                                      (0 +
+                                        ((((l?.height || 612) - 64) * 1 -
+                                          0 -
+                                          492) /
+                                          1) *
+                                          0) +
+                                      0 +
+                                      298 +
+                                      0 +
+                                      0,
+                                    ...vn(
+                                      {
+                                        r5RqauV5e: {
+                                          width: `calc(${l?.width || `100vw`} - 40px)`,
+                                          y:
+                                            (l?.y || 0) +
+                                            20 +
+                                            (((l?.height || 1253) - 80 - 1229) /
+                                              2 +
+                                              617 +
+                                              48) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            298 +
+                                            0 +
+                                            0,
+                                        },
+                                        RrXfwTyVq: {
+                                          width: `calc(${l?.width || `100vw`} - 24px)`,
+                                          y:
+                                            (l?.y || 0) +
+                                            12 +
+                                            (((l?.height || 1075) - 52 - 986) /
+                                              2 +
+                                              330 +
+                                              32) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            358 +
+                                            0 +
+                                            0,
+                                        },
+                                      },
+                                      L,
+                                      R,
+                                    ),
+                                    children: d(M, {
+                                      className: `framer-qy2shc-container`,
+                                      layoutDependency: H,
+                                      layoutId: `fLv9qUKdj-container`,
+                                      nodeId: `fLv9qUKdj`,
+                                      rendersWithMotion: !0,
+                                      scopeId: `HWcB7c7OD`,
+                                      children: d(gn, {
+                                        height: `100%`,
+                                        id: `fLv9qUKdj`,
+                                        iDOo60bu2: ue,
+                                        layoutId: `fLv9qUKdj`,
+                                        oniDOo60bu2Change: I,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                  d(U, {
+                                    height: 34,
+                                    width: `max((${l?.width || `100vw`} - 112px) / 2, 1px)`,
+                                    y:
+                                      (l?.y || 0) +
+                                      (32 +
+                                        ((l?.height || 612) -
+                                          64 -
+                                          ((l?.height || 612) - 64) * 1) /
+                                          2) +
+                                      0 +
+                                      (0 +
+                                        ((((l?.height || 612) - 64) * 1 -
+                                          0 -
+                                          492) /
+                                          1) *
+                                          0) +
+                                      0 +
+                                      298 +
+                                      0 +
+                                      52,
+                                    ...vn(
+                                      {
+                                        r5RqauV5e: {
+                                          width: `calc(${l?.width || `100vw`} - 40px)`,
+                                          y:
+                                            (l?.y || 0) +
+                                            20 +
+                                            (((l?.height || 1253) - 80 - 1229) /
+                                              2 +
+                                              617 +
+                                              48) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            298 +
+                                            0 +
+                                            52,
+                                        },
+                                        RrXfwTyVq: {
+                                          width: `calc(${l?.width || `100vw`} - 24px)`,
+                                          y:
+                                            (l?.y || 0) +
+                                            12 +
+                                            (((l?.height || 1075) - 52 - 986) /
+                                              2 +
+                                              330 +
+                                              32) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            358 +
+                                            0 +
+                                            52,
+                                        },
+                                      },
+                                      L,
+                                      R,
+                                    ),
+                                    children: d(M, {
+                                      className: `framer-c9cr5j-container`,
+                                      layoutDependency: H,
+                                      layoutId: `ZatDr0l5i-container`,
+                                      nodeId: `ZatDr0l5i`,
+                                      rendersWithMotion: !0,
+                                      scopeId: `HWcB7c7OD`,
+                                      children: d(gn, {
+                                        height: `100%`,
+                                        id: `ZatDr0l5i`,
+                                        iDOo60bu2: se,
+                                        layoutId: `ZatDr0l5i`,
+                                        oniDOo60bu2Change: ce,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                  d(U, {
+                                    height: 34,
+                                    width: `max((${l?.width || `100vw`} - 112px) / 2, 1px)`,
+                                    y:
+                                      (l?.y || 0) +
+                                      (32 +
+                                        ((l?.height || 612) -
+                                          64 -
+                                          ((l?.height || 612) - 64) * 1) /
+                                          2) +
+                                      0 +
+                                      (0 +
+                                        ((((l?.height || 612) - 64) * 1 -
+                                          0 -
+                                          492) /
+                                          1) *
+                                          0) +
+                                      0 +
+                                      298 +
+                                      0 +
+                                      104,
+                                    ...vn(
+                                      {
+                                        r5RqauV5e: {
+                                          width: `calc(${l?.width || `100vw`} - 40px)`,
+                                          y:
+                                            (l?.y || 0) +
+                                            20 +
+                                            (((l?.height || 1253) - 80 - 1229) /
+                                              2 +
+                                              617 +
+                                              48) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            298 +
+                                            0 +
+                                            104,
+                                        },
+                                        RrXfwTyVq: {
+                                          width: `calc(${l?.width || `100vw`} - 24px)`,
+                                          y:
+                                            (l?.y || 0) +
+                                            12 +
+                                            (((l?.height || 1075) - 52 - 986) /
+                                              2 +
+                                              330 +
+                                              32) +
+                                            0 +
+                                            0 +
+                                            0 +
+                                            358 +
+                                            0 +
+                                            104,
+                                        },
+                                      },
+                                      L,
+                                      R,
+                                    ),
+                                    children: d(M, {
+                                      className: `framer-1in03c8-container`,
+                                      layoutDependency: H,
+                                      layoutId: `O5UuqHX0L-container`,
+                                      nodeId: `O5UuqHX0L`,
+                                      rendersWithMotion: !0,
+                                      scopeId: `HWcB7c7OD`,
+                                      children: d(gn, {
+                                        height: `100%`,
+                                        id: `O5UuqHX0L`,
+                                        iDOo60bu2: le,
+                                        layoutId: `O5UuqHX0L`,
+                                        oniDOo60bu2Change: P,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
+                          d(Ce, {
+                            links: [
+                              {
+                                href: {
+                                  hash: `:n0VZEt7a2`,
+                                  webPageId: `augiA20Il`,
+                                },
+                                implicitPathVariables: void 0,
+                              },
+                              {
+                                href: {
+                                  hash: `:n0VZEt7a2`,
+                                  webPageId: `augiA20Il`,
+                                },
+                                implicitPathVariables: void 0,
+                              },
+                              {
+                                href: {
+                                  hash: `:n0VZEt7a2`,
+                                  webPageId: `augiA20Il`,
+                                },
+                                implicitPathVariables: void 0,
+                              },
+                            ],
+                            children: (e) =>
+                              d(U, {
+                                height: 56,
+                                y:
+                                  (l?.y || 0) +
+                                  (32 +
+                                    ((l?.height || 612) -
+                                      64 -
+                                      ((l?.height || 612) - 64) * 1) /
+                                      2) +
+                                  0 +
+                                  (436 +
+                                    ((((l?.height || 612) - 64) * 1 - 0 - 492) /
+                                      1) *
+                                      1),
+                                ...vn(
+                                  {
+                                    r5RqauV5e: {
+                                      y:
+                                        (l?.y || 0) +
+                                        20 +
+                                        (((l?.height || 1253) - 80 - 1229) / 2 +
+                                          617 +
+                                          48) +
+                                        0 +
+                                        508,
+                                    },
+                                    RrXfwTyVq: {
+                                      y:
+                                        (l?.y || 0) +
+                                        12 +
+                                        (((l?.height || 1075) - 52 - 986) / 2 +
+                                          330 +
+                                          32) +
+                                        0 +
+                                        568,
+                                    },
+                                  },
+                                  L,
+                                  R,
+                                ),
+                                children: d(M, {
+                                  className: `framer-14lqldv-container`,
+                                  layoutDependency: H,
+                                  layoutId: `o8nsXGo3h-container`,
+                                  nodeId: `o8nsXGo3h`,
+                                  rendersWithMotion: !0,
+                                  scopeId: `HWcB7c7OD`,
+                                  children: d(Re, {
+                                    height: `100%`,
+                                    id: `o8nsXGo3h`,
+                                    jP8RsU_1U: !0,
+                                    layoutId: `o8nsXGo3h`,
+                                    m5Kn0Xy2t: !0,
+                                    PAOhNXCgW: e[0],
+                                    variant: Dn(`yY4SeqekG`),
+                                    width: `100%`,
+                                    wpG4pFYzq: `8px 8px 8px 22px`,
+                                    yOvxaJE3O: `Fale com um especialista`,
+                                    ...vn(
+                                      {
+                                        r5RqauV5e: { PAOhNXCgW: e[1] },
+                                        RrXfwTyVq: { PAOhNXCgW: e[2] },
+                                      },
+                                      L,
+                                      R,
+                                    ),
+                                  }),
+                                }),
+                              }),
+                          }),
+                        ],
+                      }),
+                    ],
+                  }),
+                }),
+              }),
+            })
+          );
+        }),
+        [
+          `.framer-MY88N.framer-1m57yav, .framer-MY88N .framer-1m57yav { display: block; }`,
+          `.framer-MY88N.framer-147dpq { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 48px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 32px; position: relative; width: 1120px; will-change: var(--framer-will-change-override, transform); }`,
+          `.framer-MY88N .framer-anvz7a { flex: 1 0 0px; height: 548px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }`,
+          `.framer-MY88N .framer-ovzgza { align-content: flex-start; align-items: flex-start; align-self: stretch; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; height: auto; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 1px; }`,
+          `.framer-MY88N .framer-7d7shx { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 32px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+          `.framer-MY88N .framer-1j5f91y { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+          `.framer-MY88N .framer-1dbfgog { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+          `.framer-MY88N .framer-1lsogyh { flex: none; height: auto; max-width: 90%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+          `.framer-MY88N .framer-1sw8f4i { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+          `.framer-MY88N .framer-18dm5qs-container, .framer-MY88N .framer-w3yo05-container, .framer-MY88N .framer-14lqldv-container { flex: none; height: auto; position: relative; width: auto; }`,
+          `.framer-MY88N .framer-1xqfl55 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 18px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+          `.framer-MY88N .framer-qy2shc-container, .framer-MY88N .framer-c9cr5j-container, .framer-MY88N .framer-1in03c8-container { flex: none; height: auto; position: relative; width: 100%; }`,
+          `.framer-MY88N.framer-v-ryuo6.framer-147dpq { flex-direction: column; padding: 20px 20px 60px 20px; width: 730px; }`,
+          `.framer-MY88N.framer-v-ryuo6 .framer-anvz7a { flex: none; height: 617px; width: 100%; }`,
+          `.framer-MY88N.framer-v-ryuo6 .framer-ovzgza, .framer-MY88N.framer-v-1troao2 .framer-ovzgza { align-self: unset; flex: none; gap: 72px; height: min-content; justify-content: center; width: 100%; }`,
+          `.framer-MY88N.framer-v-1troao2.framer-147dpq { flex-direction: column; gap: 32px; padding: 12px 12px 40px 12px; width: 350px; }`,
+          `.framer-MY88N.framer-v-1troao2 .framer-anvz7a { flex: none; height: 330px; width: 100%; }`,
+          `.framer-MY88N.framer-v-1troao2 .framer-1lsogyh { max-width: 95%; }`,
+          `.framer-MY88N.framer-v-1troao2 .framer-1sw8f4i { flex-direction: column; }`,
+          ...an,
+          ...Ee,
+          `.framer-MY88N[data-border="true"]::after, .framer-MY88N [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; corner-shape: inherit; pointer-events: none; }`,
+        ],
+        `framer-MY88N`,
+      )),
+      (Pn.displayName = `Case Studies Card`),
+      (Pn.defaultProps = { height: 612, width: 1120 }),
+      q(Pn, {
+        variant: {
+          options: [`wj2dm3W7j`, `r5RqauV5e`, `RrXfwTyVq`],
+          optionTitles: [`Desktop`, `Tablet`, `Mobile`],
+          title: `Variant`,
+          type: H.Enum,
+        },
+        kVzBBKvN0: {
+          __defaultAssetReference: `data:framer/asset-reference,tqobcXrysrymorr2FT7tDFbE.png?originalFilename=Office+Collaboration.png&width=900&height=1200`,
+          __vekterDefault: {
+            assetReference: `data:framer/asset-reference,tqobcXrysrymorr2FT7tDFbE.png?originalFilename=Office+Collaboration.png&width=900&height=1200`,
+            positionX: `63.5%`,
+            positionY: `10.2%`,
+          },
+          title: `Image`,
+          type: H.ResponsiveImage,
+        },
+        PFm4ndQ5W: {
+          defaultValue: `Scalable Growth Strategy`,
+          displayTextArea: !1,
+          title: `Title`,
+          type: H.String,
+        },
+        onPFm4ndQ5WChange: { changes: `PFm4ndQ5W`, type: H.ChangeHandler },
+        AdjLfLWcf: {
+          defaultValue: `Designed a scalable growth strategy that cut operational costs, accelerated revenue growth and positioned the business for long-term market leadership.`,
+          displayTextArea: !1,
+          title: `Description`,
+          type: H.String,
+        },
+        onAdjLfLWcfChange: { changes: `AdjLfLWcf`, type: H.ChangeHandler },
+        fbpfDv_8V: {
+          defaultValue: `Business Strategy`,
+          displayTextArea: !1,
+          title: `Tag Text 1`,
+          type: H.String,
+        },
+        onfbpfDv_8VChange: { changes: `fbpfDv_8V`, type: H.ChangeHandler },
+        dxkF5smpr: {
+          defaultValue: `Growth Consulting`,
+          displayTextArea: !1,
+          title: `Tag Text 2`,
+          type: H.String,
+        },
+        ondxkF5smprChange: { changes: `dxkF5smpr`, type: H.ChangeHandler },
+        K2mGH1Qc3: {
+          defaultValue: `Maior visibilidade das informações`,
+          displayTextArea: !1,
+          title: `Text 2`,
+          type: H.String,
+        },
+        onK2mGH1Qc3Change: { changes: `K2mGH1Qc3`, type: H.ChangeHandler },
+        Uh7dbRDQE: {
+          defaultValue: `Gestão orientada por dados`,
+          displayTextArea: !1,
+          title: `Text 3`,
+          type: H.String,
+        },
+        onUh7dbRDQEChange: { changes: `Uh7dbRDQE`, type: H.ChangeHandler },
+        SbZp6oq7O: {
+          defaultValue: `Processos centralizados e integrados`,
+          displayTextArea: !1,
+          title: `Text 4`,
+          type: H.String,
+        },
+        onSbZp6oq7OChange: { changes: `SbZp6oq7O`, type: H.ChangeHandler },
+      }),
+      E(
+        Pn,
+        [
+          {
+            explicitInter: !0,
+            fonts: [
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+                url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+                url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+1F00-1FFF`,
+                url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0370-03FF`,
+                url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+                url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+                url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+                url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+                weight: `400`,
+              },
+            ],
+          },
+          ...yn,
+          ...bn,
+          ...xn,
+          ...A(rn),
+          ...A(Te),
+        ],
+        { supportsExplicitInterCodegen: !0 },
+      ),
+      (Pn.loader = {
+        load: (e, t) =>
+          oe([() => R(J, {}, t), () => R(gn, {}, t), () => R(Re, {}, t)], t),
+      }));
+  });
+function In(e, ...t) {
+  let n = {};
+  return (t?.forEach((t) => t && Object.assign(n, e[t])), n);
+}
+var Ln,
+  Rn,
+  zn,
+  Bn,
+  Vn,
+  Hn,
+  Un,
+  Wn,
+  Gn,
+  Kn,
+  qn = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      (Ln = [`WSBmedMw3`, `kYQKlNLHQ`, `mSGCxerAd`, `YaQ14a9NS`]),
+      (Rn = `framer-7huA7`),
+      (zn = {
+        kYQKlNLHQ: `framer-v-58p9f4`,
+        mSGCxerAd: `framer-v-yr9bzy`,
+        WSBmedMw3: `framer-v-1f3u4hj`,
+        YaQ14a9NS: `framer-v-ao5frf`,
+      }),
+      (Bn = {
+        delay: 0,
+        duration: 0.5,
+        ease: [0.12, 0.23, 0.5, 1],
+        type: `tween`,
+      }),
+      (Vn = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (Hn = {
+        "Step 1": `WSBmedMw3`,
+        "Step 2": `kYQKlNLHQ`,
+        "Step 3": `mSGCxerAd`,
+        "Step 4": `YaQ14a9NS`,
+      }),
+      (Un = x.create(s)),
+      (Wn = ({ height: e, id: t, width: n, ...r }) => ({
+        ...r,
+        variant: Hn[r.variant] ?? r.variant ?? `WSBmedMw3`,
+      })),
+      (Gn = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (Kn = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: s } = V(),
+            c = W(),
+            { style: l, className: u, layoutId: f, variant: p, ...ee } = Wn(e),
+            {
+              baseVariant: h,
+              classNames: g,
+              clearLoadingGesture: _,
+              gestureHandlers: v,
+              gestureVariant: y,
+              isLoading: ne,
+              setGestureState: re,
+              setVariant: b,
+              variants: S,
+            } = F({
+              cycleOrder: Ln,
+              defaultVariant: `WSBmedMw3`,
+              ref: r,
+              variant: p,
+              variantClassNames: zn,
+            }),
+            C = Gn(e, S),
+            w = D(Rn);
+          return d(ie, {
+            id: f ?? i,
+            children: d(Un, {
+              animate: S,
+              initial: !1,
+              children: d(Vn, {
+                value: Bn,
+                children: m(x.div, {
+                  ...ee,
+                  ...v,
+                  className: D(w, `framer-1f3u4hj`, u, g),
+                  "data-framer-name": `Step 1`,
+                  layoutDependency: C,
+                  layoutId: `WSBmedMw3`,
+                  ref: r,
+                  style: {
+                    borderBottomLeftRadius: 20,
+                    borderBottomRightRadius: 20,
+                    borderTopLeftRadius: 20,
+                    borderTopRightRadius: 20,
+                    ...l,
+                  },
+                  ...In(
+                    {
+                      kYQKlNLHQ: { "data-framer-name": `Step 2` },
+                      mSGCxerAd: { "data-framer-name": `Step 3` },
+                      YaQ14a9NS: { "data-framer-name": `Step 4` },
+                    },
+                    h,
+                    y,
+                  ),
+                  children: [
+                    d(G, {
+                      as: `figure`,
+                      background: {
+                        alt: `Two professionals in a business meeting with laptops and coffee in a modern office with exposed brick walls.`,
+                        fit: `fill`,
+                        intrinsicHeight: 4862,
+                        intrinsicWidth: 4862,
+                        loading: j((c?.y || 0) + 0),
+                        pixelHeight: 4862,
+                        pixelWidth: 4862,
+                        sizes: c?.width || `100vw`,
+                        src: `https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?width=4862&height=4862`,
+                        srcSet: `https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?scale-down-to=512&width=4862&height=4862 512w,https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?scale-down-to=1024&width=4862&height=4862 1024w,https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?scale-down-to=2048&width=4862&height=4862 2048w,https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?scale-down-to=4096&width=4862&height=4862 4096w,https://framerusercontent.com/images/9rWzH6pHT5PQR85t6H480OQtSew.jpg?width=4862&height=4862 4862w`,
+                      },
+                      className: `framer-br4mus`,
+                      "data-framer-name": `Image 4`,
+                      layoutDependency: C,
+                      layoutId: `X10jVEOCC`,
+                      children: d(x.div, {
+                        className: `framer-p9ktbm`,
+                        "data-framer-name": `Overlay`,
+                        layoutDependency: C,
+                        layoutId: `XZhvwBvbM`,
+                        style: {
+                          background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.51) 56.00000000000001%, rgba(0, 0, 0, 0.62) 100%)`,
+                        },
+                        variants: {
+                          YaQ14a9NS: {
+                            background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 0.51) 78%, rgba(0, 0, 0, 0.62) 100%)`,
+                          },
+                        },
+                      }),
+                    }),
+                    d(G, {
+                      as: `figure`,
+                      background: {
+                        alt: `A man and woman are seated together, intently looking at a laptop, possibly sharing ideas or working on a project.`,
+                        fit: `fill`,
+                        intrinsicHeight: 1254,
+                        intrinsicWidth: 1254,
+                        loading: j((c?.y || 0) + 0),
+                        pixelHeight: 1254,
+                        pixelWidth: 1254,
+                        sizes: c?.width || `100vw`,
+                        src: `https://framerusercontent.com/images/HVtmXLkxDlmdaHOjXhQ8RA4qNuM.png?width=1254&height=1254`,
+                        srcSet: `https://framerusercontent.com/images/HVtmXLkxDlmdaHOjXhQ8RA4qNuM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/HVtmXLkxDlmdaHOjXhQ8RA4qNuM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/HVtmXLkxDlmdaHOjXhQ8RA4qNuM.png?width=1254&height=1254 1254w`,
+                      },
+                      className: `framer-1mirtbs`,
+                      "data-framer-name": `Image 3`,
+                      layoutDependency: C,
+                      layoutId: `IJtRtupAa`,
+                      style: { opacity: 1 },
+                      variants: { YaQ14a9NS: { opacity: 0 } },
+                      children: d(x.div, {
+                        className: `framer-fy8bqj`,
+                        "data-framer-name": `Overlay`,
+                        layoutDependency: C,
+                        layoutId: `AVIWoLsRk`,
+                        style: {
+                          background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.51) 56.00000000000001%, rgba(0, 0, 0, 0.62) 100%)`,
+                        },
+                        variants: {
+                          mSGCxerAd: {
+                            background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0.33) 49%, rgba(0, 0, 0, 0.39) 100%)`,
+                          },
+                        },
+                      }),
+                    }),
+                    d(G, {
+                      as: `figure`,
+                      background: {
+                        alt: `A diverse group of people seated around a table, each using laptops, engaged in discussion or collaboration.`,
+                        fit: `fill`,
+                        intrinsicHeight: 8e3,
+                        intrinsicWidth: 5334,
+                        loading: j((c?.y || 0) + 0),
+                        pixelHeight: 8e3,
+                        pixelWidth: 5334,
+                        positionX: `center`,
+                        positionY: `center`,
+                        sizes: c?.width || `100vw`,
+                        src: `https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?width=5334&height=8000`,
+                        srcSet: `https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?scale-down-to=1024&width=5334&height=8000 682w,https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?scale-down-to=2048&width=5334&height=8000 1365w,https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?scale-down-to=4096&width=5334&height=8000 2731w,https://framerusercontent.com/images/OZdKIGKM8yf9Bxbsab6xHRoVoI.jpg?width=5334&height=8000 5334w`,
+                      },
+                      className: `framer-9ekj63`,
+                      "data-framer-name": `Image 2`,
+                      layoutDependency: C,
+                      layoutId: `k8POraBXx`,
+                      style: { opacity: 1 },
+                      variants: {
+                        mSGCxerAd: { opacity: 0 },
+                        YaQ14a9NS: { opacity: 0 },
+                      },
+                      ...In(
+                        {
+                          kYQKlNLHQ: {
+                            background: {
+                              alt: `A diverse group of people seated around a table, each using laptops, engaged in discussion or collaboration.`,
+                              fit: `fill`,
+                              intrinsicHeight: 1254,
+                              intrinsicWidth: 1254,
+                              loading: j((c?.y || 0) + 0),
+                              pixelHeight: 1254,
+                              pixelWidth: 1254,
+                              positionX: `center`,
+                              positionY: `center`,
+                              sizes: c?.width || `100vw`,
+                              src: `https://framerusercontent.com/images/uznxp9sd9AVrvPi3nwfVjyuW0.png?width=1254&height=1254`,
+                              srcSet: `https://framerusercontent.com/images/uznxp9sd9AVrvPi3nwfVjyuW0.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/uznxp9sd9AVrvPi3nwfVjyuW0.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/uznxp9sd9AVrvPi3nwfVjyuW0.png?width=1254&height=1254 1254w`,
+                            },
+                          },
+                        },
+                        h,
+                        y,
+                      ),
+                      children: d(x.div, {
+                        className: `framer-2448i8`,
+                        "data-framer-name": `Overlay`,
+                        layoutDependency: C,
+                        layoutId: `GiMTM15pe`,
+                        style: {
+                          background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.62) 100%)`,
+                        },
+                        variants: {
+                          kYQKlNLHQ: {
+                            background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 47%, rgba(0, 0, 0, 0.62) 100%)`,
+                          },
+                        },
+                      }),
+                    }),
+                    d(G, {
+                      as: `figure`,
+                      background: {
+                        alt: `Two women seated at a table, collaborating on a laptop, engaged in discussion and sharing ideas.`,
+                        fit: `fill`,
+                        intrinsicHeight: 1254,
+                        intrinsicWidth: 1254,
+                        loading: j((c?.y || 0) + 0),
+                        pixelHeight: 1254,
+                        pixelWidth: 1254,
+                        positionX: `center`,
+                        positionY: `top`,
+                        sizes: c?.width || `100vw`,
+                        src: `https://framerusercontent.com/images/whHlIbaxgPV5VATCU23swzVi8Ww.png?width=1254&height=1254`,
+                        srcSet: `https://framerusercontent.com/images/whHlIbaxgPV5VATCU23swzVi8Ww.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/whHlIbaxgPV5VATCU23swzVi8Ww.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/whHlIbaxgPV5VATCU23swzVi8Ww.png?width=1254&height=1254 1254w`,
+                      },
+                      className: `framer-tkkqgm`,
+                      "data-framer-name": `Image 1`,
+                      layoutDependency: C,
+                      layoutId: `PUbi7tAl6`,
+                      style: { opacity: 1 },
+                      variants: {
+                        kYQKlNLHQ: { opacity: 0 },
+                        mSGCxerAd: { opacity: 0 },
+                        YaQ14a9NS: { opacity: 0 },
+                      },
+                      children: d(x.div, {
+                        className: `framer-17isj4s`,
+                        "data-framer-name": `Overlay`,
+                        layoutDependency: C,
+                        layoutId: `iS0dKcsHO`,
+                        style: {
+                          background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.62) 100%)`,
+                        },
+                      }),
+                    }),
+                  ],
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `.framer-7huA7.framer-1xoxa1g, .framer-7huA7 .framer-1xoxa1g { display: block; }`,
+          `.framer-7huA7.framer-1f3u4hj { height: 480px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 480px; will-change: var(--framer-will-change-override, transform); }`,
+          `.framer-7huA7 .framer-br4mus, .framer-7huA7 .framer-p9ktbm, .framer-7huA7 .framer-1mirtbs, .framer-7huA7 .framer-fy8bqj, .framer-7huA7 .framer-9ekj63, .framer-7huA7 .framer-2448i8, .framer-7huA7 .framer-tkkqgm, .framer-7huA7 .framer-17isj4s { bottom: 0px; flex: none; left: 0px; overflow: visible; position: absolute; right: 0px; top: 0px; }`,
+        ],
+        `framer-7huA7`,
+      )),
+      (Kn.displayName = `Process Images`),
+      (Kn.defaultProps = { height: 480, width: 480 }),
+      q(Kn, {
+        variant: {
+          options: [`WSBmedMw3`, `kYQKlNLHQ`, `mSGCxerAd`, `YaQ14a9NS`],
+          optionTitles: [`Step 1`, `Step 2`, `Step 3`, `Step 4`],
+          title: `Variant`,
+          type: H.Enum,
+        },
+      }),
+      E(Kn, [{ explicitInter: !0, fonts: [] }], {
+        supportsExplicitInterCodegen: !0,
+      }));
+  });
+function Jn({ direction: e, style: t }) {
+  let n = xe.current() === xe.canvas,
+    r = o(null),
+    i = o(),
+    s = e === `vertical` || e === `both`,
+    c = e === `horizontal` || e === `both`;
+  return (
+    a(() => {
+      if (n) return;
+      let e = r.current?.parentElement?.parentElement;
+      if (!e) return;
+      let t = e.parentElement;
+      if (!t) return;
+      let a = () => {
+        let n = e.getBoundingClientRect();
+        (c && (t.style.width = `${n.width}px`),
+          s && (t.style.height = `${n.height}px`),
+          (i.current = requestAnimationFrame(a)));
+      };
+      return (
+        (i.current = requestAnimationFrame(a)),
+        () => {
+          (i.current && cancelAnimationFrame(i.current),
+            t && (c && (t.style.width = ``), s && (t.style.height = ``)));
+        }
+      );
+    }, [e]),
+    d(`div`, { ref: r, style: { ...t } })
+  );
+}
+var Yn = e(() => {
+    (h(),
+      k(),
+      _(),
+      (Jn.displayName = `Layout Jump Preventer`),
+      q(Jn, {
+        direction: {
+          type: H.Enum,
+          defaultValue: `vertical`,
+          options: [`vertical`, `horizontal`, `both`],
+          optionTitles: [`Vertical`, `Horizontal`, `Both`],
+          displaySegmentedControl: !0,
+          segmentedControlDirection: `vertical`,
+          optionIcons: [
+            `direction-vertical`,
+            `direction-horizontal`,
+            `direction-all`,
+          ],
+          description: `More components at [Framer University](https://frameruni.link/cc).`,
+        },
+      }));
+  }),
+  Xn,
+  Zn,
+  Qn,
+  $n,
+  er,
+  tr,
+  nr,
+  rr = e(() => {
+    (h(),
+      k(),
+      _(),
+      (Xn = `var(--framer-icon-mask)`),
+      (Zn = f(function (e, t) {
+        return d(`svg`, { ...e, ref: t, children: e.children });
+      })),
+      (Qn = x.create(Zn)),
+      ($n = f((e, t) => {
+        let { animated: n, layoutId: r, children: i, ...a } = e;
+        return n
+          ? d(Qn, { ...a, layoutId: r, ref: t, children: i })
+          : d(`svg`, { ...a, ref: t, children: i });
+      })),
+      (er = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 1.5 16.5 C 0.672 16.5 0 15.828 0 15 L 0 1.5 C 0 0.672 0.672 0 1.5 0 L 15 0 C 15.828 0 16.5 0.672 16.5 1.5 L 16.5 15 C 16.5 15.828 15.828 16.5 15 16.5 Z" fill-opacity="var(--1m6trwb, 0)" fill="var(--21h8s6, rgb(0, 0, 0))" height="16.5px" id="qUr6K2nJv" transform="translate(3.75 3.75)" width="16.5px"/><path d="M 0 0 L 16.5 0" fill="transparent" height="1px" id="MbfmAbWGf" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(3.75 12)" width="16.5px"/><path d="M 0 0 L 0 16.5" fill="transparent" height="16.5px" id="mcA57vhod" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pgex8v, 1.5)" stroke="var(--21h8s6, rgb(0, 0, 0))" transform="translate(12 3.75)" width="1px"/></svg>`),
+      (tr = ({
+        alpha: e,
+        color: t,
+        height: n,
+        id: r,
+        width: i,
+        width1: a,
+        ...o
+      }) => ({
+        ...o,
+        ezTt3ayMo: t ?? o.ezTt3ayMo ?? `rgb(0, 0, 0)`,
+        lschgej4H: a ?? o.lschgej4H ?? 1.5,
+        qxTvv_EBh: e ?? o.qxTvv_EBh,
+      })),
+      (nr = I(
+        f(function (e, t) {
+          let {
+              style: n,
+              className: r,
+              layoutId: i,
+              variant: a,
+              ezTt3ayMo: o,
+              lschgej4H: s,
+              qxTvv_EBh: c,
+              ...l
+            } = tr(e),
+            u = be(`465907804`, er);
+          return d($n, {
+            ...l,
+            className: D(`framer-ohg0r`, r),
+            layoutId: i,
+            ref: t,
+            role: `presentation`,
+            style: { "--1m6trwb": c, "--21h8s6": o, "--pgex8v": s, ...n },
+            viewBox: `0 0 24 24`,
+            children: d(`use`, { href: u }),
+          });
+        }),
+        [
+          `.framer-ohg0r { -webkit-mask: ${Xn}; aspect-ratio: 1; display: block; mask: ${Xn}; width: 24px; }`,
+        ],
+        `framer-ohg0r`,
+      )),
+      (nr.displayName = `Plus`),
+      q(nr, {
+        ezTt3ayMo: {
+          defaultValue: `rgb(0, 0, 0)`,
+          hidden: !1,
+          title: `Color`,
+          type: H.Color,
+        },
+        lschgej4H: {
+          defaultValue: 1.5,
+          displayStepper: !0,
+          hidden: !1,
+          max: 6,
+          min: 0,
+          step: 0.5,
+          title: `Width`,
+          type: H.Number,
+        },
+        qxTvv_EBh: {
+          defaultValue: 0,
+          displayStepper: !0,
+          hidden: !1,
+          max: 1,
+          min: 0,
+          step: 0.1,
+          title: `Alpha`,
+          type: H.Number,
+        },
+      }));
+  });
+function ir(e, ...t) {
+  let n = {};
+  return (t?.forEach((t) => t && Object.assign(n, e[t])), n);
+}
+var ar,
+  or,
+  sr,
+  cr,
+  lr,
+  ur,
+  dr,
+  fr,
+  pr,
+  mr,
+  hr,
+  gr = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      rr(),
+      De(),
+      Me(),
+      (ar = O(nr)),
+      (or = [`Rg7FH4A_5`, `IbbXqxmXE`]),
+      (sr = `framer-sti42`),
+      (cr = { IbbXqxmXE: `framer-v-107wvs6`, Rg7FH4A_5: `framer-v-1a3cn5c` }),
+      (lr = { bounce: 0, delay: 0, duration: 0.6, type: `spring` }),
+      (ur = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (dr = { Closed: `IbbXqxmXE`, Open: `Rg7FH4A_5` }),
+      (fr = x.create(s)),
+      (pr = ({ answer: e, height: t, id: n, question: r, width: i, ...a }) => ({
+        ...a,
+        ntqSQDV9m: e ?? a.ntqSQDV9m ?? `Answer`,
+        OMNRUQGmM: r ?? a.OMNRUQGmM ?? `Your question`,
+        variant: dr[a.variant] ?? a.variant ?? `Rg7FH4A_5`,
+      })),
+      (mr = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (hr = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: c } = V();
+          W();
+          let {
+              style: l,
+              className: u,
+              layoutId: f,
+              variant: p,
+              OMNRUQGmM: ee,
+              ntqSQDV9m: h,
+              ...g
+            } = pr(e),
+            {
+              baseVariant: _,
+              classNames: v,
+              clearLoadingGesture: y,
+              gestureHandlers: ne,
+              gestureVariant: re,
+              isLoading: b,
+              setGestureState: S,
+              setVariant: C,
+              variants: w,
+            } = F({
+              cycleOrder: or,
+              defaultVariant: `Rg7FH4A_5`,
+              ref: r,
+              variant: p,
+              variantClassNames: cr,
+            }),
+            T = mr(e, w),
+            { activeVariantCallback: E, delay: O } = ue(_),
+            k = E(async (...e) => {
+              (S({ isPressed: !1 }), C(`IbbXqxmXE`));
+            }),
+            A = E(async (...e) => {
+              (S({ isPressed: !1 }), C(`Rg7FH4A_5`));
+            }),
+            j = D(sr, Fe, ke);
+          return d(ie, {
+            id: f ?? i,
+            children: d(fr, {
+              animate: w,
+              initial: !1,
+              children: d(ur, {
+                value: lr,
+                children: m(x.div, {
+                  ...g,
+                  ...ne,
+                  className: D(j, `framer-1a3cn5c`, u, v),
+                  "data-border": !0,
+                  "data-framer-name": `Open`,
+                  "data-highlight": !0,
+                  layoutDependency: T,
+                  layoutId: `Rg7FH4A_5`,
+                  onTap: k,
+                  ref: r,
+                  style: {
+                    "--border-bottom-width": `1px`,
+                    "--border-color": `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                    "--border-left-width": `1px`,
+                    "--border-right-width": `1px`,
+                    "--border-style": `solid`,
+                    "--border-top-width": `1px`,
+                    borderBottomLeftRadius: 20,
+                    borderBottomRightRadius: 20,
+                    borderTopLeftRadius: 20,
+                    borderTopRightRadius: 20,
+                    ...l,
+                  },
+                  ...ir(
+                    { IbbXqxmXE: { "data-framer-name": `Closed`, onTap: A } },
+                    _,
+                    re,
+                  ),
+                  children: [
+                    m(x.div, {
+                      className: `framer-1n21nml`,
+                      "data-framer-name": `Question & Icon`,
+                      layoutDependency: T,
+                      layoutId: `a8UWFrwSx`,
+                      children: [
+                        d(N, {
+                          __fromCanvasComponent: !0,
+                          children: d(s, {
+                            children: d(x.p, {
+                              className: `framer-styles-preset-1pelfvi`,
+                              "data-styles-preset": `kjzXGiNic`,
+                              dir: `auto`,
+                              children: `Your question`,
+                            }),
+                          }),
+                          className: `framer-bo92a2`,
+                          fonts: [`Inter`],
+                          layoutDependency: T,
+                          layoutId: `GE8G5tbW6`,
+                          text: ee,
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0,
+                        }),
+                        d(x.div, {
+                          className: `framer-1q1t12`,
+                          "data-framer-name": `Icon`,
+                          layoutDependency: T,
+                          layoutId: `Qnl4w9Mli`,
+                          style: { rotate: 45 },
+                          variants: { IbbXqxmXE: { rotate: 0 } },
+                          children: d(nr, {
+                            animated: !0,
+                            className: `framer-1na9p84`,
+                            layoutDependency: T,
+                            layoutId: `yVIuP6iHf`,
+                            style: {
+                              "--1m6trwb": 0,
+                              "--21h8s6": `var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, rgb(25, 25, 28))`,
+                              "--pgex8v": 1.5,
+                            },
+                          }),
+                        }),
+                      ],
+                    }),
+                    d(x.div, {
+                      className: `framer-6fkzhe`,
+                      "data-framer-name": `Answer`,
+                      layoutDependency: T,
+                      layoutId: `VuCgd7MmK`,
+                      style: { opacity: 1 },
+                      variants: { IbbXqxmXE: { opacity: 0 } },
+                      children: d(N, {
+                        __fromCanvasComponent: !0,
+                        children: d(s, {
+                          children: d(x.p, {
+                            className: `framer-styles-preset-4wrmj6`,
+                            "data-styles-preset": `hvYWBRe5U`,
+                            dir: `auto`,
+                            children: `Answer`,
+                          }),
+                        }),
+                        className: `framer-rjksas`,
+                        fonts: [`Inter`],
+                        layoutDependency: T,
+                        layoutId: `Y_NBhKeSw`,
+                        text: h,
+                        verticalAlignment: `top`,
+                        withExternalLayout: !0,
+                      }),
+                    }),
+                  ],
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,
+          `.framer-sti42.framer-1pheydc, .framer-sti42 .framer-1pheydc { display: block; }`,
+          `.framer-sti42.framer-1a3cn5c { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px 20px 0px 20px; position: relative; width: 694px; will-change: var(--framer-will-change-override, transform); }`,
+          `.framer-sti42 .framer-1n21nml { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 32px; height: min-content; justify-content: flex-start; overflow: visible; padding: 32px 0px 36px 0px; position: relative; width: 100%; }`,
+          `.framer-sti42 .framer-bo92a2 { flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,
+          `.framer-sti42 .framer-1q1t12 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: min-content; }`,
+          `.framer-sti42 .framer-1na9p84 { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 24px); position: relative; width: 24px; }`,
+          `.framer-sti42 .framer-6fkzhe { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px 24px 32px 0px; position: relative; width: 100%; }`,
+          `.framer-sti42 .framer-rjksas { flex: 1 0 0px; height: auto; max-width: 97%; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,
+          `.framer-sti42.framer-v-107wvs6 .framer-6fkzhe { left: 20px; position: absolute; right: 20px; top: 100px; width: unset; z-index: 1; }`,
+          ...Be,
+          ...Ee,
+          `.framer-sti42[data-border="true"]::after, .framer-sti42 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; corner-shape: inherit; pointer-events: none; }`,
+        ],
+        `framer-sti42`,
+      )),
+      (hr.displayName = `FAQs Card`),
+      (hr.defaultProps = { height: 160, width: 694 }),
+      q(hr, {
+        variant: {
+          options: [`Rg7FH4A_5`, `IbbXqxmXE`],
+          optionTitles: [`Open`, `Closed`],
+          title: `Variant`,
+          type: H.Enum,
+        },
+        OMNRUQGmM: {
+          defaultValue: `Your question`,
+          displayTextArea: !1,
+          title: `Question`,
+          type: H.String,
+        },
+        onOMNRUQGmMChange: { changes: `OMNRUQGmM`, type: H.ChangeHandler },
+        ntqSQDV9m: {
+          defaultValue: `Answer`,
+          displayTextArea: !1,
+          title: `Answer`,
+          type: H.String,
+        },
+        onntqSQDV9mChange: { changes: `ntqSQDV9m`, type: H.ChangeHandler },
+      }),
+      E(
+        hr,
+        [
+          {
+            explicitInter: !0,
+            fonts: [
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+                url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+                url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+1F00-1FFF`,
+                url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0370-03FF`,
+                url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+                url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+                url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+                url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+                weight: `400`,
+              },
+            ],
+          },
+          ...ar,
+          ...A(je),
+          ...A(Te),
+        ],
+        { supportsExplicitInterCodegen: !0 },
+      ));
+  }),
+  _r,
+  vr,
+  yr,
+  br,
+  xr,
+  Sr,
+  Cr,
+  wr,
+  Tr,
+  Er,
+  Dr,
+  Or = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      Yn(),
+      gr(),
+      (_r = O(Jn)),
+      (vr = O(hr)),
+      (yr = `framer-Y9r8D`),
+      (br = { OkKlG5WjZ: `framer-v-buyp38` }),
+      (xr = { bounce: 0.2, delay: 0, duration: 0.4, type: `spring` }),
+      (Sr = (...e) => {
+        for (let t of e) if (t && typeof t == `string`) return t;
+      }),
+      (Cr = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (wr = x.create(s)),
+      (Tr = ({ height: e, id: t, width: n, ...r }) => ({ ...r })),
+      (Er = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (Dr = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: s } = V(),
+            c = W(),
+            { style: l, className: u, layoutId: f, variant: p, ...ee } = Tr(e),
+            {
+              baseVariant: h,
+              classNames: g,
+              clearLoadingGesture: _,
+              gestureHandlers: v,
+              gestureVariant: y,
+              isLoading: ne,
+              setGestureState: re,
+              setVariant: b,
+              variants: S,
+            } = F({
+              defaultVariant: `OkKlG5WjZ`,
+              ref: r,
+              variant: p,
+              variantClassNames: br,
+            }),
+            C = Er(e, S),
+            w = D(yr);
+          return d(ie, {
+            id: f ?? i,
+            children: d(wr, {
+              animate: S,
+              initial: !1,
+              children: d(Cr, {
+                value: xr,
+                children: m(x.div, {
+                  ...ee,
+                  ...v,
+                  className: D(w, `framer-buyp38`, u, g),
+                  "data-framer-name": `Variant 1`,
+                  layoutDependency: C,
+                  layoutId: `OkKlG5WjZ`,
+                  ref: r,
+                  style: {
+                    borderBottomLeftRadius: 20,
+                    borderBottomRightRadius: 20,
+                    borderTopLeftRadius: 20,
+                    borderTopRightRadius: 20,
+                    ...l,
+                  },
+                  children: [
+                    d(U, {
+                      children: d(M, {
+                        className: `framer-1li7jwe-container`,
+                        isAuthoredByUser: !0,
+                        isModuleExternal: !0,
+                        layoutDependency: C,
+                        layoutId: `x82BdufiP-container`,
+                        nodeId: `x82BdufiP`,
+                        rendersWithMotion: !0,
+                        scopeId: `nPv7zAAld`,
+                        children: d(Jn, {
+                          direction: `vertical`,
+                          height: `100%`,
+                          id: `x82BdufiP`,
+                          layoutId: `x82BdufiP`,
+                          width: `100%`,
+                        }),
+                      }),
+                    }),
+                    d(U, {
+                      height: 160,
+                      width: c?.width || `100vw`,
+                      y:
+                        (c?.y || 0) +
+                        0 +
+                        ((c?.height || 752) - 0 - 1020 + 0 + 0),
+                      children: d(M, {
+                        className: `framer-t28vf6-container`,
+                        "data-framer-name": `FAQs Card`,
+                        layoutDependency: C,
+                        layoutId: `f1JK1VsD2-container`,
+                        name: `FAQs Card`,
+                        nodeId: `f1JK1VsD2`,
+                        rendersWithMotion: !0,
+                        scopeId: `nPv7zAAld`,
+                        children: d(hr, {
+                          height: `100%`,
+                          id: `f1JK1VsD2`,
+                          layoutId: `f1JK1VsD2`,
+                          name: `FAQs Card`,
+                          ntqSQDV9m: `Começamos entendendo o negócio, seus desafios e objetivos. A partir desse diagnóstico, desenhamos a solução, definimos prioridades e avançamos para implementação e evolução.`,
+                          OMNRUQGmM: `Como funciona um projeto com a UPGOAL?`,
+                          style: { width: `100%` },
+                          variant: Sr(`Rg7FH4A_5`),
+                          width: `100%`,
+                        }),
+                      }),
+                    }),
+                    d(U, {
+                      height: 160,
+                      width: c?.width || `100vw`,
+                      y:
+                        (c?.y || 0) +
+                        0 +
+                        ((c?.height || 752) - 0 - 1020 + 160 + 12),
+                      children: d(M, {
+                        className: `framer-1k3lrla-container`,
+                        "data-framer-name": `FAQs Card`,
+                        layoutDependency: C,
+                        layoutId: `V6zWYzUGd-container`,
+                        name: `FAQs Card`,
+                        nodeId: `V6zWYzUGd`,
+                        rendersWithMotion: !0,
+                        scopeId: `nPv7zAAld`,
+                        children: d(hr, {
+                          height: `100%`,
+                          id: `V6zWYzUGd`,
+                          layoutId: `V6zWYzUGd`,
+                          name: `FAQs Card`,
+                          ntqSQDV9m: `Atuamos em projetos de tecnologia, plataformas digitais, automação, inteligência artificial, dados, integrações, estratégia e governança de tecnologia.`,
+                          OMNRUQGmM: `Que tipos de projetos a UPGOAL desenvolve?`,
+                          style: { width: `100%` },
+                          variant: Sr(`IbbXqxmXE`),
+                          width: `100%`,
+                        }),
+                      }),
+                    }),
+                    d(U, {
+                      height: 160,
+                      width: c?.width || `100vw`,
+                      y:
+                        (c?.y || 0) +
+                        0 +
+                        ((c?.height || 752) - 0 - 1020 + 320 + 24),
+                      children: d(M, {
+                        className: `framer-9dbg6t-container`,
+                        "data-framer-name": `FAQs Card`,
+                        layoutDependency: C,
+                        layoutId: `BaguQUqIP-container`,
+                        name: `FAQs Card`,
+                        nodeId: `BaguQUqIP`,
+                        rendersWithMotion: !0,
+                        scopeId: `nPv7zAAld`,
+                        children: d(hr, {
+                          height: `100%`,
+                          id: `BaguQUqIP`,
+                          layoutId: `BaguQUqIP`,
+                          name: `FAQs Card`,
+                          ntqSQDV9m: `Sim. Cada solução é estruturada de acordo com o contexto e as necessidades do negócio, combinando tecnologia, processos e dados.`,
+                          OMNRUQGmM: `A UPGOAL desenvolve soluções sob medida?`,
+                          style: { width: `100%` },
+                          variant: Sr(`IbbXqxmXE`),
+                          width: `100%`,
+                        }),
+                      }),
+                    }),
+                    d(U, {
+                      height: 160,
+                      width: c?.width || `100vw`,
+                      y:
+                        (c?.y || 0) +
+                        0 +
+                        ((c?.height || 752) - 0 - 1020 + 480 + 36),
+                      children: d(M, {
+                        className: `framer-15xzpzb-container`,
+                        "data-framer-name": `FAQs Card`,
+                        layoutDependency: C,
+                        layoutId: `QxfK930wk-container`,
+                        name: `FAQs Card`,
+                        nodeId: `QxfK930wk`,
+                        rendersWithMotion: !0,
+                        scopeId: `nPv7zAAld`,
+                        children: d(hr, {
+                          height: `100%`,
+                          id: `QxfK930wk`,
+                          layoutId: `QxfK930wk`,
+                          name: `FAQs Card`,
+                          ntqSQDV9m: `Sim. Podemos atuar de ponta a ponta, do diagnóstico e desenho da solução à implementação, integração, adoção e evolução.`,
+                          OMNRUQGmM: `A UPGOAL também implementa as soluções?`,
+                          style: { width: `100%` },
+                          variant: Sr(`IbbXqxmXE`),
+                          width: `100%`,
+                        }),
+                      }),
+                    }),
+                    d(U, {
+                      height: 160,
+                      width: c?.width || `100vw`,
+                      y:
+                        (c?.y || 0) +
+                        0 +
+                        ((c?.height || 752) - 0 - 1020 + 640 + 48),
+                      children: d(M, {
+                        className: `framer-ud3tdo-container`,
+                        "data-framer-name": `FAQs Card`,
+                        layoutDependency: C,
+                        layoutId: `tI7ecWuqr-container`,
+                        name: `FAQs Card`,
+                        nodeId: `tI7ecWuqr`,
+                        rendersWithMotion: !0,
+                        scopeId: `nPv7zAAld`,
+                        children: d(hr, {
+                          height: `100%`,
+                          id: `tI7ecWuqr`,
+                          layoutId: `tI7ecWuqr`,
+                          name: `FAQs Card`,
+                          ntqSQDV9m: `Sim. Podemos trabalhar de forma integrada com as equipes internas, complementando competências e apoiando a execução das iniciativas.`,
+                          OMNRUQGmM: `A UPGOAL pode atuar junto à equipe de TI da empresa?`,
+                          style: { width: `100%` },
+                          variant: Sr(`IbbXqxmXE`),
+                          width: `100%`,
+                        }),
+                      }),
+                    }),
+                    d(U, {
+                      height: 160,
+                      width: c?.width || `100vw`,
+                      y:
+                        (c?.y || 0) +
+                        0 +
+                        ((c?.height || 752) - 0 - 1020 + 800 + 60),
+                      children: d(M, {
+                        className: `framer-1hzbwwh-container`,
+                        "data-framer-name": `FAQs Card`,
+                        layoutDependency: C,
+                        layoutId: `RyUIu4npz-container`,
+                        name: `FAQs Card`,
+                        nodeId: `RyUIu4npz`,
+                        rendersWithMotion: !0,
+                        scopeId: `nPv7zAAld`,
+                        children: d(hr, {
+                          height: `100%`,
+                          id: `RyUIu4npz`,
+                          layoutId: `RyUIu4npz`,
+                          name: `FAQs Card`,
+                          ntqSQDV9m: `Começamos com uma conversa para entender o desafio, o contexto e os objetivos da empresa. A partir disso, definimos juntos a melhor forma de avançar.`,
+                          OMNRUQGmM: `Como começar um projeto com a UPGOAL?`,
+                          style: { width: `100%` },
+                          variant: Sr(`IbbXqxmXE`),
+                          width: `100%`,
+                        }),
+                      }),
+                    }),
+                  ],
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `.framer-Y9r8D.framer-1cs55r9, .framer-Y9r8D .framer-1cs55r9 { display: block; }`,
+          `.framer-Y9r8D.framer-buyp38 { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-end; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1120px; will-change: var(--framer-will-change-override, transform); }`,
+          `.framer-Y9r8D .framer-1li7jwe-container { flex: none; height: auto; left: 0px; position: absolute; top: 0px; width: auto; z-index: 1; }`,
+          `.framer-Y9r8D .framer-t28vf6-container, .framer-Y9r8D .framer-1k3lrla-container, .framer-Y9r8D .framer-9dbg6t-container, .framer-Y9r8D .framer-15xzpzb-container, .framer-Y9r8D .framer-ud3tdo-container, .framer-Y9r8D .framer-1hzbwwh-container { flex: none; height: auto; position: relative; width: 100%; }`,
+        ],
+        `framer-Y9r8D`,
+      )),
+      (Dr.displayName = `FAQs Section`),
+      (Dr.defaultProps = { height: 752, width: 1120 }),
+      E(Dr, [{ explicitInter: !0, fonts: [] }, ..._r, ...vr], {
+        supportsExplicitInterCodegen: !0,
+      }),
+      (Dr.loader = { load: (e, t) => oe([() => R(hr, {}, t)], t) }));
+  }),
+  kr,
+  Ar,
+  jr,
+  Mr = e(() => {
+    (k(),
+      ae.loadFonts([
+        `FS;Manrope-medium`,
+        `Inter-Bold`,
+        `Inter-BoldItalic`,
+        `Inter-Italic`,
+      ]),
+      (kr = [
+        {
+          explicitInter: !0,
+          fonts: [
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,
+              weight: `500`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2`,
+              weight: `400`,
+            },
+          ],
+        },
+      ]),
+      (Ar = [
+        `.framer-EQjli .framer-styles-preset-n0dfic:not(.rich-text-wrapper), .framer-EQjli .framer-styles-preset-n0dfic.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 20px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #2734c4); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,
+        `@media (max-width: 1199px) and (min-width: 810px) { .framer-EQjli .framer-styles-preset-n0dfic:not(.rich-text-wrapper), .framer-EQjli .framer-styles-preset-n0dfic.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 20px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #2734c4); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+        `@media (max-width: 809px) and (min-width: 0px) { .framer-EQjli .framer-styles-preset-n0dfic:not(.rich-text-wrapper), .framer-EQjli .framer-styles-preset-n0dfic.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 18px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #2734c4); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+      ]),
+      (jr = `framer-EQjli`));
+  }),
+  Nr,
+  Pr,
+  Fr,
+  Ir = e(() => {
+    (k(),
+      ae.loadFonts([`FS;Manrope-medium`, `FS;Manrope-bold`]),
+      (Nr = [
+        {
+          explicitInter: !0,
+          fonts: [
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,
+              weight: `500`,
+            },
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,
+              weight: `700`,
+            },
+          ],
+        },
+      ]),
+      (Pr = [
+        `.framer-Mpl8Z .framer-styles-preset-sbpw7n:not(.rich-text-wrapper), .framer-Mpl8Z .framer-styles-preset-sbpw7n.rich-text-wrapper h4 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 22px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: 0em; --framer-line-height: 1.4em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,
+        `@media (max-width: 1199px) and (min-width: 810px) { .framer-Mpl8Z .framer-styles-preset-sbpw7n:not(.rich-text-wrapper), .framer-Mpl8Z .framer-styles-preset-sbpw7n.rich-text-wrapper h4 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 22px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: 0em; --framer-line-height: 1.4em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+        `@media (max-width: 809px) and (min-width: 0px) { .framer-Mpl8Z .framer-styles-preset-sbpw7n:not(.rich-text-wrapper), .framer-Mpl8Z .framer-styles-preset-sbpw7n.rich-text-wrapper h4 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 20px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: 0em; --framer-line-height: 1.4em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+      ]),
+      (Fr = `framer-Mpl8Z`));
+  });
+function Lr(e, ...t) {
+  let n = {};
+  return (t?.forEach((t) => t && Object.assign(n, e[t])), n);
+}
+var Rr,
+  zr,
+  Br,
+  Vr,
+  Hr,
+  Ur,
+  Wr,
+  Gr,
+  Kr,
+  qr,
+  Jr,
+  Yr,
+  Xr,
+  Zr = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      Ne(),
+      sn(),
+      Mr(),
+      Ir(),
+      He(),
+      (Rr = O(Pe)),
+      (zr = { Yga9L_wnA: { hover: !0 } }),
+      (Br = [`Yga9L_wnA`, `OLfRqv1Z6`]),
+      (Vr = `framer-UcUlH`),
+      (Hr = { OLfRqv1Z6: `framer-v-amgh89`, Yga9L_wnA: `framer-v-nwgou8` }),
+      (Ur = {
+        delay: 0,
+        duration: 0.3,
+        ease: [0.44, 0, 0.56, 1],
+        type: `tween`,
+      }),
+      (Wr = (e) =>
+        typeof e == `object` && e && typeof e.src == `string`
+          ? e
+          : typeof e == `string`
+            ? { src: e }
+            : void 0),
+      (Gr = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (Kr = { "Tablet / Mobile": `OLfRqv1Z6`, Desktop: `Yga9L_wnA` }),
+      (qr = x.create(s)),
+      (Jr = ({
+        height: e,
+        id: t,
+        image: n,
+        text: r,
+        title: i,
+        width: a,
+        ...o
+      }) => ({
+        ...o,
+        gWbRAzBdJ:
+          r ??
+          o.gWbRAzBdJ ??
+          `Turn business vision into a clear, profitable strategy delivering measurable growth.`,
+        qfuWuwI7V: i ?? o.qfuWuwI7V ?? `Business Strategy`,
+        variant: Kr[o.variant] ?? o.variant ?? `Yga9L_wnA`,
+        Z_vnJarqY: n ??
+          o.Z_vnJarqY ?? {
+            pixelHeight: 840,
+            pixelWidth: 1200,
+            src: `https://framerusercontent.com/images/PdkYnOYobtDqHALl6pZVjUJqCos.png?width=1200&height=840`,
+            srcSet: `https://framerusercontent.com/images/PdkYnOYobtDqHALl6pZVjUJqCos.png?scale-down-to=512&width=1200&height=840 512w,https://framerusercontent.com/images/PdkYnOYobtDqHALl6pZVjUJqCos.png?scale-down-to=1024&width=1200&height=840 1024w,https://framerusercontent.com/images/PdkYnOYobtDqHALl6pZVjUJqCos.png?width=1200&height=840 1200w`,
+          },
+      })),
+      (Yr = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (Xr = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: c } = V(),
+            l = W(),
+            {
+              style: u,
+              className: f,
+              layoutId: p,
+              variant: ee,
+              Z_vnJarqY: h,
+              qfuWuwI7V: g,
+              gWbRAzBdJ: _,
+              ...v
+            } = Jr(e),
+            {
+              baseVariant: y,
+              classNames: ne,
+              clearLoadingGesture: re,
+              gestureHandlers: b,
+              gestureVariant: S,
+              isLoading: C,
+              setGestureState: w,
+              setVariant: T,
+              variants: E,
+            } = F({
+              cycleOrder: Br,
+              defaultVariant: `Yga9L_wnA`,
+              enabledGestures: zr,
+              ref: r,
+              variant: ee,
+              variantClassNames: Hr,
+            }),
+            O = Yr(e, E),
+            k = D(Vr, jr, Ue, on, Fr),
+            A = () => S !== `Yga9L_wnA-hover`,
+            ae = () => y !== `OLfRqv1Z6`;
+          return d(ie, {
+            id: p ?? i,
+            children: d(qr, {
+              animate: E,
+              initial: !1,
+              children: d(Gr, {
+                value: Ur,
+                children: d(ge, {
+                  href: { hash: `:n0VZEt7a2`, webPageId: `augiA20Il` },
+                  motionChild: !0,
+                  nodeId: `Yga9L_wnA`,
+                  openInNewTab: !1,
+                  scopeId: `qHzbhOGhD`,
+                  smoothScroll: !0,
+                  children: m(x.a, {
+                    ...v,
+                    ...b,
+                    className: `${D(k, `framer-nwgou8`, f, ne)} framer-152kljo`,
+                    "data-framer-name": `Desktop`,
+                    layoutDependency: O,
+                    layoutId: `Yga9L_wnA`,
+                    ref: r,
+                    style: {
+                      backgroundColor: `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                      borderBottomLeftRadius: 20,
+                      borderBottomRightRadius: 20,
+                      borderTopLeftRadius: 20,
+                      borderTopRightRadius: 20,
+                      ...u,
+                    },
+                    ...Lr(
+                      {
+                        "Yga9L_wnA-hover": { "data-framer-name": void 0 },
+                        OLfRqv1Z6: { "data-framer-name": `Tablet / Mobile` },
+                      },
+                      y,
+                      S,
+                    ),
+                    children: [
+                      d(G, {
+                        as: `figure`,
+                        background: {
+                          alt: ``,
+                          fit: `fill`,
+                          intrinsicHeight: 1200,
+                          intrinsicWidth: 1200,
+                          loading: j(
+                            (l?.y || 0) +
+                              ((l?.height || 500) * 0.5000000000000002 -
+                                ((l?.height || 500) * 1) / 2),
+                          ),
+                          pixelHeight: 840,
+                          pixelWidth: 1200,
+                          sizes: l?.width || `100vw`,
+                          ...Wr(h),
+                        },
+                        className: `framer-1wzgp8e`,
+                        "data-framer-name": `BG`,
+                        layoutDependency: O,
+                        layoutId: `XFVq0RwR7`,
+                        style: {
+                          filter: `none`,
+                          scale: 1.05,
+                          WebkitFilter: `none`,
+                        },
+                        variants: {
+                          "Yga9L_wnA-hover": {
+                            filter: `brightness(0.49)`,
+                            scale: 1,
+                            WebkitFilter: `brightness(0.49)`,
+                          },
+                        },
+                        ...Lr(
+                          {
+                            OLfRqv1Z6: {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 1200,
+                                intrinsicWidth: 1200,
+                                loading: j(
+                                  (l?.y || 0) +
+                                    ((l?.height || 379) * 0.5000000000000002 -
+                                      ((l?.height || 379) * 1) / 2),
+                                ),
+                                pixelHeight: 840,
+                                pixelWidth: 1200,
+                                sizes: l?.width || `100vw`,
+                                ...Wr(h),
+                              },
+                            },
+                          },
+                          y,
+                          S,
+                        ),
+                      }),
+                      d(x.div, {
+                        className: `framer-1mli35r`,
+                        "data-framer-name": `Overlay`,
+                        layoutDependency: O,
+                        layoutId: `kpzfpG7ZY`,
+                        style: {
+                          backdropFilter: `none`,
+                          background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, rgb(0, 0, 0) 100%)`,
+                          WebkitBackdropFilter: `none`,
+                        },
+                        variants: {
+                          "Yga9L_wnA-hover": {
+                            backdropFilter: `blur(5px)`,
+                            background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.52) 70%, rgba(0, 0, 0, 0.76) 78%, rgba(0, 0, 0, 0.93) 86%, rgb(0, 0, 0) 94%, rgb(0, 0, 0) 100%)`,
+                            WebkitBackdropFilter: `blur(5px)`,
+                          },
+                          OLfRqv1Z6: {
+                            background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 38%, rgba(0, 0, 0, 0.44) 49%, rgba(0, 0, 0, 0.6) 57.00000000000001%, rgba(0, 0, 0, 0.69) 63%, rgb(0, 0, 0) 100%)`,
+                          },
+                        },
+                      }),
+                      m(x.div, {
+                        className: `framer-eh8p94`,
+                        "data-framer-name": `Text`,
+                        layoutDependency: O,
+                        layoutId: `Oh7nC2TIz`,
+                        children: [
+                          d(x.div, {
+                            className: `framer-1dvz56f`,
+                            "data-framer-name": `Description`,
+                            layoutDependency: O,
+                            layoutId: `kBfmTSCOo`,
+                            style: { opacity: 0 },
+                            variants: {
+                              "Yga9L_wnA-hover": { opacity: 1 },
+                              OLfRqv1Z6: { opacity: 1 },
+                            },
+                            children: d(N, {
+                              __fromCanvasComponent: !0,
+                              children: d(s, {
+                                children: d(x.p, {
+                                  className: `framer-styles-preset-n0dfic`,
+                                  "data-styles-preset": `NM_uX2bcR`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--extracted-r6o4lv, var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255)))`,
+                                  },
+                                  children: `Develop clear strategic roadmaps that align business goals, market opportunities, and operational execution.`,
+                                }),
+                              }),
+                              className: `framer-12iucnx`,
+                              fonts: [`Inter`],
+                              layoutDependency: O,
+                              layoutId: `sbCR0dfsI`,
+                              style: {
+                                "--extracted-r6o4lv": `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                "--framer-link-text-decoration": `underline`,
+                              },
+                              text: _,
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0,
+                              ...Lr(
+                                {
+                                  OLfRqv1Z6: {
+                                    children: d(s, {
+                                      children: d(x.p, {
+                                        className: `framer-styles-preset-5np2z3`,
+                                        "data-styles-preset": `rhST_ZvFU`,
+                                        dir: `auto`,
+                                        style: {
+                                          "--framer-text-color": `var(--extracted-r6o4lv, var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255)))`,
+                                        },
+                                        children: `Develop clear strategic roadmaps that align business goals, market opportunities, and operational execution.`,
+                                      }),
+                                    }),
+                                  },
+                                },
+                                y,
+                                S,
+                              ),
+                            }),
+                          }),
+                          A() &&
+                            m(x.div, {
+                              className: `framer-97k3u2`,
+                              "data-framer-name": `Title & Arrow`,
+                              layoutDependency: O,
+                              layoutId: `YyeplOLNw`,
+                              children: [
+                                d(x.div, {
+                                  className: `framer-1k0n60d`,
+                                  "data-framer-name": `Title`,
+                                  layoutDependency: O,
+                                  layoutId: `GHGLjMdtu`,
+                                  children: d(N, {
+                                    __fromCanvasComponent: !0,
+                                    children: d(s, {
+                                      children: d(x.h3, {
+                                        className: `framer-styles-preset-hd4366`,
+                                        "data-styles-preset": `ExWszoMVd`,
+                                        dir: `auto`,
+                                        style: {
+                                          "--framer-text-color": `var(--extracted-a0htzi, var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247)))`,
+                                        },
+                                        children: `Business Strategy`,
+                                      }),
+                                    }),
+                                    className: `framer-1esgegj`,
+                                    fonts: [`Inter`],
+                                    layoutDependency: O,
+                                    layoutId: `T4DSq3UGc`,
+                                    style: {
+                                      "--extracted-a0htzi": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                      "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                      "--framer-link-text-decoration": `underline`,
+                                    },
+                                    text: g,
+                                    variants: {
+                                      OLfRqv1Z6: {
+                                        "--extracted-1eung3n": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                      },
+                                    },
+                                    verticalAlignment: `top`,
+                                    withExternalLayout: !0,
+                                    ...Lr(
+                                      {
+                                        OLfRqv1Z6: {
+                                          children: d(s, {
+                                            children: d(x.h4, {
+                                              className: `framer-styles-preset-sbpw7n`,
+                                              "data-styles-preset": `r7vc1B_AR`,
+                                              dir: `auto`,
+                                              style: {
+                                                "--framer-text-color": `var(--extracted-1eung3n, var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247)))`,
+                                              },
+                                              children: `Business Strategy`,
+                                            }),
+                                          }),
+                                        },
+                                      },
+                                      y,
+                                      S,
+                                    ),
+                                  }),
+                                }),
+                                ae() &&
+                                  d(x.div, {
+                                    className: `framer-1q67s7t`,
+                                    "data-framer-name": `Arrow Right`,
+                                    layoutDependency: O,
+                                    layoutId: `NAB_eC4ff`,
+                                    children: d(Pe, {
+                                      animated: !0,
+                                      className: `framer-1xixo1i`,
+                                      layoutDependency: O,
+                                      layoutId: `SHceD8VW8`,
+                                      style: {
+                                        "--1m973uw": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                        "--js9iwy": 2,
+                                        rotate: -45,
+                                      },
+                                    }),
+                                  }),
+                              ],
+                            }),
+                        ],
+                      }),
+                    ],
+                  }),
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,
+          `.framer-UcUlH.framer-152kljo, .framer-UcUlH .framer-152kljo { display: block; }`,
+          `.framer-UcUlH.framer-nwgou8 { align-content: flex-start; align-items: flex-start; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: 500px; justify-content: flex-end; overflow: var(--overflow-clip-fallback, clip); padding: 32px; position: relative; text-decoration: none; width: 550px; will-change: var(--framer-will-change-override, transform); }`,
+          `.framer-UcUlH .framer-1wzgp8e, .framer-UcUlH .framer-1mli35r { flex: none; height: 100%; left: calc(50.00000000000002% - 100% / 2); overflow: visible; position: absolute; top: calc(50.00000000000002% - 100% / 2); width: 100%; z-index: 0; }`,
+          `.framer-UcUlH .framer-eh8p94 { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 1px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+          `.framer-UcUlH .framer-1dvz56f { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px 30px 0px 0px; position: relative; width: 100%; z-index: 1; }`,
+          `.framer-UcUlH .framer-12iucnx { flex: 1 0 0px; height: auto; max-width: 430px; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,
+          `.framer-UcUlH .framer-97k3u2 { align-content: center; align-items: center; bottom: 0px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; left: 0px; overflow: visible; padding: 0px; position: absolute; right: 0px; z-index: 1; }`,
+          `.framer-UcUlH .framer-1k0n60d { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 1px; }`,
+          `.framer-UcUlH .framer-1esgegj { flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`,
+          `.framer-UcUlH .framer-1q67s7t { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 40px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 40px; }`,
+          `.framer-UcUlH .framer-1xixo1i { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 28px); position: relative; width: 28px; }`,
+          `.framer-UcUlH.framer-v-amgh89.framer-nwgou8 { cursor: unset; height: 379px; padding: 12px; width: 380px; }`,
+          `.framer-UcUlH.framer-v-amgh89 .framer-eh8p94 { justify-content: flex-end; }`,
+          `.framer-UcUlH.framer-v-amgh89 .framer-1dvz56f { order: 1; padding: 0px; }`,
+          `.framer-UcUlH.framer-v-amgh89 .framer-12iucnx { max-width: 350px; }`,
+          `.framer-UcUlH.framer-v-amgh89 .framer-97k3u2 { bottom: unset; left: unset; order: 0; position: relative; right: unset; width: 100%; }`,
+          ...Ar,
+          ...Oe,
+          ...an,
+          ...Pr,
+        ],
+        `framer-UcUlH`,
+      )),
+      (Xr.displayName = `Service Card`),
+      (Xr.defaultProps = { height: 500, width: 550 }),
+      q(Xr, {
+        variant: {
+          options: [`Yga9L_wnA`, `OLfRqv1Z6`],
+          optionTitles: [`Desktop`, `Tablet / Mobile`],
+          title: `Variant`,
+          type: H.Enum,
+        },
+        Z_vnJarqY: {
+          __defaultAssetReference: `data:framer/asset-reference,PdkYnOYobtDqHALl6pZVjUJqCos.png?originalFilename=Team+Discussion+Scene.png&width=1200&height=840`,
+          title: `Image`,
+          type: H.ResponsiveImage,
+        },
+        qfuWuwI7V: {
+          defaultValue: `Business Strategy`,
+          displayTextArea: !1,
+          title: `Title`,
+          type: H.String,
+        },
+        onqfuWuwI7VChange: { changes: `qfuWuwI7V`, type: H.ChangeHandler },
+        gWbRAzBdJ: {
+          defaultValue: `Turn business vision into a clear, profitable strategy delivering measurable growth.`,
+          displayTextArea: !1,
+          title: `Text`,
+          type: H.String,
+        },
+        ongWbRAzBdJChange: { changes: `gWbRAzBdJ`, type: H.ChangeHandler },
+      }),
+      E(
+        Xr,
+        [
+          {
+            explicitInter: !0,
+            fonts: [
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+                url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+                url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+1F00-1FFF`,
+                url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0370-03FF`,
+                url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+                url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+                url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+                url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+                weight: `400`,
+              },
+            ],
+          },
+          ...Rr,
+          ...A(kr),
+          ...A(we),
+          ...A(rn),
+          ...A(Nr),
+        ],
+        { supportsExplicitInterCodegen: !0 },
+      ));
+  }),
+  Qr,
+  $r,
+  ei,
+  ti,
+  ni,
+  ri,
+  ii,
+  ai,
+  oi,
+  si = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      De(),
+      Ir(),
+      (Qr = `framer-7asyK`),
+      ($r = { XAwN60Jsw: `framer-v-5jzfwr` }),
+      (ei = { bounce: 0.2, delay: 0, duration: 0.4, type: `spring` }),
+      (ti = (e) =>
+        typeof e == `object` && e && typeof e.src == `string`
+          ? e
+          : typeof e == `string`
+            ? { src: e }
+            : void 0),
+      (ni = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (ri = x.create(s)),
+      (ii = ({
+        description: e,
+        height: t,
+        id: n,
+        image: r,
+        title: i,
+        width: a,
+        ...o
+      }) => ({
+        ...o,
+        I6MQSDfBs: i ?? o.I6MQSDfBs ?? `Strategic Thinking`,
+        OwqBo9WNr:
+          e ??
+          o.OwqBo9WNr ??
+          `Go beyond insights with data-driven strategic guidance.`,
+        wJ2DGSH5x: r ??
+          o.wJ2DGSH5x ?? {
+            pixelHeight: 810,
+            pixelWidth: 810,
+            src: `https://framerusercontent.com/images/VXFBoPBWeT3otQIJt8CRk5Y9Ne8.svg?width=810&height=810`,
+            srcSet: `https://framerusercontent.com/images/VXFBoPBWeT3otQIJt8CRk5Y9Ne8.svg?scale-down-to=512&width=810&height=810 512w,https://framerusercontent.com/images/VXFBoPBWeT3otQIJt8CRk5Y9Ne8.svg?width=810&height=810 810w`,
+          },
+      })),
+      (ai = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (oi = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: c } = V(),
+            l = W(),
+            {
+              style: u,
+              className: f,
+              layoutId: p,
+              variant: ee,
+              wJ2DGSH5x: h,
+              I6MQSDfBs: g,
+              OwqBo9WNr: _,
+              ...v
+            } = ii(e),
+            {
+              baseVariant: y,
+              classNames: ne,
+              clearLoadingGesture: re,
+              gestureHandlers: b,
+              gestureVariant: S,
+              isLoading: C,
+              setGestureState: w,
+              setVariant: T,
+              variants: E,
+            } = F({
+              defaultVariant: `XAwN60Jsw`,
+              ref: r,
+              variant: ee,
+              variantClassNames: $r,
+            }),
+            O = ai(e, E),
+            k = D(Qr, Fr, ke);
+          return d(ie, {
+            id: p ?? i,
+            children: d(ri, {
+              animate: E,
+              initial: !1,
+              children: d(ni, {
+                value: ei,
+                children: m(x.div, {
+                  ...v,
+                  ...b,
+                  className: D(k, `framer-5jzfwr`, f, ne),
+                  "data-border": !0,
+                  "data-framer-name": `Variant 1`,
+                  layoutDependency: O,
+                  layoutId: `XAwN60Jsw`,
+                  ref: r,
+                  style: {
+                    "--border-bottom-width": `1px`,
+                    "--border-color": `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                    "--border-left-width": `1px`,
+                    "--border-right-width": `1px`,
+                    "--border-style": `solid`,
+                    "--border-top-width": `1px`,
+                    backgroundColor: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                    borderBottomLeftRadius: 20,
+                    borderBottomRightRadius: 20,
+                    borderTopLeftRadius: 20,
+                    borderTopRightRadius: 20,
+                    ...u,
+                  },
+                  children: [
+                    d(x.div, {
+                      className: `framer-e9m0hd`,
+                      "data-framer-name": `Icon & Title`,
+                      layoutDependency: O,
+                      layoutId: `TZRFKk7YU`,
+                      style: {
+                        borderBottomLeftRadius: 999,
+                        borderBottomRightRadius: 999,
+                        borderTopLeftRadius: 999,
+                        borderTopRightRadius: 999,
+                      },
+                      children: d(G, {
+                        as: `figure`,
+                        background: {
+                          alt: ``,
+                          fit: `fill`,
+                          intrinsicHeight: 941,
+                          intrinsicWidth: 812,
+                          loading: j(
+                            (l?.y || 0) +
+                              24 +
+                              (((l?.height || 235) - 48 - 267.8) / 2 + 0 + 0) +
+                              0,
+                          ),
+                          pixelHeight: 810,
+                          pixelWidth: 810,
+                          sizes: `58px`,
+                          ...ti(h),
+                        },
+                        className: `framer-xzzvcl`,
+                        "data-framer-name": `Icon`,
+                        layoutDependency: O,
+                        layoutId: `l9wM0hLGw`,
+                      }),
+                    }),
+                    m(x.div, {
+                      className: `framer-1fkl7g8`,
+                      "data-framer-name": `Text`,
+                      layoutDependency: O,
+                      layoutId: `qjl7p1wJ_`,
+                      children: [
+                        d(N, {
+                          __fromCanvasComponent: !0,
+                          children: d(s, {
+                            children: d(x.h4, {
+                              className: `framer-styles-preset-sbpw7n`,
+                              "data-styles-preset": `r7vc1B_AR`,
+                              dir: `auto`,
+                              children: `Strategic Thinking`,
+                            }),
+                          }),
+                          className: `framer-l5nszt`,
+                          "data-framer-name": `Title`,
+                          fonts: [`Inter`],
+                          layoutDependency: O,
+                          layoutId: `N9UtF1Mlm`,
+                          style: {
+                            "--framer-link-text-color": `rgb(0, 153, 255)`,
+                            "--framer-link-text-decoration": `underline`,
+                          },
+                          text: g,
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0,
+                        }),
+                        d(N, {
+                          __fromCanvasComponent: !0,
+                          children: d(s, {
+                            children: d(x.p, {
+                              className: `framer-styles-preset-4wrmj6`,
+                              "data-styles-preset": `hvYWBRe5U`,
+                              dir: `auto`,
+                              style: { "--framer-text-alignment": `left` },
+                              children: `Go beyond insights with data-driven strategic guidance.`,
+                            }),
+                          }),
+                          className: `framer-rhsp7y`,
+                          fonts: [`Inter`],
+                          layoutDependency: O,
+                          layoutId: `QK80UqOxj`,
+                          style: {
+                            "--framer-link-text-color": `rgb(0, 153, 255)`,
+                            "--framer-link-text-decoration": `underline`,
+                          },
+                          text: _,
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0,
+                        }),
+                      ],
+                    }),
+                  ],
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,
+          `.framer-7asyK.framer-13uwi4z, .framer-7asyK .framer-13uwi4z { display: block; }`,
+          `.framer-7asyK.framer-5jzfwr { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 32px; height: min-content; justify-content: center; overflow: visible; padding: 24px; position: relative; width: min-content; }`,
+          `.framer-7asyK .framer-e9m0hd { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: min-content; }`,
+          `.framer-7asyK .framer-xzzvcl { flex: none; height: 58px; overflow: visible; position: relative; width: 58px; }`,
+          `.framer-7asyK .framer-1fkl7g8 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 317px; }`,
+          `.framer-7asyK .framer-l5nszt { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+          `.framer-7asyK .framer-rhsp7y { flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+          ...Pr,
+          ...Ee,
+          `.framer-7asyK[data-border="true"]::after, .framer-7asyK [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; corner-shape: inherit; pointer-events: none; }`,
+        ],
+        `framer-7asyK`,
+      )),
+      (oi.displayName = `WhyChooseConsultra Card`),
+      (oi.defaultProps = { height: 235, width: 365 }),
+      q(oi, {
+        wJ2DGSH5x: {
+          __defaultAssetReference: `data:framer/asset-reference,VXFBoPBWeT3otQIJt8CRk5Y9Ne8.svg?originalFilename=StrategicThinking.svg&width=810&height=810`,
+          title: `Image`,
+          type: H.ResponsiveImage,
+        },
+        I6MQSDfBs: {
+          defaultValue: `Strategic Thinking`,
+          displayTextArea: !1,
+          title: `Title`,
+          type: H.String,
+        },
+        onI6MQSDfBsChange: { changes: `I6MQSDfBs`, type: H.ChangeHandler },
+        OwqBo9WNr: {
+          defaultValue: `Go beyond insights with data-driven strategic guidance.`,
+          displayTextArea: !1,
+          title: `Description`,
+          type: H.String,
+        },
+        onOwqBo9WNrChange: { changes: `OwqBo9WNr`, type: H.ChangeHandler },
+      }),
+      E(
+        oi,
+        [
+          {
+            explicitInter: !0,
+            fonts: [
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+                url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+                url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+1F00-1FFF`,
+                url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0370-03FF`,
+                url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+                url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+                url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+                weight: `400`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+                url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+                weight: `400`,
+              },
+            ],
+          },
+          ...A(Nr),
+          ...A(Te),
+        ],
+        { supportsExplicitInterCodegen: !0 },
+      ));
+  });
+function ci(e, ...t) {
+  let n = {};
+  return (t?.forEach((t) => t && Object.assign(n, e[t])), n);
+}
+var li,
+  ui,
+  di,
+  fi,
+  pi,
+  mi,
+  hi,
+  gi,
+  _i,
+  vi,
+  yi,
+  bi,
+  xi,
+  Si,
+  Ci,
+  wi = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      (li = z(x.div)),
+      (ui = { IzWsCW0CG: { hover: !0, pressed: !0 } }),
+      (di = [`IzWsCW0CG`, `iRCCC6zg4`, `juq4WSa8_`, `w4rUkkv9p`, `Mi13FqsiN`]),
+      (fi = `framer-0aKIg`),
+      (pi = {
+        iRCCC6zg4: `framer-v-1dwrzaj`,
+        IzWsCW0CG: `framer-v-am9gq6`,
+        juq4WSa8_: `framer-v-1k7e2g7`,
+        Mi13FqsiN: `framer-v-bbfupx`,
+        w4rUkkv9p: `framer-v-1gfvml`,
+      }),
+      (mi = {
+        delay: 0,
+        duration: 0.2,
+        ease: [0.44, 0, 0.56, 1],
+        type: `tween`,
+      }),
+      (hi = { delay: 0, duration: 1, ease: [0, 0, 1, 1], type: `tween` }),
+      (gi = {
+        opacity: 1,
+        rotate: 360,
+        rotateX: 0,
+        rotateY: 0,
+        scale: 1,
+        skewX: 0,
+        skewY: 0,
+        x: 0,
+        y: 0,
+      }),
+      (_i = (e, t) => `translateX(-50%) ${t}`),
+      (vi = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (yi = {
+        Default: `IzWsCW0CG`,
+        Disabled: `juq4WSa8_`,
+        Error: `Mi13FqsiN`,
+        Loading: `iRCCC6zg4`,
+        Success: `w4rUkkv9p`,
+      }),
+      (bi = x.create(s)),
+      (xi = ({ height: e, id: t, title: n, width: r, ...i }) => ({
+        ...i,
+        variant: yi[i.variant] ?? i.variant ?? `IzWsCW0CG`,
+        XIHQAvpk2: n ?? i.XIHQAvpk2 ?? `Submit`,
+      })),
+      (Si = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (Ci = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: c } = V();
+          W();
+          let {
+              style: l,
+              className: u,
+              layoutId: f,
+              variant: p,
+              XIHQAvpk2: ee,
+              ...h
+            } = xi(e),
+            {
+              baseVariant: g,
+              classNames: _,
+              clearLoadingGesture: v,
+              gestureHandlers: y,
+              gestureVariant: ne,
+              isLoading: re,
+              setGestureState: b,
+              setVariant: S,
+              variants: C,
+            } = F({
+              cycleOrder: di,
+              defaultVariant: `IzWsCW0CG`,
+              enabledGestures: ui,
+              ref: r,
+              variant: p,
+              variantClassNames: pi,
+            }),
+            w = Si(e, C),
+            T = D(fi),
+            E = () => g !== `iRCCC6zg4`,
+            O = () => g === `iRCCC6zg4`;
+          return d(ie, {
+            id: f ?? i,
+            children: d(bi, {
+              animate: C,
+              initial: !1,
+              children: d(vi, {
+                value: mi,
+                children: m(x.button, {
+                  ...h,
+                  ...y,
+                  className: D(T, `framer-am9gq6`, u, _),
+                  "data-framer-name": `Default`,
+                  "data-reset": `button`,
+                  layoutDependency: w,
+                  layoutId: `IzWsCW0CG`,
+                  ref: r,
+                  style: {
+                    backgroundColor: `var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`,
+                    borderBottomLeftRadius: 10,
+                    borderBottomRightRadius: 10,
+                    borderTopLeftRadius: 10,
+                    borderTopRightRadius: 10,
+                    opacity: 1,
+                    ...l,
+                  },
+                  variants: {
+                    "IzWsCW0CG-hover": {
+                      backgroundColor: `var(--token-fd8a9d2f-2c30-47ff-bef1-7fed157e3858, rgb(0, 0, 0))`,
+                      opacity: 1,
+                    },
+                    "IzWsCW0CG-pressed": {
+                      backgroundColor: `var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, rgb(25, 25, 28))`,
+                      opacity: 1,
+                    },
+                    juq4WSa8_: { opacity: 0.5 },
+                    Mi13FqsiN: {
+                      backgroundColor: `var(--token-cd015a06-3876-49d9-8bf0-46c1cab2f745, rgba(255, 34, 68, 0.15))`,
+                      opacity: 1,
+                    },
+                    w4rUkkv9p: { opacity: 1 },
+                  },
+                  ...ci(
+                    {
+                      "IzWsCW0CG-hover": { "data-framer-name": void 0 },
+                      "IzWsCW0CG-pressed": { "data-framer-name": void 0 },
+                      iRCCC6zg4: { "data-framer-name": `Loading` },
+                      juq4WSa8_: { "data-framer-name": `Disabled` },
+                      Mi13FqsiN: { "data-framer-name": `Error` },
+                      w4rUkkv9p: { "data-framer-name": `Success` },
+                    },
+                    g,
+                    ne,
+                  ),
+                  children: [
+                    E() &&
+                      d(N, {
+                        __fromCanvasComponent: !0,
+                        children: d(s, {
+                          children: d(x.p, {
+                            dir: `auto`,
+                            style: {
+                              "--font-selector": `SW50ZXItU2VtaUJvbGQ=`,
+                              "--framer-font-size": `14px`,
+                              "--framer-font-weight": `600`,
+                              "--framer-text-color": `var(--extracted-r6o4lv, rgb(255, 255, 255))`,
+                            },
+                            children: `Submit`,
+                          }),
+                        }),
+                        className: `framer-4z28ww`,
+                        fonts: [`Inter-SemiBold`],
+                        layoutDependency: w,
+                        layoutId: `jbiCwHHSe`,
+                        style: {
+                          "--extracted-r6o4lv": `rgb(255, 255, 255)`,
+                          "--framer-link-text-color": `rgb(0, 153, 255)`,
+                          "--framer-link-text-decoration": `underline`,
+                        },
+                        text: ee,
+                        variants: {
+                          Mi13FqsiN: {
+                            "--extracted-r6o4lv": `var(--token-af1ccc81-f404-48a6-8dca-38365f22d35e, rgb(255, 34, 68))`,
+                          },
+                        },
+                        verticalAlignment: `top`,
+                        withExternalLayout: !0,
+                        ...ci(
+                          {
+                            Mi13FqsiN: {
+                              children: d(s, {
+                                children: d(x.p, {
+                                  dir: `auto`,
+                                  style: {
+                                    "--font-selector": `SW50ZXItU2VtaUJvbGQ=`,
+                                    "--framer-font-size": `14px`,
+                                    "--framer-font-weight": `600`,
+                                    "--framer-text-color": `var(--extracted-r6o4lv, var(--token-af1ccc81-f404-48a6-8dca-38365f22d35e, rgb(255, 34, 68)))`,
+                                  },
+                                  children: `Something went wrong`,
+                                }),
+                              }),
+                              text: void 0,
+                            },
+                            w4rUkkv9p: {
+                              children: d(s, {
+                                children: d(x.p, {
+                                  dir: `auto`,
+                                  style: {
+                                    "--font-selector": `SW50ZXItU2VtaUJvbGQ=`,
+                                    "--framer-font-size": `14px`,
+                                    "--framer-font-weight": `600`,
+                                    "--framer-text-color": `var(--extracted-r6o4lv, rgb(255, 255, 255))`,
+                                  },
+                                  children: `Thank you`,
+                                }),
+                              }),
+                              text: void 0,
+                            },
+                          },
+                          g,
+                          ne,
+                        ),
+                      }),
+                    O() &&
+                      d(x.div, {
+                        className: `framer-wt9cuw`,
+                        "data-framer-name": `Spinner`,
+                        layoutDependency: w,
+                        layoutId: `EjXINNxbr`,
+                        style: {
+                          mask: `url('../../../../assets/framerusercontent.com/images/pGiXYozQ3mE4cilNOItfe2L2fUA.1t1g5k1.svg') alpha no-repeat center / cover add`,
+                          WebkitMask: `url('../../../../assets/framerusercontent.com/images/pGiXYozQ3mE4cilNOItfe2L2fUA.1t1g5k1.svg') alpha no-repeat center / cover add`,
+                        },
+                        children: d(li, {
+                          __framer__loop: gi,
+                          __framer__loopEffectEnabled: !0,
+                          __framer__loopRepeatDelay: 0,
+                          __framer__loopRepeatType: `loop`,
+                          __framer__loopTransition: hi,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-19oq4ox`,
+                          "data-framer-name": `Conic`,
+                          layoutDependency: w,
+                          layoutId: `UXmykllSJ`,
+                          style: {
+                            background: `conic-gradient(from 0deg at 50% 50%, var(--token-60ed5544-4811-4cea-bb0f-bce7e7a00950, rgb(0, 0, 0)) 7.208614864864882deg, rgb(255, 255, 255) 342deg)`,
+                          },
+                          children: d(x.div, {
+                            className: `framer-qsetkk`,
+                            "data-framer-name": `Rounding`,
+                            layoutDependency: w,
+                            layoutId: `YepuQ8eJV`,
+                            style: {
+                              backgroundColor: `rgb(255, 255, 255)`,
+                              borderBottomLeftRadius: 1,
+                              borderBottomRightRadius: 1,
+                              borderTopLeftRadius: 1,
+                              borderTopRightRadius: 1,
+                            },
+                            transformTemplate: _i,
+                          }),
+                        }),
+                      }),
+                  ],
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }`,
+          `.framer-0aKIg.framer-1lyvr1l, .framer-0aKIg .framer-1lyvr1l { display: block; }`,
+          `.framer-0aKIg.framer-am9gq6 { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: 40px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 240px; }`,
+          `.framer-0aKIg .framer-4z28ww { -webkit-user-select: none; flex: none; height: auto; position: relative; user-select: none; white-space: pre; width: auto; }`,
+          `.framer-0aKIg .framer-wt9cuw { aspect-ratio: 1 / 1; flex: none; gap: 10px; height: var(--framer-aspect-ratio-supported, 20px); overflow: hidden; position: relative; width: 20px; }`,
+          `.framer-0aKIg .framer-19oq4ox { bottom: 0px; flex: none; left: 0px; overflow: visible; position: absolute; right: 0px; top: 0px; }`,
+          `.framer-0aKIg .framer-qsetkk { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 2px); left: 50%; overflow: visible; position: absolute; top: 0px; width: 2px; }`,
+          `.framer-0aKIg.framer-v-1dwrzaj.framer-am9gq6, .framer-0aKIg.framer-v-1k7e2g7.framer-am9gq6, .framer-0aKIg.framer-v-1gfvml.framer-am9gq6, .framer-0aKIg.framer-v-bbfupx.framer-am9gq6 { cursor: unset; }`,
+        ],
+        `framer-0aKIg`,
+      )),
+      (Ci.displayName = `Form Button`),
+      (Ci.defaultProps = { height: 40, width: 240 }),
+      q(Ci, {
+        variant: {
+          options: [
+            `IzWsCW0CG`,
+            `iRCCC6zg4`,
+            `juq4WSa8_`,
+            `w4rUkkv9p`,
+            `Mi13FqsiN`,
+          ],
+          optionTitles: [`Default`, `Loading`, `Disabled`, `Success`, `Error`],
+          title: `Variant`,
+          type: H.Enum,
+        },
+        XIHQAvpk2: {
+          defaultValue: `Submit`,
+          displayTextArea: !1,
+          title: `Title`,
+          type: H.String,
+        },
+        onXIHQAvpk2Change: { changes: `XIHQAvpk2`, type: H.ChangeHandler },
+      }),
+      E(
+        Ci,
+        [
+          {
+            explicitInter: !0,
+            fonts: [
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+                url: `https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2`,
+                weight: `600`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+                url: `https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2`,
+                weight: `600`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+1F00-1FFF`,
+                url: `https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2`,
+                weight: `600`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0370-03FF`,
+                url: `https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2`,
+                weight: `600`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+                url: `https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2`,
+                weight: `600`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+                url: `https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2`,
+                weight: `600`,
+              },
+              {
+                cssFamilyName: `Inter`,
+                source: `framer`,
+                style: `normal`,
+                uiFamilyName: `Inter`,
+                unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+                url: `https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2`,
+                weight: `600`,
+              },
+            ],
+          },
+        ],
+        { supportsExplicitInterCodegen: !0 },
+      ));
+  }),
+  Ti,
+  Ei = e(() => {
+    Ti = (e) => e;
+  }),
+  Di = e(() => {
+    Ei();
+  }),
+  Oi = e(() => {
+    Di();
+  });
+function ki(e, t) {
+  var n = {};
+  for (var r in e)
+    Object.prototype.hasOwnProperty.call(e, r) &&
+      t.indexOf(r) < 0 &&
+      (n[r] = e[r]);
+  if (e != null && typeof Object.getOwnPropertySymbols == `function`) {
+    var i = 0;
+    for (r = Object.getOwnPropertySymbols(e); i < r.length; i++)
+      t.indexOf(r[i]) < 0 &&
+        Object.prototype.propertyIsEnumerable.call(e, r[i]) &&
+        (n[r[i]] = e[r[i]]);
+  }
+  return n;
+}
+var Ai = e(() => {}),
+  ji,
+  Mi = e(() => {
+    ((ji = {}),
+      Object.defineProperty(ji, "__esModule", { value: !0 }),
+      (ji.warning = function () {}),
+      (ji.invariant = function () {}),
+      ji.__esModule,
+      ji.warning,
+      ji.invariant);
+  }),
+  Ni = e(() => {
+    Ei();
+  });
+function Pi(e, t) {
+  return (
+    typeof e == `string`
+      ? t
+        ? (t[e] ?? (t[e] = document.querySelectorAll(e)), (e = t[e]))
+        : (e = document.querySelectorAll(e))
+      : e instanceof Element && (e = [e]),
+    Array.from(e || [])
+  );
+}
+function Fi(e, t, { root: n, margin: r, amount: i = `any` } = {}) {
+  if (typeof IntersectionObserver > `u`) return () => {};
+  let a = Pi(e),
+    o = new WeakMap(),
+    s = new IntersectionObserver(
+      (e) => {
+        e.forEach((e) => {
+          let n = o.get(e.target);
+          if (e.isIntersecting !== !!n)
+            if (e.isIntersecting) {
+              let n = t(e);
+              typeof n == `function`
+                ? o.set(e.target, n)
+                : s.unobserve(e.target);
+            } else n && (n(e), o.delete(e.target));
+        });
+      },
+      { root: n, rootMargin: r, threshold: typeof i == `number` ? i : ra[i] },
+    );
+  return (a.forEach((e) => s.observe(e)), () => s.disconnect());
+}
+function Ii(e, t) {
+  if (t) {
+    let { inlineSize: e, blockSize: n } = t[0];
+    return { width: e, height: n };
+  }
+  return e instanceof SVGElement && `getBBox` in e
+    ? e.getBBox()
+    : { width: e.offsetWidth, height: e.offsetHeight };
+}
+function Li({ target: e, contentRect: t, borderBoxSize: n }) {
+  var r;
+  (r = ia.get(e)) == null ||
+    r.forEach((r) => {
+      r({
+        target: e,
+        contentSize: t,
+        get size() {
+          return Ii(e, n);
+        },
+      });
+    });
+}
+function Ri(e) {
+  e.forEach(Li);
+}
+function zi() {
+  typeof ResizeObserver < `u` && (aa = new ResizeObserver(Ri));
+}
+function Bi(e, t) {
+  aa || zi();
+  let n = Pi(e);
+  return (
+    n.forEach((e) => {
+      let n = ia.get(e);
+      (n || ((n = new Set()), ia.set(e, n)), n.add(t), aa?.observe(e));
+    }),
+    () => {
+      n.forEach((e) => {
+        let n = ia.get(e);
+        (n?.delete(t), (n != null && n.size) || aa == null || aa.unobserve(e));
+      });
+    }
+  );
+}
+function Vi() {
+  ((sa = () => {
+    let e = { width: y.innerWidth, height: y.innerHeight },
+      t = { target: y, size: e, contentSize: e };
+    oa.forEach((e) => e(t));
+  }),
+    y.addEventListener(`resize`, sa));
+}
+function Hi(e) {
+  return (
+    oa.add(e),
+    sa || Vi(),
+    () => {
+      (oa.delete(e), !oa.size && sa && (sa = void 0));
+    }
+  );
+}
+function Ui(e, t) {
+  return typeof e == `function` ? Hi(e) : Bi(e, t);
+}
+function Wi(e, t, n) {
+  e.dispatchEvent(new CustomEvent(t, { detail: { originalEvent: n } }));
+}
+function Gi(e, t, n) {
+  e.dispatchEvent(new CustomEvent(t, { detail: { originalEntry: n } }));
+}
+var Ki,
+  qi,
+  Ji,
+  Yi,
+  Xi,
+  Zi,
+  Qi,
+  $i,
+  ea,
+  ta,
+  na,
+  ra,
+  ia,
+  aa,
+  oa,
+  sa,
+  ca,
+  la,
+  ua,
+  da = e(() => {
+    (r(),
+      Ei(),
+      Oi(),
+      Ai(),
+      Mi(),
+      Ni(),
+      (Ki = [``, `X`, `Y`, `Z`]),
+      (qi = [`translate`, `scale`, `rotate`, `skew`]),
+      (Ji = {
+        syntax: `<angle>`,
+        initialValue: `0deg`,
+        toDefaultUnit: (e) => e + `deg`,
+      }),
+      (Yi = {
+        translate: {
+          syntax: `<length-percentage>`,
+          initialValue: `0px`,
+          toDefaultUnit: (e) => e + `px`,
+        },
+        rotate: Ji,
+        scale: { syntax: `<number>`, initialValue: 1, toDefaultUnit: Ti },
+        skew: Ji,
+      }),
+      (Xi = new Map()),
+      (Zi = (e) => `--motion-${e}`),
+      (Qi = [`x`, `y`, `z`]),
+      qi.forEach((e) => {
+        Ki.forEach((t) => {
+          (Qi.push(e + t), Xi.set(Zi(e + t), Yi[e]));
+        });
+      }),
+      new Set(Qi),
+      ($i = (e) =>
+        document.createElement(`div`).animate(e, { duration: 0.001 })),
+      (ea = {
+        cssRegisterProperty: () =>
+          typeof CSS < `u` &&
+          Object.hasOwnProperty.call(CSS, `registerProperty`),
+        waapi: () => Object.hasOwnProperty.call(Element.prototype, `animate`),
+        partialKeyframes: () => {
+          try {
+            $i({ opacity: [1] });
+          } catch {
+            return !1;
+          }
+          return !0;
+        },
+        finished: () => !!$i({ opacity: [0, 1] }).finished,
+      }),
+      (ta = {}),
+      (na = {}));
+    for (let e in ea)
+      na[e] = () => (ta[e] === void 0 && (ta[e] = ea[e]()), ta[e]);
+    ((ra = { any: 0, all: 1 }),
+      (ia = new WeakMap()),
+      (oa = new Set()),
+      (ca = {
+        isActive: (e) => !!e.inView,
+        subscribe: (
+          e,
+          { enable: t, disable: n },
+          { inViewOptions: r = {} },
+        ) => {
+          let { once: i } = r;
+          return Fi(
+            e,
+            (r) => {
+              if ((t(), Gi(e, `viewenter`, r), !i))
+                return (t) => {
+                  (n(), Gi(e, `viewleave`, t));
+                };
+            },
+            ki(r, [`once`]),
+          );
+        },
+      }),
+      (la = (e, t, n) => (r) => {
+        (!r.pointerType || r.pointerType === `mouse`) && (n(), Wi(e, t, r));
+      }),
+      (ua = {
+        inView: ca,
+        hover: {
+          isActive: (e) => !!e.hover,
+          subscribe: (e, { enable: t, disable: n }) => {
+            let r = la(e, `hoverstart`, t),
+              i = la(e, `hoverend`, n);
+            return (
+              e.addEventListener(`pointerenter`, r),
+              e.addEventListener(`pointerleave`, i),
+              () => {
+                (e.removeEventListener(`pointerenter`, r),
+                  e.removeEventListener(`pointerleave`, i));
+              }
+            );
+          },
+        },
+        press: {
+          isActive: (e) => !!e.press,
+          subscribe: (e, { enable: t, disable: n }) => {
+            let r = (t) => {
+                (n(),
+                  Wi(e, `pressend`, t),
+                  y.removeEventListener(`pointerup`, r));
+              },
+              i = (n) => {
+                (t(),
+                  Wi(e, `pressstart`, n),
+                  y.addEventListener(`pointerup`, r));
+              };
+            return (
+              e.addEventListener(`pointerdown`, i),
+              () => {
+                (e.removeEventListener(`pointerdown`, i),
+                  y.removeEventListener(`pointerup`, r));
+              }
+            );
+          },
+        },
+      }),
+      [...Object.keys(ua)]);
+  });
+function fa(e) {
+  let {
+      slots: t = [],
+      gap: r,
+      padding: s,
+      paddingPerSide: f,
+      paddingTop: h,
+      paddingRight: g,
+      paddingBottom: te,
+      paddingLeft: _,
+      speed: v,
+      hoverFactor: y,
+      direction: C,
+      alignment: T,
+      sizingOptions: E,
+      fadeOptions: D,
+      style: O,
+    } = e,
+    {
+      fadeContent: k,
+      overflow: A,
+      fadeWidth: j,
+      fadeInset: ae,
+      fadeAlpha: M,
+    } = D,
+    { widthType: oe, heightType: se } = E,
+    ce = f ? `${h}px ${g}px ${te}px ${_}px` : `${s}px`,
+    N = xe.current(),
+    le = N === xe.canvas || N === xe.export,
+    P = pa(),
+    F = t.filter(Boolean),
+    ue = l.count(F),
+    I = ue > 0,
+    L = ne(0),
+    de = ma(C === !0 ? `left` : C, P),
+    fe = de === `left` || de === `right`,
+    pe = ga[de];
+  S(L, pe);
+  let R = o(null),
+    me = p(() => [{ current: null }, { current: null }], []),
+    [z, B] = n({ parent: null, children: null }),
+    he = null,
+    V = [],
+    ge = 0,
+    H = 0;
+  (le && ((ge = ue ? Math.floor(10 / ue) : 0), (H = 1)),
+    !le &&
+      I &&
+      z.parent &&
+      ((ge = Math.round((z.parent / z.children) * 2) + 1),
+      (ge = Math.min(ge, ha)),
+      (H = 1)));
+  let _e = i(() => {
+      if (I && R.current) {
+        let e = fe ? R.current.offsetWidth : R.current.offsetHeight,
+          t = me[0].current
+            ? fe
+              ? me[0].current.offsetLeft
+              : me[0].current.offsetTop
+            : 0,
+          n =
+            (me[1].current
+              ? fe
+                ? me[1].current.offsetLeft + me[1].current.offsetWidth
+                : me[1].current.offsetTop + me[1].current.offsetHeight
+              : 0) -
+            t +
+            r;
+        u(() => {
+          B({ parent: e, children: n });
+        });
+      }
+    }, []),
+    ve = le ? { contentVisibility: `auto` } : {};
+  if (I) {
+    if (!le) {
+      let e = o(!0);
+      c(
+        () => (
+          w.read(_e, !1, !0),
+          Ui(R.current, ({ contentSize: t }) => {
+            (!e.current && (t.width || t.height) && w.read(_e, !1, !0),
+              (e.current = !1));
+          })
+        ),
+        [],
+      );
+    }
+    he = l.map(F, (e, t) => {
+      let n;
+      (t === 0 && (n = me[P === `rtl` && fe ? 1 : 0]),
+        t === F.length - 1 && (n = me[P === `rtl` && fe ? 0 : 1]));
+      let r = {
+        width: oe ? e.props?.width : `100%`,
+        height: se ? e.props?.height : `100%`,
+      };
+      return d(ie, {
+        inherit: `id`,
+        children: d(_a, {
+          ref: n,
+          style: r,
+          children: ee(
+            e,
+            {
+              style: { ...e.props?.style, ...r, flexShrink: 0, ...ve },
+              layoutId: e.props.layoutId
+                ? e.props.layoutId + `-original-` + t
+                : void 0,
+            },
+            e.props?.children,
+          ),
+        }),
+      });
+    });
+  }
+  let ye = le ? !0 : re(R);
+  if (!le)
+    for (let e = 0; e < ge; e++)
+      V = V.concat(
+        l.map(F, (t, n) => {
+          let r = {
+            width: oe ? t.props?.width : `100%`,
+            height: se ? t.props?.height : `100%`,
+            willChange: ye ? `transform` : void 0,
+          };
+          return d(
+            ie,
+            {
+              inherit: `id`,
+              children: d(
+                _a,
+                {
+                  style: r,
+                  children: ee(
+                    t,
+                    {
+                      key: e + ` ` + n,
+                      style: {
+                        ...t.props?.style,
+                        width: oe ? t.props?.width : `100%`,
+                        height: se ? t.props?.height : `100%`,
+                        flexShrink: 0,
+                        ...ve,
+                      },
+                      layoutId: t.props.layoutId
+                        ? t.props.layoutId + `-dupe-` + e
+                        : void 0,
+                    },
+                    t.props?.children,
+                  ),
+                },
+                e + `li` + n,
+              ),
+            },
+            e + `lg` + n,
+          );
+        }),
+      );
+  let U = z.children + z.children * Math.round(z.parent / z.children);
+  (o(null), o(null), o(0));
+  let W = o(!1),
+    G = b(),
+    be = o(null),
+    K = o(null);
+  if (!le) {
+    a(() => {
+      if (!(G || !U || !v))
+        return (
+          (K.current = be.current.animate(
+            { transform: [pe(0), pe(U)] },
+            {
+              duration: (Math.abs(U) / v) * 1e3,
+              iterations: 1 / 0,
+              iterationStart: +(P === `rtl`),
+              easing: `linear`,
+            },
+          )),
+          () => K.current.cancel()
+        );
+    }, [y, U, v, P]);
+    let e = i(() => {
+      if (!K.current) return;
+      let e = document.hidden;
+      ye && !e && K.current.playState === `paused`
+        ? K.current.play()
+        : (!ye || e) && K.current.playState === `running` && K.current.pause();
+    }, [ye]);
+    (a(() => {
+      e();
+    }, [ye, y, U, v]),
+      a(
+        () => (
+          document.addEventListener(`visibilitychange`, e),
+          () => {
+            document.removeEventListener(`visibilitychange`, e);
+          }
+        ),
+        [e],
+      ));
+  }
+  let q = fe ? `to right` : `to bottom`,
+    Se = j / 2,
+    Ce = 100 - j / 2,
+    we = `linear-gradient(${q}, rgba(0, 0, 0, ${M}) ${Ca(ae, 0, Se)}%, rgba(0, 0, 0, 1) ${Se}%, rgba(0, 0, 0, 1) ${Ce}%, rgba(0, 0, 0, ${M}) ${100 - ae}%)`;
+  return I
+    ? d(`section`, {
+        style: {
+          ...va,
+          opacity: H,
+          WebkitMaskImage: k ? we : void 0,
+          maskImage: k ? we : void 0,
+          overflow: A ? `visible` : `hidden`,
+          padding: ce,
+        },
+        ref: R,
+        children: m(x.ul, {
+          ref: be,
+          style: {
+            ...va,
+            gap: r,
+            top: C === `bottom` && wa(U) ? -U : void 0,
+            left: C === `right` && wa(U) ? U * (P === `rtl` ? 1 : -1) : void 0,
+            placeItems: T,
+            position: `relative`,
+            flexDirection: fe ? `row` : `column`,
+            ...O,
+            willChange: le || !ye ? `auto` : `transform`,
+            transform: pe(0),
+          },
+          onMouseEnter: () => {
+            ((W.current = !0), K.current && (K.current.playbackRate = y));
+          },
+          onMouseLeave: () => {
+            ((W.current = !1), K.current && (K.current.playbackRate = 1));
+          },
+          children: [he, V],
+        }),
+      })
+    : m(`section`, {
+        style: ya,
+        children: [
+          d(`div`, { style: ba, children: `✨` }),
+          d(`p`, { style: xa, children: `Connect to Content` }),
+          d(`p`, {
+            style: Sa,
+            children: `Add layers or components to infinitely loop on your page.`,
+          }),
+        ],
+      });
+}
+function pa() {
+  return !y || !y.document || !y.document.documentElement
+    ? `ltr`
+    : y.document.documentElement.dir === `rtl`
+      ? `rtl`
+      : `ltr`;
+}
+function ma(e, t) {
+  return t === `rtl`
+    ? e === `left`
+      ? `right`
+      : e === `right`
+        ? `left`
+        : e
+    : e;
+}
+var ha,
+  ga,
+  _a,
+  va,
+  ya,
+  ba,
+  xa,
+  Sa,
+  Ca,
+  wa,
+  Ta = e(() => {
+    (r(),
+      h(),
+      _(),
+      k(),
+      T(),
+      da(),
+      (ha = 100),
+      (ga = {
+        left: (e) => `translateX(-${e}px)`,
+        right: (e) => `translateX(${e}px)`,
+        top: (e) => `translateY(-${e}px)`,
+        bottom: (e) => `translateY(${e}px)`,
+      }),
+      (_a = f(({ children: e, ...t }, n) => {
+        let r = o(),
+          i = re(r);
+        return (
+          v(n, () => r.current),
+          a(() => {
+            let e = r.current;
+            e &&
+              (i
+                ? e.querySelectorAll(`button,a`).forEach((e) => {
+                    let t = e.dataset.origTabIndex;
+                    t ? (e.tabIndex = t) : e.removeAttribute(`tabIndex`);
+                  })
+                : e.querySelectorAll(`button,a`).forEach((e) => {
+                    let t = e.getAttribute(`tabIndex`);
+                    (t && (e.dataset.origTabIndex = t), (e.tabIndex = -1));
+                  }));
+          }, [i]),
+          d(`li`, { ...t, "aria-hidden": !i, ref: r, children: e })
+        );
+      })),
+      (fa.defaultProps = {
+        gap: 10,
+        padding: 10,
+        sizingOptions: { widthType: !0, heightType: !0 },
+        fadeOptions: {
+          fadeContent: !0,
+          overflow: !1,
+          fadeWidth: 25,
+          fadeAlpha: 0,
+          fadeInset: 0,
+        },
+        direction: !0,
+      }),
+      q(fa, {
+        slots: {
+          type: H.Array,
+          title: `Children`,
+          control: { type: H.ComponentInstance },
+        },
+        speed: {
+          type: H.Number,
+          title: `Speed`,
+          min: 0,
+          max: 1e3,
+          defaultValue: 100,
+          unit: `%`,
+          displayStepper: !0,
+          step: 5,
+        },
+        direction: {
+          type: H.Enum,
+          title: `Direction`,
+          options: [`left`, `right`, `top`, `bottom`],
+          optionIcons: [
+            `direction-left`,
+            `direction-right`,
+            `direction-up`,
+            `direction-down`,
+          ],
+          optionTitles: [`Left`, `Right`, `Top`, `Bottom`],
+          defaultValue: `left`,
+          displaySegmentedControl: !0,
+        },
+        alignment: {
+          type: H.Enum,
+          title: `Align`,
+          options: [`flex-start`, `center`, `flex-end`],
+          optionIcons: {
+            direction: {
+              right: [`align-top`, `align-middle`, `align-bottom`],
+              left: [`align-top`, `align-middle`, `align-bottom`],
+              top: [`align-left`, `align-center`, `align-right`],
+              bottom: [`align-left`, `align-center`, `align-right`],
+            },
+          },
+          defaultValue: `center`,
+          displaySegmentedControl: !0,
+        },
+        gap: { type: H.Number, title: `Gap` },
+        padding: {
+          title: `Padding`,
+          type: H.FusedNumber,
+          toggleKey: `paddingPerSide`,
+          toggleTitles: [`Padding`, `Padding per side`],
+          valueKeys: [
+            `paddingTop`,
+            `paddingRight`,
+            `paddingBottom`,
+            `paddingLeft`,
+          ],
+          valueLabels: [`T`, `R`, `B`, `L`],
+          min: 0,
+        },
+        sizingOptions: {
+          type: H.Object,
+          title: `Sizing`,
+          controls: {
+            widthType: {
+              type: H.Boolean,
+              title: `Width`,
+              enabledTitle: `Auto`,
+              disabledTitle: `Stretch`,
+              defaultValue: !0,
+            },
+            heightType: {
+              type: H.Boolean,
+              title: `Height`,
+              enabledTitle: `Auto`,
+              disabledTitle: `Stretch`,
+              defaultValue: !0,
+            },
+          },
+        },
+        fadeOptions: {
+          type: H.Object,
+          title: `Clipping`,
+          controls: {
+            fadeContent: { type: H.Boolean, title: `Fade`, defaultValue: !0 },
+            overflow: {
+              type: H.Boolean,
+              title: `Overflow`,
+              enabledTitle: `Show`,
+              disabledTitle: `Hide`,
+              defaultValue: !1,
+              hidden(e) {
+                return e.fadeContent === !0;
+              },
+            },
+            fadeWidth: {
+              type: H.Number,
+              title: `Width`,
+              defaultValue: 25,
+              min: 0,
+              max: 100,
+              unit: `%`,
+              hidden(e) {
+                return e.fadeContent === !1;
+              },
+            },
+            fadeInset: {
+              type: H.Number,
+              title: `Inset`,
+              defaultValue: 0,
+              min: 0,
+              max: 100,
+              unit: `%`,
+              hidden(e) {
+                return e.fadeContent === !1;
+              },
+            },
+            fadeAlpha: {
+              type: H.Number,
+              title: `Opacity`,
+              defaultValue: 0,
+              min: 0,
+              max: 1,
+              step: 0.05,
+              hidden(e) {
+                return e.fadeContent === !1;
+              },
+            },
+          },
+        },
+        hoverFactor: {
+          type: H.Number,
+          title: `Hover`,
+          min: 0,
+          max: 1,
+          unit: `x`,
+          defaultValue: 1,
+          step: 0.1,
+          displayStepper: !0,
+          description: `Slows down the speed while you are hovering.`,
+        },
+      }),
+      (va = {
+        display: `flex`,
+        width: `100%`,
+        height: `100%`,
+        maxWidth: `100%`,
+        maxHeight: `100%`,
+        placeItems: `center`,
+        margin: 0,
+        padding: 0,
+        listStyleType: `none`,
+        textIndent: `none`,
+      }),
+      (ya = {
+        display: `flex`,
+        width: `100%`,
+        height: `100%`,
+        placeContent: `center`,
+        placeItems: `center`,
+        flexDirection: `column`,
+        color: `#96F`,
+        background: `rgba(136, 85, 255, 0.1)`,
+        fontSize: 11,
+        overflow: `hidden`,
+        padding: `20px 20px 30px 20px`,
+      }),
+      (ba = { fontSize: 32, marginBottom: 10 }),
+      (xa = {
+        margin: 0,
+        marginBottom: 10,
+        fontWeight: 600,
+        textAlign: `center`,
+      }),
+      (Sa = {
+        margin: 0,
+        opacity: 0.7,
+        maxWidth: 150,
+        lineHeight: 1.5,
+        textAlign: `center`,
+      }),
+      (Ca = (e, t, n) => Math.min(Math.max(e, t), n)),
+      (wa = (e) => typeof e == `number` && !isNaN(e)));
+  }),
+  Ea,
+  Da,
+  Oa,
+  ka,
+  Aa,
+  ja,
+  Ma,
+  Na,
+  Pa,
+  Fa = e(() => {
+    (h(),
+      k(),
+      T(),
+      _(),
+      Ta(),
+      (Ea = O(fa)),
+      (Da = `framer-QR9Od`),
+      (Oa = { Dow87Hzlj: `framer-v-pnh4a7` }),
+      (ka = { bounce: 0.2, delay: 0, duration: 0.4, type: `spring` }),
+      (Aa = ({ value: e, children: n }) => {
+        let r = t(C),
+          i = e ?? r.transition,
+          a = p(() => ({ ...r, transition: i }), [JSON.stringify(i)]);
+        return d(C.Provider, { value: a, children: n });
+      }),
+      (ja = x.create(s)),
+      (Ma = ({ height: e, id: t, width: n, ...r }) => ({ ...r })),
+      (Na = (e, t) =>
+        e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`)),
+      (Pa = I(
+        f(function (e, t) {
+          let n = o(null),
+            r = t ?? n,
+            i = te(),
+            { activeLocale: a, setLocale: s } = V();
+          W();
+          let { style: c, className: l, layoutId: u, variant: f, ...p } = Ma(e),
+            {
+              baseVariant: ee,
+              classNames: m,
+              clearLoadingGesture: h,
+              gestureHandlers: g,
+              gestureVariant: _,
+              isLoading: v,
+              setGestureState: y,
+              setVariant: ne,
+              variants: re,
+            } = F({
+              defaultVariant: `Dow87Hzlj`,
+              ref: r,
+              variant: f,
+              variantClassNames: Oa,
+            }),
+            b = Na(e, re),
+            S = D(Da);
+          return d(ie, {
+            id: u ?? i,
+            children: d(ja, {
+              animate: re,
+              initial: !1,
+              children: d(Aa, {
+                value: ka,
+                children: d(x.div, {
+                  ...p,
+                  ...g,
+                  className: D(S, `framer-pnh4a7`, l, m),
+                  "data-framer-name": `Variant 1`,
+                  layoutDependency: b,
+                  layoutId: `Dow87Hzlj`,
+                  ref: r,
+                  style: { ...c },
+                  children: d(U, {
+                    children: d(M, {
+                      className: `framer-6xfn2m-container`,
+                      "data-framer-name": `Partners`,
+                      isAuthoredByUser: !0,
+                      isModuleExternal: !0,
+                      layoutDependency: b,
+                      layoutId: `BCM9k9Rwt-container`,
+                      name: `Partners`,
+                      nodeId: `BCM9k9Rwt`,
+                      rendersWithMotion: !0,
+                      scopeId: `VkdIeYYn0`,
+                      children: d(fa, {
+                        alignment: `center`,
+                        direction: `left`,
+                        fadeOptions: {
+                          fadeAlpha: 0,
+                          fadeContent: !0,
+                          fadeInset: 0,
+                          fadeWidth: 30,
+                          overflow: !1,
+                        },
+                        gap: 80,
+                        height: `100%`,
+                        hoverFactor: 0.6,
+                        id: `BCM9k9Rwt`,
+                        layoutId: `BCM9k9Rwt`,
+                        name: `Partners`,
+                        padding: 0,
+                        paddingBottom: 0,
+                        paddingLeft: 0,
+                        paddingPerSide: !1,
+                        paddingRight: 0,
+                        paddingTop: 0,
+                        sizingOptions: { heightType: !0, widthType: !0 },
+                        slots: [
+                          d(x.div, {
+                            className: `framer-1pl7b1r`,
+                            "data-framer-name": `LogoIpsum Asset 1`,
+                            layoutDependency: b,
+                            layoutId: `l5M8KxXC6`,
+                            children: d(G, {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 311.11111935274124,
+                                intrinsicWidth: 1453.3333718335198,
+                                pixelHeight: 280,
+                                pixelWidth: 1308,
+                                sizes: `116.7857px`,
+                                src: `https://framerusercontent.com/images/l3DX8whcFvXVY2ilxPY9SrDU6g.png?width=1308&height=280`,
+                                srcSet: `https://framerusercontent.com/images/l3DX8whcFvXVY2ilxPY9SrDU6g.png?scale-down-to=512&width=1308&height=280 512w,https://framerusercontent.com/images/l3DX8whcFvXVY2ilxPY9SrDU6g.png?scale-down-to=1024&width=1308&height=280 1024w,https://framerusercontent.com/images/l3DX8whcFvXVY2ilxPY9SrDU6g.png?width=1308&height=280 1308w`,
+                              },
+                              className: `framer-1toh2zk`,
+                              "data-framer-name": `Imagem do ChatGPT 25 de set. de 2026, 19 26_50`,
+                              layoutDependency: b,
+                              layoutId: `Bt9_PAWfY`,
+                            }),
+                          }),
+                          d(x.div, {
+                            className: `framer-1bqo4ot`,
+                            "data-framer-name": `LogoIpsum Asset 2`,
+                            layoutDependency: b,
+                            layoutId: `Cv2n2up6l`,
+                            children: d(G, {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 214.44445012528234,
+                                intrinsicWidth: 1332.2222575140597,
+                                pixelHeight: 193,
+                                pixelWidth: 1199,
+                                sizes: `108px`,
+                                src: `https://framerusercontent.com/images/Ne7JSHgK985PcBHHI83PQywpZw.png?width=1199&height=193`,
+                                srcSet: `https://framerusercontent.com/images/Ne7JSHgK985PcBHHI83PQywpZw.png?scale-down-to=512&width=1199&height=193 512w,https://framerusercontent.com/images/Ne7JSHgK985PcBHHI83PQywpZw.png?scale-down-to=1024&width=1199&height=193 1024w,https://framerusercontent.com/images/Ne7JSHgK985PcBHHI83PQywpZw.png?width=1199&height=193 1199w`,
+                              },
+                              className: `framer-coycyp`,
+                              "data-framer-name": `Imagem do ChatGPT 25 de set. de 2026, 19 35_56`,
+                              layoutDependency: b,
+                              layoutId: `zGKHE8BDW`,
+                            }),
+                          }),
+                          d(x.div, {
+                            className: `framer-17zm9cz`,
+                            "data-framer-name": `LogoIpsum Asset 3`,
+                            layoutDependency: b,
+                            layoutId: `okyi37gkh`,
+                            children: d(G, {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 381.111121207108,
+                                intrinsicWidth: 1083.3333620318667,
+                                pixelHeight: 343,
+                                pixelWidth: 975,
+                                sizes: `71.0641px`,
+                                src: `https://framerusercontent.com/images/BPTUmANj2JTqWHeYn3ZLWtdg.png?width=975&height=343`,
+                                srcSet: `https://framerusercontent.com/images/BPTUmANj2JTqWHeYn3ZLWtdg.png?scale-down-to=512&width=975&height=343 512w,https://framerusercontent.com/images/BPTUmANj2JTqWHeYn3ZLWtdg.png?width=975&height=343 975w`,
+                              },
+                              className: `framer-1n5kaze`,
+                              "data-framer-name": `Imagem do ChatGPT 25 de set. de 2026, 19 41_32`,
+                              layoutDependency: b,
+                              layoutId: `LHT8_FPTb`,
+                            }),
+                          }),
+                          d(x.div, {
+                            className: `framer-1d5i8pz`,
+                            "data-framer-name": `LogoIpsum Asset 4`,
+                            layoutDependency: b,
+                            layoutId: `ZP6zeybHm`,
+                            children: d(G, {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 411.11112200183663,
+                                intrinsicWidth: 945.5555806042242,
+                                pixelHeight: 370,
+                                pixelWidth: 851,
+                                sizes: `46px`,
+                                src: `https://framerusercontent.com/images/pZTyseNyAspUWEyz5XhZwJcQ.png?width=851&height=370`,
+                                srcSet: `https://framerusercontent.com/images/pZTyseNyAspUWEyz5XhZwJcQ.png?scale-down-to=512&width=851&height=370 512w,https://framerusercontent.com/images/pZTyseNyAspUWEyz5XhZwJcQ.png?width=851&height=370 851w`,
+                              },
+                              className: `framer-1axnxo0`,
+                              "data-framer-name": `Imagem do ChatGPT 25 de set. de 2026, 19 44_21`,
+                              layoutDependency: b,
+                              layoutId: `hhDmoOGFz`,
+                            }),
+                          }),
+                          d(x.div, {
+                            className: `framer-1b3pkc4`,
+                            "data-framer-name": `LogoIpsum Asset 5`,
+                            layoutDependency: b,
+                            layoutId: `z9ryuIsl4`,
+                            children: d(G, {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 414.44445542347313,
+                                intrinsicWidth: 1117.7778073887773,
+                                pixelHeight: 373,
+                                pixelWidth: 1006,
+                                sizes: `76px`,
+                                src: `https://framerusercontent.com/images/cEl1Tss5TN0PEZR1RqTcJsk0qf4.png?width=1006&height=373`,
+                                srcSet: `https://framerusercontent.com/images/cEl1Tss5TN0PEZR1RqTcJsk0qf4.png?scale-down-to=512&width=1006&height=373 512w,https://framerusercontent.com/images/cEl1Tss5TN0PEZR1RqTcJsk0qf4.png?width=1006&height=373 1006w`,
+                              },
+                              className: `framer-1m3xthe`,
+                              "data-framer-name": `Imagem do ChatGPT 25 de set. de 2026, 19 47_27`,
+                              layoutDependency: b,
+                              layoutId: `ZE3jTvmTG`,
+                            }),
+                          }),
+                        ],
+                        speed: 30,
+                        style: { height: `100%`, width: `100%` },
+                        width: `100%`,
+                      }),
+                    }),
+                  }),
+                }),
+              }),
+            }),
+          });
+        }),
+        [
+          `.framer-QR9Od.framer-1kxrq2d, .framer-QR9Od .framer-1kxrq2d { display: block; }`,
+          `.framer-QR9Od.framer-pnh4a7 { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 800px; }`,
+          `.framer-QR9Od .framer-6xfn2m-container { flex: 1 0 0px; height: 50px; position: relative; width: 1px; }`,
+          `.framer-QR9Od .framer-1pl7b1r { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 25px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 117px; }`,
+          `.framer-QR9Od .framer-1toh2zk { aspect-ratio: 4.671428571428572 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 117px; }`,
+          `.framer-QR9Od .framer-1bqo4ot { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 25px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 108px; }`,
+          `.framer-QR9Od .framer-coycyp { aspect-ratio: 6.212435233160622 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 108px; }`,
+          `.framer-QR9Od .framer-17zm9cz { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 25px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 106px; }`,
+          `.framer-QR9Od .framer-1n5kaze { aspect-ratio: 2.8425655976676385 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 71px; }`,
+          `.framer-QR9Od .framer-1d5i8pz { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 25px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 48px; }`,
+          `.framer-QR9Od .framer-1axnxo0 { aspect-ratio: 2.3 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 46px; }`,
+          `.framer-QR9Od .framer-1b3pkc4 { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 29px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 138px; }`,
+          `.framer-QR9Od .framer-1m3xthe { aspect-ratio: 2.6970509383378016 / 1; flex: none; height: auto; overflow: visible; position: relative; width: 76px; }`,
+        ],
+        `framer-QR9Od`,
+      )),
+      (Pa.displayName = `Partners`),
+      (Pa.defaultProps = { height: 50, width: 800 }),
+      E(Pa, [{ explicitInter: !0, fonts: [] }, ...Ea], {
+        supportsExplicitInterCodegen: !0,
+      }));
+  }),
+  Ia,
+  La,
+  Ra,
+  za = e(() => {
+    (k(),
+      ae.loadFonts([
+        `FS;Manrope-medium`,
+        `Inter-Bold`,
+        `Inter-BoldItalic`,
+        `Inter-Italic`,
+      ]),
+      (Ia = [
+        {
+          explicitInter: !0,
+          fonts: [
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,
+              weight: `500`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2`,
+              weight: `400`,
+            },
+          ],
+        },
+      ]),
+      (La = [
+        `.framer-qlNpR .framer-styles-preset-1st835d:not(.rich-text-wrapper), .framer-qlNpR .framer-styles-preset-1st835d.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 14px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.6em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,
+        `@media (max-width: 1199px) and (min-width: 810px) { .framer-qlNpR .framer-styles-preset-1st835d:not(.rich-text-wrapper), .framer-qlNpR .framer-styles-preset-1st835d.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 14px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.6em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+        `@media (max-width: 809px) and (min-width: 0px) { .framer-qlNpR .framer-styles-preset-1st835d:not(.rich-text-wrapper), .framer-qlNpR .framer-styles-preset-1st835d.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 14px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.6em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+      ]),
+      (Ra = `framer-qlNpR`));
+  }),
+  Ba,
+  Va,
+  Ha,
+  Ua = e(() => {
+    (k(),
+      ae.loadFonts([
+        `FS;Manrope-medium`,
+        `Inter-Bold`,
+        `Inter-BoldItalic`,
+        `Inter-Italic`,
+      ]),
+      (Ba = [
+        {
+          explicitInter: !0,
+          fonts: [
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,
+              weight: `500`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `italic`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2`,
+              weight: `400`,
+            },
+          ],
+        },
+      ]),
+      (Va = [
+        `.framer-s5wlg .framer-styles-preset-1gwglaq:not(.rich-text-wrapper), .framer-s5wlg .framer-styles-preset-1gwglaq.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 24px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, #3b3930); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,
+        `@media (max-width: 1199px) and (min-width: 810px) { .framer-s5wlg .framer-styles-preset-1gwglaq:not(.rich-text-wrapper), .framer-s5wlg .framer-styles-preset-1gwglaq.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 22px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, #3b3930); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+        `@media (max-width: 809px) and (min-width: 0px) { .framer-s5wlg .framer-styles-preset-1gwglaq:not(.rich-text-wrapper), .framer-s5wlg .framer-styles-preset-1gwglaq.rich-text-wrapper p { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-bold-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-family-italic: "Inter", "Inter Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 18px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-style-bold-italic: italic; --framer-font-style-italic: italic; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-font-weight-bold-italic: 700; --framer-font-weight-italic: 400; --framer-letter-spacing: 0em; --framer-line-height: 1.5em; --framer-paragraph-spacing: 20px; --framer-text-alignment: start; --framer-text-color: var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, #3b3930); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+      ]),
+      (Ha = `framer-s5wlg`));
+  }),
+  Wa,
+  Ga,
+  Ka,
+  qa = e(() => {
+    (k(),
+      ae.loadFonts([`FS;Manrope-medium`, `FS;Manrope-bold`]),
+      (Wa = [
+        {
+          explicitInter: !0,
+          fonts: [
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,
+              weight: `500`,
+            },
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,
+              weight: `700`,
+            },
+          ],
+        },
+      ]),
+      (Ga = [
+        `.framer-Ox79O .framer-styles-preset-7kh1l3:not(.rich-text-wrapper), .framer-Ox79O .framer-styles-preset-7kh1l3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 50px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,
+        `@media (max-width: 1199px) and (min-width: 810px) { .framer-Ox79O .framer-styles-preset-7kh1l3:not(.rich-text-wrapper), .framer-Ox79O .framer-styles-preset-7kh1l3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 41px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+        `@media (max-width: 809px) and (min-width: 0px) { .framer-Ox79O .framer-styles-preset-7kh1l3:not(.rich-text-wrapper), .framer-Ox79O .framer-styles-preset-7kh1l3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 30px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.02em; --framer-line-height: 1.3em; --framer-paragraph-spacing: 40px; --framer-text-alignment: start; --framer-text-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+      ]),
+      (Ka = `framer-Ox79O`));
+  }),
+  Ja,
+  Ya,
+  Xa,
+  Za = e(() => {
+    (k(),
+      ae.loadFonts([`FS;Manrope-medium`, `FS;Manrope-bold`]),
+      (Ja = [
+        {
+          explicitInter: !0,
+          fonts: [
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,
+              weight: `500`,
+            },
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,
+              weight: `700`,
+            },
+          ],
+        },
+      ]),
+      (Ya = [
+        `.framer-Aqwfb .framer-styles-preset-1xwvxh3:not(.rich-text-wrapper), .framer-Aqwfb .framer-styles-preset-1xwvxh3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 116px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.03em; --framer-line-height: 1.2em; --framer-paragraph-spacing: 40px; --framer-text-alignment: left; --framer-text-color: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, #f7f7f7); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; }`,
+        `@media (max-width: 1199px) and (min-width: 810px) { .framer-Aqwfb .framer-styles-preset-1xwvxh3:not(.rich-text-wrapper), .framer-Aqwfb .framer-styles-preset-1xwvxh3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 116px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.03em; --framer-line-height: 1.2em; --framer-paragraph-spacing: 40px; --framer-text-alignment: left; --framer-text-color: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, #f7f7f7); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+        `@media (max-width: 809px) and (min-width: 0px) { .framer-Aqwfb .framer-styles-preset-1xwvxh3:not(.rich-text-wrapper), .framer-Aqwfb .framer-styles-preset-1xwvxh3.rich-text-wrapper h2 { --framer-font-family: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-family-bold: "Manrope", "Manrope Placeholder", sans-serif; --framer-font-open-type-features: normal; --framer-font-size: 116px; --framer-font-style: normal; --framer-font-style-bold: normal; --framer-font-variation-axes: normal; --framer-font-weight: 500; --framer-font-weight-bold: 700; --framer-letter-spacing: -0.03em; --framer-line-height: 1.2em; --framer-paragraph-spacing: 40px; --framer-text-alignment: left; --framer-text-color: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, #f7f7f7); --framer-text-decoration: none; --framer-text-stroke-color: initial; --framer-text-stroke-width: initial; --framer-text-transform: none; } }`,
+      ]),
+      (Xa = `framer-Aqwfb`));
+  }),
+  Qa,
+  $a,
+  eo,
+  to,
+  no,
+  Y,
+  ro,
+  X,
+  io,
+  ao,
+  oo,
+  so,
+  co,
+  lo,
+  uo,
+  fo,
+  po,
+  mo,
+  ho,
+  go,
+  _o,
+  vo,
+  yo,
+  bo,
+  xo,
+  So,
+  Co,
+  wo,
+  To,
+  Eo,
+  Do,
+  Oo,
+  ko,
+  Ao,
+  Z,
+  jo,
+  Q,
+  $,
+  Mo,
+  No,
+  Po,
+  Fo,
+  Io,
+  Lo,
+  Ro,
+  zo,
+  Bo,
+  Vo;
+e(() => {
+  (h(),
+    k(),
+    T(),
+    _(),
+    Qe(),
+    ot(),
+    mt(),
+    St(),
+    At(),
+    Ae(),
+    Rt(),
+    Jt(),
+    Fn(),
+    Ve(),
+    qn(),
+    Or(),
+    Zr(),
+    si(),
+    wi(),
+    Fa(),
+    Ie(),
+    za(),
+    sn(),
+    Ua(),
+    qa(),
+    Za(),
+    Me(),
+    Mr(),
+    He(),
+    Le(),
+    (Qa = de(z(x.div))),
+    ($a = de(x.div)),
+    (eo = de(N)),
+    (to = O(Re)),
+    (no = de(B)),
+    (Y = z(N)),
+    (ro = O(Pa)),
+    (X = z(B)),
+    (io = O(J)),
+    (ao = O(Xr)),
+    (oo = fe(x.div)),
+    (so = z(G)),
+    (co = O(oi)),
+    (lo = z(x.div)),
+    (uo = O(Kn)),
+    (fo = K(Kn)),
+    (po = O(Pn)),
+    (mo = O(qt)),
+    (ho = O(Dr)),
+    (go = O(Ci)),
+    (_o = z(se)),
+    (vo = {
+      EIXefzEOt: `(max-width: 809.98px)`,
+      JvUVvulcJ: `(min-width: 810px) and (max-width: 1217.98px)`,
+      WQLkyLRf1: `(min-width: 1218px)`,
+    }),
+    (yo = () => typeof document < `u`),
+    (bo = [`upgoal`]),
+    (xo = `framer-a8flv`),
+    (So = {
+      EIXefzEOt: `framer-v-c8amib`,
+      JvUVvulcJ: `framer-v-vlbm8s`,
+      WQLkyLRf1: `framer-v-72rtr7`,
+    }),
+    (Co = (e, t, n) => (e && t ? `position` : n)),
+    (wo = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        delay: 0,
+        duration: 2,
+        ease: [0.12, 0.23, 0.5, 1],
+        type: `tween`,
+      },
+      x: 0,
+      y: 0,
+    }),
+    (To = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1.05,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 0,
+    }),
+    (Eo = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        delay: 0.6,
+        duration: 0.5,
+        ease: [0.44, 0, 0.56, 1],
+        type: `tween`,
+      },
+      x: 0,
+      y: 0,
+    }),
+    (Do = {
+      opacity: 0.001,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 20,
+    }),
+    (Oo = {
+      effect: {
+        filter: `blur(8px)`,
+        opacity: 0.001,
+        rotate: 0,
+        scale: 1,
+        skewX: 0,
+        skewY: 0,
+        x: 0,
+        y: 20,
+      },
+      startDelay: 0,
+      tokenization: `character`,
+      transition: {
+        delay: 0.02,
+        duration: 0.8,
+        ease: [0.12, 0.23, 0.12, 0.98],
+        type: `tween`,
+      },
+      trigger: `onMount`,
+      type: `appear`,
+    }),
+    (ko = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        delay: 0.8,
+        duration: 0.5,
+        ease: [0.44, 0, 0.56, 1],
+        type: `tween`,
+      },
+      x: 0,
+      y: 0,
+    }),
+    (Ao = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        delay: 1,
+        duration: 0.5,
+        ease: [0.44, 0, 0.56, 1],
+        type: `tween`,
+      },
+      x: 0,
+      y: 0,
+    }),
+    (Z = (...e) => {
+      for (let t of e) if (t && typeof t == `string`) return t;
+    }),
+    (jo = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        delay: 1.2,
+        duration: 0.5,
+        ease: [0.44, 0, 0.56, 1],
+        type: `tween`,
+      },
+      x: 0,
+      y: 0,
+    }),
+    (Q = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 40,
+    }),
+    ($ = {
+      delay: 0,
+      duration: 0.8,
+      ease: [0.12, 0.23, 0.12, 0.98],
+      type: `tween`,
+    }),
+    (Mo = {
+      delay: 0.2,
+      duration: 0.8,
+      ease: [0.12, 0.23, 0.12, 0.98],
+      type: `tween`,
+    }),
+    (No = { bounce: 0.2, delay: 0, duration: 0.4, type: `spring` }),
+    (Po = {
+      delay: 0.4,
+      duration: 0.8,
+      ease: [0.12, 0.23, 0.12, 0.98],
+      type: `tween`,
+    }),
+    (Fo = (e, t) => {
+      if (!(!e || typeof e != `object`)) return { ...e, alt: t };
+    }),
+    (Io = (e, t, n) => {
+      switch (e.state) {
+        case `success`:
+          return t.success ?? n;
+        case `pending`:
+          return t.pending ?? n;
+        case `error`:
+          return t.error ?? n;
+        case `incomplete`:
+          return t.incomplete ?? n;
+        default:
+          return n;
+      }
+    }),
+    (Lo = { Desktop: `WQLkyLRf1`, Phone: `EIXefzEOt`, Tablet: `JvUVvulcJ` }),
+    (Ro = ({ value: e }) =>
+      ce()
+        ? null
+        : d(`style`, {
+            dangerouslySetInnerHTML: { __html: e },
+            "data-framer-html-style": ``,
+          })),
+    (zo = ({ height: e, id: t, width: n, ...r }) => ({
+      ...r,
+      variant: Lo[r.variant] ?? r.variant ?? `WQLkyLRf1`,
+    })),
+    (Bo = I(
+      f(function (e, n) {
+        let r = o(null),
+          i = n ?? r,
+          a = te(),
+          { activeLocale: c, setLocale: l } = V(),
+          u = W(),
+          { style: f, className: ee, layoutId: h, variant: _, ...v } = zo(e);
+        ye(p(() => ze({}, c), [c]));
+        let [y, ne] = pe(_, vo, !1),
+          re = D(xo, Ra, Ha, Ka, Fe, Xa, on, jr, Ue),
+          b = t(le)?.isLayoutTemplate,
+          S = !!t(C)?.transition?.layout,
+          w = Co(b, S);
+        me();
+        let T = () => !yo() || y !== `EIXefzEOt`,
+          E = P(`K7zYKy1_5`),
+          O = o(null),
+          k = P(`KbuQeHpgr`),
+          A = o(null),
+          j = P(`lspSUYKWB`),
+          ae = o(null),
+          M = () => !yo() || y === `EIXefzEOt`,
+          oe = P(`OtzuAkHsV`),
+          se = o(null),
+          ce = P(`ygzLrb7il`),
+          F = o(null),
+          ue = P(`raMTciCtJ`),
+          I = o(null),
+          de = P(`FfZ0uW57s`),
+          fe = o(null),
+          R = o(null),
+          z = o(null),
+          H = P(`n3TnSvnr_`),
+          be = o(null),
+          xe = P(`LjsN_fNYq`),
+          K = P(`IwMNOecm6`),
+          q = P(`KqSLPYmyU`),
+          we = o(null),
+          Te = P(`erhEQKnnF`),
+          Ee = o(null),
+          De = P(`n0VZEt7a2`),
+          Oe = o(null);
+        return (
+          _e({}),
+          d(le.Provider, {
+            value: {
+              activeVariantId: y,
+              humanReadableVariantMap: Lo,
+              primaryVariantId: `WQLkyLRf1`,
+              variantClassNames: So,
+            },
+            children: m(ie, {
+              id: h ?? a,
+              children: [
+                d(Ro, {
+                  value: `html body { background: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(245, 240, 232)); }`,
+                }),
+                m(x.div, {
+                  ...v,
+                  className: D(re, `framer-72rtr7`, ee),
+                  ref: i,
+                  style: { ...f },
+                  children: [
+                    m(x.section, {
+                      className: `framer-p98m37`,
+                      "data-framer-name": `Hero`,
+                      layout: w,
+                      children: [
+                        d(Qa, {
+                          __framer__adjustPosition: !1,
+                          __framer__offset: 0,
+                          __framer__parallaxTransformEnabled: !0,
+                          __framer__speed: 50,
+                          __perspectiveFX: !1,
+                          __targetOpacity: 1,
+                          animate: wo,
+                          className: `framer-1letey9`,
+                          "data-framer-appear-id": `1letey9`,
+                          "data-framer-name": `Background`,
+                          initial: To,
+                          optimized: !0,
+                          children: d(L, {
+                            breakpoint: y,
+                            overrides: {
+                              EIXefzEOt: {
+                                background: {
+                                  alt: `Professional business consultant working on a laptop in a modern office with city skyline view.`,
+                                  fit: `fill`,
+                                  intrinsicHeight: 941,
+                                  intrinsicWidth: 1672,
+                                  pixelHeight: 941,
+                                  pixelWidth: 1672,
+                                  positionX: `61%`,
+                                  positionY: `44.7%`,
+                                  sizes: u?.width || `100vw`,
+                                  src: `https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941`,
+                                  srcSet: `https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=512&width=1672&height=941 512w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=1024&width=1672&height=941 1024w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941 1672w`,
+                                },
+                              },
+                              JvUVvulcJ: {
+                                background: {
+                                  alt: `Professional business consultant working on a laptop in a modern office with city skyline view.`,
+                                  fit: `fill`,
+                                  intrinsicHeight: 941,
+                                  intrinsicWidth: 1672,
+                                  pixelHeight: 941,
+                                  pixelWidth: 1672,
+                                  positionX: `54.4%`,
+                                  positionY: `49.3%`,
+                                  sizes: u?.width || `100vw`,
+                                  src: `https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941`,
+                                  srcSet: `https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=512&width=1672&height=941 512w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=1024&width=1672&height=941 1024w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941 1672w`,
+                                },
+                              },
+                            },
+                            children: d(G, {
+                              as: `figure`,
+                              background: {
+                                alt: `Professional business consultant working on a laptop in a modern office with city skyline view.`,
+                                fit: `fill`,
+                                intrinsicHeight: 941,
+                                intrinsicWidth: 1672,
+                                pixelHeight: 941,
+                                pixelWidth: 1672,
+                                sizes: u?.width || `100vw`,
+                                src: `https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941`,
+                                srcSet: `https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=512&width=1672&height=941 512w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?scale-down-to=1024&width=1672&height=941 1024w,https://framerusercontent.com/images/54AfVLOO0zWQrrTiCbIuF7i374.png?width=1672&height=941 1672w`,
+                              },
+                              className: `framer-1q5gv3k`,
+                            }),
+                          }),
+                        }),
+                        m(`div`, {
+                          className: `framer-18g7lct`,
+                          "data-framer-name": `Container`,
+                          children: [
+                            d($a, {
+                              animate: Eo,
+                              className: `framer-1vcsdp3`,
+                              "data-framer-appear-id": `1vcsdp3`,
+                              "data-framer-name": `Stars & Text`,
+                              initial: Do,
+                              optimized: !0,
+                              children: d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    children: d(s, {
+                                      children: m(`p`, {
+                                        dir: `auto`,
+                                        style: {
+                                          "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                          "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                          "--framer-font-size": `9px`,
+                                          "--framer-font-weight": `500`,
+                                          "--framer-line-height": `1.6em`,
+                                          "--framer-text-color": `rgb(51, 68, 119)`,
+                                        },
+                                        children: [
+                                          `STRATEGY `,
+                                          d(`span`, {
+                                            style: {
+                                              "--framer-text-color": `rgb(255, 184, 0)`,
+                                            },
+                                            children: `• `,
+                                          }),
+                                          `TECHNOLOGY `,
+                                          d(`span`, {
+                                            style: {
+                                              "--framer-text-color": `rgb(255, 184, 0)`,
+                                            },
+                                            children: `•`,
+                                          }),
+                                          ` TRANSFORMATION`,
+                                        ],
+                                      }),
+                                    }),
+                                    fonts: [`FS;Manrope-medium`],
+                                  },
+                                },
+                                children: d(N, {
+                                  __fromCanvasComponent: !0,
+                                  children: d(s, {
+                                    children: m(`p`, {
+                                      className: `framer-styles-preset-1st835d`,
+                                      "data-styles-preset": `dzHmrYhu8`,
+                                      dir: `auto`,
+                                      style: {
+                                        "--framer-text-color": `rgb(51, 68, 119)`,
+                                      },
+                                      children: [
+                                        `STRATEGY `,
+                                        d(`span`, {
+                                          style: {
+                                            "--framer-text-color": `rgb(255, 184, 0)`,
+                                          },
+                                          children: `• `,
+                                        }),
+                                        `TECHNOLOGY `,
+                                        d(`span`, {
+                                          style: {
+                                            "--framer-text-color": `rgb(255, 184, 0)`,
+                                          },
+                                          children: `•`,
+                                        }),
+                                        ` TRANSFORMATION`,
+                                      ],
+                                    }),
+                                  }),
+                                  className: `framer-143bdf6`,
+                                  "data-framer-name": `Text`,
+                                  fonts: [`Inter`],
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              }),
+                            }),
+                            m(`div`, {
+                              className: `framer-1cmui4l`,
+                              "data-framer-name": `Content`,
+                              children: [
+                                m(`div`, {
+                                  className: `framer-17owkka`,
+                                  "data-framer-name": `Text & Button`,
+                                  children: [
+                                    m(`div`, {
+                                      className: `framer-1tboang`,
+                                      "data-framer-name": `Text Container`,
+                                      children: [
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              children: d(s, {
+                                                children: d(`h1`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `24px`,
+                                                    "--framer-letter-spacing": `0.01em`,
+                                                    "--framer-line-height": `1.1em`,
+                                                    "--framer-text-color": `rgb(7, 20, 92)`,
+                                                  },
+                                                  children: `TRANSFORMAMOS `,
+                                                }),
+                                              }),
+                                            },
+                                            JvUVvulcJ: {
+                                              children: d(s, {
+                                                children: d(`h1`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `44px`,
+                                                    "--framer-letter-spacing": `0.01em`,
+                                                    "--framer-line-height": `1.1em`,
+                                                    "--framer-text-color": `rgb(7, 20, 92)`,
+                                                  },
+                                                  children: `TRANSFORMAMOS `,
+                                                }),
+                                              }),
+                                            },
+                                          },
+                                          children: d(N, {
+                                            __fromCanvasComponent: !0,
+                                            children: d(s, {
+                                              children: d(`h1`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-font-size": `46px`,
+                                                  "--framer-letter-spacing": `0.01em`,
+                                                  "--framer-line-height": `1.1em`,
+                                                  "--framer-text-color": `rgb(7, 20, 92)`,
+                                                },
+                                                children: `TRANSFORMAMOS `,
+                                              }),
+                                            }),
+                                            className: `framer-z06wl8`,
+                                            effect: Oo,
+                                            fonts: [`FS;Manrope-regular`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        }),
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              children: d(s, {
+                                                children: d(`h1`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `24px`,
+                                                    "--framer-letter-spacing": `0.01em`,
+                                                    "--framer-line-height": `1.1em`,
+                                                    "--framer-text-color": `rgb(7, 20, 92)`,
+                                                  },
+                                                  children: `DESAFIOS DE NEGÓCIO EM`,
+                                                }),
+                                              }),
+                                            },
+                                            JvUVvulcJ: {
+                                              children: d(s, {
+                                                children: d(`h1`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `44px`,
+                                                    "--framer-letter-spacing": `0.01em`,
+                                                    "--framer-line-height": `1.1em`,
+                                                    "--framer-text-color": `rgb(7, 20, 92)`,
+                                                  },
+                                                  children: `DESAFIOS DE NEGÓCIO EM`,
+                                                }),
+                                              }),
+                                            },
+                                          },
+                                          children: d(N, {
+                                            __fromCanvasComponent: !0,
+                                            children: d(s, {
+                                              children: d(`h1`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-font-size": `50px`,
+                                                  "--framer-letter-spacing": `0.01em`,
+                                                  "--framer-line-height": `1.1em`,
+                                                  "--framer-text-color": `rgb(7, 20, 92)`,
+                                                },
+                                                children: `DESAFIOS DE NEGÓCIO EM`,
+                                              }),
+                                            }),
+                                            className: `framer-1r4e5vv`,
+                                            effect: Oo,
+                                            fonts: [`FS;Manrope-regular`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        }),
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              children: d(s, {
+                                                children: m(`h1`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1ib2xk`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `32px`,
+                                                    "--framer-font-weight": `700`,
+                                                    "--framer-letter-spacing": `0.01em`,
+                                                    "--framer-line-height": `1.1em`,
+                                                    "--framer-text-color": `rgb(7, 20, 92)`,
+                                                  },
+                                                  children: [
+                                                    `SOLUÇÕES DIGITAIS`,
+                                                    d(`span`, {
+                                                      style: {
+                                                        "--framer-text-color": `rgb(255, 184, 0)`,
+                                                      },
+                                                      children: `.`,
+                                                    }),
+                                                  ],
+                                                }),
+                                              }),
+                                            },
+                                            JvUVvulcJ: {
+                                              children: d(s, {
+                                                children: m(`h1`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1ib2xk`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `44px`,
+                                                    "--framer-font-weight": `700`,
+                                                    "--framer-letter-spacing": `0.01em`,
+                                                    "--framer-line-height": `1.1em`,
+                                                    "--framer-text-color": `rgb(7, 20, 92)`,
+                                                  },
+                                                  children: [
+                                                    `SOLUÇÕES DIGITAIS`,
+                                                    d(`span`, {
+                                                      style: {
+                                                        "--framer-text-color": `rgb(255, 184, 0)`,
+                                                      },
+                                                      children: `.`,
+                                                    }),
+                                                  ],
+                                                }),
+                                              }),
+                                            },
+                                          },
+                                          children: d(N, {
+                                            __fromCanvasComponent: !0,
+                                            children: d(s, {
+                                              children: m(`h1`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1ib2xk`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-font-size": `46px`,
+                                                  "--framer-font-weight": `700`,
+                                                  "--framer-letter-spacing": `0.01em`,
+                                                  "--framer-line-height": `1.1em`,
+                                                  "--framer-text-color": `rgb(7, 20, 92)`,
+                                                },
+                                                children: [
+                                                  `SOLUÇÕES DIGITAIS`,
+                                                  d(`span`, {
+                                                    style: {
+                                                      "--framer-text-color": `rgb(255, 184, 0)`,
+                                                    },
+                                                    children: `.`,
+                                                  }),
+                                                ],
+                                              }),
+                                            }),
+                                            className: `framer-tt3kek`,
+                                            effect: Oo,
+                                            fonts: [`FS;Manrope-bold`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        }),
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              children: d(s, {
+                                                children: d(`p`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-line-height": `1.45em`,
+                                                    "--framer-text-color": `rgb(51, 68, 119)`,
+                                                  },
+                                                  children: `Conectamos estratégia, tecnologia e execução para transformar processos, dados e operações em soluções que geram resultados.`,
+                                                }),
+                                              }),
+                                              verticalAlignment: `center`,
+                                            },
+                                          },
+                                          children: d(eo, {
+                                            __fromCanvasComponent: !0,
+                                            animate: ko,
+                                            children: d(s, {
+                                              children: d(`p`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-font-size": `18px`,
+                                                  "--framer-line-height": `1.45em`,
+                                                  "--framer-text-color": `rgb(51, 68, 119)`,
+                                                },
+                                                children: `Conectamos estratégia, tecnologia e execução para transformar processos, dados e operações em soluções que geram resultados.`,
+                                              }),
+                                            }),
+                                            className: `framer-1uibgej`,
+                                            "data-framer-appear-id": `1uibgej`,
+                                            fonts: [`FS;Manrope-regular`],
+                                            initial: Do,
+                                            optimized: !0,
+                                            verticalAlignment: `bottom`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        }),
+                                      ],
+                                    }),
+                                    d(`div`, {
+                                      className: `framer-1c3rxic`,
+                                      "data-framer-name": `Button Container`,
+                                      children: d(Ce, {
+                                        links: [
+                                          {
+                                            href: {
+                                              hash: `:K7zYKy1_5`,
+                                              webPageId: `augiA20Il`,
+                                            },
+                                            implicitPathVariables: void 0,
+                                          },
+                                          {
+                                            href: {
+                                              hash: `:K7zYKy1_5`,
+                                              webPageId: `augiA20Il`,
+                                            },
+                                            implicitPathVariables: void 0,
+                                          },
+                                          {
+                                            href: {
+                                              hash: `:K7zYKy1_5`,
+                                              webPageId: `augiA20Il`,
+                                            },
+                                            implicitPathVariables: void 0,
+                                          },
+                                        ],
+                                        children: (e) =>
+                                          d(U, {
+                                            height: 56,
+                                            children: d(no, {
+                                              animate: Ao,
+                                              className: `framer-13bb81r-container`,
+                                              "data-framer-appear-id": `13bb81r`,
+                                              initial: Do,
+                                              nodeId: `R9jkiywyf`,
+                                              optimized: !0,
+                                              rendersWithMotion: !0,
+                                              scopeId: `augiA20Il`,
+                                              children: d(L, {
+                                                breakpoint: y,
+                                                overrides: {
+                                                  EIXefzEOt: {
+                                                    PAOhNXCgW: e[2],
+                                                  },
+                                                  JvUVvulcJ: {
+                                                    PAOhNXCgW: e[1],
+                                                  },
+                                                },
+                                                children: d(Re, {
+                                                  height: `100%`,
+                                                  id: `R9jkiywyf`,
+                                                  jP8RsU_1U: !0,
+                                                  layoutId: `R9jkiywyf`,
+                                                  m5Kn0Xy2t: !1,
+                                                  PAOhNXCgW: e[0],
+                                                  variant: Z(`BiWdEaOJt`),
+                                                  width: `100%`,
+                                                  wpG4pFYzq: `4px 4px 4px 20px`,
+                                                  yOvxaJE3O: `Conheça nossas soluções`,
+                                                }),
+                                              }),
+                                            }),
+                                          }),
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                                m($a, {
+                                  animate: jo,
+                                  className: `framer-17usac1`,
+                                  "data-framer-appear-id": `17usac1`,
+                                  "data-framer-name": `Service Tags`,
+                                  initial: Do,
+                                  optimized: !0,
+                                  children: [
+                                    T() &&
+                                      d(`div`, {
+                                        className: `framer-19lguon hidden-c8amib`,
+                                        "data-framer-name": `Divider`,
+                                      }),
+                                    T() &&
+                                      d(`div`, {
+                                        className: `framer-102089p hidden-c8amib`,
+                                        "data-framer-name": `Divider`,
+                                      }),
+                                  ],
+                                }),
+                              ],
+                            }),
+                          ],
+                        }),
+                      ],
+                    }),
+                    d(x.section, {
+                      className: `framer-xzrekb`,
+                      "data-framer-name": `Partners`,
+                      layout: w,
+                      children: m(`div`, {
+                        className: `framer-coeewu`,
+                        "data-framer-name": `Container`,
+                        children: [
+                          d(L, {
+                            breakpoint: y,
+                            overrides: {
+                              EIXefzEOt: {
+                                children: d(s, {
+                                  children: d(`p`, {
+                                    dir: `auto`,
+                                    style: {
+                                      "--font-selector": `RlM7TWFucm9wZS1zZW1pYm9sZA==`,
+                                      "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                      "--framer-font-size": `17px`,
+                                      "--framer-font-weight": `600`,
+                                      "--framer-letter-spacing": `-0.01em`,
+                                      "--framer-line-height": `1.3em`,
+                                      "--framer-text-alignment": `center`,
+                                      "--framer-text-color": `rgb(7, 20, 92)`,
+                                    },
+                                    children: `Experiência que constrói nossa visão`,
+                                  }),
+                                }),
+                              },
+                            },
+                            children: d(Y, {
+                              __framer__animate: { transition: $ },
+                              __framer__animateOnce: !0,
+                              __framer__enter: Q,
+                              __framer__styleAppearEffectEnabled: !0,
+                              __framer__threshold: 0.5,
+                              __fromCanvasComponent: !0,
+                              __perspectiveFX: !1,
+                              __targetOpacity: 1,
+                              children: d(s, {
+                                children: d(`p`, {
+                                  dir: `auto`,
+                                  style: {
+                                    "--font-selector": `RlM7TWFucm9wZS1zZW1pYm9sZA==`,
+                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                    "--framer-font-size": `17px`,
+                                    "--framer-font-weight": `600`,
+                                    "--framer-letter-spacing": `-0.01em`,
+                                    "--framer-line-height": `1.3em`,
+                                    "--framer-text-color": `rgb(7, 20, 92)`,
+                                  },
+                                  children: `Experiência que constrói nossa visão`,
+                                }),
+                              }),
+                              className: `framer-1m09fpc`,
+                              fonts: [`FS;Manrope-semibold`],
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0,
+                            }),
+                          }),
+                          d(U, {
+                            height: 50,
+                            width: `846px`,
+                            children: d(X, {
+                              __framer__animate: { transition: Mo },
+                              __framer__animateOnce: !0,
+                              __framer__enter: Q,
+                              __framer__styleAppearEffectEnabled: !0,
+                              __framer__threshold: 0.5,
+                              __perspectiveFX: !1,
+                              __targetOpacity: 1,
+                              className: `framer-sxp70c-container`,
+                              nodeId: `V42RlqXcf`,
+                              rendersWithMotion: !0,
+                              scopeId: `augiA20Il`,
+                              children: d(Pa, {
+                                height: `100%`,
+                                id: `V42RlqXcf`,
+                                layoutId: `V42RlqXcf`,
+                                style: { width: `100%` },
+                                width: `100%`,
+                              }),
+                            }),
+                          }),
+                        ],
+                      }),
+                    }),
+                    d(x.section, {
+                      className: `framer-vg7zeq`,
+                      "data-framer-name": `Services`,
+                      id: E,
+                      layout: w,
+                      ref: O,
+                      children: m(oo, {
+                        className: `framer-x8hayp`,
+                        "data-framer-name": `Container`,
+                        flowEffectEnabled: !0,
+                        flowEffectTransition: No,
+                        isNestedFlowEffect: !1,
+                        children: [
+                          m(x.div, {
+                            className: `framer-lvrw37`,
+                            "data-framer-name": `Heading`,
+                            layout: `position`,
+                            children: [
+                              d(U, {
+                                height: 36,
+                                children: d(X, {
+                                  __framer__animate: { transition: $ },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  className: `framer-106ouzb-container`,
+                                  nodeId: `ID5shgJpP`,
+                                  rendersWithMotion: !0,
+                                  scopeId: `augiA20Il`,
+                                  children: d(J, {
+                                    BIDMndvd0: 0.8,
+                                    cQI9DamX9: {
+                                      borderColor: `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                                      borderStyle: `solid`,
+                                      borderWidth: 1,
+                                    },
+                                    G_faciQgo: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    height: `100%`,
+                                    id: `ID5shgJpP`,
+                                    KeoHf_ARU: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    layoutId: `ID5shgJpP`,
+                                    tjj7UTgn4: `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                    vbKoFf7Q0: !0,
+                                    w5XGjIP2H: We,
+                                    width: `100%`,
+                                    zljOAbP0z: `Soluções`,
+                                  }),
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    children: d(s, {
+                                      children: m(`h2`, {
+                                        dir: `auto`,
+                                        style: {
+                                          "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                          "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                          "--framer-font-size": `30px`,
+                                          "--framer-font-weight": `500`,
+                                          "--framer-letter-spacing": `-0.02em`,
+                                          "--framer-text-color": `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                        },
+                                        children: [
+                                          `Tecnologia para transformar desafios `,
+                                          d(`span`, {
+                                            style: {
+                                              "--framer-text-color": `rgb(255, 184, 0)`,
+                                            },
+                                            children: `em resultados`,
+                                          }),
+                                          `.`,
+                                        ],
+                                      }),
+                                    }),
+                                  },
+                                  JvUVvulcJ: {
+                                    children: d(s, {
+                                      children: m(`h2`, {
+                                        dir: `auto`,
+                                        style: {
+                                          "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                          "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                          "--framer-font-size": `41px`,
+                                          "--framer-font-weight": `500`,
+                                          "--framer-letter-spacing": `-0.02em`,
+                                          "--framer-line-height": `1.3em`,
+                                          "--framer-text-color": `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                        },
+                                        children: [
+                                          `Tecnologia para transformar desafios `,
+                                          d(`span`, {
+                                            style: {
+                                              "--framer-text-color": `rgb(255, 184, 0)`,
+                                            },
+                                            children: `em resultados`,
+                                          }),
+                                          `.`,
+                                        ],
+                                      }),
+                                    }),
+                                  },
+                                },
+                                children: d(Y, {
+                                  __framer__animate: { transition: Mo },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __fromCanvasComponent: !0,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  children: d(s, {
+                                    children: m(`h2`, {
+                                      dir: `auto`,
+                                      style: {
+                                        "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                        "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                        "--framer-font-size": `43px`,
+                                        "--framer-font-weight": `500`,
+                                        "--framer-letter-spacing": `-0.02em`,
+                                        "--framer-line-height": `1.3em`,
+                                        "--framer-text-color": `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                      },
+                                      children: [
+                                        `Tecnologia para transformar desafios `,
+                                        d(`span`, {
+                                          style: {
+                                            "--framer-text-color": `rgb(255, 184, 0)`,
+                                          },
+                                          children: `em resultados`,
+                                        }),
+                                        `.`,
+                                      ],
+                                    }),
+                                  }),
+                                  className: `framer-10h3coi`,
+                                  fonts: [`FS;Manrope-medium`],
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    children: d(s, {
+                                      children: d(`p`, {
+                                        dir: `auto`,
+                                        style: {
+                                          "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                          "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                          "--framer-font-weight": `500`,
+                                          "--framer-line-height": `1.5em`,
+                                          "--framer-text-color": `rgb(99, 99, 99)`,
+                                        },
+                                        children: `Da estratégia à execução, desenvolvemos soluções digitais que conectam tecnologia, processos e dados aos objetivos do negócio.`,
+                                      }),
+                                    }),
+                                    fonts: [`FS;Manrope-medium`],
+                                  },
+                                },
+                                children: d(Y, {
+                                  __framer__animate: { transition: Po },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __fromCanvasComponent: !0,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  children: d(s, {
+                                    children: d(`p`, {
+                                      className: `framer-styles-preset-1gwglaq`,
+                                      "data-styles-preset": `FVF651k1v`,
+                                      dir: `auto`,
+                                      style: {
+                                        "--framer-text-alignment": `center`,
+                                        "--framer-text-color": `rgb(99, 99, 99)`,
+                                      },
+                                      children: `Da estratégia à execução, desenvolvemos soluções digitais que conectam tecnologia, processos e dados aos objetivos do negócio.`,
+                                    }),
+                                  }),
+                                  className: `framer-olac9t`,
+                                  fonts: [`Inter`],
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              }),
+                            ],
+                          }),
+                          m(x.div, {
+                            className: `framer-1x0des1`,
+                            "data-framer-name": `Cards`,
+                            layout: `position`,
+                            children: [
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    width: `max(min(${u?.width || `100vw`} - 32px, 1120px), 50px)`,
+                                  },
+                                  JvUVvulcJ: {
+                                    width: `max((min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                  },
+                                },
+                                children: d(U, {
+                                  height: 500,
+                                  width: `max((min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                  children: d(X, {
+                                    __framer__animate: { transition: $ },
+                                    __framer__animateOnce: !0,
+                                    __framer__enter: Q,
+                                    __framer__styleAppearEffectEnabled: !0,
+                                    __framer__threshold: 0.5,
+                                    __perspectiveFX: !1,
+                                    __targetOpacity: 1,
+                                    className: `framer-15l089w-container`,
+                                    nodeId: `DZ_0S3NMp`,
+                                    rendersWithMotion: !0,
+                                    scopeId: `augiA20Il`,
+                                    children: d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: { variant: Z(`OLfRqv1Z6`) },
+                                        JvUVvulcJ: {
+                                          variant: Z(`OLfRqv1Z6`),
+                                          Z_vnJarqY: Fo(
+                                            {
+                                              pixelHeight: 1254,
+                                              pixelWidth: 1254,
+                                              src: `https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?width=1254&height=1254`,
+                                              srcSet: `https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?width=1254&height=1254 1254w`,
+                                            },
+                                            `Three people engaged in discussion at a table, with a laptop placed between them.`,
+                                          ),
+                                        },
+                                      },
+                                      children: d(Xr, {
+                                        gWbRAzBdJ: `Transformamos necessidades do negócio em soluções digitais que simplificam processos e geram resultados.`,
+                                        height: `100%`,
+                                        id: `DZ_0S3NMp`,
+                                        layoutId: `DZ_0S3NMp`,
+                                        qfuWuwI7V: `Soluções de Tecnologia`,
+                                        style: { width: `100%` },
+                                        variant: Z(`Yga9L_wnA`),
+                                        width: `100%`,
+                                        Z_vnJarqY: Fo(
+                                          {
+                                            pixelHeight: 1254,
+                                            pixelWidth: 1254,
+                                            src: `https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?width=1254&height=1254`,
+                                            srcSet: `https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/E7WVkN7P8zlb9qXoL88x9wtCZY.png?width=1254&height=1254 1254w`,
+                                          },
+                                          `Business team meeting with presenter using a tablet in a modern conference room.`,
+                                        ),
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    width: `max(min(${u?.width || `100vw`} - 32px, 1120px), 50px)`,
+                                  },
+                                  JvUVvulcJ: {
+                                    width: `max((min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                  },
+                                },
+                                children: d(U, {
+                                  height: 500,
+                                  width: `max((min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                  children: d(X, {
+                                    __framer__animate: { transition: Mo },
+                                    __framer__animateOnce: !0,
+                                    __framer__enter: Q,
+                                    __framer__styleAppearEffectEnabled: !0,
+                                    __framer__threshold: 0.5,
+                                    __perspectiveFX: !1,
+                                    __targetOpacity: 1,
+                                    className: `framer-1g7ovmb-container`,
+                                    nodeId: `AS6kKWpVv`,
+                                    rendersWithMotion: !0,
+                                    scopeId: `augiA20Il`,
+                                    children: d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: { variant: Z(`OLfRqv1Z6`) },
+                                        JvUVvulcJ: { variant: Z(`OLfRqv1Z6`) },
+                                      },
+                                      children: d(Xr, {
+                                        gWbRAzBdJ: `Estruturamos a tecnologia para que ela seja segura, escalável e alinhada à estratégia do negócio.`,
+                                        height: `100%`,
+                                        id: `AS6kKWpVv`,
+                                        layoutId: `AS6kKWpVv`,
+                                        qfuWuwI7V: `Estratégia & Governança de Tecnologia`,
+                                        style: { width: `100%` },
+                                        variant: Z(`Yga9L_wnA`),
+                                        width: `100%`,
+                                        Z_vnJarqY: Fo(
+                                          {
+                                            pixelHeight: 1254,
+                                            pixelWidth: 1254,
+                                            src: `https://framerusercontent.com/images/vw3YKJFezhMdYPRsY3UhDNlbM.png?width=1254&height=1254`,
+                                            srcSet: `https://framerusercontent.com/images/vw3YKJFezhMdYPRsY3UhDNlbM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/vw3YKJFezhMdYPRsY3UhDNlbM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/vw3YKJFezhMdYPRsY3UhDNlbM.png?width=1254&height=1254 1254w`,
+                                          },
+                                          `Business professionals collaborating on a laptop during a client meeting in a modern office.`,
+                                        ),
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    width: `max(min(${u?.width || `100vw`} - 32px, 1120px), 50px)`,
+                                  },
+                                  JvUVvulcJ: {
+                                    width: `calc(max((min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px) * 2 + 16px)`,
+                                  },
+                                },
+                                children: d(U, {
+                                  height: 500,
+                                  width: `calc(max((min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) - 16px) / 2, 50px) * 2 + 16px)`,
+                                  children: d(X, {
+                                    __framer__animate: { transition: $ },
+                                    __framer__animateOnce: !0,
+                                    __framer__enter: Q,
+                                    __framer__styleAppearEffectEnabled: !0,
+                                    __framer__threshold: 0.5,
+                                    __perspectiveFX: !1,
+                                    __targetOpacity: 1,
+                                    className: `framer-60ezn7-container`,
+                                    nodeId: `sh2bjzzj0`,
+                                    rendersWithMotion: !0,
+                                    scopeId: `augiA20Il`,
+                                    children: d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: { variant: Z(`OLfRqv1Z6`) },
+                                        JvUVvulcJ: { variant: Z(`OLfRqv1Z6`) },
+                                      },
+                                      children: d(Xr, {
+                                        gWbRAzBdJ: `Conectamos processos, áreas e tecnologia para tornar a operação mais integrada, eficiente e orientada por dados.`,
+                                        height: `100%`,
+                                        id: `sh2bjzzj0`,
+                                        layoutId: `sh2bjzzj0`,
+                                        qfuWuwI7V: `Otimização Operacional`,
+                                        style: { width: `100%` },
+                                        variant: Z(`Yga9L_wnA`),
+                                        width: `100%`,
+                                        Z_vnJarqY: Fo(
+                                          {
+                                            pixelHeight: 809,
+                                            pixelWidth: 1944,
+                                            src: `https://framerusercontent.com/images/clEmDHTYWfs1yXZhU9RxAHBrYE.png?width=1944&height=809`,
+                                            srcSet: `https://framerusercontent.com/images/clEmDHTYWfs1yXZhU9RxAHBrYE.png?scale-down-to=512&width=1944&height=809 512w,https://framerusercontent.com/images/clEmDHTYWfs1yXZhU9RxAHBrYE.png?scale-down-to=1024&width=1944&height=809 1024w,https://framerusercontent.com/images/clEmDHTYWfs1yXZhU9RxAHBrYE.png?width=1944&height=809 1944w`,
+                                          },
+                                          `Modern conference room with large meeting table, laptops, presentation screen, and contemporary office design.`,
+                                        ),
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    }),
+                    d(x.section, {
+                      className: `framer-1mz48pi`,
+                      "data-framer-name": `WhyChooseConsultra`,
+                      id: k,
+                      layout: w,
+                      ref: A,
+                      children: m(`div`, {
+                        className: `framer-mf8cvp`,
+                        "data-framer-name": `Container`,
+                        children: [
+                          m(`div`, {
+                            className: `framer-11lnlkx`,
+                            "data-framer-name": `Heading`,
+                            children: [
+                              d(U, {
+                                height: 36,
+                                children: d(X, {
+                                  __framer__animate: { transition: $ },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  className: `framer-1tsgjyg-container`,
+                                  nodeId: `ys6OKazhM`,
+                                  rendersWithMotion: !0,
+                                  scopeId: `augiA20Il`,
+                                  children: d(J, {
+                                    BIDMndvd0: 1,
+                                    cQI9DamX9: {
+                                      borderColor: `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                                      borderStyle: `solid`,
+                                      borderWidth: 1,
+                                    },
+                                    G_faciQgo: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    height: `100%`,
+                                    id: `ys6OKazhM`,
+                                    KeoHf_ARU: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    layoutId: `ys6OKazhM`,
+                                    tjj7UTgn4: `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                    vbKoFf7Q0: !0,
+                                    w5XGjIP2H: kt,
+                                    width: `100%`,
+                                    zljOAbP0z: `POR QUE A UPGOAL`,
+                                  }),
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    children: d(s, {
+                                      children: m(`h2`, {
+                                        dir: `auto`,
+                                        style: {
+                                          "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                          "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                          "--framer-font-size": `23px`,
+                                          "--framer-font-weight": `500`,
+                                          "--framer-letter-spacing": `-0.02em`,
+                                          "--framer-line-height": `1.3em`,
+                                          "--framer-text-alignment": `center`,
+                                          "--framer-text-color": `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                        },
+                                        children: [
+                                          `Tecnologia com visão de negócio.`,
+                                          d(`br`, {}),
+                                          d(`span`, {
+                                            style: {
+                                              "--framer-text-color": `rgb(255, 184, 0)`,
+                                            },
+                                            children: `Execução com propósito.`,
+                                          }),
+                                        ],
+                                      }),
+                                    }),
+                                    fonts: [`FS;Manrope-medium`],
+                                  },
+                                },
+                                children: d(Y, {
+                                  __framer__animate: { transition: Mo },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __fromCanvasComponent: !0,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  children: d(s, {
+                                    children: m(`h2`, {
+                                      className: `framer-styles-preset-7kh1l3`,
+                                      "data-styles-preset": `h6g2V_KLn`,
+                                      dir: `auto`,
+                                      style: {
+                                        "--framer-text-alignment": `center`,
+                                      },
+                                      children: [
+                                        `Tecnologia com visão de negócio.`,
+                                        d(`br`, {}),
+                                        d(`span`, {
+                                          style: {
+                                            "--framer-text-color": `rgb(255, 184, 0)`,
+                                          },
+                                          children: `Execução com propósito.`,
+                                        }),
+                                      ],
+                                    }),
+                                  }),
+                                  className: `framer-lghkx8`,
+                                  fonts: [`Inter`],
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              }),
+                              d(Y, {
+                                __framer__animate: { transition: Po },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Q,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0.5,
+                                __fromCanvasComponent: !0,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                children: d(s, {
+                                  children: d(`p`, {
+                                    className: `framer-styles-preset-1pelfvi`,
+                                    "data-styles-preset": `kjzXGiNic`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-alignment": `center`,
+                                    },
+                                    children: `Unimos experiência executiva, visão estratégica e capacidade tecnológica para transformar desafios em resultados.`,
+                                  }),
+                                }),
+                                className: `framer-kqv9fb`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0,
+                              }),
+                            ],
+                          }),
+                          m(`div`, {
+                            className: `framer-mflmhd`,
+                            "data-framer-name": `WhyChooseConsultra Section`,
+                            children: [
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    background: {
+                                      alt: `Experienced business consultant helping a client with business growth and strategic planning.`,
+                                      fit: `fill`,
+                                      intrinsicHeight: 1438,
+                                      intrinsicWidth: 1094,
+                                      pixelHeight: 1438,
+                                      pixelWidth: 1094,
+                                      sizes: `min(${u?.width || `100vw`} - 32px, 1120px)`,
+                                      src: `https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438`,
+                                      srcSet: `https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?scale-down-to=1024&width=1094&height=1438 779w,https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438 1094w`,
+                                    },
+                                  },
+                                  JvUVvulcJ: {
+                                    background: {
+                                      alt: `Experienced business consultant helping a client with business growth and strategic planning.`,
+                                      fit: `fill`,
+                                      intrinsicHeight: 1438,
+                                      intrinsicWidth: 1094,
+                                      pixelHeight: 1438,
+                                      pixelWidth: 1094,
+                                      positionX: `43.5%`,
+                                      positionY: `17%`,
+                                      sizes: `min(max(${u?.width || `100vw`} - 64px, 1px), 1120px)`,
+                                      src: `https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438`,
+                                      srcSet: `https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?scale-down-to=1024&width=1094&height=1438 779w,https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438 1094w`,
+                                    },
+                                  },
+                                },
+                                children: d(so, {
+                                  __framer__animate: { transition: $ },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  background: {
+                                    alt: `Experienced business consultant helping a client with business growth and strategic planning.`,
+                                    fit: `fill`,
+                                    intrinsicHeight: 1438,
+                                    intrinsicWidth: 1094,
+                                    pixelHeight: 1438,
+                                    pixelWidth: 1094,
+                                    sizes: `calc(min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) * 0.3196)`,
+                                    src: `https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438`,
+                                    srcSet: `https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?scale-down-to=1024&width=1094&height=1438 779w,https://framerusercontent.com/images/xunEyNHkJYlsbtMhiLyT5Vpy8LQ.png?width=1094&height=1438 1094w`,
+                                  },
+                                  className: `framer-1ov44s7`,
+                                  "data-framer-name": `Image`,
+                                  children: d(`div`, {
+                                    className: `framer-4b5efu`,
+                                    "data-framer-name": `Right Overlay`,
+                                    children: m(`div`, {
+                                      className: `framer-15mu0ff`,
+                                      "data-border": !0,
+                                      "data-framer-name": `Text & Button`,
+                                      children: [
+                                        m(`div`, {
+                                          className: `framer-g3rf79`,
+                                          "data-framer-name": `Text Container`,
+                                          children: [
+                                            d(N, {
+                                              __fromCanvasComponent: !0,
+                                              children: d(s, {
+                                                children: d(`h2`, {
+                                                  className: `framer-styles-preset-7kh1l3`,
+                                                  "data-styles-preset": `h6g2V_KLn`,
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--framer-text-color": `rgb(255, 184, 0)`,
+                                                  },
+                                                  children: `20+ anos`,
+                                                }),
+                                              }),
+                                              className: `framer-bsr3mu`,
+                                              fonts: [`Inter`],
+                                              verticalAlignment: `top`,
+                                              withExternalLayout: !0,
+                                            }),
+                                            d(N, {
+                                              __fromCanvasComponent: !0,
+                                              children: d(s, {
+                                                children: d(`p`, {
+                                                  className: `framer-styles-preset-1pelfvi`,
+                                                  "data-styles-preset": `kjzXGiNic`,
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--framer-text-color": `var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, rgb(59, 57, 48))`,
+                                                  },
+                                                  children: `Experiência em Tecnologia`,
+                                                }),
+                                              }),
+                                              className: `framer-pd11bf`,
+                                              fonts: [`Inter`],
+                                              verticalAlignment: `top`,
+                                              withExternalLayout: !0,
+                                            }),
+                                          ],
+                                        }),
+                                        d(Ce, {
+                                          links: [
+                                            {
+                                              href: {
+                                                hash: `:KqSLPYmyU`,
+                                                webPageId: `augiA20Il`,
+                                              },
+                                              implicitPathVariables: void 0,
+                                            },
+                                            {
+                                              href: {
+                                                hash: `:KqSLPYmyU`,
+                                                webPageId: `augiA20Il`,
+                                              },
+                                              implicitPathVariables: void 0,
+                                            },
+                                            {
+                                              href: {
+                                                hash: `:KqSLPYmyU`,
+                                                webPageId: `augiA20Il`,
+                                              },
+                                              implicitPathVariables: void 0,
+                                            },
+                                          ],
+                                          children: (e) =>
+                                            d(U, {
+                                              height: 56,
+                                              children: d(B, {
+                                                className: `framer-1c7mr98-container`,
+                                                nodeId: `U2Fdzoizl`,
+                                                scopeId: `augiA20Il`,
+                                                children: d(L, {
+                                                  breakpoint: y,
+                                                  overrides: {
+                                                    EIXefzEOt: {
+                                                      PAOhNXCgW: e[2],
+                                                    },
+                                                    JvUVvulcJ: {
+                                                      PAOhNXCgW: e[1],
+                                                    },
+                                                  },
+                                                  children: d(Re, {
+                                                    height: `100%`,
+                                                    id: `U2Fdzoizl`,
+                                                    jP8RsU_1U: !0,
+                                                    layoutId: `U2Fdzoizl`,
+                                                    m5Kn0Xy2t: !1,
+                                                    PAOhNXCgW: e[0],
+                                                    variant: Z(`BiWdEaOJt`),
+                                                    width: `100%`,
+                                                    wpG4pFYzq: `4px 4px 4px 22px`,
+                                                    yOvxaJE3O: `Conheça a UPGOAL`,
+                                                  }),
+                                                }),
+                                              }),
+                                            }),
+                                        }),
+                                      ],
+                                    }),
+                                  }),
+                                }),
+                              }),
+                              m(lo, {
+                                __framer__animate: { transition: Mo },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Q,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0.5,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                className: `framer-1c7dps3`,
+                                "data-framer-name": `Cards`,
+                                children: [
+                                  d(L, {
+                                    breakpoint: y,
+                                    overrides: {
+                                      EIXefzEOt: {
+                                        width: `max(min(${u?.width || `100vw`} - 32px, 1120px), 50px)`,
+                                      },
+                                      JvUVvulcJ: {
+                                        width: `max((min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                      },
+                                    },
+                                    children: d(U, {
+                                      height: 235,
+                                      width: `max((max(min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) * 0.6804 - 16px, 1px) - 16px) / 2, 50px)`,
+                                      children: d(B, {
+                                        className: `framer-b43god-container`,
+                                        nodeId: `OUX_xi4Vp`,
+                                        scopeId: `augiA20Il`,
+                                        children: d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              style: { width: `100%` },
+                                            },
+                                            JvUVvulcJ: {
+                                              style: { width: `100%` },
+                                            },
+                                          },
+                                          children: d(oi, {
+                                            height: `100%`,
+                                            I6MQSDfBs: `Visão de Negócio`,
+                                            id: `OUX_xi4Vp`,
+                                            layoutId: `OUX_xi4Vp`,
+                                            OwqBo9WNr: `Conectamos tecnologia aos objetivos e desafios reais do negócio.`,
+                                            style: {
+                                              height: `100%`,
+                                              width: `100%`,
+                                            },
+                                            width: `100%`,
+                                          }),
+                                        }),
+                                      }),
+                                    }),
+                                  }),
+                                  d(L, {
+                                    breakpoint: y,
+                                    overrides: {
+                                      EIXefzEOt: {
+                                        width: `max(min(${u?.width || `100vw`} - 32px, 1120px), 50px)`,
+                                      },
+                                      JvUVvulcJ: {
+                                        width: `max((min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                      },
+                                    },
+                                    children: d(U, {
+                                      height: 235,
+                                      width: `max((max(min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) * 0.6804 - 16px, 1px) - 16px) / 2, 50px)`,
+                                      children: d(B, {
+                                        className: `framer-1s0n5o1-container`,
+                                        nodeId: `ai_sJnKeP`,
+                                        scopeId: `augiA20Il`,
+                                        children: d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              style: { width: `100%` },
+                                            },
+                                            JvUVvulcJ: {
+                                              style: { width: `100%` },
+                                            },
+                                          },
+                                          children: d(oi, {
+                                            height: `100%`,
+                                            I6MQSDfBs: `Experiência Executiva`,
+                                            id: `ai_sJnKeP`,
+                                            layoutId: `ai_sJnKeP`,
+                                            OwqBo9WNr: `Experiência prática em tecnologia e transformação em ambientes corporativos complexos.`,
+                                            style: {
+                                              height: `100%`,
+                                              width: `100%`,
+                                            },
+                                            width: `100%`,
+                                            wJ2DGSH5x: Fo(
+                                              {
+                                                pixelHeight: 823,
+                                                pixelWidth: 823,
+                                                src: `https://framerusercontent.com/images/QvylMDqychAISOdB20bLSezUo.svg?width=823&height=823`,
+                                                srcSet: `https://framerusercontent.com/images/QvylMDqychAISOdB20bLSezUo.svg?scale-down-to=512&width=823&height=823 512w,https://framerusercontent.com/images/QvylMDqychAISOdB20bLSezUo.svg?width=823&height=823 823w`,
+                                              },
+                                              ``,
+                                            ),
+                                          }),
+                                        }),
+                                      }),
+                                    }),
+                                  }),
+                                  d(L, {
+                                    breakpoint: y,
+                                    overrides: {
+                                      EIXefzEOt: {
+                                        width: `max(min(${u?.width || `100vw`} - 32px, 1120px), 50px)`,
+                                      },
+                                      JvUVvulcJ: {
+                                        width: `max((min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                      },
+                                    },
+                                    children: d(U, {
+                                      height: 235,
+                                      width: `max((max(min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) * 0.6804 - 16px, 1px) - 16px) / 2, 50px)`,
+                                      children: d(B, {
+                                        className: `framer-1jlaz66-container`,
+                                        nodeId: `GE1GcWVVH`,
+                                        scopeId: `augiA20Il`,
+                                        children: d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              style: { width: `100%` },
+                                            },
+                                            JvUVvulcJ: {
+                                              style: { width: `100%` },
+                                            },
+                                          },
+                                          children: d(oi, {
+                                            height: `100%`,
+                                            I6MQSDfBs: `Tecnologia Aplicada`,
+                                            id: `GE1GcWVVH`,
+                                            layoutId: `GE1GcWVVH`,
+                                            OwqBo9WNr: `Aplicamos tecnologia para simplificar processos, integrar operações e gerar valor.`,
+                                            style: {
+                                              height: `100%`,
+                                              width: `100%`,
+                                            },
+                                            width: `100%`,
+                                            wJ2DGSH5x: Fo(
+                                              {
+                                                pixelHeight: 810,
+                                                pixelWidth: 810,
+                                                src: `https://framerusercontent.com/images/GBqmferIAQ3wjGLOI6cTlxX4Y.svg?width=810&height=810`,
+                                                srcSet: `https://framerusercontent.com/images/GBqmferIAQ3wjGLOI6cTlxX4Y.svg?scale-down-to=512&width=810&height=810 512w,https://framerusercontent.com/images/GBqmferIAQ3wjGLOI6cTlxX4Y.svg?width=810&height=810 810w`,
+                                              },
+                                              ``,
+                                            ),
+                                          }),
+                                        }),
+                                      }),
+                                    }),
+                                  }),
+                                  d(L, {
+                                    breakpoint: y,
+                                    overrides: {
+                                      EIXefzEOt: {
+                                        width: `max(min(${u?.width || `100vw`} - 32px, 1120px), 50px)`,
+                                      },
+                                      JvUVvulcJ: {
+                                        width: `max((min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                      },
+                                    },
+                                    children: d(U, {
+                                      height: 235,
+                                      width: `max((max(min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) * 0.6804 - 16px, 1px) - 16px) / 2, 50px)`,
+                                      children: d(B, {
+                                        className: `framer-dsa4lb-container`,
+                                        nodeId: `ycFm6EGEB`,
+                                        scopeId: `augiA20Il`,
+                                        children: d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              style: { width: `100%` },
+                                            },
+                                            JvUVvulcJ: {
+                                              style: { width: `100%` },
+                                            },
+                                          },
+                                          children: d(oi, {
+                                            height: `100%`,
+                                            I6MQSDfBs: `Execução Ponta a Ponta`,
+                                            id: `ycFm6EGEB`,
+                                            layoutId: `ycFm6EGEB`,
+                                            OwqBo9WNr: `Da estratégia e arquitetura à implementação e evolução das soluções.`,
+                                            style: {
+                                              height: `100%`,
+                                              width: `100%`,
+                                            },
+                                            width: `100%`,
+                                            wJ2DGSH5x: Fo(
+                                              {
+                                                pixelHeight: 822,
+                                                pixelWidth: 822,
+                                                src: `https://framerusercontent.com/images/Cphq5NtWr7djubKax7UnvokU4do.svg?width=822&height=822`,
+                                                srcSet: `https://framerusercontent.com/images/Cphq5NtWr7djubKax7UnvokU4do.svg?scale-down-to=512&width=822&height=822 512w,https://framerusercontent.com/images/Cphq5NtWr7djubKax7UnvokU4do.svg?width=822&height=822 822w`,
+                                              },
+                                              ``,
+                                            ),
+                                          }),
+                                        }),
+                                      }),
+                                    }),
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    }),
+                    d(x.section, {
+                      className: `framer-1mgo3s1`,
+                      "data-framer-name": `HowItWorks`,
+                      id: `1mgo3s1`,
+                      layout: w,
+                      children: m(`div`, {
+                        className: `framer-z5k9rj`,
+                        "data-framer-name": `Container`,
+                        children: [
+                          m(`div`, {
+                            className: `framer-1uyoytb`,
+                            "data-framer-name": `Heading`,
+                            children: [
+                              d(U, {
+                                height: 36,
+                                children: d(X, {
+                                  __framer__animate: { transition: $ },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  className: `framer-vlecsf-container`,
+                                  nodeId: `A3VdBdW9h`,
+                                  rendersWithMotion: !0,
+                                  scopeId: `augiA20Il`,
+                                  children: d(J, {
+                                    BIDMndvd0: 0.7,
+                                    cQI9DamX9: {
+                                      borderColor: `var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, rgb(59, 57, 48))`,
+                                      borderStyle: `solid`,
+                                      borderWidth: 1,
+                                    },
+                                    G_faciQgo: `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                    height: `100%`,
+                                    id: `A3VdBdW9h`,
+                                    KeoHf_ARU: `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                    layoutId: `A3VdBdW9h`,
+                                    tjj7UTgn4: `var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, rgb(59, 57, 48))`,
+                                    vbKoFf7Q0: !0,
+                                    w5XGjIP2H: Lt,
+                                    width: `100%`,
+                                    zljOAbP0z: `NOSSA ABORDAGEM`,
+                                  }),
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    children: d(s, {
+                                      children: m(`h2`, {
+                                        dir: `auto`,
+                                        style: {
+                                          "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                          "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                          "--framer-font-size": `30px`,
+                                          "--framer-font-weight": `500`,
+                                          "--framer-letter-spacing": `-0.02em`,
+                                          "--framer-line-height": `1.3em`,
+                                          "--framer-text-alignment": `center`,
+                                          "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                        },
+                                        children: [
+                                          d(`strong`, {
+                                            children: `Da estratégia à`,
+                                          }),
+                                          ` `,
+                                          d(`span`, {
+                                            style: {
+                                              "--framer-text-color": `rgb(255, 184, 0)`,
+                                            },
+                                            children: d(`strong`, {
+                                              children: `execução`,
+                                            }),
+                                          }),
+                                          d(`strong`, { children: `.` }),
+                                        ],
+                                      }),
+                                    }),
+                                  },
+                                  JvUVvulcJ: {
+                                    children: d(s, {
+                                      children: m(`h2`, {
+                                        dir: `auto`,
+                                        style: {
+                                          "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                          "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                          "--framer-font-size": `41px`,
+                                          "--framer-font-weight": `500`,
+                                          "--framer-letter-spacing": `-0.02em`,
+                                          "--framer-line-height": `1.3em`,
+                                          "--framer-text-alignment": `center`,
+                                          "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                        },
+                                        children: [
+                                          d(`strong`, {
+                                            children: `Da estratégia à`,
+                                          }),
+                                          ` `,
+                                          d(`span`, {
+                                            style: {
+                                              "--framer-text-color": `rgb(255, 184, 0)`,
+                                            },
+                                            children: d(`strong`, {
+                                              children: `execução`,
+                                            }),
+                                          }),
+                                          d(`strong`, { children: `.` }),
+                                        ],
+                                      }),
+                                    }),
+                                  },
+                                },
+                                children: d(Y, {
+                                  __framer__animate: { transition: Mo },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __fromCanvasComponent: !0,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  children: d(s, {
+                                    children: m(`h2`, {
+                                      dir: `auto`,
+                                      style: {
+                                        "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                        "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                        "--framer-font-size": `50px`,
+                                        "--framer-font-weight": `500`,
+                                        "--framer-letter-spacing": `-0.02em`,
+                                        "--framer-line-height": `1.3em`,
+                                        "--framer-text-alignment": `center`,
+                                        "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                      },
+                                      children: [
+                                        d(`strong`, {
+                                          children: `Da estratégia à`,
+                                        }),
+                                        ` `,
+                                        d(`span`, {
+                                          style: {
+                                            "--framer-text-color": `rgb(255, 184, 0)`,
+                                          },
+                                          children: d(`strong`, {
+                                            children: `execução`,
+                                          }),
+                                        }),
+                                        d(`strong`, { children: `.` }),
+                                      ],
+                                    }),
+                                  }),
+                                  className: `framer-1qyzrhx`,
+                                  fonts: [
+                                    `FS;Manrope-medium`,
+                                    `FS;Manrope-bold`,
+                                  ],
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              }),
+                              d(Y, {
+                                __framer__animate: { transition: Po },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Q,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0.5,
+                                __fromCanvasComponent: !0,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                children: d(s, {
+                                  children: d(`p`, {
+                                    className: `framer-styles-preset-1pelfvi`,
+                                    "data-styles-preset": `kjzXGiNic`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-alignment": `center`,
+                                      "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                    },
+                                    children: `Uma abordagem estruturada para transformar desafios de negócio em soluções tecnológicas e resultados.`,
+                                  }),
+                                }),
+                                className: `framer-118rr9f`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0,
+                              }),
+                            ],
+                          }),
+                          m(`div`, {
+                            className: `framer-1gvieij`,
+                            "data-framer-name": `Content`,
+                            children: [
+                              m(`div`, {
+                                className: `framer-lko323`,
+                                "data-framer-name": `Steps`,
+                                children: [
+                                  m(`div`, {
+                                    className: `framer-yobnau`,
+                                    "data-framer-name": `Step 1`,
+                                    id: j,
+                                    ref: ae,
+                                    children: [
+                                      d(Y, {
+                                        __framer__styleTransformEffectEnabled:
+                                          !0,
+                                        __framer__transformTargets: [
+                                          {
+                                            target: {
+                                              opacity: 0,
+                                              rotate: 0,
+                                              rotateX: 0,
+                                              rotateY: 0,
+                                              scale: 1,
+                                              skewX: 0,
+                                              skewY: 0,
+                                              x: 0,
+                                              y: 40,
+                                            },
+                                          },
+                                          {
+                                            target: {
+                                              opacity: 1,
+                                              rotate: 0,
+                                              rotateX: 0,
+                                              rotateY: 0,
+                                              scale: 1,
+                                              skewX: 0,
+                                              skewY: 0,
+                                              x: 0,
+                                              y: 0,
+                                            },
+                                          },
+                                        ],
+                                        __framer__transformTrigger: `onInView`,
+                                        __fromCanvasComponent: !0,
+                                        __perspectiveFX: !1,
+                                        __targetOpacity: 0.5,
+                                        children: d(s, {
+                                          children: d(`h2`, {
+                                            className: `framer-styles-preset-1xwvxh3`,
+                                            "data-styles-preset": `K6ZZaEiZa`,
+                                            dir: `auto`,
+                                            children: d(`span`, {
+                                              "data-text-fill": `true`,
+                                              style: {
+                                                backgroundImage: `linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(166, 166, 166) 79.3103%)`,
+                                              },
+                                              children: `01`,
+                                            }),
+                                          }),
+                                        }),
+                                        className: `framer-1bwm7ar`,
+                                        fonts: [`Inter`],
+                                        verticalAlignment: `top`,
+                                        withExternalLayout: !0,
+                                      }),
+                                      m(`div`, {
+                                        className: `framer-40xit8`,
+                                        "data-framer-name": `Text`,
+                                        children: [
+                                          d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`h3`, {
+                                                className: `framer-styles-preset-hd4366`,
+                                                "data-styles-preset": `ExWszoMVd`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                },
+                                                children: `Discovery`,
+                                              }),
+                                            }),
+                                            className: `framer-qao20k`,
+                                            fonts: [`Inter`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                          d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`p`, {
+                                                className: `framer-styles-preset-n0dfic`,
+                                                "data-styles-preset": `NM_uX2bcR`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                },
+                                                children: `Entendemos o negócio, os desafios, necessidades, contexto tecnológico e oportunidades.`,
+                                              }),
+                                            }),
+                                            className: `framer-9d6h5k`,
+                                            fonts: [`Inter`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        ],
+                                      }),
+                                      M() &&
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              height: 353,
+                                              width: `min(${u?.width || `100vw`} - 32px, 1120px)`,
+                                            },
+                                          },
+                                          children: d(U, {
+                                            children: d(B, {
+                                              className: `framer-175ojva-container hidden-72rtr7 hidden-vlbm8s`,
+                                              nodeId: `uwh3WHGt2`,
+                                              scopeId: `augiA20Il`,
+                                              children: d(Kn, {
+                                                height: `100%`,
+                                                id: `uwh3WHGt2`,
+                                                layoutId: `uwh3WHGt2`,
+                                                style: {
+                                                  height: `100%`,
+                                                  maxHeight: `100%`,
+                                                  width: `100%`,
+                                                },
+                                                variant: Z(`WSBmedMw3`),
+                                                width: `100%`,
+                                              }),
+                                            }),
+                                          }),
+                                        }),
+                                    ],
+                                  }),
+                                  m(`div`, {
+                                    className: `framer-sake9c`,
+                                    "data-framer-name": `Step 2`,
+                                    id: oe,
+                                    ref: se,
+                                    children: [
+                                      d(Y, {
+                                        __framer__styleTransformEffectEnabled:
+                                          !0,
+                                        __framer__transformTargets: [
+                                          {
+                                            target: {
+                                              opacity: 0,
+                                              rotate: 0,
+                                              rotateX: 0,
+                                              rotateY: 0,
+                                              scale: 1,
+                                              skewX: 0,
+                                              skewY: 0,
+                                              x: 0,
+                                              y: 40,
+                                            },
+                                          },
+                                          {
+                                            target: {
+                                              opacity: 1,
+                                              rotate: 0,
+                                              rotateX: 0,
+                                              rotateY: 0,
+                                              scale: 1,
+                                              skewX: 0,
+                                              skewY: 0,
+                                              x: 0,
+                                              y: 0,
+                                            },
+                                          },
+                                        ],
+                                        __framer__transformTrigger: `onInView`,
+                                        __fromCanvasComponent: !0,
+                                        __perspectiveFX: !1,
+                                        __targetOpacity: 0.5,
+                                        children: d(s, {
+                                          children: d(`h2`, {
+                                            className: `framer-styles-preset-1xwvxh3`,
+                                            "data-styles-preset": `K6ZZaEiZa`,
+                                            dir: `auto`,
+                                            children: d(`span`, {
+                                              "data-text-fill": `true`,
+                                              style: {
+                                                backgroundImage: `linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(166, 166, 166) 79.3103%)`,
+                                              },
+                                              children: `02`,
+                                            }),
+                                          }),
+                                        }),
+                                        className: `framer-8dymt3`,
+                                        fonts: [`Inter`],
+                                        verticalAlignment: `top`,
+                                        withExternalLayout: !0,
+                                      }),
+                                      m(`div`, {
+                                        className: `framer-s8rgu9`,
+                                        "data-framer-name": `Text`,
+                                        children: [
+                                          d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`h3`, {
+                                                className: `framer-styles-preset-hd4366`,
+                                                "data-styles-preset": `ExWszoMVd`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                },
+                                                children: `Design`,
+                                              }),
+                                            }),
+                                            className: `framer-1kmhyre`,
+                                            fonts: [`Inter`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                          d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`p`, {
+                                                className: `framer-styles-preset-1pelfvi`,
+                                                "data-styles-preset": `kjzXGiNic`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                },
+                                                children: `Desenhamos a solução, arquitetura, processos, experiência e roadmap.`,
+                                              }),
+                                            }),
+                                            className: `framer-72do80`,
+                                            fonts: [`Inter`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        ],
+                                      }),
+                                      M() &&
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              height: 353,
+                                              width: `min(${u?.width || `100vw`} - 32px, 1120px)`,
+                                            },
+                                          },
+                                          children: d(U, {
+                                            children: d(B, {
+                                              className: `framer-1mmtta3-container hidden-72rtr7 hidden-vlbm8s`,
+                                              nodeId: `Z8Uf5SVm1`,
+                                              scopeId: `augiA20Il`,
+                                              children: d(Kn, {
+                                                height: `100%`,
+                                                id: `Z8Uf5SVm1`,
+                                                layoutId: `Z8Uf5SVm1`,
+                                                style: {
+                                                  height: `100%`,
+                                                  maxHeight: `100%`,
+                                                  width: `100%`,
+                                                },
+                                                variant: Z(`kYQKlNLHQ`),
+                                                width: `100%`,
+                                              }),
+                                            }),
+                                          }),
+                                        }),
+                                    ],
+                                  }),
+                                  m(`div`, {
+                                    className: `framer-ndtfxm`,
+                                    "data-framer-name": `Step 3`,
+                                    id: ce,
+                                    ref: F,
+                                    children: [
+                                      d(Y, {
+                                        __framer__styleTransformEffectEnabled:
+                                          !0,
+                                        __framer__transformTargets: [
+                                          {
+                                            target: {
+                                              opacity: 0,
+                                              rotate: 0,
+                                              rotateX: 0,
+                                              rotateY: 0,
+                                              scale: 1,
+                                              skewX: 0,
+                                              skewY: 0,
+                                              x: 0,
+                                              y: 40,
+                                            },
+                                          },
+                                          {
+                                            target: {
+                                              opacity: 1,
+                                              rotate: 0,
+                                              rotateX: 0,
+                                              rotateY: 0,
+                                              scale: 1,
+                                              skewX: 0,
+                                              skewY: 0,
+                                              x: 0,
+                                              y: 0,
+                                            },
+                                          },
+                                        ],
+                                        __framer__transformTrigger: `onInView`,
+                                        __fromCanvasComponent: !0,
+                                        __perspectiveFX: !1,
+                                        __targetOpacity: 0.5,
+                                        children: d(s, {
+                                          children: d(`h2`, {
+                                            className: `framer-styles-preset-1xwvxh3`,
+                                            "data-styles-preset": `K6ZZaEiZa`,
+                                            dir: `auto`,
+                                            children: d(`span`, {
+                                              "data-text-fill": `true`,
+                                              style: {
+                                                backgroundImage: `linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(166, 166, 166) 79.3103%)`,
+                                              },
+                                              children: `03`,
+                                            }),
+                                          }),
+                                        }),
+                                        className: `framer-1oespgg`,
+                                        fonts: [`Inter`],
+                                        verticalAlignment: `top`,
+                                        withExternalLayout: !0,
+                                      }),
+                                      m(`div`, {
+                                        className: `framer-1ytp22k`,
+                                        "data-framer-name": `Text`,
+                                        children: [
+                                          d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`h3`, {
+                                                className: `framer-styles-preset-hd4366`,
+                                                "data-styles-preset": `ExWszoMVd`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                },
+                                                children: `Implementação`,
+                                              }),
+                                            }),
+                                            className: `framer-119legz`,
+                                            fonts: [`Inter`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                          d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`p`, {
+                                                className: `framer-styles-preset-1pelfvi`,
+                                                "data-styles-preset": `kjzXGiNic`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                },
+                                                children: `Transformamos o desenho em solução, integrando tecnologia, processos e execução.`,
+                                              }),
+                                            }),
+                                            className: `framer-1prxvq0`,
+                                            fonts: [`Inter`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        ],
+                                      }),
+                                      M() &&
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              height: 353,
+                                              width: `min(${u?.width || `100vw`} - 32px, 1120px)`,
+                                            },
+                                          },
+                                          children: d(U, {
+                                            children: d(B, {
+                                              className: `framer-1xvjsou-container hidden-72rtr7 hidden-vlbm8s`,
+                                              nodeId: `iW1y4Ap95`,
+                                              scopeId: `augiA20Il`,
+                                              children: d(Kn, {
+                                                height: `100%`,
+                                                id: `iW1y4Ap95`,
+                                                layoutId: `iW1y4Ap95`,
+                                                style: {
+                                                  height: `100%`,
+                                                  maxHeight: `100%`,
+                                                  width: `100%`,
+                                                },
+                                                variant: Z(`mSGCxerAd`),
+                                                width: `100%`,
+                                              }),
+                                            }),
+                                          }),
+                                        }),
+                                    ],
+                                  }),
+                                  m(`div`, {
+                                    className: `framer-1pvenrj`,
+                                    "data-framer-name": `Step 4`,
+                                    id: ue,
+                                    ref: I,
+                                    children: [
+                                      d(Y, {
+                                        __framer__styleTransformEffectEnabled:
+                                          !0,
+                                        __framer__transformTargets: [
+                                          {
+                                            target: {
+                                              opacity: 0,
+                                              rotate: 0,
+                                              rotateX: 0,
+                                              rotateY: 0,
+                                              scale: 1,
+                                              skewX: 0,
+                                              skewY: 0,
+                                              x: 0,
+                                              y: 40,
+                                            },
+                                          },
+                                          {
+                                            target: {
+                                              opacity: 1,
+                                              rotate: 0,
+                                              rotateX: 0,
+                                              rotateY: 0,
+                                              scale: 1,
+                                              skewX: 0,
+                                              skewY: 0,
+                                              x: 0,
+                                              y: 0,
+                                            },
+                                          },
+                                        ],
+                                        __framer__transformTrigger: `onInView`,
+                                        __fromCanvasComponent: !0,
+                                        __perspectiveFX: !1,
+                                        __targetOpacity: 0.5,
+                                        children: d(s, {
+                                          children: d(`h2`, {
+                                            className: `framer-styles-preset-1xwvxh3`,
+                                            "data-styles-preset": `K6ZZaEiZa`,
+                                            dir: `auto`,
+                                            children: d(`span`, {
+                                              "data-text-fill": `true`,
+                                              style: {
+                                                backgroundImage: `linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(166, 166, 166) 79.3103%)`,
+                                              },
+                                              children: `04`,
+                                            }),
+                                          }),
+                                        }),
+                                        className: `framer-1nrg4o4`,
+                                        fonts: [`Inter`],
+                                        verticalAlignment: `top`,
+                                        withExternalLayout: !0,
+                                      }),
+                                      m(`div`, {
+                                        className: `framer-11ak85`,
+                                        "data-framer-name": `Text`,
+                                        children: [
+                                          d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`h3`, {
+                                                className: `framer-styles-preset-hd4366`,
+                                                "data-styles-preset": `ExWszoMVd`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                },
+                                                children: `Evolução`,
+                                              }),
+                                            }),
+                                            className: `framer-10s713u`,
+                                            fonts: [`Inter`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                          d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`p`, {
+                                                className: `framer-styles-preset-1pelfvi`,
+                                                "data-styles-preset": `kjzXGiNic`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                },
+                                                children: `Medimos resultados, otimizamos, escalamos e evoluímos continuamente.`,
+                                              }),
+                                            }),
+                                            className: `framer-1p52a6h`,
+                                            fonts: [`Inter`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        ],
+                                      }),
+                                      M() &&
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            EIXefzEOt: {
+                                              height: 353,
+                                              width: `min(${u?.width || `100vw`} - 32px, 1120px)`,
+                                            },
+                                          },
+                                          children: d(U, {
+                                            children: d(B, {
+                                              className: `framer-ri3h9g-container hidden-72rtr7 hidden-vlbm8s`,
+                                              nodeId: `o2_KcgMMY`,
+                                              scopeId: `augiA20Il`,
+                                              children: d(Kn, {
+                                                height: `100%`,
+                                                id: `o2_KcgMMY`,
+                                                layoutId: `o2_KcgMMY`,
+                                                style: {
+                                                  height: `100%`,
+                                                  maxHeight: `100%`,
+                                                  width: `100%`,
+                                                },
+                                                variant: Z(`YaQ14a9NS`),
+                                                width: `100%`,
+                                              }),
+                                            }),
+                                          }),
+                                        }),
+                                    ],
+                                  }),
+                                ],
+                              }),
+                              T() &&
+                                d(`div`, {
+                                  className: `framer-1o6p6og hidden-c8amib`,
+                                  "data-framer-name": `Images`,
+                                  children: d(L, {
+                                    breakpoint: y,
+                                    overrides: {
+                                      JvUVvulcJ: {
+                                        height: 433,
+                                        width: `calc(max(min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) / 2, 50px) - 30px)`,
+                                      },
+                                    },
+                                    children: d(U, {
+                                      height: 350,
+                                      width: `calc(max(min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) / 2, 50px) - 30px)`,
+                                      children: d(B, {
+                                        className: `framer-1pxqv0y-container`,
+                                        nodeId: `bzifMaqjw`,
+                                        rendersWithMotion: !0,
+                                        scopeId: `augiA20Il`,
+                                        children: d(fo, {
+                                          __framer__animateOnce: !1,
+                                          __framer__targets: [
+                                            { ref: se, target: `kYQKlNLHQ` },
+                                            { ref: F, target: `mSGCxerAd` },
+                                            { ref: I, target: `YaQ14a9NS` },
+                                          ],
+                                          __framer__threshold: 0.5,
+                                          __framer__variantAppearEffectEnabled:
+                                            !0,
+                                          height: `100%`,
+                                          id: `bzifMaqjw`,
+                                          layoutId: `bzifMaqjw`,
+                                          style: {
+                                            height: `100%`,
+                                            maxHeight: `100%`,
+                                            width: `100%`,
+                                          },
+                                          variant: Z(`WSBmedMw3`),
+                                          width: `100%`,
+                                        }),
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    }),
+                    d(x.section, {
+                      className: `framer-ex69bk`,
+                      "data-framer-name": `CaseStudies`,
+                      id: de,
+                      layout: w,
+                      ref: fe,
+                      children: m(`div`, {
+                        className: `framer-1mxtp5v`,
+                        "data-framer-name": `Container`,
+                        children: [
+                          m(`div`, {
+                            className: `framer-1gfuvmz`,
+                            "data-framer-name": `Heading`,
+                            children: [
+                              d(U, {
+                                height: 36,
+                                children: d(X, {
+                                  __framer__animate: { transition: $ },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  className: `framer-1qrdvop-container`,
+                                  nodeId: `MdxGKx5Pk`,
+                                  rendersWithMotion: !0,
+                                  scopeId: `augiA20Il`,
+                                  children: d(J, {
+                                    BIDMndvd0: 1,
+                                    cQI9DamX9: {
+                                      borderColor: `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                                      borderStyle: `solid`,
+                                      borderWidth: 1,
+                                    },
+                                    G_faciQgo: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    height: `100%`,
+                                    id: `MdxGKx5Pk`,
+                                    KeoHf_ARU: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    layoutId: `MdxGKx5Pk`,
+                                    tjj7UTgn4: `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                    vbKoFf7Q0: !0,
+                                    w5XGjIP2H: Ze,
+                                    width: `100%`,
+                                    zljOAbP0z: `CASES`,
+                                  }),
+                                }),
+                              }),
+                              d(Y, {
+                                __framer__animate: { transition: Mo },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Q,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0.5,
+                                __fromCanvasComponent: !0,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                children: d(s, {
+                                  children: m(`h2`, {
+                                    className: `framer-styles-preset-7kh1l3`,
+                                    "data-styles-preset": `h6g2V_KLn`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-alignment": `center`,
+                                    },
+                                    children: [
+                                      `Tecnologia que gera `,
+                                      d(`span`, {
+                                        style: {
+                                          "--framer-text-color": `rgb(255, 184, 0)`,
+                                        },
+                                        children: `resultados`,
+                                      }),
+                                      d(`span`, {
+                                        style: {
+                                          "--framer-text-color": `var(--token-aacda8de-9ae9-4d6f-b435-1cc2b883ad3c, rgb(255, 122, 13))`,
+                                        },
+                                        children: `.`,
+                                      }),
+                                    ],
+                                  }),
+                                }),
+                                className: `framer-o1egoa`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0,
+                              }),
+                              d(Y, {
+                                __framer__animate: { transition: Po },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Q,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0.5,
+                                __fromCanvasComponent: !0,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                children: d(s, {
+                                  children: d(`p`, {
+                                    className: `framer-styles-preset-1pelfvi`,
+                                    "data-styles-preset": `kjzXGiNic`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-alignment": `center`,
+                                    },
+                                    children: `Desafios reais transformados em soluções digitais que geram valor para o negócio.`,
+                                  }),
+                                }),
+                                className: `framer-a3y21b`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0,
+                              }),
+                            ],
+                          }),
+                          m(`div`, {
+                            className: `framer-sihzi7`,
+                            "data-framer-name": `Cards`,
+                            children: [
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    width: `min(${u?.width || `100vw`} - 32px, 1120px)`,
+                                  },
+                                  JvUVvulcJ: {
+                                    width: `min(max(${u?.width || `100vw`} - 64px, 1px), 1120px)`,
+                                  },
+                                },
+                                children: d(U, {
+                                  height: 612,
+                                  width: `min(max(${u?.width || `100vw`} - 80px, 1px), 1120px)`,
+                                  children: d(X, {
+                                    __framer__styleTransformEffectEnabled: !0,
+                                    __framer__transformTargets: [
+                                      {
+                                        target: {
+                                          opacity: 1,
+                                          rotate: 0,
+                                          rotateX: 0,
+                                          rotateY: 0,
+                                          scale: 1,
+                                          skewX: 0,
+                                          skewY: 0,
+                                          x: 0,
+                                          y: 0,
+                                        },
+                                      },
+                                      {
+                                        ref: R,
+                                        target: {
+                                          opacity: 1,
+                                          rotate: 0,
+                                          rotateX: 0,
+                                          rotateY: 0,
+                                          scale: 0.95,
+                                          skewX: 0,
+                                          skewY: 0,
+                                          x: 0,
+                                          y: 0,
+                                        },
+                                      },
+                                      {
+                                        ref: z,
+                                        target: {
+                                          opacity: 1,
+                                          rotate: 0,
+                                          rotateX: 0,
+                                          rotateY: 0,
+                                          scale: 0.95,
+                                          skewX: 0,
+                                          skewY: 0,
+                                          x: 0,
+                                          y: 0,
+                                        },
+                                      },
+                                    ],
+                                    __framer__transformTrigger: `onScrollTarget`,
+                                    __framer__transformViewportThreshold: 1,
+                                    __perspectiveFX: !1,
+                                    __targetOpacity: 1,
+                                    className: `framer-x86bsi-container`,
+                                    id: H,
+                                    nodeId: `n3TnSvnr_`,
+                                    ref: be,
+                                    rendersWithMotion: !0,
+                                    scopeId: `augiA20Il`,
+                                    children: d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: { variant: Z(`RrXfwTyVq`) },
+                                        JvUVvulcJ: { variant: Z(`r5RqauV5e`) },
+                                      },
+                                      children: d(Pn, {
+                                        AdjLfLWcf: `Centralização de processos, informações e indicadores em uma solução integrada, proporcionando maior controle e visibilidade para a gestão.`,
+                                        dxkF5smpr: `Dados & Analytics`,
+                                        fbpfDv_8V: `Plataforma Digital`,
+                                        height: `100%`,
+                                        id: `n3TnSvnr_`,
+                                        K2mGH1Qc3: `Maior visibilidade das informações`,
+                                        kVzBBKvN0: Fo(
+                                          {
+                                            pixelHeight: 1254,
+                                            pixelWidth: 1254,
+                                            src: `https://framerusercontent.com/images/FOEFuQmyEscU9ZPDXmk3bnjqvM.png?width=1254&height=1254`,
+                                            srcSet: `https://framerusercontent.com/images/FOEFuQmyEscU9ZPDXmk3bnjqvM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/FOEFuQmyEscU9ZPDXmk3bnjqvM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/FOEFuQmyEscU9ZPDXmk3bnjqvM.png?width=1254&height=1254 1254w`,
+                                          },
+                                          `Two business professionals collaborating on a laptop in a modern office workspace.`,
+                                        ),
+                                        layoutId: `n3TnSvnr_`,
+                                        PFm4ndQ5W: `Plataforma digital para gestão de operações`,
+                                        SbZp6oq7O: `Processos centralizados e integrados`,
+                                        style: { width: `100%` },
+                                        Uh7dbRDQE: `Gestão orientada por dados`,
+                                        variant: Z(`wj2dm3W7j`),
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    width: `min(${u?.width || `100vw`} - 32px, 1120px)`,
+                                  },
+                                  JvUVvulcJ: {
+                                    width: `min(max(${u?.width || `100vw`} - 64px, 1px), 1120px)`,
+                                  },
+                                },
+                                children: d(U, {
+                                  height: 612,
+                                  width: `min(max(${u?.width || `100vw`} - 80px, 1px), 1120px)`,
+                                  children: d(X, {
+                                    __framer__styleTransformEffectEnabled: !0,
+                                    __framer__transformTargets: [
+                                      {
+                                        target: {
+                                          opacity: 1,
+                                          rotate: 0,
+                                          rotateX: 0,
+                                          rotateY: 0,
+                                          scale: 1,
+                                          skewX: 0,
+                                          skewY: 0,
+                                          x: 0,
+                                          y: 0,
+                                        },
+                                      },
+                                      {
+                                        ref: z,
+                                        target: {
+                                          opacity: 1,
+                                          rotate: 0,
+                                          rotateX: 0,
+                                          rotateY: 0,
+                                          scale: 0.95,
+                                          skewX: 0,
+                                          skewY: 0,
+                                          x: 0,
+                                          y: 0,
+                                        },
+                                      },
+                                    ],
+                                    __framer__transformTrigger: `onScrollTarget`,
+                                    __framer__transformViewportThreshold: 1,
+                                    __perspectiveFX: !1,
+                                    __targetOpacity: 1,
+                                    className: `framer-s4z9xr-container`,
+                                    id: xe,
+                                    nodeId: `LjsN_fNYq`,
+                                    ref: R,
+                                    rendersWithMotion: !0,
+                                    scopeId: `augiA20Il`,
+                                    children: d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: { variant: Z(`RrXfwTyVq`) },
+                                        JvUVvulcJ: { variant: Z(`r5RqauV5e`) },
+                                      },
+                                      children: d(Pn, {
+                                        AdjLfLWcf: `Redesenho de processos e aplicação de tecnologia para simplificar fluxos, integrar áreas e aumentar a eficiência operacional.`,
+                                        dxkF5smpr: `Transformação Digital`,
+                                        fbpfDv_8V: `Otimização de Processos`,
+                                        height: `100%`,
+                                        id: `LjsN_fNYq`,
+                                        K2mGH1Qc3: `Maior integração entre áreas`,
+                                        kVzBBKvN0: Fo(
+                                          {
+                                            pixelHeight: 1254,
+                                            pixelWidth: 1254,
+                                            src: `https://framerusercontent.com/images/hfAHc1SsDoFlm9vKVlnWbaPnyM.png?width=1254&height=1254`,
+                                            srcSet: `https://framerusercontent.com/images/hfAHc1SsDoFlm9vKVlnWbaPnyM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/hfAHc1SsDoFlm9vKVlnWbaPnyM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/hfAHc1SsDoFlm9vKVlnWbaPnyM.png?width=1254&height=1254 1254w`,
+                                          },
+                                          `Business team meeting with manager presenting ideas in a modern office conference room.`,
+                                        ),
+                                        layoutId: `LjsN_fNYq`,
+                                        PFm4ndQ5W: `Otimização e digitalização de processos`,
+                                        SbZp6oq7O: `Processos simplificados e padronizados`,
+                                        style: { width: `100%` },
+                                        Uh7dbRDQE: `Mais eficiência operacional`,
+                                        variant: Z(`wj2dm3W7j`),
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    width: `min(${u?.width || `100vw`} - 32px, 1120px)`,
+                                  },
+                                  JvUVvulcJ: {
+                                    width: `min(max(${u?.width || `100vw`} - 64px, 1px), 1120px)`,
+                                  },
+                                },
+                                children: d(U, {
+                                  height: 612,
+                                  width: `min(max(${u?.width || `100vw`} - 80px, 1px), 1120px)`,
+                                  children: d(B, {
+                                    className: `framer-1uvsc1t-container`,
+                                    id: K,
+                                    nodeId: `IwMNOecm6`,
+                                    ref: z,
+                                    scopeId: `augiA20Il`,
+                                    children: d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: { variant: Z(`RrXfwTyVq`) },
+                                        JvUVvulcJ: { variant: Z(`r5RqauV5e`) },
+                                      },
+                                      children: d(Pn, {
+                                        AdjLfLWcf: `Aplicação de inteligência artificial e automação para simplificar atividades, ampliar o acesso à informação e apoiar a tomada de decisão.`,
+                                        dxkF5smpr: `Automação`,
+                                        fbpfDv_8V: `Inteligência Artificial`,
+                                        height: `100%`,
+                                        id: `IwMNOecm6`,
+                                        K2mGH1Qc3: `Informação acessível de forma inteligente`,
+                                        kVzBBKvN0: Fo(
+                                          {
+                                            pixelHeight: 1254,
+                                            pixelWidth: 1254,
+                                            src: `https://framerusercontent.com/images/a4IA2B9QFeM9Z2T1ADWBAtLX60.png?width=1254&height=1254`,
+                                            srcSet: `https://framerusercontent.com/images/a4IA2B9QFeM9Z2T1ADWBAtLX60.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/a4IA2B9QFeM9Z2T1ADWBAtLX60.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/a4IA2B9QFeM9Z2T1ADWBAtLX60.png?width=1254&height=1254 1254w`,
+                                          },
+                                          `Two professionals working on laptops and drinking coffee in a modern coworking café.`,
+                                        ),
+                                        layoutId: `IwMNOecm6`,
+                                        PFm4ndQ5W: `IA e automação para otimizar operações`,
+                                        SbZp6oq7O: `Automação de atividades operacionais`,
+                                        style: { width: `100%` },
+                                        Uh7dbRDQE: `Mais agilidade na tomada de decisão`,
+                                        variant: Z(`wj2dm3W7j`),
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    }),
+                    d(x.section, {
+                      className: `framer-v1omwe`,
+                      "data-framer-name": `OurTeam`,
+                      id: q,
+                      layout: w,
+                      ref: we,
+                      children: m(`div`, {
+                        className: `framer-1i8uip1`,
+                        "data-framer-name": `Container`,
+                        children: [
+                          m(`div`, {
+                            className: `framer-1ljacsi`,
+                            "data-framer-name": `Heading`,
+                            children: [
+                              d(U, {
+                                height: 36,
+                                children: d(X, {
+                                  __framer__animate: { transition: $ },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  className: `framer-10p1u4k-container`,
+                                  nodeId: `LiHRR7He_`,
+                                  rendersWithMotion: !0,
+                                  scopeId: `augiA20Il`,
+                                  children: d(J, {
+                                    BIDMndvd0: 0.7,
+                                    cQI9DamX9: {
+                                      borderColor: `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                                      borderStyle: `solid`,
+                                      borderWidth: 1,
+                                    },
+                                    G_faciQgo: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    height: `100%`,
+                                    id: `LiHRR7He_`,
+                                    KeoHf_ARU: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    layoutId: `LiHRR7He_`,
+                                    tjj7UTgn4: `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                    vbKoFf7Q0: !0,
+                                    w5XGjIP2H: xt,
+                                    width: `100%`,
+                                    zljOAbP0z: `QUEM SOMOS`,
+                                  }),
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    children: d(s, {
+                                      children: m(`h3`, {
+                                        className: `framer-styles-preset-hd4366`,
+                                        "data-styles-preset": `ExWszoMVd`,
+                                        dir: `auto`,
+                                        style: {
+                                          "--framer-text-alignment": `center`,
+                                        },
+                                        children: [
+                                          `Tecnologia com experiência `,
+                                          d(`span`, {
+                                            style: {
+                                              "--framer-text-color": `rgb(255, 184, 0)`,
+                                            },
+                                            children: `de quem conhece o negócio.`,
+                                          }),
+                                        ],
+                                      }),
+                                    }),
+                                  },
+                                },
+                                children: d(Y, {
+                                  __framer__animate: { transition: Mo },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __fromCanvasComponent: !0,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  children: d(s, {
+                                    children: m(`h2`, {
+                                      className: `framer-styles-preset-7kh1l3`,
+                                      "data-styles-preset": `h6g2V_KLn`,
+                                      dir: `auto`,
+                                      style: {
+                                        "--framer-text-alignment": `center`,
+                                      },
+                                      children: [
+                                        `Tecnologia com experiência `,
+                                        d(`span`, {
+                                          style: {
+                                            "--framer-text-color": `rgb(255, 184, 0)`,
+                                          },
+                                          children: `de quem conhece o negócio.`,
+                                        }),
+                                      ],
+                                    }),
+                                  }),
+                                  className: `framer-tivpjm`,
+                                  fonts: [`Inter`],
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              }),
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    children: d(s, {
+                                      children: d(`p`, {
+                                        dir: `auto`,
+                                        style: {
+                                          "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                          "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                          "--framer-font-size": `15px`,
+                                          "--framer-font-weight": `500`,
+                                          "--framer-line-height": `1.5em`,
+                                          "--framer-text-alignment": `center`,
+                                          "--framer-text-color": `rgb(51, 68, 119)`,
+                                        },
+                                        children: `A UPGOAL nasce da experiência em tecnologia, liderança e transformação em grandes ambientes corporativos, conectando visão estratégica e capacidade de execução.`,
+                                      }),
+                                    }),
+                                    fonts: [`FS;Manrope-medium`],
+                                  },
+                                },
+                                children: d(Y, {
+                                  __framer__animate: { transition: Po },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __fromCanvasComponent: !0,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  children: d(s, {
+                                    children: d(`p`, {
+                                      className: `framer-styles-preset-1pelfvi`,
+                                      "data-styles-preset": `kjzXGiNic`,
+                                      dir: `auto`,
+                                      style: {
+                                        "--framer-text-alignment": `center`,
+                                      },
+                                      children: `A UPGOAL nasce da experiência em tecnologia, liderança e transformação em grandes ambientes corporativos, conectando visão estratégica e capacidade de execução.`,
+                                    }),
+                                  }),
+                                  className: `framer-j1e1od`,
+                                  fonts: [`Inter`],
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              }),
+                            ],
+                          }),
+                          m(`div`, {
+                            className: `framer-22dn1n`,
+                            "data-framer-name": `Team Card Container`,
+                            children: [
+                              d(L, {
+                                breakpoint: y,
+                                overrides: {
+                                  EIXefzEOt: {
+                                    width: `max(min(${u?.width || `100vw`} - 32px, 1120px), 50px)`,
+                                  },
+                                  JvUVvulcJ: {
+                                    width: `max((min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 16px) / 2, 50px)`,
+                                  },
+                                },
+                                children: d(U, {
+                                  height: 406,
+                                  width: `max((min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) - 32px) / 3, 50px)`,
+                                  children: d(X, {
+                                    __framer__animate: { transition: Mo },
+                                    __framer__animateOnce: !0,
+                                    __framer__enter: Q,
+                                    __framer__styleAppearEffectEnabled: !0,
+                                    __framer__threshold: 0.5,
+                                    __perspectiveFX: !1,
+                                    __targetOpacity: 1,
+                                    className: `framer-1098403-container`,
+                                    nodeId: `wSXcPFl3J`,
+                                    rendersWithMotion: !0,
+                                    scopeId: `augiA20Il`,
+                                    children: d(qt, {
+                                      height: `100%`,
+                                      id: `wSXcPFl3J`,
+                                      layoutId: `wSXcPFl3J`,
+                                      style: { width: `100%` },
+                                      WFI793zsA: Fo(
+                                        {
+                                          pixelHeight: 986,
+                                          pixelWidth: 791,
+                                          src: `https://framerusercontent.com/images/TJSNf7tEAVXERORhE8vh5PoEXlY.png?width=791&height=986`,
+                                          srcSet: `https://framerusercontent.com/images/TJSNf7tEAVXERORhE8vh5PoEXlY.png?width=791&height=986 791w`,
+                                        },
+                                        `Smiling young man wearing a maroon turtleneck in a professional studio portrait.`,
+                                      ),
+                                      width: `100%`,
+                                    }),
+                                  }),
+                                }),
+                              }),
+                              m(`div`, {
+                                className: `framer-c2jfr4`,
+                                "data-framer-name": `Text`,
+                                children: [
+                                  m(`div`, {
+                                    className: `framer-n7phum`,
+                                    children: [
+                                      d(L, {
+                                        breakpoint: y,
+                                        overrides: {
+                                          EIXefzEOt: {
+                                            children: d(s, {
+                                              children: d(`h3`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1zZW1pYm9sZA==`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-font-size": `22px`,
+                                                  "--framer-font-weight": `600`,
+                                                  "--framer-letter-spacing": `-0.02em`,
+                                                  "--framer-text-color": `rgb(7, 20, 92)`,
+                                                },
+                                                children: `Robson Nunes`,
+                                              }),
+                                            }),
+                                          },
+                                          JvUVvulcJ: {
+                                            children: d(s, {
+                                              children: d(`h3`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1zZW1pYm9sZA==`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-font-size": `26px`,
+                                                  "--framer-font-weight": `600`,
+                                                  "--framer-letter-spacing": `-0.02em`,
+                                                  "--framer-text-color": `rgb(7, 20, 92)`,
+                                                },
+                                                children: `Robson Nunes`,
+                                              }),
+                                            }),
+                                          },
+                                        },
+                                        children: d(Y, {
+                                          __framer__styleTransformEffectEnabled:
+                                            !0,
+                                          __framer__transformTargets: [
+                                            {
+                                              target: {
+                                                opacity: 0,
+                                                rotate: 0,
+                                                rotateX: 0,
+                                                rotateY: 0,
+                                                scale: 1,
+                                                skewX: 0,
+                                                skewY: 0,
+                                                x: 0,
+                                                y: 40,
+                                              },
+                                            },
+                                            {
+                                              target: {
+                                                opacity: 1,
+                                                rotate: 0,
+                                                rotateX: 0,
+                                                rotateY: 0,
+                                                scale: 1,
+                                                skewX: 0,
+                                                skewY: 0,
+                                                x: 0,
+                                                y: 0,
+                                              },
+                                            },
+                                          ],
+                                          __framer__transformTrigger: `onInView`,
+                                          __fromCanvasComponent: !0,
+                                          __perspectiveFX: !1,
+                                          __targetOpacity: 1,
+                                          children: d(s, {
+                                            children: d(`h3`, {
+                                              dir: `auto`,
+                                              style: {
+                                                "--font-selector": `RlM7TWFucm9wZS1zZW1pYm9sZA==`,
+                                                "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                "--framer-font-size": `28px`,
+                                                "--framer-font-weight": `600`,
+                                                "--framer-letter-spacing": `-0.02em`,
+                                                "--framer-text-color": `rgb(7, 20, 92)`,
+                                              },
+                                              children: `Robson Nunes`,
+                                            }),
+                                          }),
+                                          className: `framer-1madq09`,
+                                          fonts: [`FS;Manrope-semibold`],
+                                          verticalAlignment: `top`,
+                                          withExternalLayout: !0,
+                                        }),
+                                      }),
+                                      d(L, {
+                                        breakpoint: y,
+                                        overrides: {
+                                          EIXefzEOt: {
+                                            children: d(s, {
+                                              children: d(`h3`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-font-size": `14px`,
+                                                  "--framer-font-weight": `500`,
+                                                  "--framer-letter-spacing": `-0.02em`,
+                                                  "--framer-line-height": `1.3em`,
+                                                  "--framer-text-color": `rgb(51, 68, 119)`,
+                                                },
+                                                children: `Founder, UPGOAL`,
+                                              }),
+                                            }),
+                                          },
+                                        },
+                                        children: d(Y, {
+                                          __framer__styleTransformEffectEnabled:
+                                            !0,
+                                          __framer__transformTargets: [
+                                            {
+                                              target: {
+                                                opacity: 0,
+                                                rotate: 0,
+                                                rotateX: 0,
+                                                rotateY: 0,
+                                                scale: 1,
+                                                skewX: 0,
+                                                skewY: 0,
+                                                x: 0,
+                                                y: 40,
+                                              },
+                                            },
+                                            {
+                                              target: {
+                                                opacity: 1,
+                                                rotate: 0,
+                                                rotateX: 0,
+                                                rotateY: 0,
+                                                scale: 1,
+                                                skewX: 0,
+                                                skewY: 0,
+                                                x: 0,
+                                                y: 0,
+                                              },
+                                            },
+                                          ],
+                                          __framer__transformTrigger: `onInView`,
+                                          __fromCanvasComponent: !0,
+                                          __perspectiveFX: !1,
+                                          __targetOpacity: 1,
+                                          children: d(s, {
+                                            children: d(`h3`, {
+                                              dir: `auto`,
+                                              style: {
+                                                "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                                "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                "--framer-font-size": `18px`,
+                                                "--framer-font-weight": `500`,
+                                                "--framer-letter-spacing": `-0.02em`,
+                                                "--framer-line-height": `1.3em`,
+                                                "--framer-text-color": `rgb(51, 68, 119)`,
+                                              },
+                                              children: `Founder, UPGOAL`,
+                                            }),
+                                          }),
+                                          className: `framer-146z416`,
+                                          fonts: [`FS;Manrope-medium`],
+                                          verticalAlignment: `top`,
+                                          withExternalLayout: !0,
+                                        }),
+                                      }),
+                                    ],
+                                  }),
+                                  d(`div`, {
+                                    className: `framer-epgigs`,
+                                    children: m(`div`, {
+                                      className: `framer-6wyb0h`,
+                                      children: [
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            JvUVvulcJ: {
+                                              children: d(s, {
+                                                children: d(`p`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `15px`,
+                                                    "--framer-letter-spacing": `-0.01em`,
+                                                    "--framer-line-height": `1.5em`,
+                                                    "--framer-text-color": `rgb(51, 68, 119)`,
+                                                  },
+                                                  children: `Robson Nunes fundou a UPGOAL em 2007, com atuação inicialmente focada em análise de sistemas e desenvolvimento de software para grandes instituições financeiras.`,
+                                                }),
+                                              }),
+                                            },
+                                          },
+                                          children: d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`p`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-letter-spacing": `-0.01em`,
+                                                  "--framer-line-height": `1.5em`,
+                                                  "--framer-text-color": `rgb(51, 68, 119)`,
+                                                },
+                                                children: `Robson Nunes fundou a UPGOAL em 2007, com atuação inicialmente focada em análise de sistemas e desenvolvimento de software para grandes instituições financeiras.`,
+                                              }),
+                                            }),
+                                            className: `framer-1ea3rhd`,
+                                            fonts: [`FS;Manrope-regular`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        }),
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            JvUVvulcJ: {
+                                              children: d(s, {
+                                                children: d(`p`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `15px`,
+                                                    "--framer-letter-spacing": `-0.01em`,
+                                                    "--framer-line-height": `1.5em`,
+                                                    "--framer-text-color": `rgb(51, 68, 119)`,
+                                                  },
+                                                  children: `Sua trajetória em grandes ambientes corporativos de diferentes setores ampliou sua perspectiva sobre os desafios das organizações e o papel da tecnologia na evolução dos negócios.`,
+                                                }),
+                                              }),
+                                            },
+                                          },
+                                          children: d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: d(`p`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-letter-spacing": `-0.01em`,
+                                                  "--framer-line-height": `1.5em`,
+                                                  "--framer-text-color": `rgb(51, 68, 119)`,
+                                                },
+                                                children: `Sua trajetória em grandes ambientes corporativos de diferentes setores ampliou sua perspectiva sobre os desafios das organizações e o papel da tecnologia na evolução dos negócios.`,
+                                              }),
+                                            }),
+                                            className: `framer-1w97azx`,
+                                            fonts: [`FS;Manrope-regular`],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        }),
+                                        d(L, {
+                                          breakpoint: y,
+                                          overrides: {
+                                            JvUVvulcJ: {
+                                              children: d(s, {
+                                                children: m(`p`, {
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                    "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                    "--framer-font-size": `15px`,
+                                                    "--framer-letter-spacing": `-0.01em`,
+                                                    "--framer-line-height": `1.5em`,
+                                                    "--framer-text-color": `rgb(51, 68, 119)`,
+                                                  },
+                                                  children: [
+                                                    d(`span`, {
+                                                      style: {
+                                                        "--font-selector": `RlM7TWFucm9wZS1zZW1pYm9sZA==`,
+                                                        "--framer-font-weight": `600`,
+                                                      },
+                                                      children: `Essa visão também transformou a UPGOAL`,
+                                                    }),
+                                                    `. Hoje, a empresa conecta estratégia, tecnologia e execução para transformar desafios de negócio em soluções digitais que geram resultados e impulsionam novas oportunidades.`,
+                                                  ],
+                                                }),
+                                              }),
+                                            },
+                                          },
+                                          children: d(Y, {
+                                            __framer__styleTransformEffectEnabled:
+                                              !0,
+                                            __framer__transformTargets: [
+                                              {
+                                                target: {
+                                                  opacity: 0,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 40,
+                                                },
+                                              },
+                                              {
+                                                target: {
+                                                  opacity: 1,
+                                                  rotate: 0,
+                                                  rotateX: 0,
+                                                  rotateY: 0,
+                                                  scale: 1,
+                                                  skewX: 0,
+                                                  skewY: 0,
+                                                  x: 0,
+                                                  y: 0,
+                                                },
+                                              },
+                                            ],
+                                            __framer__transformTrigger: `onInView`,
+                                            __fromCanvasComponent: !0,
+                                            __perspectiveFX: !1,
+                                            __targetOpacity: 1,
+                                            children: d(s, {
+                                              children: m(`p`, {
+                                                dir: `auto`,
+                                                style: {
+                                                  "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                  "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                  "--framer-letter-spacing": `-0.01em`,
+                                                  "--framer-line-height": `1.5em`,
+                                                  "--framer-text-color": `rgb(51, 68, 119)`,
+                                                },
+                                                children: [
+                                                  d(`span`, {
+                                                    style: {
+                                                      "--font-selector": `RlM7TWFucm9wZS1zZW1pYm9sZA==`,
+                                                      "--framer-font-weight": `600`,
+                                                    },
+                                                    children: `Essa visão também transformou a UPGOAL`,
+                                                  }),
+                                                  `. Hoje, a empresa conecta estratégia, tecnologia e execução para transformar desafios de negócio em soluções digitais que geram resultados e impulsionam novas oportunidades.`,
+                                                ],
+                                              }),
+                                            }),
+                                            className: `framer-1j447vm`,
+                                            fonts: [
+                                              `FS;Manrope-regular`,
+                                              `FS;Manrope-semibold`,
+                                            ],
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0,
+                                          }),
+                                        }),
+                                      ],
+                                    }),
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    }),
+                    d(x.section, {
+                      className: `framer-qt3uut`,
+                      "data-framer-name": `FAQs`,
+                      id: Te,
+                      layout: w,
+                      ref: Ee,
+                      children: m(`div`, {
+                        className: `framer-13fuz6h`,
+                        "data-framer-name": `Container`,
+                        children: [
+                          m(`div`, {
+                            className: `framer-1yharqn`,
+                            "data-framer-name": `Heading`,
+                            children: [
+                              d(U, {
+                                height: 36,
+                                children: d(X, {
+                                  __framer__animate: { transition: $ },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: Q,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: 0.5,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  className: `framer-pql414-container`,
+                                  nodeId: `dydLqpv_I`,
+                                  rendersWithMotion: !0,
+                                  scopeId: `augiA20Il`,
+                                  children: d(J, {
+                                    BIDMndvd0: 0.7,
+                                    cQI9DamX9: {
+                                      borderColor: `var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, rgb(219, 219, 219))`,
+                                      borderStyle: `solid`,
+                                      borderWidth: 1,
+                                    },
+                                    G_faciQgo: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    height: `100%`,
+                                    id: `dydLqpv_I`,
+                                    KeoHf_ARU: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                    layoutId: `dydLqpv_I`,
+                                    tjj7UTgn4: `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                    vbKoFf7Q0: !0,
+                                    w5XGjIP2H: pt,
+                                    width: `100%`,
+                                    zljOAbP0z: `FAQ`,
+                                  }),
+                                }),
+                              }),
+                              d(Y, {
+                                __framer__animate: { transition: Mo },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Q,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0.5,
+                                __fromCanvasComponent: !0,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                children: d(s, {
+                                  children: d(`h2`, {
+                                    className: `framer-styles-preset-7kh1l3`,
+                                    "data-styles-preset": `h6g2V_KLn`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-alignment": `center`,
+                                    },
+                                    children: `Dúvidas frequentes`,
+                                  }),
+                                }),
+                                className: `framer-d5nlvz`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0,
+                              }),
+                              d(Y, {
+                                __framer__animate: { transition: Po },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Q,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0.5,
+                                __fromCanvasComponent: !0,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                children: d(s, {
+                                  children: d(`p`, {
+                                    className: `framer-styles-preset-1pelfvi`,
+                                    "data-styles-preset": `kjzXGiNic`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-alignment": `center`,
+                                    },
+                                    children: `Tudo o que você precisa saber para começar.`,
+                                  }),
+                                }),
+                                className: `framer-1irxwzg`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0,
+                              }),
+                            ],
+                          }),
+                          d(L, {
+                            breakpoint: y,
+                            overrides: {
+                              EIXefzEOt: {
+                                width: `min(min(${u?.width || `100vw`} - 32px, 1120px), 800px)`,
+                              },
+                              JvUVvulcJ: {
+                                width: `min(min(max(${u?.width || `100vw`} - 64px, 1px), 1120px), 800px)`,
+                              },
+                            },
+                            children: d(U, {
+                              height: 752,
+                              width: `min(min(max(${u?.width || `100vw`} - 80px, 1px), 1120px), 800px)`,
+                              children: d(X, {
+                                __framer__animate: { transition: $ },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Q,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0.5,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                className: `framer-cpg40s-container`,
+                                nodeId: `qRYgMbd7i`,
+                                rendersWithMotion: !0,
+                                scopeId: `augiA20Il`,
+                                children: d(Dr, {
+                                  height: `100%`,
+                                  id: `qRYgMbd7i`,
+                                  layoutId: `qRYgMbd7i`,
+                                  style: { maxWidth: `100%`, width: `100%` },
+                                  width: `100%`,
+                                }),
+                              }),
+                            }),
+                          }),
+                        ],
+                      }),
+                    }),
+                    m(x.section, {
+                      className: `framer-18he95t`,
+                      "data-framer-name": `Contact`,
+                      id: De,
+                      layout: w,
+                      ref: Oe,
+                      children: [
+                        d(L, {
+                          breakpoint: y,
+                          overrides: {
+                            EIXefzEOt: {
+                              background: {
+                                alt: `Three women gathered around a table with a laptop, actively collaborating and sharing insights during their meeting.`,
+                                fit: `fill`,
+                                intrinsicHeight: 861,
+                                intrinsicWidth: 1180,
+                                pixelHeight: 861,
+                                pixelWidth: 1180,
+                                positionX: `40.7%`,
+                                positionY: `0%`,
+                                sizes: u?.width || `100vw`,
+                                src: `https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861`,
+                                srcSet: `https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=512&width=1180&height=861 512w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=1024&width=1180&height=861 1024w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861 1180w`,
+                              },
+                            },
+                            JvUVvulcJ: {
+                              background: {
+                                alt: `Three women gathered around a table with a laptop, actively collaborating and sharing insights during their meeting.`,
+                                fit: `fill`,
+                                intrinsicHeight: 861,
+                                intrinsicWidth: 1180,
+                                pixelHeight: 861,
+                                pixelWidth: 1180,
+                                positionX: `17%`,
+                                positionY: `30.2%`,
+                                sizes: u?.width || `100vw`,
+                                src: `https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861`,
+                                srcSet: `https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=512&width=1180&height=861 512w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=1024&width=1180&height=861 1024w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861 1180w`,
+                              },
+                            },
+                          },
+                          children: d(G, {
+                            as: `figure`,
+                            background: {
+                              alt: `Three women gathered around a table with a laptop, actively collaborating and sharing insights during their meeting.`,
+                              fit: `fill`,
+                              intrinsicHeight: 861,
+                              intrinsicWidth: 1180,
+                              pixelHeight: 861,
+                              pixelWidth: 1180,
+                              positionX: `left`,
+                              positionY: `top`,
+                              sizes: `calc(${u?.width || `100vw`} - 502px)`,
+                              src: `https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861`,
+                              srcSet: `https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=512&width=1180&height=861 512w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?scale-down-to=1024&width=1180&height=861 1024w,https://framerusercontent.com/images/PJaYbq3xZP8EpqkHtib0xd7hU.png?width=1180&height=861 1180w`,
+                            },
+                            className: `framer-1ggw8h6`,
+                            "data-framer-name": `Image`,
+                            children: d(`div`, {
+                              className: `framer-1i3wlzw`,
+                              "data-framer-name": `Overlay`,
+                              children: d(`div`, {
+                                className: `framer-niaqf0`,
+                                "data-framer-name": `Bottom Overlay`,
+                              }),
+                            }),
+                          }),
+                        }),
+                        m(`div`, {
+                          className: `framer-1dz6oct`,
+                          "data-framer-name": `Container`,
+                          children: [
+                            m(`div`, {
+                              className: `framer-1iqa4dw`,
+                              "data-framer-name": `Text & Information`,
+                              children: [
+                                m(`div`, {
+                                  className: `framer-edbqf0`,
+                                  "data-framer-name": `Text Container`,
+                                  children: [
+                                    d(U, {
+                                      height: 36,
+                                      children: d(X, {
+                                        __framer__animate: { transition: $ },
+                                        __framer__animateOnce: !0,
+                                        __framer__enter: Q,
+                                        __framer__styleAppearEffectEnabled: !0,
+                                        __framer__threshold: 0.5,
+                                        __perspectiveFX: !1,
+                                        __targetOpacity: 1,
+                                        className: `framer-7gjgzb-container`,
+                                        nodeId: `rYJHIl0D3`,
+                                        rendersWithMotion: !0,
+                                        scopeId: `augiA20Il`,
+                                        children: d(J, {
+                                          BIDMndvd0: 0.7,
+                                          cQI9DamX9: {
+                                            borderColor: `var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, rgb(59, 57, 48))`,
+                                            borderStyle: `solid`,
+                                            borderWidth: 1,
+                                          },
+                                          G_faciQgo: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                          height: `100%`,
+                                          id: `rYJHIl0D3`,
+                                          KeoHf_ARU: `var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, rgb(255, 255, 255))`,
+                                          layoutId: `rYJHIl0D3`,
+                                          tjj7UTgn4: `var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, rgb(23, 22, 18))`,
+                                          vbKoFf7Q0: !0,
+                                          w5XGjIP2H: at,
+                                          width: `100%`,
+                                          zljOAbP0z: `Contato`,
+                                        }),
+                                      }),
+                                    }),
+                                    d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: {
+                                          children: d(s, {
+                                            children: d(`h3`, {
+                                              dir: `auto`,
+                                              style: {
+                                                "--font-selector": `RlM7TWFucm9wZS1zZW1pYm9sZA==`,
+                                                "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                "--framer-font-size": `25px`,
+                                                "--framer-font-weight": `600`,
+                                                "--framer-letter-spacing": `-0.02em`,
+                                                "--framer-line-height": `1.15em`,
+                                                "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                              },
+                                              children: `Vamos transformar seu desafio em solução.`,
+                                            }),
+                                          }),
+                                          fonts: [`FS;Manrope-semibold`],
+                                        },
+                                        JvUVvulcJ: {
+                                          children: d(s, {
+                                            children: d(`h3`, {
+                                              dir: `auto`,
+                                              style: {
+                                                "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                                "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                "--framer-font-size": `26px`,
+                                                "--framer-font-weight": `500`,
+                                                "--framer-letter-spacing": `-0.02em`,
+                                                "--framer-line-height": `1.3em`,
+                                                "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                              },
+                                              children: `Vamos transformar seu desafio em solução.`,
+                                            }),
+                                          }),
+                                        },
+                                      },
+                                      children: d(Y, {
+                                        __framer__animate: { transition: Mo },
+                                        __framer__animateOnce: !0,
+                                        __framer__enter: Q,
+                                        __framer__styleAppearEffectEnabled: !0,
+                                        __framer__threshold: 0.5,
+                                        __fromCanvasComponent: !0,
+                                        __perspectiveFX: !1,
+                                        __targetOpacity: 1,
+                                        children: d(s, {
+                                          children: d(`h3`, {
+                                            dir: `auto`,
+                                            style: {
+                                              "--font-selector": `RlM7TWFucm9wZS1tZWRpdW0=`,
+                                              "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                              "--framer-font-size": `35px`,
+                                              "--framer-font-weight": `500`,
+                                              "--framer-letter-spacing": `-0.02em`,
+                                              "--framer-line-height": `1.3em`,
+                                              "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                            },
+                                            children: `Vamos transformar seu desafio em solução.`,
+                                          }),
+                                        }),
+                                        className: `framer-1g0am36`,
+                                        fonts: [`FS;Manrope-medium`],
+                                        verticalAlignment: `top`,
+                                        withExternalLayout: !0,
+                                      }),
+                                    }),
+                                    d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: {
+                                          children: d(s, {
+                                            children: d(`p`, {
+                                              dir: `auto`,
+                                              style: {
+                                                "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                "--framer-line-height": `1.45em`,
+                                                "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                              },
+                                              children: `Conte-nos sobre seu desafio. Vamos conversar sobre como a tecnologia pode apoiar seu negócio.`,
+                                            }),
+                                          }),
+                                          fonts: [`FS;Manrope-regular`],
+                                        },
+                                      },
+                                      children: d(Y, {
+                                        __framer__animate: { transition: Po },
+                                        __framer__animateOnce: !0,
+                                        __framer__enter: Q,
+                                        __framer__styleAppearEffectEnabled: !0,
+                                        __framer__threshold: 0.5,
+                                        __fromCanvasComponent: !0,
+                                        __perspectiveFX: !1,
+                                        __targetOpacity: 1,
+                                        children: d(s, {
+                                          children: d(`p`, {
+                                            className: `framer-styles-preset-n0dfic`,
+                                            "data-styles-preset": `NM_uX2bcR`,
+                                            dir: `auto`,
+                                            style: {
+                                              "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                            },
+                                            children: `Conte-nos sobre seu desafio. Vamos conversar sobre como a tecnologia pode apoiar seu negócio.`,
+                                          }),
+                                        }),
+                                        className: `framer-1pjze87`,
+                                        fonts: [`Inter`],
+                                        verticalAlignment: `top`,
+                                        withExternalLayout: !0,
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                                m(`div`, {
+                                  className: `framer-16e4z99`,
+                                  "data-framer-name": `Information`,
+                                  children: [
+                                    d(ge, {
+                                      href: `mailto:support@cunsultra.com`,
+                                      motionChild: !0,
+                                      nodeId: `jEyrz8iz7`,
+                                      openInNewTab: !0,
+                                      scopeId: `augiA20Il`,
+                                      children: m(x.a, {
+                                        className: `framer-7vxu2o framer-lux5qc`,
+                                        "data-border": !0,
+                                        "data-framer-name": `Email`,
+                                        children: [
+                                          m(Se, {
+                                            className: `framer-896486`,
+                                            "data-framer-name": `Icon`,
+                                            requiresOverflowVisible: !1,
+                                            svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 14.142" overflow="visible"><path d="M 0.003 2.767 C 0.07 1.22 1.344 0 2.893 0 L 15.107 0 C 16.656 0 17.93 1.22 17.997 2.767 L 17.049 3.294 L 9 7.626 L 0.951 3.293 L 0.003 2.766 Z M 0 4.234 L 0 11.249 C 0 12.846 1.295 14.142 2.893 14.142 L 15.107 14.142 C 16.704 14.142 17.999 12.847 18 11.25 L 18 4.235 L 17.662 4.424 L 9.305 8.924 C 9.114 9.027 8.886 9.027 8.695 8.924 L 0.33 4.419 L 0 4.235 Z" fill="var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))"></path></svg>`,
+                                            withExternalLayout: !0,
+                                            children: [
+                                              d(Se, {
+                                                className: `framer-1qiwkju`,
+                                                requiresOverflowVisible: !1,
+                                                svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17.995 7.626" overflow="visible"><path d="M 0 2.767 C 0.067 1.22 1.342 0 2.89 0 L 15.105 0 C 16.653 0 17.927 1.22 17.995 2.767 L 17.046 3.294 L 8.997 7.626 L 0.949 3.293 L 0 2.766 Z" fill="transparent"></path></svg>`,
+                                                withExternalLayout: !0,
+                                              }),
+                                              d(Se, {
+                                                className: `framer-z0awoe`,
+                                                requiresOverflowVisible: !1,
+                                                svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 9.908" overflow="visible"><path d="M 0 0 L 0 7.015 C 0 8.613 1.295 9.908 2.893 9.908 L 15.107 9.908 C 16.704 9.908 17.999 8.613 18 7.016 L 18 0.001 L 17.662 0.19 L 9.305 4.69 C 9.114 4.793 8.886 4.793 8.695 4.69 L 0.33 0.185 L 0 0.001 Z" fill="transparent"></path></svg>`,
+                                                withExternalLayout: !0,
+                                              }),
+                                            ],
+                                          }),
+                                          d(L, {
+                                            breakpoint: y,
+                                            overrides: {
+                                              EIXefzEOt: {
+                                                children: d(s, {
+                                                  children: d(`p`, {
+                                                    dir: `auto`,
+                                                    style: {
+                                                      "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                      "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                      "--framer-font-size": `14px`,
+                                                      "--framer-line-height": `1.4em`,
+                                                      "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                    },
+                                                    children: `contato@upgoal.com.br`,
+                                                  }),
+                                                }),
+                                                fonts: [`FS;Manrope-regular`],
+                                              },
+                                            },
+                                            children: d(N, {
+                                              __fromCanvasComponent: !0,
+                                              children: d(s, {
+                                                children: d(`p`, {
+                                                  className: `framer-styles-preset-5np2z3`,
+                                                  "data-styles-preset": `rhST_ZvFU`,
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                  },
+                                                  children: `contato@upgoal.com.br`,
+                                                }),
+                                              }),
+                                              className: `framer-9el6s3`,
+                                              fonts: [`Inter`],
+                                              verticalAlignment: `top`,
+                                              withExternalLayout: !0,
+                                            }),
+                                          }),
+                                        ],
+                                      }),
+                                    }),
+                                    d(ge, {
+                                      href: `tel:0012121231223`,
+                                      motionChild: !0,
+                                      nodeId: `f3r1noret`,
+                                      openInNewTab: !0,
+                                      scopeId: `augiA20Il`,
+                                      children: m(x.a, {
+                                        className: `framer-fn1eby framer-lux5qc`,
+                                        "data-border": !0,
+                                        "data-framer-name": `Phone`,
+                                        children: [
+                                          d(Se, {
+                                            className: `framer-51x4gw`,
+                                            requiresOverflowVisible: !1,
+                                            svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17.388 17.266" overflow="visible"><path d="M 2.137 0 L 5.198 0 C 5.453 0 5.681 0.158 5.771 0.397 L 6.959 3.555 C 6.998 3.66 7.008 3.773 6.988 3.882 L 6.392 7.075 C 7.124 8.796 8.333 9.952 10.336 10.989 L 13.491 10.377 C 13.603 10.356 13.719 10.366 13.825 10.407 L 16.993 11.614 C 17.231 11.705 17.387 11.932 17.388 12.186 L 17.388 15.111 C 17.388 16.438 16.219 17.514 14.851 17.216 C 12.359 16.674 7.743 15.296 4.509 12.062 C 1.411 8.965 0.373 4.687 0.024 2.375 C -0.176 1.054 0.883 0 2.137 0 Z" fill="var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))"></path></svg>`,
+                                            withExternalLayout: !0,
+                                          }),
+                                          d(L, {
+                                            breakpoint: y,
+                                            overrides: {
+                                              EIXefzEOt: {
+                                                children: d(s, {
+                                                  children: d(`p`, {
+                                                    dir: `auto`,
+                                                    style: {
+                                                      "--font-selector": `RlM7TWFucm9wZS1yZWd1bGFy`,
+                                                      "--framer-font-family": `"Manrope", "Manrope Placeholder", sans-serif`,
+                                                      "--framer-font-size": `14px`,
+                                                      "--framer-line-height": `1.4em`,
+                                                      "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                    },
+                                                    children: `+55 (11) 94584-8172`,
+                                                  }),
+                                                }),
+                                                fonts: [`FS;Manrope-regular`],
+                                              },
+                                            },
+                                            children: d(N, {
+                                              __fromCanvasComponent: !0,
+                                              children: d(s, {
+                                                children: d(`p`, {
+                                                  className: `framer-styles-preset-5np2z3`,
+                                                  "data-styles-preset": `rhST_ZvFU`,
+                                                  dir: `auto`,
+                                                  style: {
+                                                    "--framer-text-color": `var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, rgb(247, 247, 247))`,
+                                                  },
+                                                  children: `+55 (11) 94584-8172`,
+                                                }),
+                                              }),
+                                              className: `framer-n1z2tu`,
+                                              fonts: [`Inter`],
+                                              verticalAlignment: `top`,
+                                              withExternalLayout: !0,
+                                            }),
+                                          }),
+                                        ],
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                              ],
+                            }),
+                            d(_o, {
+                              __framer__animate: { transition: $ },
+                              __framer__animateOnce: !0,
+                              __framer__enter: Q,
+                              __framer__styleAppearEffectEnabled: !0,
+                              __framer__threshold: 0.5,
+                              __perspectiveFX: !1,
+                              __targetOpacity: 1,
+                              action: `https://api.framer.com/forms/v1/forms/f4432696-3517-4125-bc67-6de60d182fad/submit`,
+                              className: `framer-1erp5fm`,
+                              nodeId: `nFQQvAwqS`,
+                              children: (e) =>
+                                m(g, {
+                                  children: [
+                                    m(`label`, {
+                                      className: `framer-1f5eml7`,
+                                      children: [
+                                        d(N, {
+                                          __fromCanvasComponent: !0,
+                                          children: d(s, {
+                                            children: d(`p`, {
+                                              className: `framer-styles-preset-1st835d`,
+                                              "data-styles-preset": `dzHmrYhu8`,
+                                              dir: `auto`,
+                                              style: {
+                                                "--framer-text-color": `var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`,
+                                              },
+                                              children: `Nome`,
+                                            }),
+                                          }),
+                                          className: `framer-bvvtyi`,
+                                          fonts: [`Inter`],
+                                          verticalAlignment: `top`,
+                                          withExternalLayout: !0,
+                                        }),
+                                        d(he, {
+                                          className: `framer-6lnbhj`,
+                                          inputName: `Full Name`,
+                                          placeholder: `Nome de contato`,
+                                          required: !0,
+                                          tabIndex: 1,
+                                          type: `text`,
+                                        }),
+                                      ],
+                                    }),
+                                    m(`label`, {
+                                      className: `framer-jwlgc`,
+                                      children: [
+                                        d(N, {
+                                          __fromCanvasComponent: !0,
+                                          children: d(s, {
+                                            children: d(`p`, {
+                                              className: `framer-styles-preset-1st835d`,
+                                              "data-styles-preset": `dzHmrYhu8`,
+                                              dir: `auto`,
+                                              style: {
+                                                "--framer-text-color": `var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`,
+                                              },
+                                              children: `E-mail corporativo`,
+                                            }),
+                                          }),
+                                          className: `framer-1loel26`,
+                                          fonts: [`Inter`],
+                                          verticalAlignment: `top`,
+                                          withExternalLayout: !0,
+                                        }),
+                                        d(he, {
+                                          className: `framer-1sh4r2v`,
+                                          inputName: `Email Address`,
+                                          placeholder: `nome@empresa.com.br`,
+                                          required: !0,
+                                          tabIndex: 1,
+                                          type: `email`,
+                                        }),
+                                      ],
+                                    }),
+                                    m(`label`, {
+                                      className: `framer-1uskh03`,
+                                      children: [
+                                        d(N, {
+                                          __fromCanvasComponent: !0,
+                                          children: d(s, {
+                                            children: d(`p`, {
+                                              className: `framer-styles-preset-1st835d`,
+                                              "data-styles-preset": `dzHmrYhu8`,
+                                              dir: `auto`,
+                                              style: {
+                                                "--framer-text-color": `var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`,
+                                              },
+                                              children: `Como podemos ajudar?`,
+                                            }),
+                                          }),
+                                          className: `framer-1tp442z`,
+                                          fonts: [`Inter`],
+                                          verticalAlignment: `top`,
+                                          withExternalLayout: !0,
+                                        }),
+                                        d(ve, {
+                                          className: `framer-1vl7pxt`,
+                                          defaultValue: ``,
+                                          inputName: `Subject of Interest`,
+                                          required: !1,
+                                          selectOptions: [
+                                            {
+                                              title: `Selecione uma opção`,
+                                              type: `option`,
+                                              value: ``,
+                                            },
+                                            {
+                                              title: `Soluções Digitais`,
+                                              type: `option`,
+                                              value: `Soluções Digitais`,
+                                            },
+                                            {
+                                              title: `IA & Automação`,
+                                              type: `option`,
+                                              value: `IA & Automação`,
+                                            },
+                                            {
+                                              title: `Dados & Analytics`,
+                                              type: `option`,
+                                              value: `Dados & Analytics`,
+                                            },
+                                            {
+                                              title: `Estratégia & Governança de Tecnologia`,
+                                              type: `option`,
+                                              value: `Estratégia & Governança de Tecnologia`,
+                                            },
+                                            {
+                                              title: `Outro`,
+                                              type: `option`,
+                                              value: `Outro`,
+                                            },
+                                          ],
+                                          tabIndex: 1,
+                                        }),
+                                      ],
+                                    }),
+                                    m(`label`, {
+                                      className: `framer-1fh062x`,
+                                      children: [
+                                        d(N, {
+                                          __fromCanvasComponent: !0,
+                                          children: d(s, {
+                                            children: d(`p`, {
+                                              className: `framer-styles-preset-1st835d`,
+                                              "data-styles-preset": `dzHmrYhu8`,
+                                              dir: `auto`,
+                                              style: {
+                                                "--framer-text-color": `var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, rgb(18, 18, 18))`,
+                                              },
+                                              children: `Conte-nos sobre seu desafio`,
+                                            }),
+                                          }),
+                                          className: `framer-1r0bpot`,
+                                          fonts: [`Inter`],
+                                          verticalAlignment: `top`,
+                                          withExternalLayout: !0,
+                                        }),
+                                        d(he, {
+                                          className: `framer-elcokq`,
+                                          inputName: `Message`,
+                                          placeholder: `Conte brevemente o que sua empresa precisa...`,
+                                          required: !0,
+                                          tabIndex: 1,
+                                          type: `textarea`,
+                                        }),
+                                      ],
+                                    }),
+                                    d(L, {
+                                      breakpoint: y,
+                                      overrides: {
+                                        EIXefzEOt: {
+                                          width: `calc(min(${u?.width || `100vw`} - 32px, 1120px) - 48px)`,
+                                        },
+                                        JvUVvulcJ: {
+                                          width: `calc(min(max(${u?.width || `100vw`} - 64px, 1px), 1120px) - 48px)`,
+                                        },
+                                      },
+                                      children: d(U, {
+                                        height: 48,
+                                        width: `calc(max((min(max(${u?.width || `100vw`} - 80px, 1px), 1120px) - 80px) / 2, 1px) - 48px)`,
+                                        children: d(B, {
+                                          className: `framer-blxr3i-container`,
+                                          nodeId: `mGHROhWKr`,
+                                          scopeId: `augiA20Il`,
+                                          children: d(Ci, {
+                                            height: `100%`,
+                                            id: `mGHROhWKr`,
+                                            layoutId: `mGHROhWKr`,
+                                            style: {
+                                              height: `100%`,
+                                              width: `100%`,
+                                            },
+                                            type: `submit`,
+                                            variant: Io(
+                                              e,
+                                              {
+                                                error: `Mi13FqsiN`,
+                                                incomplete: `juq4WSa8_`,
+                                                pending: `iRCCC6zg4`,
+                                                success: `w4rUkkv9p`,
+                                              },
+                                              Z(`IzWsCW0CG`),
+                                            ),
+                                            width: `100%`,
+                                            XIHQAvpk2: `Fale com a UPGOAL`,
+                                          }),
+                                        }),
+                                      }),
+                                    }),
+                                  ],
+                                }),
+                            }),
+                          ],
+                        }),
+                      ],
+                    }),
+                  ],
+                }),
+                d(`div`, { id: `overlay` }),
+              ],
+            }),
+          })
+        );
+      }),
+      [
+        `.framer-a8flv.framer-lux5qc, .framer-a8flv .framer-lux5qc { display: block; }`,
+        `.framer-a8flv.framer-72rtr7 { align-content: center; align-items: center; background-color: var(--token-f781079c-c80f-4a08-99cf-d7cc187402d8, #f5f0e8); display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1218px; }`,
+        `.framer-a8flv .framer-p98m37 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; min-height: 100vh; overflow: var(--overflow-clip-fallback, clip); padding: 100px 40px 100px 40px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1letey9 { flex: none; height: 100vh; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; top: 0px; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`,
+        `.framer-a8flv .framer-1q5gv3k { flex: none; height: 100vh; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; top: calc(50.00000000000002% - 100vh / 2); width: 100%; will-change: var(--framer-will-change-filter-override, filter); }`,
+        `.framer-a8flv .framer-18g7lct { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; max-width: 1120px; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; z-index: 1; }`,
+        `.framer-a8flv .framer-1vcsdp3 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 11px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`,
+        `.framer-a8flv .framer-143bdf6, .framer-a8flv .framer-bsr3mu, .framer-a8flv .framer-o1egoa, .framer-a8flv .framer-a3y21b, .framer-a8flv .framer-9el6s3, .framer-a8flv .framer-n1z2tu { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre; width: auto; }`,
+        `.framer-a8flv .framer-1cmui4l { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 64px; height: min-content; justify-content: center; max-width: 820px; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-17owkka { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 32px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1tboang { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; max-width: 660px; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-z06wl8, .framer-a8flv .framer-1r4e5vv, .framer-a8flv .framer-tt3kek, .framer-a8flv .framer-10h3coi, .framer-a8flv .framer-pd11bf, .framer-a8flv .framer-1qyzrhx, .framer-a8flv .framer-118rr9f, .framer-a8flv .framer-qao20k, .framer-a8flv .framer-1kmhyre, .framer-a8flv .framer-119legz, .framer-a8flv .framer-10s713u, .framer-a8flv .framer-d5nlvz, .framer-a8flv .framer-1irxwzg, .framer-a8flv .framer-1g0am36 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-1uibgej { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: 72px; position: relative; white-space: pre-wrap; width: 660px; will-change: var(--framer-will-change-effect-override, transform); word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-1c3rxic { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-13bb81r-container { flex: none; height: auto; position: relative; width: auto; will-change: var(--framer-will-change-effect-override, transform); }`,
+        `.framer-a8flv .framer-17usac1 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`,
+        `.framer-a8flv .framer-19lguon, .framer-a8flv .framer-102089p { background-color: var(--token-24c53615-8b7e-45eb-8641-dad0d83e7e4f, rgba(255, 255, 255, 0.5)); flex: none; height: 18px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 1px; }`,
+        `.framer-a8flv .framer-xzrekb { align-content: center; align-items: center; background-color: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 50px 40px 50px 40px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-coeewu { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 87px; height: min-content; justify-content: center; max-width: 1120px; overflow: visible; padding: 0px; position: relative; width: 1px; }`,
+        `.framer-a8flv .framer-1m09fpc { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 16%; position: relative; white-space: pre-wrap; width: 180px; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-sxp70c-container { flex: none; height: auto; position: relative; width: 846px; }`,
+        `.framer-a8flv .framer-vg7zeq, .framer-a8flv .framer-ex69bk, .framer-a8flv .framer-v1omwe { align-content: center; align-items: center; background-color: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 100px 40px 100px 40px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-x8hayp, .framer-a8flv .framer-mf8cvp, .framer-a8flv .framer-z5k9rj, .framer-a8flv .framer-1mxtp5v, .framer-a8flv .framer-1i8uip1, .framer-a8flv .framer-13fuz6h { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: min-content; justify-content: center; max-width: 1120px; overflow: visible; padding: 0px; position: relative; width: 1px; }`,
+        `.framer-a8flv .framer-lvrw37 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 560px; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-106ouzb-container, .framer-a8flv .framer-1tsgjyg-container, .framer-a8flv .framer-1c7mr98-container, .framer-a8flv .framer-vlecsf-container, .framer-a8flv .framer-1qrdvop-container, .framer-a8flv .framer-10p1u4k-container, .framer-a8flv .framer-pql414-container, .framer-a8flv .framer-7gjgzb-container { flex: none; height: auto; position: relative; width: auto; }`,
+        `.framer-a8flv .framer-olac9t { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 480px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-1x0des1 { display: grid; flex: none; gap: 16px 16px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(2, minmax(50px, 1fr)); grid-template-rows: repeat(2, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-15l089w-container, .framer-a8flv .framer-1g7ovmb-container { align-self: start; flex: none; height: 100%; justify-self: start; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-60ezn7-container { align-self: start; flex: none; grid-column: span 2; height: 100%; justify-self: start; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1mz48pi, .framer-a8flv .framer-qt3uut { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 100px 40px 100px 40px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-11lnlkx { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 471px; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-lghkx8, .framer-a8flv .framer-kqv9fb { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 200%; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-mflmhd { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1ov44s7 { align-content: flex-start; align-items: flex-start; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; height: 486px; justify-content: space-between; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 32%; will-change: var(--framer-will-change-override, transform); }`,
+        `.framer-a8flv .framer-4b5efu { background: linear-gradient(270deg, rgba(23, 22, 18, 0.68) 0%, rgba(255, 255, 255, 0) 61%); bottom: 0px; flex: none; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; right: 0px; top: 0px; z-index: 1; }`,
+        `.framer-a8flv .framer-15mu0ff { --border-bottom-width: 1px; --border-color: var(--token-5160940c-7a55-4fef-a054-52acec2a328c, #ededed); --border-left-width: 1px; --border-right-width: 1px; --border-style: solid; --border-top-width: 1px; -webkit-backdrop-filter: blur(12px); align-content: flex-start; align-items: flex-start; backdrop-filter: blur(12px); background-color: var(--token-596a95c6-0af8-4459-a8dd-6fc8a7d783aa, rgba(255, 255, 255, 0.73)); border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; border-top-left-radius: 12px; border-top-right-radius: 12px; bottom: 16px; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 11px; height: min-content; justify-content: center; left: 16px; overflow: var(--overflow-clip-fallback, clip); padding: 16px; position: absolute; right: 17px; will-change: var(--framer-will-change-override, transform); }`,
+        `.framer-a8flv .framer-g3rf79, .framer-a8flv .framer-6wyb0h { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1c7dps3 { display: grid; flex: 1 0 0px; gap: 16px 16px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(2, minmax(50px, 1fr)); grid-template-rows: repeat(2, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1px; }`,
+        `.framer-a8flv .framer-b43god-container, .framer-a8flv .framer-1s0n5o1-container, .framer-a8flv .framer-1jlaz66-container, .framer-a8flv .framer-dsa4lb-container { align-self: start; flex: none; height: 100%; justify-self: start; position: relative; width: 100%; z-index: 1; }`,
+        `.framer-a8flv .framer-1mgo3s1 { align-content: center; align-items: center; background-color: var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, #121212); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 100px 40px 100px 40px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1uyoytb, .framer-a8flv .framer-1yharqn { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 63%; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1gvieij { display: grid; flex: none; gap: 0px 0px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(2, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-lko323 { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-yobnau { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 80px; height: min-content; justify-content: center; min-height: 100vh; overflow: var(--overflow-clip-fallback, clip); padding: 0px 60px 0px 60px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1bwm7ar, .framer-a8flv .framer-8dymt3, .framer-a8flv .framer-1oespgg, .framer-a8flv .framer-1nrg4o4 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; opacity: 0.5; position: relative; white-space: pre; width: auto; }`,
+        `.framer-a8flv .framer-40xit8, .framer-a8flv .framer-s8rgu9, .framer-a8flv .framer-1ytp22k, .framer-a8flv .framer-11ak85 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-9d6h5k, .framer-a8flv .framer-1p52a6h { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 71%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-175ojva-container, .framer-a8flv .framer-1mmtta3-container, .framer-a8flv .framer-1xvjsou-container, .framer-a8flv .framer-ri3h9g-container { flex: none; height: 353px; max-height: 580px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-sake9c, .framer-a8flv .framer-ndtfxm, .framer-a8flv .framer-1pvenrj { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 80px; height: min-content; justify-content: center; min-height: 100vh; overflow: var(--overflow-clip-fallback, clip); padding: 40px 60px 40px 60px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-72do80 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 75%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-1prxvq0 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 63%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-1o6p6og { align-content: flex-end; align-items: flex-end; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: 100vh; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 30px 0px 40px 30px; position: sticky; top: 0px; width: 100%; z-index: 1; }`,
+        `.framer-a8flv .framer-1pxqv0y-container { flex: 1 0 0px; height: 1px; max-height: 580px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1gfuvmz { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 710px; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-sihzi7 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 100px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-x86bsi-container, .framer-a8flv .framer-s4z9xr-container { flex: none; height: auto; position: sticky; top: 50px; width: 100%; z-index: 1; }`,
+        `.framer-a8flv .framer-1uvsc1t-container { flex: none; height: auto; position: relative; width: 100%; z-index: 1; }`,
+        `.framer-a8flv .framer-1ljacsi { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; max-width: 545px; overflow: visible; padding: 0px; position: relative; width: 533px; }`,
+        `.framer-a8flv .framer-tivpjm { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 644px; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-j1e1od { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 598px; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-22dn1n { display: grid; flex: none; gap: 16px 16px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(3, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: 561px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1098403-container { align-self: center; flex: none; height: auto; justify-self: center; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-c2jfr4 { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: 553px; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px 0px 0px 43px; position: relative; width: 710px; }`,
+        `.framer-a8flv .framer-n7phum { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 6px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1madq09, .framer-a8flv .framer-146z416 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 665px; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-epgigs { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1ea3rhd, .framer-a8flv .framer-1w97azx { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: 85px; max-width: 71%; position: relative; white-space: pre-wrap; width: 474px; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-1j447vm { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: 105px; max-width: 71%; position: relative; white-space: pre-wrap; width: 473px; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-cpg40s-container { flex: none; height: auto; max-width: 800px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-18he95t { align-content: center; align-items: center; background-color: var(--token-cb6b9a2a-93f1-4530-b536-1c95f4cd675c, #121212); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 80px 40px 80px 40px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1ggw8h6 { bottom: -78px; flex: none; left: 0px; opacity: 0.58; overflow: var(--overflow-clip-fallback, clip); position: absolute; right: 502px; top: 0px; will-change: var(--framer-will-change-filter-override, filter); z-index: 0; }`,
+        `.framer-a8flv .framer-1i3wlzw { background: radial-gradient(100% 43% at 36.3% 48.199999999999996%, rgba(0, 0, 0, 0.21) 0%, rgba(0, 0, 0, 0.31) 28.000000000000004%, rgba(0, 0, 0, 0.44) 65%, rgba(0, 0, 0, 0.85) 100%); flex: none; height: 734px; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; right: 0px; top: 0px; z-index: 0; }`,
+        `.framer-a8flv .framer-niaqf0 { background: linear-gradient(180deg, rgba(0, 0, 0, 0) 6%, rgba(14, 14, 14, 0.6) 30%, rgba(14, 14, 14, 0.61) 53%, rgba(14, 14, 14, 0.62) 72%, rgb(18, 18, 18) 100%); bottom: 0px; flex: none; height: 326px; left: 0px; overflow: var(--overflow-clip-fallback, clip); position: absolute; right: 0px; }`,
+        `.framer-a8flv .framer-1dz6oct { align-content: flex-start; align-items: flex-start; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 80px; height: min-content; justify-content: flex-start; max-width: 1120px; overflow: visible; padding: 0px; position: relative; width: 1px; }`,
+        `.framer-a8flv .framer-1iqa4dw { align-content: center; align-items: center; align-self: stretch; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; height: auto; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 1px; }`,
+        `.framer-a8flv .framer-edbqf0 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1pjze87 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 80%; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`,
+        `.framer-a8flv .framer-16e4z99 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 7px 20px; height: min-content; justify-content: center; overflow: visible; padding: 20px 0px 0px 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-7vxu2o, .framer-a8flv .framer-fn1eby { --border-bottom-width: 1px; --border-color: var(--token-054f9a57-d713-4acf-997a-8dd3de74d2ab, #3b3930); --border-left-width: 0px; --border-right-width: 0px; --border-style: solid; --border-top-width: 0px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 10px 0px 10px 0px; position: relative; text-decoration: none; width: 100%; }`,
+        `.framer-a8flv .framer-896486 { height: 14px; position: relative; width: 18px; }`,
+        `.framer-a8flv .framer-1qiwkju { height: 8px; left: 0px; position: absolute; top: 0px; width: 18px; }`,
+        `.framer-a8flv .framer-z0awoe { height: 10px; left: 0px; position: absolute; top: 4px; width: 18px; }`,
+        `.framer-a8flv .framer-51x4gw { height: 18px; position: relative; width: 18px; }`,
+        `.framer-a8flv .framer-1erp5fm { -webkit-backdrop-filter: blur(10px); align-content: flex-start; align-items: flex-start; backdrop-filter: blur(10px); background-color: var(--token-24c53615-8b7e-45eb-8641-dad0d83e7e4f, rgba(255, 255, 255, 0.5)); border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 24px 24px 48px 24px; position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }`,
+        `.framer-a8flv .framer-1f5eml7, .framer-a8flv .framer-jwlgc, .framer-a8flv .framer-1uskh03, .framer-a8flv .framer-1fh062x { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; padding: 0px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-bvvtyi, .framer-a8flv .framer-1loel26, .framer-a8flv .framer-1tp442z, .framer-a8flv .framer-1r0bpot { flex: none; height: auto; opacity: 0.9; position: relative; white-space: pre; width: auto; }`,
+        `.framer-a8flv .framer-6lnbhj, .framer-a8flv .framer-1sh4r2v { --framer-input-background: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); --framer-input-border-bottom-width: 1px; --framer-input-border-color: var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, #dbdbdb); --framer-input-border-left-width: 1px; --framer-input-border-radius-bottom-left: 10px; --framer-input-border-radius-bottom-right: 10px; --framer-input-border-radius-top-left: 10px; --framer-input-border-radius-top-right: 10px; --framer-input-border-right-width: 1px; --framer-input-border-style: solid; --framer-input-border-top-width: 1px; --framer-input-focused-border-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-input-focused-border-style: solid; --framer-input-focused-border-width: 1px; --framer-input-font-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-input-font-family: "Manrope"; --framer-input-font-letter-spacing: 0em; --framer-input-font-line-height: 1.6em; --framer-input-font-size: 16px; --framer-input-font-weight: 400; --framer-input-icon-mask-image: none; --framer-input-padding: 12px; --framer-input-placeholder-color: var(--token-67bae720-d539-4f4b-986f-d6f95401ffb5, rgba(25, 25, 28, 0.6)); flex: none; height: 48px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-1vl7pxt { --framer-input-background: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); --framer-input-border-bottom-width: 1px; --framer-input-border-color: var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, #dbdbdb); --framer-input-border-left-width: 1px; --framer-input-border-radius-bottom-left: 10px; --framer-input-border-radius-bottom-right: 10px; --framer-input-border-radius-top-left: 10px; --framer-input-border-radius-top-right: 10px; --framer-input-border-right-width: 1px; --framer-input-border-style: solid; --framer-input-border-top-width: 1px; --framer-input-focused-border-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-input-focused-border-style: solid; --framer-input-focused-border-width: 1px; --framer-input-font-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-input-font-family: "Manrope"; --framer-input-font-letter-spacing: 0em; --framer-input-font-line-height: 1.6em; --framer-input-font-size: 16px; --framer-input-font-weight: 400; --framer-input-icon-color: #999999; --framer-input-invalid-text-color: var(--token-67bae720-d539-4f4b-986f-d6f95401ffb5, rgba(25, 25, 28, 0.6)); --framer-input-padding: 12px; flex: none; height: 48px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-elcokq { --framer-input-background: var(--token-24b482cd-f7b7-40f1-aaab-e525496592c2, #ffffff); --framer-input-border-bottom-width: 1px; --framer-input-border-color: var(--token-9e5a290a-acea-437d-b1cf-5b9fb8439761, #dbdbdb); --framer-input-border-left-width: 1px; --framer-input-border-radius-bottom-left: 10px; --framer-input-border-radius-bottom-right: 10px; --framer-input-border-radius-top-left: 10px; --framer-input-border-radius-top-right: 10px; --framer-input-border-right-width: 1px; --framer-input-border-style: solid; --framer-input-border-top-width: 1px; --framer-input-focused-border-color: var(--token-fb58fd5e-b527-4385-a1a9-9f6b46525c75, #171612); --framer-input-focused-border-style: solid; --framer-input-focused-border-width: 1px; --framer-input-font-color: var(--token-e2686594-ca22-44ca-868b-74a2f3b57992, #19191c); --framer-input-font-family: "Manrope"; --framer-input-font-letter-spacing: 0em; --framer-input-font-line-height: 1.6em; --framer-input-font-size: 16px; --framer-input-font-weight: 400; --framer-input-icon-mask-image: none; --framer-input-padding: 12px; --framer-input-placeholder-color: var(--token-67bae720-d539-4f4b-986f-d6f95401ffb5, rgba(25, 25, 28, 0.6)); --framer-input-wrapper-height: auto; --framer-textarea-resize: vertical; flex: none; height: auto; min-height: 100px; position: relative; width: 100%; }`,
+        `.framer-a8flv .framer-blxr3i-container { flex: none; height: 48px; position: relative; width: 100%; }`,
+        ...La,
+        ...Va,
+        ...Ga,
+        ...Be,
+        ...Ya,
+        ...an,
+        ...Ar,
+        ...Oe,
+        `.framer-a8flv[data-border="true"]::after, .framer-a8flv [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; corner-shape: inherit; pointer-events: none; }`,
+        `@media (min-width: 810px) and (max-width: 1217.98px) { .framer-a8flv.framer-72rtr7 { width: 810px; } .framer-a8flv .framer-p98m37, .framer-a8flv .framer-vg7zeq, .framer-a8flv .framer-1mz48pi, .framer-a8flv .framer-1mgo3s1, .framer-a8flv .framer-ex69bk, .framer-a8flv .framer-v1omwe, .framer-a8flv .framer-qt3uut, .framer-a8flv .framer-18he95t { padding: 80px 32px 80px 32px; } .framer-a8flv .framer-1tboang, .framer-a8flv .framer-1gfuvmz { max-width: 550px; } .framer-a8flv .framer-1uibgej { max-width: 100%; } .framer-a8flv .framer-17usac1 { flex-wrap: wrap; gap: 14px 18px; } .framer-a8flv .framer-xzrekb { padding: 40px 32px 40px 32px; } .framer-a8flv .framer-1m09fpc { max-width: 25%; } .framer-a8flv .framer-lvrw37 { max-width: 600px; } .framer-a8flv .framer-olac9t { max-width: 408px; } .framer-a8flv .framer-11lnlkx { max-width: 410px; } .framer-a8flv .framer-mflmhd { flex-direction: column; } .framer-a8flv .framer-1ov44s7 { gap: 0px; height: 665px; justify-content: center; order: 0; width: 100%; } .framer-a8flv .framer-15mu0ff { right: 16px; } .framer-a8flv .framer-1c7dps3 { flex: none; order: 1; width: 100%; } .framer-a8flv .framer-b43god-container, .framer-a8flv .framer-1s0n5o1-container, .framer-a8flv .framer-1jlaz66-container, .framer-a8flv .framer-dsa4lb-container { height: auto; } .framer-a8flv .framer-1uyoytb, .framer-a8flv .framer-118rr9f, .framer-a8flv .framer-1yharqn { max-width: 80%; } .framer-a8flv .framer-yobnau { padding: 0px 30px 0px 30px; } .framer-a8flv .framer-9d6h5k, .framer-a8flv .framer-72do80, .framer-a8flv .framer-1p52a6h { max-width: unset; } .framer-a8flv .framer-sake9c, .framer-a8flv .framer-ndtfxm, .framer-a8flv .framer-1pvenrj { padding: 40px 30px 40px 30px; } .framer-a8flv .framer-1prxvq0 { max-width: 90%; } .framer-a8flv .framer-1pxqv0y-container { max-height: 433px; } .framer-a8flv .framer-a3y21b { max-width: 68%; white-space: pre-wrap; word-break: break-word; word-wrap: break-word; } .framer-a8flv .framer-sihzi7 { gap: 80px; } .framer-a8flv .framer-x86bsi-container, .framer-a8flv .framer-s4z9xr-container { position: relative; top: unset; } .framer-a8flv .framer-1ljacsi { max-width: 436px; } .framer-a8flv .framer-22dn1n { grid-template-columns: repeat(2, minmax(50px, 1fr)); height: 581px; } .framer-a8flv .framer-c2jfr4 { height: 600px; padding: 0px; width: 364px; } .framer-a8flv .framer-n7phum { align-content: flex-start; align-items: flex-start; } .framer-a8flv .framer-1ea3rhd { height: 103px; max-width: unset; width: 350px; } .framer-a8flv .framer-1w97azx { height: 97px; max-width: unset; width: 350px; } .framer-a8flv .framer-1j447vm { height: 133px; max-width: unset; width: 350px; } .framer-a8flv .framer-1ggw8h6 { bottom: 683px; right: 0px; } .framer-a8flv .framer-1i3wlzw { background: radial-gradient(55.00000000000001% 43% at 32% 45%, rgba(0, 0, 0, 0.21) 0%, rgba(0, 0, 0, 0.31) 38%, rgba(0, 0, 0, 0.44) 65%, rgba(0, 0, 0, 0.85) 100%); height: 635px; } .framer-a8flv .framer-niaqf0 { bottom: -20px; height: 321px; } .framer-a8flv .framer-1dz6oct { flex-direction: column; gap: 60px; } .framer-a8flv .framer-1iqa4dw { align-self: unset; flex: none; gap: 219px; height: min-content; justify-content: flex-start; width: 100%; } .framer-a8flv .framer-1pjze87 { max-width: 55%; } .framer-a8flv .framer-1erp5fm { flex: none; width: 100%; }}`,
+        `@media (max-width: 809.98px) { .framer-a8flv.framer-72rtr7 { width: 390px; } .framer-a8flv .framer-p98m37 { padding: 0px 16px 0px 16px; } .framer-a8flv .framer-1q5gv3k { height: 100%; top: 0px; } .framer-a8flv .framer-18g7lct { gap: 8px; } .framer-a8flv .framer-1cmui4l { gap: 25px; max-width: 798px; } .framer-a8flv .framer-1tboang { gap: 2px; max-width: 100%; } .framer-a8flv .framer-1uibgej { height: 130px; width: 314px; } .framer-a8flv .framer-17usac1 { align-content: flex-start; align-items: flex-start; flex-direction: column; gap: 16px; min-height: 100px; } .framer-a8flv .framer-xzrekb { flex-direction: column; padding: 30px 16px 30px 16px; } .framer-a8flv .framer-coeewu { flex: none; flex-direction: column; width: 100%; } .framer-a8flv .framer-1m09fpc, .framer-a8flv .framer-lvrw37, .framer-a8flv .framer-1uyoytb, .framer-a8flv .framer-9d6h5k, .framer-a8flv .framer-72do80, .framer-a8flv .framer-1prxvq0, .framer-a8flv .framer-1yharqn { max-width: unset; } .framer-a8flv .framer-vg7zeq, .framer-a8flv .framer-1mz48pi, .framer-a8flv .framer-1mgo3s1, .framer-a8flv .framer-ex69bk { flex-direction: column; padding: 60px 16px 60px 16px; } .framer-a8flv .framer-x8hayp, .framer-a8flv .framer-mf8cvp, .framer-a8flv .framer-z5k9rj, .framer-a8flv .framer-1mxtp5v, .framer-a8flv .framer-1i8uip1, .framer-a8flv .framer-13fuz6h, .framer-a8flv .framer-1erp5fm { flex: none; width: 100%; } .framer-a8flv .framer-olac9t, .framer-a8flv .framer-11lnlkx, .framer-a8flv .framer-1pjze87 { max-width: 100%; } .framer-a8flv .framer-1x0des1 { grid-template-columns: repeat(1, minmax(50px, 1fr)); } .framer-a8flv .framer-60ezn7-container { grid-column: span 1; } .framer-a8flv .framer-lghkx8 { max-width: 71%; } .framer-a8flv .framer-kqv9fb, .framer-a8flv .framer-tivpjm, .framer-a8flv .framer-j1e1od { width: 100%; } .framer-a8flv .framer-mflmhd { flex-direction: column; } .framer-a8flv .framer-1ov44s7 { height: 512px; order: 0; width: 100%; } .framer-a8flv .framer-1c7dps3 { flex: none; grid-template-columns: repeat(1, minmax(50px, 1fr)); order: 1; width: 100%; } .framer-a8flv .framer-b43god-container, .framer-a8flv .framer-1s0n5o1-container, .framer-a8flv .framer-1jlaz66-container, .framer-a8flv .framer-dsa4lb-container { height: auto; } .framer-a8flv .framer-1gvieij { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; } .framer-a8flv .framer-lko323 { align-self: unset; gap: 60px; } .framer-a8flv .framer-yobnau, .framer-a8flv .framer-sake9c, .framer-a8flv .framer-ndtfxm { gap: 60px; min-height: unset; padding: 0px; } .framer-a8flv .framer-1pvenrj { min-height: unset; padding: 0px; } .framer-a8flv .framer-1p52a6h { max-width: 90%; } .framer-a8flv .framer-1gfuvmz { max-width: 330px; } .framer-a8flv .framer-o1egoa { max-width: 207px; white-space: pre-wrap; word-break: break-word; word-wrap: break-word; } .framer-a8flv .framer-a3y21b { white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; } .framer-a8flv .framer-sihzi7 { gap: 60px; } .framer-a8flv .framer-x86bsi-container, .framer-a8flv .framer-s4z9xr-container { position: relative; top: unset; } .framer-a8flv .framer-v1omwe { flex-direction: column; padding: 0px 16px 0px 16px; } .framer-a8flv .framer-1ljacsi { max-width: 271px; } .framer-a8flv .framer-22dn1n { gap: 0px 0px; grid-template-columns: repeat(1, minmax(50px, 1fr)); height: 933px; } .framer-a8flv .framer-1098403-container { align-self: start; } .framer-a8flv .framer-c2jfr4 { gap: 0px; height: 473px; justify-self: end; width: 365px; } .framer-a8flv .framer-n7phum { gap: 3px; padding: 16px 0px 16px 0px; } .framer-a8flv .framer-1madq09, .framer-a8flv .framer-146z416 { width: 321px; } .framer-a8flv .framer-6wyb0h { gap: 4px; } .framer-a8flv .framer-1ea3rhd { height: 99px; max-width: unset; width: 321px; } .framer-a8flv .framer-1w97azx { height: 125px; max-width: unset; width: 321px; } .framer-a8flv .framer-1j447vm { height: 165px; max-width: unset; width: 321px; } .framer-a8flv .framer-qt3uut { flex-direction: column; padding: 101px 16px 101px 16px; } .framer-a8flv .framer-18he95t { flex-direction: column; padding: 15px 16px 15px 16px; } .framer-a8flv .framer-1ggw8h6 { bottom: 632px; right: 0px; } .framer-a8flv .framer-1i3wlzw { height: 647px; } .framer-a8flv .framer-1dz6oct { flex: none; flex-direction: column; gap: 40px; width: 100%; } .framer-a8flv .framer-1iqa4dw { align-self: unset; flex: none; height: 562px; width: 100%; } .framer-a8flv .framer-edbqf0 { padding: 0px 0px 0px 24px; } .framer-a8flv .framer-16e4z99 { padding: 20px 0px 0px 24px; }}`,
+      ],
+      `framer-a8flv`,
+    )),
+    (Bo.displayName = `Home`),
+    (Bo.defaultProps = { height: 13169, width: 1218 }),
+    E(
+      Bo,
+      [
+        {
+          explicitInter: !0,
+          fonts: [
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+              url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+              url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+1F00-1FFF`,
+              url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0370-03FF`,
+              url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+              url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+              url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Inter`,
+              source: `framer`,
+              style: `normal`,
+              uiFamilyName: `Inter`,
+              unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+              url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2`,
+              weight: `500`,
+            },
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/2TYFCBHUANEXS6QGR5EQDUNAFH6LSWM3/AYNOU3VEA4LRTDNKJQUFNVNUTYSGOUOP/UXO4O7K2G3HI3D2VKD7UXVJVJD26P4BQ.woff2`,
+              weight: `400`,
+            },
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/NGBUP45ES3F7RD5XGKPEDJ6QEPO4TMOK/EXDVWJ2EDDVVV65UENMX33EDDYBX6OF7/6P4FPMFQH7CCC7RZ4UU4NKSGJ2RLF7V5.woff2`,
+              weight: `700`,
+            },
+            {
+              cssFamilyName: `Manrope`,
+              source: `fontshare`,
+              style: `normal`,
+              uiFamilyName: `Manrope`,
+              url: `https://framerusercontent.com/third-party-assets/fontshare/wf/6U2SGH566NSNERG6RGEV3DSNEK7DL2RF/JRDYRKMSAW2H35IWEQIPL67HAJQ35MG5/JNU3GNMUBPWW6V6JTED3S27XL5HN7NM5.woff2`,
+              weight: `600`,
+            },
+          ],
+        },
+        ...to,
+        ...ro,
+        ...io,
+        ...ao,
+        ...co,
+        ...uo,
+        ...po,
+        ...mo,
+        ...ho,
+        ...go,
+        ...A(Ia),
+        ...A(Ba),
+        ...A(Wa),
+        ...A(je),
+        ...A(Ja),
+        ...A(rn),
+        ...A(kr),
+        ...A(we),
+      ],
+      { supportsExplicitInterCodegen: !0 },
+    ),
+    (Bo.loader = {
+      load: (e, t) =>
+        oe(
+          [
+            () => R(Re, {}, t),
+            () => R(Pa, {}, t),
+            () => R(J, {}, t),
+            () => R(Xr, {}, t),
+            () => R(oi, {}, t),
+            () => R(Kn, {}, t),
+            () => R(Pn, {}, t),
+            () => R(qt, {}, t),
+            () => R(Dr, {}, t),
+            () => R(Ci, {}, t),
+          ],
+          t,
+        ),
+    }),
+    (Vo = {
+      exports: {
+        Props: { type: `tsType`, annotations: { framerContractVersion: `1` } },
+        queryParamNames: {
+          type: `variable`,
+          annotations: { framerContractVersion: `1` },
+        },
+        default: {
+          type: `reactComponent`,
+          name: `FrameraugiA20Il`,
+          slots: [],
+          annotations: {
+            framerImmutableVariables: `true`,
+            framerCanvasComponentVariantDetails: `{"propertyName":"variant","data":{"default":{"layout":["fixed","auto"]},"JvUVvulcJ":{"layout":["fixed","auto"]},"EIXefzEOt":{"layout":["fixed","auto"]}}}`,
+            framerColorSyntax: `true`,
+            framerAcceptsLayoutTemplate: `true`,
+            framerAutoSizeImages: `true`,
+            framerContractVersion: `1`,
+            framerIntrinsicHeight: `13169`,
+            framerScrollSections: `{"K7zYKy1_5":{"pattern":":K7zYKy1_5","name":"solucoes"},"KbuQeHpgr":{"pattern":":KbuQeHpgr","name":"expertise"},"lspSUYKWB":{"pattern":":lspSUYKWB","name":"step-1"},"OtzuAkHsV":{"pattern":":OtzuAkHsV","name":"step-2"},"ygzLrb7il":{"pattern":":ygzLrb7il","name":"step-3"},"raMTciCtJ":{"pattern":":raMTciCtJ","name":"step-4"},"FfZ0uW57s":{"pattern":":FfZ0uW57s","name":"cases"},"n3TnSvnr_":{"pattern":":n3TnSvnr_","name":"client-result-1"},"LjsN_fNYq":{"pattern":":LjsN_fNYq","name":"client-result-2"},"IwMNOecm6":{"pattern":":IwMNOecm6","name":"client-result-3"},"KqSLPYmyU":{"pattern":":KqSLPYmyU","name":"upgoal"},"erhEQKnnF":{"pattern":":erhEQKnnF","name":"faq"},"n0VZEt7a2":{"pattern":":n0VZEt7a2","name":"contato"}}`,
+            framerLayoutTemplateFlowEffect: `true`,
+            framerResponsiveScreen: `true`,
+            framerDisplayContentsDiv: `false`,
+            framerIntrinsicWidth: `1218`,
+            framerComponentViewportWidth: `true`,
+          },
+        },
+        __FramerMetadata__: { type: `variable` },
+      },
+    }));
+})();
+export { Vo as __FramerMetadata__, Bo as default, bo as queryParamNames };
 //# sourceMappingURL=WdA-juP_s2IlbZrDYlpOaXPVclJnbU7kUNbsduhbaDY.CliQC5tq.mjs.map
