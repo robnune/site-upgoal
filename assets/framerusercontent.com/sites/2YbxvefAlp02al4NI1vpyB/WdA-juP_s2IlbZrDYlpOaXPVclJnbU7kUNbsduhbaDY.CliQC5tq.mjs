@@ -10717,7 +10717,7 @@ e(() => {
                                       }),
                                     }),
                                     d(ge, {
-                                      href: `href: `tel:+5511945848172`,
+                                      href: `tel:+5511945848172`,
                                       motionChild: !0,
                                       nodeId: `f3r1noret`,
                                       openInNewTab: !0,
