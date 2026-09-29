@@ -10643,7 +10643,7 @@ e(() => {
                                   "data-framer-name": `Information`,
                                   children: [
                                     d(ge, {
-                                      href: `mailto:support@cunsultra.com`,
+                                      href: `mailto:contato@upgoal.com.br`,
                                       motionChild: !0,
                                       nodeId: `jEyrz8iz7`,
                                       openInNewTab: !0,
