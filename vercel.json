@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/sobre",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contato",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/metodo-upgoal",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/adequacao-reforma-tributaria",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
